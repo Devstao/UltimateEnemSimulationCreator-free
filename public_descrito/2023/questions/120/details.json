@@ -1,0 +1,45 @@
+{
+    "title": "Questão 120 - ENEM 2023",
+    "index": 120,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2, e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.\n\n![]([descrição: A imagem mostra um circuito elétrico simples com uma fonte de energia (uma bateria) conectada a três lâmpadas (L1, L2 e L3), cada uma associada a um resistor (R). As lâmpadas L1 e L3 estão em paralelo, enquanto L2 está em série com o conjunto. A bateria possui os polos positivo (+) e negativo (-) claramente identificados.])",
+    "files": [
+        "A imagem mostra um circuito elétrico simples com uma fonte de energia (uma bateria) conectada a três lâmpadas (L1, L2 e L3), cada uma associada a um resistor (R). As lâmpadas L1 e L3 estão em paralelo, enquanto L2 está em série com o conjunto. A bateria possui os polos positivo (+) e negativo (-) claramente identificados."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os mesmos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mais intensos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Menos intensos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Menos intenso para L1 e o mesmo para L3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mais intenso para L1 e menos intenso para L3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

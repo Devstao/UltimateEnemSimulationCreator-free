@@ -1,0 +1,46 @@
+{
+    "title": "Questão 19 - ENEM 2009",
+    "index": 19,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com dois colunas: 'Aparelhos' e 'Potência (W)'. A coluna 'Aparelhos' lista os seguintes itens: aparelho de som, chuveiro elétrico, ferro elétrico, televisor, geladeira e rádio. As potências correspondentes em Watts são 120, 3000, 500, 200, 200 e 50, respectivamente. Abaixo da tabela, há uma nota explicando o que são eletrodutos.])\n\nA escolha das lâmpadas é essencial para obtenção de uma boa iluminação. A potência da lâmpada deverá estar de acordo com o tamanho do cômodo a ser iluminado. O quadro a seguir mostra a relação entre as áreas dos cômodos (em m²) e as potências das lâmpadas (em W), e foi utilizado como referência para o primeiro pavimento de uma residência.\n\n![]([descrição: A imagem mostra uma planta baixa de um cômodo retangular com dimensões de 3 metros por 2,8 metros, além de uma tabela que relaciona a área do cômodo em metros quadrados (m²) com a potência da lâmpada necessária em Watts (W) para diferentes tipos de ambientes: sala/copa/cozinha, quarto/varanda/corredor e banheiro. A planta baixa inclui a localização de diversos eletrodomésticos e objetos como geladeira, chuveiro elétrico, televisão, ferro elétrico, rádio, aparelho de som e lâmpadas, com suas respectivas distâncias em metros das paredes. Uma observação na parte inferior da imagem indica que as paredes não são consideradas para o cálculo da área.])",
+    "files": [
+        "A imagem mostra uma tabela com dois colunas: 'Aparelhos' e 'Potência (W)'. A coluna 'Aparelhos' lista os seguintes itens: aparelho de som, chuveiro elétrico, ferro elétrico, televisor, geladeira e rádio. As potências correspondentes em Watts são 120, 3000, 500, 200, 200 e 50, respectivamente. Abaixo da tabela, há uma nota explicando o que são eletrodutos.",
+        "A imagem mostra uma planta baixa de um cômodo retangular com dimensões de 3 metros por 2,8 metros, além de uma tabela que relaciona a área do cômodo em metros quadrados (m²) com a potência da lâmpada necessária em Watts (W) para diferentes tipos de ambientes: sala/copa/cozinha, quarto/varanda/corredor e banheiro. A planta baixa inclui a localização de diversos eletrodomésticos e objetos como geladeira, chuveiro elétrico, televisão, ferro elétrico, rádio, aparelho de som e lâmpadas, com suas respectivas distâncias em metros das paredes. Uma observação na parte inferior da imagem indica que as paredes não são consideradas para o cálculo da área."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando a planta baixa fornecida, com todos os aparelhos em funcionamento, a potência total, em watts, será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4.070.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4.270.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4.320.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.390.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "4.470.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

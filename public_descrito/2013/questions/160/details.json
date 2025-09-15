@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2013",
+    "index": 160,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados sobre o lucro e tempo de cinco empresas. As colunas da tabela são 'Empresa', 'Lucro (em milhões de reais)' e 'Tempo (em anos)'. Os dados apresentados são: Empresa F, Lucro 24, Tempo 3.0; Empresa G, Lucro 24, Tempo 2.0; Empresa H, Lucro 25, Tempo 2.5; Empresa M, Lucro 15, Tempo 1.5; Empresa P, Lucro 9, Tempo 1.5.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre o lucro e tempo de cinco empresas. As colunas da tabela são 'Empresa', 'Lucro (em milhões de reais)' e 'Tempo (em anos)'. Os dados apresentados são: Empresa F, Lucro 24, Tempo 3.0; Empresa G, Lucro 24, Tempo 2.0; Empresa H, Lucro 25, Tempo 2.5; Empresa M, Lucro 15, Tempo 1.5; Empresa P, Lucro 9, Tempo 1.5."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O empresário decidiu comprar a empresa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "F",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "G",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "H",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "M",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "P",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

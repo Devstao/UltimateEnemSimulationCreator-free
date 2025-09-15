@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2017",
+    "index": 148,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma rede hoteleira dispõe de cabanas simples na ilha de Gotland, na Suécia, conforme Figura 1. A estrutura de sustentação de cada uma dessas cabanas está representada na Figura 2. A ideia é permitir ao hóspede uma estada livre de tecnologia, mas conectada com a natureza\n\n![]([descrição: A imagem contém duas figuras lado a lado. A Figura 1 é uma fotografia em preto e branco de um objeto triangular com uma superfície texturizada, possivelmente feito de madeira ou material similar. O objeto está localizado em um ambiente externo, cercado por vegetação densa. A Figura 2 é um diagrama linear que representa uma forma geométrica, provavelmente relacionada ao objeto mostrado na Figura 1. Há marcadores quadrados nos vértices da forma e linhas tracejadas indicando possíveis medidas ou ângulos. Abaixo das figuras, há a legenda 'Figura 1' e 'Figura 2', seguida de uma citação com o nome do autor e a fonte.])",
+    "files": [
+        "A imagem contém duas figuras lado a lado. A Figura 1 é uma fotografia em preto e branco de um objeto triangular com uma superfície texturizada, possivelmente feito de madeira ou material similar. O objeto está localizado em um ambiente externo, cercado por vegetação densa. A Figura 2 é um diagrama linear que representa uma forma geométrica, provavelmente relacionada ao objeto mostrado na Figura 1. Há marcadores quadrados nos vértices da forma e linhas tracejadas indicando possíveis medidas ou ângulos. Abaixo das figuras, há a legenda 'Figura 1' e 'Figura 2', seguida de uma citação com o nome do autor e a fonte."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A forma geométrica da superfície cujas arestas estão representadas na Figura 2 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tetraedro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pirâmide retangular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tronco de pirâmide retangular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Prisma quadrangular reto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Prisma triangular reto.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

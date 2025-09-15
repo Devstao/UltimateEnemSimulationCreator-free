@@ -1,0 +1,46 @@
+{
+    "title": "Questão 34 - ENEM 2018",
+    "index": 34,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I** \n\n![]([descrição: A imagem mostra uma escultura moderna, aparentemente feita de camadas sobrepostas de formas arredondadas e alongadas que se assemelham a pedras ou discos. A estrutura é vertical e ligeiramente inclinada para um lado, com uma base quadrada sólida. A iluminação é suave e difusa, criando sombras sutis que realçam a forma tridimensional da escultura. Na parte inferior da imagem, há uma legenda indicando o nome do artista (Grimberg N.) e o título da obra ('Estrutura vertical dupla').])\n\nDisponível em: www.normagrimberg.com.br. Acesso em: 13 dez. 2017.\n\n**TEXTO II**\n\n![]([descrição: A imagem mostra uma urna cerimonial marajoara em preto e branco, exibida em um museu. A urna é feita de cerâmica e possui uma forma bulbosa com uma base larga que se afina em direção ao gargalo. Sua superfície está ricamente decorada com padrões geométricos complexos e desenhos estilizados. Possui alças laterais ornamentadas na parte superior. Uma placa informativa abaixo da urna identifica-a como 'Urna cerimonial marajoara', indicando que foi feita entre 1400 a 400 a.C., tem 81 cm de altura e está no Museu Nacional do Rio de Janeiro.])\n\nDisponível em: www.museunacional.ufrj.br. Acesso em: 11 dez. 2017",
+    "files": [
+        "A imagem mostra uma escultura moderna, aparentemente feita de camadas sobrepostas de formas arredondadas e alongadas que se assemelham a pedras ou discos. A estrutura é vertical e ligeiramente inclinada para um lado, com uma base quadrada sólida. A iluminação é suave e difusa, criando sombras sutis que realçam a forma tridimensional da escultura. Na parte inferior da imagem, há uma legenda indicando o nome do artista (Grimberg N.) e o título da obra ('Estrutura vertical dupla').",
+        "A imagem mostra uma urna cerimonial marajoara em preto e branco, exibida em um museu. A urna é feita de cerâmica e possui uma forma bulbosa com uma base larga que se afina em direção ao gargalo. Sua superfície está ricamente decorada com padrões geométricos complexos e desenhos estilizados. Possui alças laterais ornamentadas na parte superior. Uma placa informativa abaixo da urna identifica-a como 'Urna cerimonial marajoara', indicando que foi feita entre 1400 a 400 a.C., tem 81 cm de altura e está no Museu Nacional do Rio de Janeiro."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As duas imagens são produções que têm a cerâmica como matéria-prima. A obra Estrutura vertical dupla se distingue da urna funerária marajoara ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evidenciar a simetria na disposição das peças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Materializar a técnica sem função utilitária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Abandonar a regularidade na composição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Anular possibilidades de leituras afetivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Integrar o suporte em sua constituição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

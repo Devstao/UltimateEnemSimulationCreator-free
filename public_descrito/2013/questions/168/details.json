@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2013",
+    "index": 168,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com cinco linhas, cada uma representando uma faixa de valores para 'P' e sua respectiva avaliação qualitativa. A primeira linha indica que se 0 ≤ P < 2/100, a avaliação é Excelente. A segunda linha diz que se 2/100 ≤ P < 4/100, a avaliação é Bom. A terceira linha informa que se 4/100 ≤ P < 6/100, a avaliação é Regular. A quarta linha indica que se 6/100 ≤ P < 8/100, a avaliação é Ruim. Por fim, a quinta linha diz que se 8/100 ≤ P ≤ 1, a avaliação é Péssimo.])",
+    "files": [
+        "A imagem mostra uma tabela com cinco linhas, cada uma representando uma faixa de valores para 'P' e sua respectiva avaliação qualitativa. A primeira linha indica que se 0 ≤ P < 2/100, a avaliação é Excelente. A segunda linha diz que se 2/100 ≤ P < 4/100, a avaliação é Bom. A terceira linha informa que se 4/100 ≤ P < 6/100, a avaliação é Regular. A quarta linha indica que se 6/100 ≤ P < 8/100, a avaliação é Ruim. Por fim, a quinta linha diz que se 8/100 ≤ P ≤ 1, a avaliação é Péssimo."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O desempenho conjunto dessas máquinas, em setembro, pode ser classificado como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Excelente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Bom.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Regular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ruim.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Péssimo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2013",
+    "index": 144,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico de barras compara o crescimento da indústria no Brasil, São Paulo (Estado), São Paulo (Capital) e Guarulhos. O crescimento do Brasil é de 30,95%, de São Paulo (Estado) é de 14,76%, de São Paulo (Capital) é de 3,57% e de Guarulhos é de 60,52%. A fonte dos dados é o IBGE, adaptado do período 2002-2008.])",
+    "files": [
+        "O gráfico de barras compara o crescimento da indústria no Brasil, São Paulo (Estado), São Paulo (Capital) e Guarulhos. O crescimento do Brasil é de 30,95%, de São Paulo (Estado) é de 14,76%, de São Paulo (Capital) é de 3,57% e de Guarulhos é de 60,52%. A fonte dos dados é o IBGE, adaptado do período 2002-2008."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Analisando os dados percentuais do gráfico, qual a diferença entre o maior e o menor centro em crescimento no polo das indústrias?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "75,28",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "64,09",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "56,95",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "45,76",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "30,07",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

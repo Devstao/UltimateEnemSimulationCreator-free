@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2012",
+    "index": 147,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um medidor de água, também conhecido como hidrômetro. O corpo do medidor é cinza com conexões para tubulações nas extremidades. No centro, há um mostrador com números grandes indicando '353485' seguido da unidade 'm³'. Abaixo, dois mostradores menores em formato de dial exibem leituras numéricas. Setas indicam as partes do medidor, incluindo o 'selo do INMETRO', a indicação de 'metros cúbicos de água consumidos', e explicações sobre como ler os números (centenas, dezenas, décimos e unidade de medida de litros). Uma nota na parte inferior indica a fonte da imagem: www.aguasdearacoiaba.com.br.])",
+    "files": [
+        "A imagem mostra um medidor de água, também conhecido como hidrômetro. O corpo do medidor é cinza com conexões para tubulações nas extremidades. No centro, há um mostrador com números grandes indicando '353485' seguido da unidade 'm³'. Abaixo, dois mostradores menores em formato de dial exibem leituras numéricas. Setas indicam as partes do medidor, incluindo o 'selo do INMETRO', a indicação de 'metros cúbicos de água consumidos', e explicações sobre como ler os números (centenas, dezenas, décimos e unidade de medida de litros). Uma nota na parte inferior indica a fonte da imagem: www.aguasdearacoiaba.com.br."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando as informações indicadas na figura, o consumo total de água registrado nesse hidrômetro, em litros, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 534,85.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3 544,20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 534 850,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 534 859,35.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3 534 850,39.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

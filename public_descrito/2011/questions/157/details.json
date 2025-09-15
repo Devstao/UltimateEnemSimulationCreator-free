@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2011",
+    "index": 157,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma tabela comparativa entre duas opções de investimento: Poupança e CDB. A tabela possui três colunas, sendo a primeira com os nomes das opções de investimento (Poupança e CDB), a segunda com o rendimento mensal em porcentagem (0,560% para Poupança e 0,876% para CDB) e a terceira com a informação sobre o Imposto de Renda (IR), que é isento para a Poupança e 4% sobre o ganho para o CDB.])",
+    "files": [
+        "A imagem mostra uma tabela comparativa entre duas opções de investimento: Poupança e CDB. A tabela possui três colunas, sendo a primeira com os nomes das opções de investimento (Poupança e CDB), a segunda com o rendimento mensal em porcentagem (0,560% para Poupança e 0,876% para CDB) e a terceira com a informação sobre o Imposto de Renda (IR), que é isento para a Poupança e 4% sobre o ganho para o CDB."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para o jovem investidor, ao final de um mês, a aplicação mais vantajosa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A poupança, pois totalizará um montante de R$ 502,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A poupança, pois totalizará um montante de R$ 500,56.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O CDB, pois totalizará um montante de R$ 504,38.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O CDB, pois totalizará um montante de R$ 504,21.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E o CDB, pois totalizará um montante de R$ 500,87.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

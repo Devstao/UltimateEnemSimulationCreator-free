@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2009",
+    "index": 2,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Analise a figura.\n\n![]([descrição: O gráfico mostra a concentração de álcool no sangue (mg%) ao longo do tempo (horas) para diferentes indivíduos. O eixo vertical representa a concentração de álcool, variando de 0 a 100 mg%, e o eixo horizontal representa o tempo em horas, variando de 0 a 8 horas. Quatro curvas distintas são exibidas: uma curva com quadrados pretos, uma curva com triângulos pretos, uma curva com losangos amarelos e uma curva com círculos vazios. Cada curva representa a trajetória da concentração de álcool no sangue de um indivíduo diferente após o consumo de álcool. A curva dos quadrados pretos atinge o pico mais alto (aproximadamente 80 mg%) e diminui gradualmente ao longo do tempo. As outras curvas apresentam picos em concentrações menores e taxas de declínio variáveis.])",
+    "files": [
+        "O gráfico mostra a concentração de álcool no sangue (mg%) ao longo do tempo (horas) para diferentes indivíduos. O eixo vertical representa a concentração de álcool, variando de 0 a 100 mg%, e o eixo horizontal representa o tempo em horas, variando de 0 a 8 horas. Quatro curvas distintas são exibidas: uma curva com quadrados pretos, uma curva com triângulos pretos, uma curva com losangos amarelos e uma curva com círculos vazios. Cada curva representa a trajetória da concentração de álcool no sangue de um indivíduo diferente após o consumo de álcool. A curva dos quadrados pretos atinge o pico mais alto (aproximadamente 80 mg%) e diminui gradualmente ao longo do tempo. As outras curvas apresentam picos em concentrações menores e taxas de declínio variáveis."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Supondo que seja necessário dar um título para essa figura, a alternativa que melhor traduziria o processo representado seria:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Concentração média de álcool no sangue ao longo do dia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Variação da frequência da ingestão de álcool ao longo das horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Concentração mínima de álcool no sangue a partir de diferentes dosagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estimativa de tempo necessário para metabolizar diferentes quantidades de álcool.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Representação gráfica da distribuição de frequência de álcool em determinada hora do dia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

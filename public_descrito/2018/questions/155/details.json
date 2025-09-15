@@ -1,0 +1,46 @@
+{
+    "title": "Questão 155 - ENEM 2018",
+    "index": 155,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O remo de assento deslizante é um esporte que faz uso de um barco e dois remos do mesmo tamanho. A figura mostra uma das posições de uma técnica chamada afastamento.\n\n![]([descrição: A imagem mostra um atleta remando em uma embarcação aquática, possivelmente um barco de remo. O atleta está sentado na posição de remar, com os braços estendidos para trás e para frente. A embarcação é alongada e estreita, com dois remos que se projetam lateralmente. Há letras identificando pontos específicos: 'A' marca a posição do atleta, 'B' identifica um remo à esquerda e 'C' indica outro remo à direita. O fundo da imagem representa a água, com ondulações visíveis. Na parte inferior da imagem, há uma legenda indicando a fonte da imagem e a data de acesso.])\n\nNessa posição, os dois remos se encontram no ponto A e suas outras extremidades estão indicadas pelos pontos B e C. Esses três pontos formam um triângulo ABC cujo ângulo ![]([descrição: A imagem mostra as letras 'BAC' em negrito, com a letra 'A' tendo um acento agudo sobre ela. As letras são brancas e estão centralizadas em um fundo preto.])  tem medida de 170°.",
+    "files": [
+        "A imagem mostra um atleta remando em uma embarcação aquática, possivelmente um barco de remo. O atleta está sentado na posição de remar, com os braços estendidos para trás e para frente. A embarcação é alongada e estreita, com dois remos que se projetam lateralmente. Há letras identificando pontos específicos: 'A' marca a posição do atleta, 'B' identifica um remo à esquerda e 'C' indica outro remo à direita. O fundo da imagem representa a água, com ondulações visíveis. Na parte inferior da imagem, há uma legenda indicando a fonte da imagem e a data de acesso.",
+        "A imagem mostra as letras 'BAC' em negrito, com a letra 'A' tendo um acento agudo sobre ela. As letras são brancas e estão centralizadas em um fundo preto."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O  tipo de triângulo com vértices nos pontos A, B e C, no momento em que o remador está nessa posição, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Retângulo escaleno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Acutângulo escaleno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Acutângulo isósceles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Obtusângulo escaleno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Obtusângulo isósceles.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

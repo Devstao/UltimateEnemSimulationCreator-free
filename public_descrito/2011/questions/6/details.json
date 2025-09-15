@@ -1,0 +1,45 @@
+{
+    "title": "Questão 6 - ENEM 2011",
+    "index": 6,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O diagrama mostra a relação entre o clima, a precipitação, a evaporação e o tipo de intemperismo das rochas em diferentes zonas climáticas: Tundra, Estepe, Savana, Floresta Tropical e Savana. O eixo vertical esquerdo representa a precipitação/evaporação em milímetros por ano (mm/ano), variando de -2700 a 2700. O eixo vertical direito representa a temperatura em graus Celsius (°C), variando de -50 a 50. As linhas no gráfico representam a variação da temperatura (linha tracejada), precipitação (linha pontilhada) e evaporação potencial (linha contínua) ao longo das diferentes zonas climáticas. A parte inferior do diagrama mostra as camadas de intemperismo das rochas, com legendas indicando 'Rocha inalterada', 'Rocha pouco alterada' e áreas de 'Zona da alitização e ferralitização', 'Zona da bissialitização' e 'Zona da monossialitização'.])\n\nTEIXEIRA, W. et al. **Decifrando a Terra.** São Paulo: Nacional, 2009 (adaptado).",
+    "files": [
+        "O diagrama mostra a relação entre o clima, a precipitação, a evaporação e o tipo de intemperismo das rochas em diferentes zonas climáticas: Tundra, Estepe, Savana, Floresta Tropical e Savana. O eixo vertical esquerdo representa a precipitação/evaporação em milímetros por ano (mm/ano), variando de -2700 a 2700. O eixo vertical direito representa a temperatura em graus Celsius (°C), variando de -50 a 50. As linhas no gráfico representam a variação da temperatura (linha tracejada), precipitação (linha pontilhada) e evaporação potencial (linha contínua) ao longo das diferentes zonas climáticas. A parte inferior do diagrama mostra as camadas de intemperismo das rochas, com legendas indicando 'Rocha inalterada', 'Rocha pouco alterada' e áreas de 'Zona da alitização e ferralitização', 'Zona da bissialitização' e 'Zona da monossialitização'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O gráfico relaciona diversas variáveis ao processo de formação do solo. A interpretação dos dados mostra que a água é um dos importantes fatores de pedogênese, pois nas áreas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "De clima temperado ocorrem alta pluviosidade e grande profundidade de solos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Tropicais ocorre menor pluviosidade, o que se relaciona com a menor profundidade das rochas inalteradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "De latitudes em torno de 30° ocorrem as maiores profundidades de solo, visto que há maior umidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tropicais a profundidade do solo é menor, o que evidencia menor intemperismo químico da água sobre as rochas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "De menor latitude ocorrem as maiores precipitações, assim como a maior profundidade dos solos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

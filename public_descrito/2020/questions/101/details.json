@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2020",
+    "index": 101,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações Dl e D2.\n\n![]([descrição: A imagem mostra um diagrama esquemático representando o processo de formação de rochas sedimentares. O diagrama é dividido em etapas sequenciais, identificadas pelas letras A, B, C e D, com uma seta indicando a progressão do tempo da esquerda para a direita. Na etapa A, há um fragmento rochoso maior. Na etapa B, esse fragmento se divide em dois pedaços menores. Na etapa C, os pedaços menores são parcialmente cobertos por sedimentos (representados em cinza). Na etapa D, os pedaços menores se unem e sofrem consolidação, formando duas rochas sedimentares distintas: D1 e D2. Uma seta rotulada como 'I' indica uma possível via alternativa de transformação entre as etapas B e C.])",
+    "files": [
+        "A imagem mostra um diagrama esquemático representando o processo de formação de rochas sedimentares. O diagrama é dividido em etapas sequenciais, identificadas pelas letras A, B, C e D, com uma seta indicando a progressão do tempo da esquerda para a direita. Na etapa A, há um fragmento rochoso maior. Na etapa B, esse fragmento se divide em dois pedaços menores. Na etapa C, os pedaços menores são parcialmente cobertos por sedimentos (representados em cinza). Na etapa D, os pedaços menores se unem e sofrem consolidação, formando duas rochas sedimentares distintas: D1 e D2. Uma seta rotulada como 'I' indica uma possível via alternativa de transformação entre as etapas B e C."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A representação indica que, no momento D, na situação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dl ocorre um novo fator de isolamento geográfico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dl existe uma única população distribuída em gradiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dl ocorrem duas populações separadas por isolamento reprodutivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D2 coexistem duas populações com características fenotípicas distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "D2 foram preservadas as mesmas características fenotípicas da população original A.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2019",
+    "index": 57,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O mapa mundial mostra as áreas semiáridas (laranja) e áridas (vermelho). As regiões desérticas estão concentradas ao redor dos trópicos de Câncer e Capricórnio, incluindo o Saara na África, a Austrália central, partes do Oriente Médio, o Deserto de Atacama na América do Sul e áreas da Califórnia e México. O mapa também indica as linhas dos 30° N (Trópico de Câncer), 0° (Equador) e 30° S (Trópico de Capricórnio).])\n\nSALGADO-LABOURIAL, M.L., História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).",
+    "files": [
+        "O mapa mundial mostra as áreas semiáridas (laranja) e áridas (vermelho). As regiões desérticas estão concentradas ao redor dos trópicos de Câncer e Capricórnio, incluindo o Saara na África, a Austrália central, partes do Oriente Médio, o Deserto de Atacama na América do Sul e áreas da Califórnia e México. O mapa também indica as linhas dos 30° N (Trópico de Câncer), 0° (Equador) e 30° S (Trópico de Capricórnio)."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No Hemisfério Sul, a sequência latitudinal dos desertos representada na imagem sofre uma interrupção no Brasil devido à seguinte razão:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Existência de superfícies de intensa refletividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Preponderância de altas pressões atmosféricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Influência de umidade das áreas florestais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Predomínio de correntes marinhas frias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ausência de massas de ar continentais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

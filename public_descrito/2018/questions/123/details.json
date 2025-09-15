@@ -1,0 +1,45 @@
+{
+    "title": "Questão 123 - ENEM 2018",
+    "index": 123,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As células e os organismos precisam realizar trabalho para permanecerem vivos e se reproduzirem. A energia metabólica necessária para a realização desse trabalho é oriunda da oxidação de combustíveis, gerados no ciclo do carbono, por meio de processos capazes de interconverter diferentes formas da energia.\n\n![]([descrição: Diagrama circular representando um processo bioquímico. No topo, há uma caixa com o texto 'Combustíveis reduzidos e O2'. A partir dessa caixa, setas indicam dois processos: 'Processo 1' à esquerda e 'Processo 2' à direita. Cada processo leva a uma caixa central contendo 'CO2 e H2O'. Setas conectam a caixa central de volta ao topo, completando o ciclo. Na parte inferior da imagem, há informações sobre a fonte do diagrama: NELSON, D. L.; COX, M. M. Lehninger. princípios de bioquímica. São Paulo: Sarvier, 2002 (adaptado).])",
+    "files": [
+        "Diagrama circular representando um processo bioquímico. No topo, há uma caixa com o texto 'Combustíveis reduzidos e O2'. A partir dessa caixa, setas indicam dois processos: 'Processo 1' à esquerda e 'Processo 2' à direita. Cada processo leva a uma caixa central contendo 'CO2 e H2O'. Setas conectam a caixa central de volta ao topo, completando o ciclo. Na parte inferior da imagem, há informações sobre a fonte do diagrama: NELSON, D. L.; COX, M. M. Lehninger. princípios de bioquímica. São Paulo: Sarvier, 2002 (adaptado)."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse ciclo, a formação de combustíveis está vinculada à conversão de energia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Térmica em cinética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Química em térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Eletroquímica em calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cinética em eletromagnética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Eletromagnética em química.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

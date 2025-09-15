@@ -1,0 +1,45 @@
+{
+    "title": "Questão 106 - ENEM 2021",
+    "index": 106,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A icterícia, popularmente conhecida por amarelão, é uma patologia frequente em recém-nascidos. Um bebê com icterícia não consegue metabolizar e excretar de forma eficiente a bilirrubina. Com isso, o acúmulo dessa substância deixa-o com a pele amarelada. A fototerapia é um tratamento de icterícia neonatal, que consiste na irradiação de luz no bebê. Na presença de luz, a bilirrubina é convertida no seu isômero lumirrubina que, por ser mais solúvel em água, é excretada pela bile ou pela urina. A imagem ilustra o que ocorre nesse tratamento.\n\nMOREIRA, M. et. al. O recém-nascido de alto risco: teoria e prática do cuidar \\[on-line\\]. Rio de Janeiro: Fiocruz, 2004 (adaptado).\n\n![]([descrição: A imagem mostra um diagrama esquemático do processo de fototerapia para hiperbilirrubinemia neonatal. No topo, há uma representação de radiação com comprimento de onda entre 400 e 500 nm. A parte central ilustra a conversão da bilirrubina em lumirrubina através da exposição à luz. As fórmulas químicas da bilirrubina e da lumirrubina são mostradas lado a lado, indicando que a lumirrubina é uma forma isomérica da bilirrubina. Setas indicam o caminho da bilirrubina para a excreção como bile ou urina, enquanto outra seta mostra a formação de hiperbilirrubinemia quando a bilirrubina não é excretada suficientemente pelo recém-nascido. Na parte inferior da imagem, há uma legenda com informações sobre a fonte do diagrama.])",
+    "files": [
+        "A imagem mostra um diagrama esquemático do processo de fototerapia para hiperbilirrubinemia neonatal. No topo, há uma representação de radiação com comprimento de onda entre 400 e 500 nm. A parte central ilustra a conversão da bilirrubina em lumirrubina através da exposição à luz. As fórmulas químicas da bilirrubina e da lumirrubina são mostradas lado a lado, indicando que a lumirrubina é uma forma isomérica da bilirrubina. Setas indicam o caminho da bilirrubina para a excreção como bile ou urina, enquanto outra seta mostra a formação de hiperbilirrubinemia quando a bilirrubina não é excretada suficientemente pelo recém-nascido. Na parte inferior da imagem, há uma legenda com informações sobre a fonte do diagrama."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na fototerapia, a luz provoca a conversão de bilirrubina no seu isômero",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ótico",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Funcional",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "De cadeia",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "De posição",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Geométrico",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

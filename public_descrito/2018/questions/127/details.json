@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2018",
+    "index": 127,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Considere, em um fragmento ambiental, uma árvore matriz com frutos (M) e outras cinco que produziram flores e são apenas doadoras de pólen (DP1, DP2, DP3, DP4 e DP5). Foi excluída a capacidade de autopolinização das árvores. Os genótipos da matriz, da semente (S1) e das prováveis fontes de pólen foram obtidos pela análise de dois locos (loco A e loco B) de marcadores de DNA, conforme a figura.\n\n![]([descrição: A imagem mostra dois diagramas de eletroforese em gel, rotulados como 'Esquema do Gel 1' e 'Esquema do Gel 2'. Cada diagrama representa bandas de DNA, com as faixas pretas representando os alelos. No 'Gel 1', o locus A exibe bandas para alelo 1, alelo 2, alelo 3 e alelo 4. O 'Gel 2' mostra o locus B com bandas para alelo 1, alelo 2, alelo 3, alelo 4 e alelo 5. Cada gel possui marcadores de tamanho ('M'), um padrão de tamanho único ('S1') e fragmentos de DNA progressivamente menores rotulados como 'DP1', 'DP2', 'DP3', 'DP4' e 'DP5'. Uma legenda na parte inferior da imagem atribui a fonte do diagrama.])",
+    "files": [
+        "A imagem mostra dois diagramas de eletroforese em gel, rotulados como 'Esquema do Gel 1' e 'Esquema do Gel 2'. Cada diagrama representa bandas de DNA, com as faixas pretas representando os alelos. No 'Gel 1', o locus A exibe bandas para alelo 1, alelo 2, alelo 3 e alelo 4. O 'Gel 2' mostra o locus B com bandas para alelo 1, alelo 2, alelo 3, alelo 4 e alelo 5. Cada gel possui marcadores de tamanho ('M'), um padrão de tamanho único ('S1') e fragmentos de DNA progressivamente menores rotulados como 'DP1', 'DP2', 'DP3', 'DP4' e 'DP5'. Uma legenda na parte inferior da imagem atribui a fonte do diagrama."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A progênie S1 recebeu o pólen de qual doadora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "DP1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "DP2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "DP3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "DP4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "DP5",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

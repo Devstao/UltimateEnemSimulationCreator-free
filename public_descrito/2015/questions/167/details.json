@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2015",
+    "index": 167,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra duas figuras geométricas lado a lado. A Figura 1 representa um quadrado com vértices nomeados como A, B, C e D, dispostos no sentido horário a partir do canto inferior esquerdo. A Figura 2 também apresenta um quadrado, com vértices nomeados como A, F, G e D, dispostos no sentido horário a partir do canto inferior esquerdo. Dentro da Figura 2, há dois pontos marcados: M está localizado na linha AF e N está localizado na linha AD. Uma linha tracejada conecta os pontos M e N.])\n\nApós os cortes, a folha é aberta e a bandeirinha está pronta.",
+    "files": [
+        "A imagem mostra duas figuras geométricas lado a lado. A Figura 1 representa um quadrado com vértices nomeados como A, B, C e D, dispostos no sentido horário a partir do canto inferior esquerdo. A Figura 2 também apresenta um quadrado, com vértices nomeados como A, F, G e D, dispostos no sentido horário a partir do canto inferior esquerdo. Dentro da Figura 2, há dois pontos marcados: M está localizado na linha AF e N está localizado na linha AD. Uma linha tracejada conecta os pontos M e N."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A figura que representa a forma da bandeirinha pronta é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/167/c7707187-1dcc-4b79-a0fd-3cba4e4d8212.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/167/06cc78fe-8ad4-4f23-b6b6-02d727814700.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/167/fd296280-879a-4951-8cd0-b3fee6644669.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/167/45aeea48-7e4c-4504-8020-4593e5c6e39f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/167/101bffec-b1af-4f17-a229-1a494e3f403e.png",
+            "isCorrect": true
+        }
+    ]
+}

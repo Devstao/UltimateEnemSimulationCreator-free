@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2014",
+    "index": 160,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática de uma estrutura biológica, possivelmente relacionada à replicação do DNA ou RNA. A estrutura é composta por duas fitas helicoidais (A e B) enroladas uma na outra em uma configuração espiralada. Uma das fitas (B) parece ser direita, enquanto a outra (A) parece ser esquerda. Há também estruturas adicionais conectadas às fitas helicoidais: um anel com suportes verticais (C e D), e uma estrutura retangular (E). Setas indicam direções ou processos associados à estrutura, incluindo uma seta rotulada como 'P' apontando para a extremidade de uma das fitas.])",
+    "files": [
+        "A imagem mostra uma representação esquemática de uma estrutura biológica, possivelmente relacionada à replicação do DNA ou RNA. A estrutura é composta por duas fitas helicoidais (A e B) enroladas uma na outra em uma configuração espiralada. Uma das fitas (B) parece ser direita, enquanto a outra (A) parece ser esquerda. Há também estruturas adicionais conectadas às fitas helicoidais: um anel com suportes verticais (C e D), e uma estrutura retangular (E). Setas indicam direções ou processos associados à estrutura, incluindo uma seta rotulada como 'P' apontando para a extremidade de uma das fitas."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A figura que melhor representa a projeção ortogonal, sobre o piso da casa (plano), do caminho percorrido pela mão dessa pessoa é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/160/142a57c8-6522-4336-a5a0-05764ab1ebcb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/160/919d8e0f-3413-404e-9860-6026cf5673fa.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/160/9f27ec03-1133-457b-96f5-3889bb9c7f0a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/160/7d666080-f366-4e80-8841-c44ed37580d3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/160/440c2296-9aec-4eeb-a029-7cdf4cb320c2.png",
+            "isCorrect": false
+        }
+    ]
+}

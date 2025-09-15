@@ -1,0 +1,46 @@
+{
+    "title": "Questão 101 - ENEM 2022",
+    "index": 101,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar e cada uma recebeu um código de identificação.\n\nNo quadro são apresentados os dados de concentração de sacarose e de microrganismos presentes nessas amostras.\n\n![]([descrição: A imagem mostra uma tabela com dados sobre amostras de cana-de-açúcar. A tabela possui um cabeçalho que indica 'Amostra de cana-de-açúcar' e colunas rotuladas como RB72, RB84, RB92, SP79 e SP80. As linhas da tabela representam duas variáveis: 'Concentração inicial de sacarose (g L⁻¹)' e 'Concentração de microrganismos (mg L⁻¹)'. Os valores numéricos correspondentes a cada amostra estão listados nas células da tabela.])\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg ![]([descrição: A imagem mostra o símbolo 'L' seguido do número '-1'. Ambos os elementos estão dispostos horizontalmente, com o 'L' à esquerda e o '-1' à direita. A imagem apresenta um efeito de desfoque e uma coloração que varia entre tons de azul e laranja.]) de microrganismos presentes na cana-de-açúcar.\n\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre amostras de cana-de-açúcar. A tabela possui um cabeçalho que indica 'Amostra de cana-de-açúcar' e colunas rotuladas como RB72, RB84, RB92, SP79 e SP80. As linhas da tabela representam duas variáveis: 'Concentração inicial de sacarose (g L⁻¹)' e 'Concentração de microrganismos (mg L⁻¹)'. Os valores numéricos correspondentes a cada amostra estão listados nas células da tabela.",
+        "A imagem mostra o símbolo 'L' seguido do número '-1'. Ambos os elementos estão dispostos horizontalmente, com o 'L' à esquerda e o '-1' à direita. A imagem apresenta um efeito de desfoque e uma coloração que varia entre tons de azul e laranja."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual tipo de cana-de-açúcar deve ser escolhido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "RB72",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "RB84",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "RB92",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "SP79",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "SP80",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

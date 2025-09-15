@@ -1,0 +1,46 @@
+{
+    "title": "Questão 59 - ENEM 2016",
+    "index": 59,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Por apresentar significativa resistividade elétrica, o grafite pode ser utilizado para simular resistores elétricos em circuitos desenhados no papel, com o uso de lápis e lapiseiras. Dependendo da espessura e do comprimento das linhas desenhadas, é possível determinar a resistência elétrica de cada traçado produzido. No esquema foram utilizados três tipos de lápis diferentes (2H, HB e 6B) para efetuar três traçados distintos.\n\n![]([descrição: A imagem mostra três diagramas esquemáticos diferentes, cada um com círculos nas extremidades conectados por uma linha que representa uma forma específica. O diagrama superior é composto por uma linha conectada a ondas. O diagrama do meio é uma linha reta horizontal. O diagrama inferior tem a forma de um arco. Ao lado de cada diagrama estão as letras '2H', 'HB' e '6B', respectivamente.])\n\nMunido dessas informações, um estudante pegou uma folha de papel e fez o desenho de um sorvete de casquinha utilizando-se desses traçados. Os valores encontrados nesse experimento, para as resistências elétricas (R), medidas com o auxílio de um ohmímetro ligado nas extremidades das resistências, são mostrados na figura. Verificou-se que os resistores obedeciam à Lei de Ohm.\n\n![]([descrição: A imagem mostra um circuito elétrico com quatro resistores conectados entre os pontos A, B e C. Um resistor de 20 kΩ conecta A e B através de uma linha ondulada. Um resistor de 5 kΩ conecta B a A, formando um loop superior. Dois resistores de 10 kΩ conectam A a C e B a C, respectivamente, formando dois ramos descendentes que se encontram em C.])",
+    "files": [
+        "A imagem mostra três diagramas esquemáticos diferentes, cada um com círculos nas extremidades conectados por uma linha que representa uma forma específica. O diagrama superior é composto por uma linha conectada a ondas. O diagrama do meio é uma linha reta horizontal. O diagrama inferior tem a forma de um arco. Ao lado de cada diagrama estão as letras '2H', 'HB' e '6B', respectivamente.",
+        "A imagem mostra um circuito elétrico com quatro resistores conectados entre os pontos A, B e C. Um resistor de 20 kΩ conecta A e B através de uma linha ondulada. Um resistor de 5 kΩ conecta B a A, formando um loop superior. Dois resistores de 10 kΩ conectam A a C e B a C, respectivamente, formando dois ramos descendentes que se encontram em C."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na sequência, conectou o ohmímetro nos terminais A e B do desenho e, em seguida, conectou-o nos terminais B e C, anotando as leituras RAB e RBC, respectivamente. Ao estabelecer a razão RAB / RBC, qual resultado o estudante obteve?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4/7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "10/27",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "14/81",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4/81",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

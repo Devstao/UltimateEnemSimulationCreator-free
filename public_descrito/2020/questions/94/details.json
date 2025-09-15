@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2020",
+    "index": 94,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância de rosas. O principal componente do óleo de rosas tem cadeia poli-insaturada e hidroxila em carbono terminal. O catálogo dos óleos essenciais apresenta, para escolha da essência, estas estruturas químicas:\n\n![]([descrição: A imagem mostra cinco estruturas químicas representadas como fórmulas estruturais. Cada estrutura está numerada de (1) a (5). A estrutura (1) é um álcool insaturado com uma cadeia de seis carbonos e uma ligação dupla. A estrutura (2) é um aldeído insaturado com uma cadeia de seis carbonos e uma ligação dupla. A estrutura (3) é um álcool cíclico com um anel de seis membros. A estrutura (4) é um fenol, que consiste em um anel benzeno ligado a um grupo hidroxila. A estrutura (5) é um aldeído ramificado com uma cadeia de cinco carbonos e uma ligação dupla.])",
+    "files": [
+        "A imagem mostra cinco estruturas químicas representadas como fórmulas estruturais. Cada estrutura está numerada de (1) a (5). A estrutura (1) é um álcool insaturado com uma cadeia de seis carbonos e uma ligação dupla. A estrutura (2) é um aldeído insaturado com uma cadeia de seis carbonos e uma ligação dupla. A estrutura (3) é um álcool cíclico com um anel de seis membros. A estrutura (4) é um fenol, que consiste em um anel benzeno ligado a um grupo hidroxila. A estrutura (5) é um aldeído ramificado com uma cadeia de cinco carbonos e uma ligação dupla."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual substância o empresário deverá utilizar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

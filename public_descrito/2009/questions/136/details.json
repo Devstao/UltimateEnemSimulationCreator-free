@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2009",
+    "index": 136,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dados da Associação Nacional de Empresas de Transportes Urbanos (ANTU) mostram que o número de passageiros transportados mensalmente nas principais regiões metropolitanas do país vem caindo sistematicamente. Eram 476,7 milhões de passageiros em 1995, e esse número caiu para 321,9 milhões em abril de 2001. Nesse período, o tamanho da frota de veículos mudou pouco, tendo no final de 2008 praticamente o mesmo tamanho que tinha em 2001.  \nO gráfico a seguir mostra um índice de produtividade utilizado pelas empresas do setor, que é a razão entre o total de passageiros transportados por dia e o tamanho da frota de veículos.\n\n![]([descrição: O gráfico de linhas representa o número de passageiros transportados por veículos diários no sistema de ônibus urbano de capitais brasileiras entre 1995 e 2008. O eixo vertical, 'Passageiro/Veículo', varia de 350 a 650. O eixo horizontal, 'Período', mostra os meses de Abril de 1995 até Outubro de 2008. Os valores iniciais em Abril de 1995 são de 581 passageiros/veículo e aumentam para 631 em Outubro do mesmo ano. A linha apresenta flutuações ao longo dos anos, com um pico em Abril de 1996 (569) e uma queda gradual até 1998 (446). Em seguida, a linha se estabiliza entre 400 e 450 passageiros/veículo até 2006. Há um aumento significativo em Outubro de 2006 (463), seguido por uma leve queda para 441 em Outubro de 2008.])",
+    "files": [
+        "O gráfico de linhas representa o número de passageiros transportados por veículos diários no sistema de ônibus urbano de capitais brasileiras entre 1995 e 2008. O eixo vertical, 'Passageiro/Veículo', varia de 350 a 650. O eixo horizontal, 'Período', mostra os meses de Abril de 1995 até Outubro de 2008. Os valores iniciais em Abril de 1995 são de 581 passageiros/veículo e aumentam para 631 em Outubro do mesmo ano. A linha apresenta flutuações ao longo dos anos, com um pico em Abril de 1996 (569) e uma queda gradual até 1998 (446). Em seguida, a linha se estabiliza entre 400 e 450 passageiros/veículo até 2006. Há um aumento significativo em Outubro de 2006 (463), seguido por uma leve queda para 441 em Outubro de 2008."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Supondo que as frotas totais de veículos naquelas regiões metropolitanas em abril de 2001 e em outubro de 2008 eram do mesmo tamanho, os dados do gráfico permitem inferir que o total de passageiros transportados no mês de outubro de 2008 foi aproximadamente igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "355 milhões.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "400 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "426 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "441 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "477 milhões.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

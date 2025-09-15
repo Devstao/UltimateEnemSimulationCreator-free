@@ -1,0 +1,45 @@
+{
+    "title": "Questão 30 - ENEM 2020",
+    "index": 30,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma ilustração em preto e branco, com um estilo que lembra gravuras ou desenhos feitos à mão. No topo, há o texto 'para nós, a rua é' seguido por 'UM CAMPO DE BATALHA' em letras maiúsculas e destacadas. A parte central da imagem apresenta o rosto de uma mulher, estilizado com traços expressivos e um olhar direto ao observador. Ela usa um lenço cobrindo a boca e nariz. O desenho está enquadrado por elementos decorativos que lembram molduras ornamentadas. Na parte inferior direita, há a frase 'CHEGA DE fiiiiu!' em letras menores.])\n\nDisponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.",
+    "files": [
+        "A imagem mostra uma ilustração em preto e branco, com um estilo que lembra gravuras ou desenhos feitos à mão. No topo, há o texto 'para nós, a rua é' seguido por 'UM CAMPO DE BATALHA' em letras maiúsculas e destacadas. A parte central da imagem apresenta o rosto de uma mulher, estilizado com traços expressivos e um olhar direto ao observador. Ela usa um lenço cobrindo a boca e nariz. O desenho está enquadrado por elementos decorativos que lembram molduras ornamentadas. Na parte inferior direita, há a frase 'CHEGA DE fiiiiu!' em letras menores."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa campanha de conscientização sobre o assédio sofrido pelas mulheres nas ruas constrói-se pela combinação da linguagem verbal e não verbal. A imagem da mulher com o nariz e a boca cobertos por um lenço é a representação não verbal do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Silêncio imposto às mulheres, que não podem denunciar o assédio sofrido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metáfora de que as mulheres precisam defender-se do assédio masculino.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Constrangimento pelo qual passam as mulheres e sua tentativa de esconderem-se.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade que as mulheres têm de passarem despercebidas para evitar o assédio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Incapacidade de as mulheres protegerem-se da agressão verbal dos assediadores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2013",
+    "index": 95,
+    "year": 2013,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma tirinha do quadrinho Calvin and Hobbes, criada por Bill Watterson. A tirinha é em preto e branco e apresenta quatro painéis. No primeiro painel, Calvin está de pé com um olhar satisfeito e diz: 'Eu concluí que nada de ruim que eu faço é minha culpa'. No segundo painel, ele continua falando, apontando para Hobbes: 'Certo! Sendo jovem e impressionável, sou uma vítima indefesa de inúmeras influências negativas! Alguma cultura primitiva me leva a valores subdesenvolvidos e me impulsiona à maldade!' No terceiro painel, Hobbes responde: 'Eu não assumo responsabilidade pelo meu comportamento! Sou inocente! É culpa da sociedade!' No quarto painel, Calvin diz: 'Então você precisa construir mais caráter. Vá cavar a calçada'. A data de publicação é 24 de fevereiro de 2012.])",
+    "files": [
+        "A imagem é uma tirinha do quadrinho Calvin and Hobbes, criada por Bill Watterson. A tirinha é em preto e branco e apresenta quatro painéis. No primeiro painel, Calvin está de pé com um olhar satisfeito e diz: 'Eu concluí que nada de ruim que eu faço é minha culpa'. No segundo painel, ele continua falando, apontando para Hobbes: 'Certo! Sendo jovem e impressionável, sou uma vítima indefesa de inúmeras influências negativas! Alguma cultura primitiva me leva a valores subdesenvolvidos e me impulsiona à maldade!' No terceiro painel, Hobbes responde: 'Eu não assumo responsabilidade pelo meu comportamento! Sou inocente! É culpa da sociedade!' No quarto painel, Calvin diz: 'Então você precisa construir mais caráter. Vá cavar a calçada'. A data de publicação é 24 de fevereiro de 2012."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A partir da leitura dessa tirinha, infere-se que o discurso de Calvin teve um efeito diferente do pretendido, uma vez que ele",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Decide tirar a neve do quintal para convencer seu pai sobre seu discurso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Culpa o pai por exercer influência negativa na formação de sua personalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Comenta que suas discussões com o pai não correspondem às suas expectativas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Conclui que os acontecimentos ruins não fazem falta para a sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reclama que é vítima de valores que o levam a atitudes inadequadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

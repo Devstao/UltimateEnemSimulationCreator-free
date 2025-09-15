@@ -1,0 +1,45 @@
+{
+    "title": "Questão 135 - ENEM 2013",
+    "index": 135,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: O infográfico apresenta dados sobre o aumento do número de casamentos entre pessoas com mais de 60 anos no Brasil, comparado ao crescimento geral da população brasileira. Ele também relaciona esse aumento à crescente participação dessa faixa etária no mercado de trabalho. \n\nNa parte superior, dois gráficos circulares mostram o aumento no número de casamentos entre 2003 e 2008: 44% para pessoas acima dos 60 anos e 28% na população brasileira como um todo.\n\nEm seguida, há uma explicação textual que associa o aumento do número de casamentos à maior independência financeira dessa faixa etária devido ao trabalho.\n\nNa parte inferior, dois outros gráficos circulares ilustram a porcentagem da população com mais de 60 anos no mercado de trabalho: 31% em 2003 e 38% atualmente (com base nos dados de 2008). \n\nA fonte dos dados é o IBGE e a Organização Internacional do Trabalho (OIT). O infográfico foi publicado na revista Veja, em 21 de abril de 2010.])",
+    "files": [
+        "O infográfico apresenta dados sobre o aumento do número de casamentos entre pessoas com mais de 60 anos no Brasil, comparado ao crescimento geral da população brasileira. Ele também relaciona esse aumento à crescente participação dessa faixa etária no mercado de trabalho. \n\nNa parte superior, dois gráficos circulares mostram o aumento no número de casamentos entre 2003 e 2008: 44% para pessoas acima dos 60 anos e 28% na população brasileira como um todo.\n\nEm seguida, há uma explicação textual que associa o aumento do número de casamentos à maior independência financeira dessa faixa etária devido ao trabalho.\n\nNa parte inferior, dois outros gráficos circulares ilustram a porcentagem da população com mais de 60 anos no mercado de trabalho: 31% em 2003 e 38% atualmente (com base nos dados de 2008). \n\nA fonte dos dados é o IBGE e a Organização Internacional do Trabalho (OIT). O infográfico foi publicado na revista Veja, em 21 de abril de 2010."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os gráficos expõem dados estatísticos por meio de linguagem verbal e não verbal. No texto, o uso desse recurso",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exemplifica o aumento da expectativa de vida da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Explica o crescimento da confiança na instituição do casamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mostra que a população brasileira aumentou nos últimos cinco anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Indica que as taxas de casamento e emprego cresceram na mesma proporção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sintetiza o crescente número de casamentos e de ocupação no mercado de trabalho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

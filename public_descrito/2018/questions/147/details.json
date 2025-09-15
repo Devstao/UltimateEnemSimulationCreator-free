@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2018",
+    "index": 147,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O colesterol total de uma pessoa é obtido pela soma da taxa do seu “colesterol bom” com a taxa do seu “colesterol ruim”. Os exames periódicos, realizados em um paciente adulto, apresentaram taxa normal de “colesterol bom”, porém, taxa do “colesterol ruim” (também chamado LDL) de 280 mg/dL. O quadro apresenta uma classificação de acordo com as taxas de LDL em adultos.\n\n![]([descrição: A imagem mostra uma tabela com o título 'Taxa de LDL (mg/dL)'. A tabela classifica os níveis de LDL do colesterol, indicando as faixas e suas respectivas classificações: Ótima (menor que 100), Próxima de ótima (de 100 a 129), Limite (de 130 a 159), Alta (de 160 a 189) e Muito alta (190 ou mais). Na parte inferior da imagem, há uma nota indicando a fonte dos dados: 'Disponível em: www.minhavida.com.br. Acesso em: 15 out. 2015 (adaptado)'.])\n\nO paciente, seguindo as recomendações médicas sobre estilo de vida e alimentação, realizou o exame logo após o primeiro mês, e a taxa de LDL reduziu 25%. No mês seguinte, realizou novo exame e constatou uma redução de mais 20% na taxa de LDL.",
+    "files": [
+        "A imagem mostra uma tabela com o título 'Taxa de LDL (mg/dL)'. A tabela classifica os níveis de LDL do colesterol, indicando as faixas e suas respectivas classificações: Ótima (menor que 100), Próxima de ótima (de 100 a 129), Limite (de 130 a 159), Alta (de 160 a 189) e Muito alta (190 ou mais). Na parte inferior da imagem, há uma nota indicando a fonte dos dados: 'Disponível em: www.minhavida.com.br. Acesso em: 15 out. 2015 (adaptado)'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com o resultado do segundo exame, a classificação da taxa de LDL do paciente é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ótima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Próxima de ótima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Limite",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Muito alta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

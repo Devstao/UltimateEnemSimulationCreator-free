@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2012",
+    "index": 154,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um homem sentado em uma cadeira de rodas com o braço levantado. Há linhas tracejadas indicando diferentes alturas, marcadas como 'máximo' (1,35), 'confortável' (entre 0,80 e 1,00) e 'mínimo' (0,40). As medidas estão em metros.])",
+    "files": [
+        "A imagem mostra um homem sentado em uma cadeira de rodas com o braço levantado. Há linhas tracejadas indicando diferentes alturas, marcadas como 'máximo' (1,35), 'confortável' (entre 0,80 e 1,00) e 'mínimo' (0,40). As medidas estão em metros."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma proposta substitutiva, relativa às alturas de tomadas e interruptores, respectivamente, que atenderá àquele potencial comprador é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,20 m e 1,45 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,20 m e 1,40 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,25 m e 1,35 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,25 m e 1,30 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,45 m e 1,20 m.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

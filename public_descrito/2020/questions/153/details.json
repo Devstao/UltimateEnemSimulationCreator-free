@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2020",
+    "index": 153,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:\n\n*   seguir num ônibus, percorrendo 2,0 km;\n*   alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.\n\nO quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade.\n\n![]([descrição: A imagem mostra uma tabela com o título 'Velocidade média'. A tabela possui duas colunas: 'Ônibus (km/h)' e 'Bicicleta (km/h)'. A primeira coluna apresenta dados de velocidade média de ônibus para cada dia da semana: Segunda-feira (9 km/h), Terça-feira (20 km/h), Quarta-feira (15 km/h), Quinta-feira (12 km/h), Sexta-feira (10 km/h) e Sábado (30 km/h). A segunda coluna apresenta dados de velocidade média de bicicleta para cada dia da semana: Segunda-feira (15 km/h), Terça-feira (22 km/h), Quarta-feira (24 km/h), Quinta-feira (15 km/h), Sexta-feira (18 km/h) e Sábado (16 km/h).])",
+    "files": [
+        "A imagem mostra uma tabela com o título 'Velocidade média'. A tabela possui duas colunas: 'Ônibus (km/h)' e 'Bicicleta (km/h)'. A primeira coluna apresenta dados de velocidade média de ônibus para cada dia da semana: Segunda-feira (9 km/h), Terça-feira (20 km/h), Quarta-feira (15 km/h), Quinta-feira (12 km/h), Sexta-feira (10 km/h) e Sábado (30 km/h). A segunda coluna apresenta dados de velocidade média de bicicleta para cada dia da semana: Segunda-feira (15 km/h), Terça-feira (22 km/h), Quarta-feira (24 km/h), Quinta-feira (15 km/h), Sexta-feira (18 km/h) e Sábado (16 km/h)."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Às segundas, quintas e sextas-feiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Às terças e quintas-feiras e aos sábados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Às segundas, quartas e sextas-feiras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Às terças, quartas e sextas-feiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Às terças e quartas-feiras e aos sábados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

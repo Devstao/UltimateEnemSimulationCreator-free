@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2011",
+    "index": 144,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra duas representações geométricas: à esquerda, um cubo com vértices nomeados A, B, C, D e O; à direita, uma projeção ortogonal do cubo na forma de um triângulo com os mesmos vértices nomeados A, B, C e O. As linhas pontilhadas conectam os pontos D a C e O a A e B.])\n\nOs pontos A, B, C, D e O do cubo e da pirâmide são os mesmos. O ponto O é central na face superior do cubo. Os quatro cortes saem de O em direção às arestas _AD_, _BC_, _AB_ e _CD_, nessa ordem. Após os cortes, são descartados quatro sólidos.",
+    "files": [
+        "A imagem mostra duas representações geométricas: à esquerda, um cubo com vértices nomeados A, B, C, D e O; à direita, uma projeção ortogonal do cubo na forma de um triângulo com os mesmos vértices nomeados A, B, C e O. As linhas pontilhadas conectam os pontos D a C e O a A e B."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os formatos dos sólidos descartados são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Todos iguais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Todos diferentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Três iguais e um diferente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apenas dois iguais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Iguais dois a dois.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

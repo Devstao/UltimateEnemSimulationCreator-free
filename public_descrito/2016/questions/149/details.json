@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2016",
+    "index": 149,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra duas curvas, A (preta) e B (cinza), representando a altura em metros (eixo y) versus o tempo em segundos (eixo x). A curva A começa em aproximadamente 2 metros de altura no tempo 1 segundo, aumenta até cerca de 13 metros no tempo 3 segundos, atinge um pico de aproximadamente 17 metros no tempo 4 segundos, diminui para aproximadamente 8 metros no tempo 7 segundos e termina em aproximadamente -8 metros no tempo 9 segundos. A curva B começa em aproximadamente 2 metros de altura no tempo 1 segundo, aumenta até cerca de 15 metros no tempo 3 segundos, atinge um pico de aproximadamente 16 metros no tempo 5 segundos, diminui para aproximadamente 11 metros no tempo 7 segundos e termina em aproximadamente 18 metros no tempo 9 segundos.])\n\nCom base nessas simulações, observou-se que a trajetória do projétil B deveria ser alterada para que o objetivo fosse alcançado.",
+    "files": [
+        "O gráfico mostra duas curvas, A (preta) e B (cinza), representando a altura em metros (eixo y) versus o tempo em segundos (eixo x). A curva A começa em aproximadamente 2 metros de altura no tempo 1 segundo, aumenta até cerca de 13 metros no tempo 3 segundos, atinge um pico de aproximadamente 17 metros no tempo 4 segundos, diminui para aproximadamente 8 metros no tempo 7 segundos e termina em aproximadamente -8 metros no tempo 9 segundos. A curva B começa em aproximadamente 2 metros de altura no tempo 1 segundo, aumenta até cerca de 15 metros no tempo 3 segundos, atinge um pico de aproximadamente 16 metros no tempo 5 segundos, diminui para aproximadamente 11 metros no tempo 7 segundos e termina em aproximadamente 18 metros no tempo 9 segundos."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para alcançar o objetivo, o coeficiente angular da reta que representa a trajetória de B deverá",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diminuir em 2 unidades",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diminuir em 4 unidades",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumentar em 2 unidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Aumentar em 4 unidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumentar em 8 unidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

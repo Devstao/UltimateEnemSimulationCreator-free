@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2009",
+    "index": 137,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O mapa ao lado representa um bairro de determinada cidade, no qual as flechas indicam o sentido das mãos do tráfego. Sabe-se que esse bairro foi planejado e que cada quadra representada na figura é um terreno quadrado, de lado igual a 200 metros.\n\n![]([descrição: A imagem mostra uma grade de 20 quadrados dispostos em 4 linhas e 5 colunas. Cada quadrado possui uma seta apontando para uma das quatro direções cardeais (norte, sul, leste, oeste) ou para dentro/para fora do quadrado. As setas parecem indicar um padrão cíclico ou de fluxo. Os pontos X e Y estão marcados em dois quadrados específicos da grade.])",
+    "files": [
+        "A imagem mostra uma grade de 20 quadrados dispostos em 4 linhas e 5 colunas. Cada quadrado possui uma seta apontando para uma das quatro direções cardeais (norte, sul, leste, oeste) ou para dentro/para fora do quadrado. As setas parecem indicar um padrão cíclico ou de fluxo. Os pontos X e Y estão marcados em dois quadrados específicos da grade."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Desconsiderando-se a largura das ruas, qual seria o tempo, em minutos, que um ônibus, em velocidade constante e igual a 40 km/h, partindo do ponto X, demoraria para chegar até o ponto Y?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25 min.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15 min.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,5 min.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,5 min.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,15 min.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

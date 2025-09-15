@@ -1,0 +1,45 @@
+{
+    "title": "Questão 41 - ENEM 2018",
+    "index": 41,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é um cartaz em preto e branco com uma campanha permanente pelo fim da violência contra as mulheres. Na parte superior, há o título da campanha. A ilustração central mostra três pessoas cobrindo seus rostos com as mãos, simbolizando silêncio e sofrimento. Abaixo, há a frase 'Se você foi vítima de assédio, rompa o silêncio: Denuncie'. Inclui informações sobre como denunciar, incluindo um número de telefone (0800 541 0803) e um logotipo com a inscrição 'Ligue 180'. Há também o nome do Centro Estadual de Referência da Mulher Vânia Araújo Machado e o logotipo da Imprensa de Trecho Urbanos.])\n\nDisponível em: www.sul21.com.br. Acesso em: 1 dez. 2017 (adaptado).",
+    "files": [
+        "A imagem é um cartaz em preto e branco com uma campanha permanente pelo fim da violência contra as mulheres. Na parte superior, há o título da campanha. A ilustração central mostra três pessoas cobrindo seus rostos com as mãos, simbolizando silêncio e sofrimento. Abaixo, há a frase 'Se você foi vítima de assédio, rompa o silêncio: Denuncie'. Inclui informações sobre como denunciar, incluindo um número de telefone (0800 541 0803) e um logotipo com a inscrição 'Ligue 180'. Há também o nome do Centro Estadual de Referência da Mulher Vânia Araújo Machado e o logotipo da Imprensa de Trecho Urbanos."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, busca-se convencer o leitor a mudar seu comportamento por meio da associação de verbos no modo imperativo à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Indicação de diversos canais de atendimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Divulgação do Centro de Defesa da Mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Informação sobre a duração da campanha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apresentação dos diversos apoiadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Utilização da imagem das três mulheres.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

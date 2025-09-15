@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2013",
+    "index": 157,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra dois círculos concêntricos, representando uma ilha central (Ilha de lazer) dentro de um círculo maior que representa uma piscina. Uma linha pontilhada indica o raio 'r' da ilha e outra linha pontilhada mais longa indica o raio 'R' da piscina. O ponto central dos círculos é marcado com a letra 'o'. As legendas 'Ilha de lazer' e 'Piscina' estão localizadas, respectivamente, dentro do círculo menor e fora do círculo maior.])\n\nConsidere 3 como valor aproximado para π",
+    "files": [
+        "A imagem mostra dois círculos concêntricos, representando uma ilha central (Ilha de lazer) dentro de um círculo maior que representa uma piscina. Uma linha pontilhada indica o raio 'r' da ilha e outra linha pontilhada mais longa indica o raio 'R' da piscina. O ponto central dos círculos é marcado com a letra 'o'. As legendas 'Ilha de lazer' e 'Piscina' estão localizadas, respectivamente, dentro do círculo menor e fora do círculo maior."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para satisfazer as condições dadas, o raio máximo da ilha de lazer r, em metros, estará mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,6",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1,7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

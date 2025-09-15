@@ -1,0 +1,45 @@
+{
+    "title": "Questão 12 - ENEM 2012",
+    "index": 12,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem é um cartaz em preto e branco com o título 'ABAIXO A DITADURA'. Apresenta uma figura caricaturada de um homem vestido como um bandeirante, com barba espessa e chapéu característico, segurando uma espada. Ele está pisando sobre a cabeça de um soldado militar. Um personagem que lembra um bobo da corte ou palhaço está em cima do bandeirante, levantando os braços em sinal de protesto ou desespero. A bandeira brasileira aparece ao lado do bandeirante.])\n\nCartaz da Revolução Constitucionalista. (Foto: Disponível em: http://veja.abril.com.br. Acesso em: 29 jun. 2012)\n\nElaborado pelos partidários da Revolução Constitucionalista de 1932, o cartaz apresentado pretendia mobilizar a população paulista contra o governo federal.",
+    "files": [
+        "A imagem é um cartaz em preto e branco com o título 'ABAIXO A DITADURA'. Apresenta uma figura caricaturada de um homem vestido como um bandeirante, com barba espessa e chapéu característico, segurando uma espada. Ele está pisando sobre a cabeça de um soldado militar. Um personagem que lembra um bobo da corte ou palhaço está em cima do bandeirante, levantando os braços em sinal de protesto ou desespero. A bandeira brasileira aparece ao lado do bandeirante."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa mobilização utilizou-se de uma referência histórica, associando o processo revolucionário",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "À experiência francesa, expressa no chamado à luta contra a ditadura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aos ideais republicanos, indicados no destaque à bandeira paulista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ao protagonismo das Forças Armadas, representadas pelo militar que empunha a bandeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao bandeirantismo, símbolo paulista apresentado em primeiro plano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Ao papel figurativo de Vargas na política, enfatizado pela pequenez de sua figura no cartaz.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

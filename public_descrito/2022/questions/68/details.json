@@ -1,0 +1,45 @@
+{
+    "title": "Questão 68 - ENEM 2022",
+    "index": 68,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**  \nA Marinha identifica, na voz de Thomas Barnett, uma ampla região potencialmente insubmissa ou simplesmente irredutível às normas gerais de funcionamento promovidas pelos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente por sua consciência rebelde, mas sim, em muitos casos, pela insubstancialidade de suas instituições estatais.\n\n**TEXTO II**\n\n![]([descrição: O mapa-múndi mostra a distribuição global de petróleo e gás, indicada por círculos cinzas. Os maiores depósitos estão localizados na Rússia, Oriente Médio, América do Norte (especialmente Canadá e EUA), e algumas áreas da África e América do Sul. Há também pontos menores espalhados pelo globo. O mapa inclui legendas que identificam as áreas de alta densidade e variedade germoplásmica, a 'brecha crítica' do 'Novo Mapa do Pentágono', e os locais de petróleo e gás.])\n\nCECEÑA. A. E. Hegemonias e emancipações no século XXI.  \nBuenos Aires: Clacso. 2005.",
+    "files": [
+        "O mapa-múndi mostra a distribuição global de petróleo e gás, indicada por círculos cinzas. Os maiores depósitos estão localizados na Rússia, Oriente Médio, América do Norte (especialmente Canadá e EUA), e algumas áreas da África e América do Sul. Há também pontos menores espalhados pelo globo. O mapa inclui legendas que identificam as áreas de alta densidade e variedade germoplásmica, a 'brecha crítica' do 'Novo Mapa do Pentágono', e os locais de petróleo e gás."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As preocupações do governo estadunidense expressas no texto e no mapa evidenciam uma estratégia para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Compartilhamento de inovações tecnológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Promoção de independência financeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incremento de intercâmbios culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ampliação de influência econômica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Preservação de recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

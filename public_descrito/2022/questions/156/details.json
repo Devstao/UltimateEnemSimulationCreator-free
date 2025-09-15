@@ -1,0 +1,48 @@
+{
+    "title": "Questão 156 - ENEM 2022",
+    "index": 156,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:  \n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n\n![]([descrição: A imagem mostra uma sequência de três figuras geométricas dispostas lado a lado, indicando uma transformação ou simplificação gradual. \n\nA Figura 1 apresenta um quadrado com uma curva que se inicia no canto inferior esquerdo e termina em algum ponto próximo ao canto superior direito. Uma linha tracejada indica o caminho da curva.\n\nA Figura 2 mostra um triângulo retângulo formado a partir do quadrado original, com um ângulo marcado como 'o'. A curva da Figura 1 é representada por uma linha tracejada que se origina no vértice agudo do triângulo e termina em algum ponto na hipotenusa. \n\nA Figura 3 representa apenas o triângulo retângulo, com o mesmo ângulo 'o' indicado.])\n\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto _R_, sobre o segmento _OM_, sendo  o ponto médio do lado do quadrado original, de modo que ![]([descrição: A imagem mostra uma equação matemática escrita em azul sobre um fundo branco. A equação é 'OR = 1/4 * OM'.]), traçar um arco de circunferência de raio medindo ![]([descrição: A imagem mostra a fração '1/2' e as letras 'OM' escritas em azul, com um efeito de desfoque e uma leve coloração amarelada.]) com centro no ponto _R_, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n\n![]([descrição: A imagem mostra duas figuras geométricas relacionadas por uma seta indicando transformação. A Figura 4 representa um setor circular com raio 'R' e ângulo central, conectado a um triângulo retângulo onde o vértice do ângulo reto está no ponto 'M'. O centro do círculo é marcado como 'O'. A Figura 5 apresenta apenas o triângulo que foi cortado da Figura 4, mostrando-o isoladamente.])",
+    "files": [
+        "A imagem mostra uma sequência de três figuras geométricas dispostas lado a lado, indicando uma transformação ou simplificação gradual. \n\nA Figura 1 apresenta um quadrado com uma curva que se inicia no canto inferior esquerdo e termina em algum ponto próximo ao canto superior direito. Uma linha tracejada indica o caminho da curva.\n\nA Figura 2 mostra um triângulo retângulo formado a partir do quadrado original, com um ângulo marcado como 'o'. A curva da Figura 1 é representada por uma linha tracejada que se origina no vértice agudo do triângulo e termina em algum ponto na hipotenusa. \n\nA Figura 3 representa apenas o triângulo retângulo, com o mesmo ângulo 'o' indicado.",
+        "A imagem mostra uma equação matemática escrita em azul sobre um fundo branco. A equação é 'OR = 1/4 * OM'.",
+        "A imagem mostra a fração '1/2' e as letras 'OM' escritas em azul, com um efeito de desfoque e uma leve coloração amarelada.",
+        "A imagem mostra duas figuras geométricas relacionadas por uma seta indicando transformação. A Figura 4 representa um setor circular com raio 'R' e ângulo central, conectado a um triângulo retângulo onde o vértice do ângulo reto está no ponto 'M'. O centro do círculo é marcado como 'O'. A Figura 5 apresenta apenas o triângulo que foi cortado da Figura 4, mostrando-o isoladamente."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/538392d5-583a-4aa5-a47c-61ee0bc6b98d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/78436952-5965-4c7f-80c3-ca2eee79bb4e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/ddf97279-7187-4bc2-be7b-25bd70510a73.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/b09ad37a-893e-4709-8b48-bded413fc77f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/c3221442-88b6-455d-bf9f-5097c75188a2.png",
+            "isCorrect": false
+        }
+    ]
+}

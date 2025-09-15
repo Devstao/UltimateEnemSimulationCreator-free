@@ -1,0 +1,45 @@
+{
+    "title": "Questão 18 - ENEM 2009",
+    "index": 18,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados técnicos de equipamentos de refrigeração. As colunas da tabela são: Capacidade de refrigeração (kW/(BTU/h)), Potência (W), Corrente elétrica - ciclo frio (A), Eficiência energética COP (W/W), Vazão de ar (m³/h) e Frequência (Hz). A tabela apresenta seis linhas de dados, com valores como 3.52/(12.000), 5.42/(18.000), 5.42/(18.000), 6.45/(22.000) e 6.45/(22.000). Abaixo da tabela, há uma fonte de dados: Disponível em http://www.institucional.brastemp.com.br. Acesso em: 13 jul. 2009 (adaptado).])",
+    "files": [
+        "A imagem mostra uma tabela com dados técnicos de equipamentos de refrigeração. As colunas da tabela são: Capacidade de refrigeração (kW/(BTU/h)), Potência (W), Corrente elétrica - ciclo frio (A), Eficiência energética COP (W/W), Vazão de ar (m³/h) e Frequência (Hz). A tabela apresenta seis linhas de dados, com valores como 3.52/(12.000), 5.42/(18.000), 5.42/(18.000), 6.45/(22.000) e 6.45/(22.000). Abaixo da tabela, há uma fonte de dados: Disponível em http://www.institucional.brastemp.com.br. Acesso em: 13 jul. 2009 (adaptado)."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considere-se que um auditório possua capacidade para 40 pessoas, cada uma produzindo uma quantidade média\nde calor, e que praticamente todo o calor que flui para fora do auditório o faz por meio dos aparelhos de ar condicionado. Nessa situação, entre as informações listadas, aquelas essenciais para se determinar quantos e/ou quais aparelhos de ar-condicionado são precisos para manter, com lotação máxima, a temperatura interna do auditório agradável e constante, bem como determinar a espessura da fiação do circuito elétrico para a ligação desses aparelhos, são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vazão de ar e potência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Vazão de ar e corrente elétrica - ciclo frio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Eficiência energética e potência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Capacidade de refrigeração e frequência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Capacidade de refrigeração e corrente elétrica - ciclo frio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2012",
+    "index": 94,
+    "year": 2012,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: The image is a cartoon divided into two panels. The first panel shows a stout man in a cap and vest, holding a can of beer, speaking to a thinner man in a shirt. A speech bubble above the stout man reads: 'AINT NO WAY Y'ALL SHULD BE HERE IF YA DONT SPEAK ENGLISH REAL GOOD!' The second panel depicts the same two men. The stout man is gesturing with his hands and has a speech bubble that says: 'SURE! MAY I SUGGEST YOU AVOID DOUBLE NEGATIVES AND DON’T FORGET TO USE AN ADVERB!' The thinner man points his finger while smiling, with a speech bubble saying: 'Sure!'.])\n\nDONAR. Disponível em: http://politicalgraffiti.wordpress.com. Acesso em: 17 ago. 2011.",
+    "files": [
+        "The image is a cartoon divided into two panels. The first panel shows a stout man in a cap and vest, holding a can of beer, speaking to a thinner man in a shirt. A speech bubble above the stout man reads: 'AINT NO WAY Y'ALL SHULD BE HERE IF YA DONT SPEAK ENGLISH REAL GOOD!' The second panel depicts the same two men. The stout man is gesturing with his hands and has a speech bubble that says: 'SURE! MAY I SUGGEST YOU AVOID DOUBLE NEGATIVES AND DON’T FORGET TO USE AN ADVERB!' The thinner man points his finger while smiling, with a speech bubble saying: 'Sure!'."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Cartuns são produzidos com o intuito de satirizar comportamentos humanos e assim oportunizam a reflexão sobre nossos próprios comportamentos e atitudes. Nesse cartum, a linguagem utilizada pelos personagens em uma conversa em inglês evidencia a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Predominância do uso da linguagem informal sobre a língua padrão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dificuldade de reconhecer a existência de diferentes usos da linguagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Aceitação dos regionalismos utilizados por pessoas de diferentes lugares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade de estudo da língua inglesa por parte dos personagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Facilidade de compreensão entre falantes com sotaques distintos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

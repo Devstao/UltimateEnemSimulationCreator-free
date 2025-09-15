@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2019",
+    "index": 178,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.\n\n![]([descrição: O gráfico radial mostra as vendas semanais de três produtos: caldo de cana, refrigerante e pastel. O eixo vertical representa a quantidade vendida, variando de 0 a 10. Os dias da semana (domingo, sábado, sexta, quinta, quarta, terça, segunda) estão dispostos ao longo do eixo horizontal, formando um círculo. A linha pontilhada representa as vendas de caldo de cana, a linha tracejada representa as vendas de refrigerante e a linha sólida representa as vendas de pastel. O gráfico permite comparar o desempenho de vendas de cada produto em diferentes dias da semana.])\n\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da ultima semana.\n\nQuanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da ultima semana.",
+    "files": [
+        "O gráfico radial mostra as vendas semanais de três produtos: caldo de cana, refrigerante e pastel. O eixo vertical representa a quantidade vendida, variando de 0 a 10. Os dias da semana (domingo, sábado, sexta, quinta, quarta, terça, segunda) estão dispostos ao longo do eixo horizontal, formando um círculo. A linha pontilhada representa as vendas de caldo de cana, a linha tracejada representa as vendas de refrigerante e a linha sólida representa as vendas de pastel. O gráfico permite comparar o desempenho de vendas de cada produto em diferentes dias da semana."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "27.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "44.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "55.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "71.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

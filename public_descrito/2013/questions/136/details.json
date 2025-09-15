@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2013",
+    "index": 136,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma fotografia em preto e branco de dois edifícios modernos. O edifício da frente (identificado como 'A') é alto, com uma estrutura inclinada e grandes janelas retangulares. Ele parece ser feito principalmente de vidro e metal. Atrás dele, há um segundo edifício (identificado como 'B'), que é mais baixo e tem uma fachada mais tradicional com várias janelas menores. O céu está visível no fundo, mas é nublado. Na parte inferior da imagem, há uma legenda indicando a fonte da imagem e a data de acesso.])",
+    "files": [
+        "A imagem mostra uma fotografia em preto e branco de dois edifícios modernos. O edifício da frente (identificado como 'A') é alto, com uma estrutura inclinada e grandes janelas retangulares. Ele parece ser feito principalmente de vidro e metal. Atrás dele, há um segundo edifício (identificado como 'B'), que é mais baixo e tem uma fachada mais tradicional com várias janelas menores. O céu está visível no fundo, mas é nublado. Na parte inferior da imagem, há uma legenda indicando a fonte da imagem e a data de acesso."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Utilizando 0,26 como valor aproximado para a tangente de 15° e duas casas decimais nas operações, descobre-se que a área da base desse prédio ocupa na avenida um espaço",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor que 100 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Entre 100 m² e 300 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Entre 300 m² e 500 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Entre 500 m² e 700 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior que 700 m²",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

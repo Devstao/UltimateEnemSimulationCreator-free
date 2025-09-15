@@ -1,0 +1,46 @@
+{
+    "title": "Questão 77 - ENEM 2016",
+    "index": 77,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático de uma esteira transportadora com dois carrinhos. A esteira é representada por uma linha horizontal com barras verticais indicando o movimento. Dois carrinhos, identificados como 'carrinho 1' e 'carrinho 2', estão posicionados sobre a esteira. Quatro sensores, rotulados 'sensor1', 'sensor2', 'sensor3' e 'sensor4', estão dispostos ao longo da esteira, próximos aos carrinhos. Uma seta indica a direção do movimento da esteira.])\n\n![]([descrição: A imagem mostra uma tabela comparativa entre dois carrinhos, Carrinho 1 e Carrinho 2. A tabela apresenta a posição de cada carrinho em centímetros (cm) em diferentes instantes de tempo em segundos (s). O Carrinho 1 tem as seguintes posições: 15,0 cm no instante 0,0 s; 30,0 cm no instante 1,0 s; 75,0 cm no instante 8,0 s e 90,0 cm no instante 11,0 s. O Carrinho 2 tem as seguintes posições: 45,0 cm no instante 0,0 s; 45,0 cm no instante 1,0 s; 75,0 cm no instante 8,0 s e 90,0 cm no instante 11,0 s.])",
+    "files": [
+        "Diagrama esquemático de uma esteira transportadora com dois carrinhos. A esteira é representada por uma linha horizontal com barras verticais indicando o movimento. Dois carrinhos, identificados como 'carrinho 1' e 'carrinho 2', estão posicionados sobre a esteira. Quatro sensores, rotulados 'sensor1', 'sensor2', 'sensor3' e 'sensor4', estão dispostos ao longo da esteira, próximos aos carrinhos. Uma seta indica a direção do movimento da esteira.",
+        "A imagem mostra uma tabela comparativa entre dois carrinhos, Carrinho 1 e Carrinho 2. A tabela apresenta a posição de cada carrinho em centímetros (cm) em diferentes instantes de tempo em segundos (s). O Carrinho 1 tem as seguintes posições: 15,0 cm no instante 0,0 s; 30,0 cm no instante 1,0 s; 75,0 cm no instante 8,0 s e 90,0 cm no instante 11,0 s. O Carrinho 2 tem as seguintes posições: 45,0 cm no instante 0,0 s; 45,0 cm no instante 1,0 s; 75,0 cm no instante 8,0 s e 90,0 cm no instante 11,0 s."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nos dados experimentais, o valor da massa do carrinho 2 é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "50,0 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "250,0 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "300,0 g",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "450,0 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "600,0 g",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

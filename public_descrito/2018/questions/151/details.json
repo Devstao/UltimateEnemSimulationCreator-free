@@ -1,0 +1,47 @@
+{
+    "title": "Questão 151 - ENEM 2018",
+    "index": 151,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A Ecofont possui _design_ baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.\n\n![]([descrição: A imagem mostra o logotipo 'ecofont' repetido três vezes, com diferentes tamanhos e estilos. Abaixo do texto, há representações gráficas das letras 'E', 'C' e 'O', formadas por uma matriz de círculos conectados por linhas retas. Cada letra possui um 'x' marcado em seu interior. Na parte inferior da imagem, há a fonte da imagem: 'Disponível em: www.goo.gl. Acesso em: 2 dez. 2017 (adaptado)'.])\n\nSuponha que a palavra ECO esteja escrita nessa fonte, com tamanho 192, e que seja composta por letras formadas por quadrados de lados x com furos circulares de raio ![]([descrição: A imagem mostra uma equação matemática escrita em fonte serifada preta sobre fundo branco. A equação é 'r = x/3', onde 'r' e 'x' são variáveis.]) Para que a área a ser pintada seja reduzida a ![]([descrição: A imagem mostra uma fração, com o número '1' no numerador e o número '16' no denominador.]) da área inicial, pretende-se reduzir o tamanho da fonte. Sabe-se que, ao alterar o tamanho da fonte, o tamanho da letra é alterado na mesma proporção.",
+    "files": [
+        "A imagem mostra o logotipo 'ecofont' repetido três vezes, com diferentes tamanhos e estilos. Abaixo do texto, há representações gráficas das letras 'E', 'C' e 'O', formadas por uma matriz de círculos conectados por linhas retas. Cada letra possui um 'x' marcado em seu interior. Na parte inferior da imagem, há a fonte da imagem: 'Disponível em: www.goo.gl. Acesso em: 2 dez. 2017 (adaptado)'.",
+        "A imagem mostra uma equação matemática escrita em fonte serifada preta sobre fundo branco. A equação é 'r = x/3', onde 'r' e 'x' são variáveis.",
+        "A imagem mostra uma fração, com o número '1' no numerador e o número '16' no denominador."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessas condições, o tamanho adequado da fonte será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "64.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "48.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "24.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "21.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

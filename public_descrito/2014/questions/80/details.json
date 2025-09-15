@@ -1,0 +1,45 @@
+{
+    "title": "Questão 80 - ENEM 2014",
+    "index": 80,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático representando uma reação química. À esquerda, moléculas de cumeno (C9H12) e oxigênio (O2) reagem na presença de um catalisador, formando hidropérxido de cumila (C9H14O2). Em seguida, o hidropérxido de cumila é tratado com água e ácido sulfúrico (H2O/H2SO4), resultando em fenol (C6H6O) e acetona (C3H6O). As fórmulas químicas dos reagentes e produtos estão indicadas abaixo de suas respectivas estruturas.])",
+    "files": [
+        "Diagrama esquemático representando uma reação química. À esquerda, moléculas de cumeno (C9H12) e oxigênio (O2) reagem na presença de um catalisador, formando hidropérxido de cumila (C9H14O2). Em seguida, o hidropérxido de cumila é tratado com água e ácido sulfúrico (H2O/H2SO4), resultando em fenol (C6H6O) e acetona (C3H6O). As fórmulas químicas dos reagentes e produtos estão indicadas abaixo de suas respectivas estruturas."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando as características físico-químicas dos dois insumos formados, o método utilizado para a separação da mistura, em escala industrial, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Filtração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ventilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Decantação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Evaporação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Destilação fracionada.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

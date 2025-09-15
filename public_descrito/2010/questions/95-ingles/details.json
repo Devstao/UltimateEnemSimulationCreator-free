@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2010",
+    "index": 95,
+    "year": 2010,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra o verso de um postal com uma mensagem escrita à mão. No topo, há um título que diz 'Troque postais conosco!' e uma foto de dois pinguins na Antártida. Há também vários selos postais de diferentes países colados no canto superior direito. Uma nota ao lado dos selos diz: 'Certifique-se de incluir um selo postal ou não podemos devolver o postal'. A parte inferior esquerda do postal contém texto escrito à mão, convidando as pessoas a enviar um postal com seu nome e endereço para aprender sobre o projeto ANDRILL e fazer perguntas sobre a Antártida. O lado direito do postal tem a palavra 'POSTCARD' em letras grandes e um espaço para o endereço com a inscrição 'address only this side'. Abaixo está um endereço escrito à mão: ARISE, McMurdo Station, Project G-091-M, PSC 469 Box 800, APO AP 96599-1035 U.S.A.])\n\nDisponível em: http://www.meganbergdesigns.com/andrill/iceberg07/postcards/index.html. Acesso em: 29 jul. 2010 (adaptado).",
+    "files": [
+        "A imagem mostra o verso de um postal com uma mensagem escrita à mão. No topo, há um título que diz 'Troque postais conosco!' e uma foto de dois pinguins na Antártida. Há também vários selos postais de diferentes países colados no canto superior direito. Uma nota ao lado dos selos diz: 'Certifique-se de incluir um selo postal ou não podemos devolver o postal'. A parte inferior esquerda do postal contém texto escrito à mão, convidando as pessoas a enviar um postal com seu nome e endereço para aprender sobre o projeto ANDRILL e fazer perguntas sobre a Antártida. O lado direito do postal tem a palavra 'POSTCARD' em letras grandes e um espaço para o endereço com a inscrição 'address only this side'. Abaixo está um endereço escrito à mão: ARISE, McMurdo Station, Project G-091-M, PSC 469 Box 800, APO AP 96599-1035 U.S.A."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os cartões-postais costumam ser utilizados por viajantes que desejam enviar notícias dos lugares que visitam a parentes e amigos. Publicado no site do projeto ANDRILL, o texto em formato de cartão-postal tem o propósito de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Comunicar o endereço da nova sede do projeto nos Estados Unidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Convidar colecionadores de cartões-postais a se reunirem em um evento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Anunciar uma nova coleção de selos para angariar fundos para a Antártica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Divulgar às pessoas a possibilidade de receberem um cartão-postal da Antártica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Solicitar que as pessoas visitem o site do mencionado projeto com maior frequência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

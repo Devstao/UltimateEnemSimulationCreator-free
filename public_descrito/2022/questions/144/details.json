@@ -1,0 +1,48 @@
+{
+    "title": "Questão 144 - ENEM 2022",
+    "index": 144,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Cada número que identifica uma agência bancária tem quatro dígitos: ![]([descrição: A imagem mostra a letra 'N' maiúscula, com o número '1' subscrito à direita.]),![]([descrição: A imagem mostra o símbolo químico N₂ em letras pretas, com uma fonte serifada e um tamanho relativamente grande. O fundo é branco e ligeiramente desfocado.]),![]([descrição: A imagem mostra uma peça do jogo Scrabble com a letra 'N' e o número '3' impressos nela. A peça tem um fundo colorido, mas está ligeiramente desfocado.]),![]([descrição: A imagem mostra a fórmula química N4, onde 'N' representa o elemento nitrogênio e '4' indica que há quatro átomos de nitrogênio na molécula. A letra 'N' é maior do que o número '4'. O fundo da imagem é branco com uma leve textura.]) mais um dígito verificador ![]([descrição: A imagem mostra uma peça do jogo Scrabble com a letra 'N' e o número '5'. A peça é preta e está sobre um fundo colorido, com tons de azul, rosa e branco.]).\n\n![]([descrição: A imagem mostra uma sequência de cinco blocos retangulares brancos com bordas pretas, dispostos horizontalmente. Cada bloco contém a letra 'N' seguida por um número (1, 2, 3, 4 e 5, respectivamente). O último bloco é conectado ao anterior por um sinal de menos ('-'). Os blocos se assemelham às peças do jogo Scrabble.])\n\nTodos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N5, primeiramente multiplica-se  \nordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 ![]([descrição: A imagem mostra a letra 'N' maiúscula, com o número '1' subscrito à direita.])\\+ 4 ![]([descrição: A imagem mostra o símbolo químico N₂ em letras pretas, com uma fonte serifada e um tamanho relativamente grande. O fundo é branco e ligeiramente desfocado.])\\+ 3 ![]([descrição: A imagem mostra uma peça do jogo Scrabble com a letra 'N' e o número '3'. A peça é quadrada e tem um fundo colorido, mas as cores são difusas devido à iluminação ou foco.])\\+ 2 ![]([descrição: A imagem mostra a fórmula química N4, onde 'N' representa o elemento nitrogênio e '4' indica que há quatro átomos de nitrogênio na molécula. A letra 'N' é maior do que o número '4'. O fundo da imagem é branco com uma leve textura.]). Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 − R.  \nConsidere o número de uma agência bancária cujos quatro primeiros dígitos são 0100.",
+    "files": [
+        "A imagem mostra a letra 'N' maiúscula, com o número '1' subscrito à direita.",
+        "A imagem mostra o símbolo químico N₂ em letras pretas, com uma fonte serifada e um tamanho relativamente grande. O fundo é branco e ligeiramente desfocado.",
+        "A imagem mostra uma peça do jogo Scrabble com a letra 'N' e o número '3' impressos nela. A peça tem um fundo colorido, mas está ligeiramente desfocado.",
+        "A imagem mostra a fórmula química N4, onde 'N' representa o elemento nitrogênio e '4' indica que há quatro átomos de nitrogênio na molécula. A letra 'N' é maior do que o número '4'. O fundo da imagem é branco com uma leve textura.",
+        "A imagem mostra uma peça do jogo Scrabble com a letra 'N' e o número '5'. A peça é preta e está sobre um fundo colorido, com tons de azul, rosa e branco.",
+        "A imagem mostra uma sequência de cinco blocos retangulares brancos com bordas pretas, dispostos horizontalmente. Cada bloco contém a letra 'N' seguida por um número (1, 2, 3, 4 e 5, respectivamente). O último bloco é conectado ao anterior por um sinal de menos ('-'). Os blocos se assemelham às peças do jogo Scrabble.",
+        "A imagem mostra a letra 'N' maiúscula, com o número '1' subscrito à direita.",
+        "A imagem mostra o símbolo químico N₂ em letras pretas, com uma fonte serifada e um tamanho relativamente grande. O fundo é branco e ligeiramente desfocado.",
+        "A imagem mostra uma peça do jogo Scrabble com a letra 'N' e o número '3'. A peça é quadrada e tem um fundo colorido, mas as cores são difusas devido à iluminação ou foco.",
+        "A imagem mostra a fórmula química N4, onde 'N' representa o elemento nitrogênio e '4' indica que há quatro átomos de nitrogênio na molécula. A letra 'N' é maior do que o número '4'. O fundo da imagem é branco com uma leve textura."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o dígito verificador N5 dessa agência bancária?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

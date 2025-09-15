@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2014",
+    "index": 63,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A aplicação excessiva de fertilizantes nitrogenados na agricultura pode acarretar alterações no solo e na água pelo acúmulo de compostos nitrogenados, principalmente a forma mais oxidada, favorecendo a proliferação de algas e plantas aquáticas e alterando o ciclo do nitrogênio, representado no esquema. A espécie nitrogenada mais oxidada tem sua quantidade controlada por ação de microrganismos que promovem a reação de redução dessa espécie, no processo denominado desnitrificação.\n\n![]([descrição: O diagrama representa um ciclo com cinco caixas interconectadas por setas, indicando transformações químicas. As caixas contêm as seguintes espécies: N2 (no topo), NH3 (à esquerda), NH4+ (na parte inferior), NO2- (à direita) e NO3- (na parte superior direita). Setas rotuladas I, II, III, IV e V indicam a direção das transformações entre essas espécies. O ciclo parece representar um processo cíclico envolvendo nitrogênio, amônia e nitrato.])",
+    "files": [
+        "O diagrama representa um ciclo com cinco caixas interconectadas por setas, indicando transformações químicas. As caixas contêm as seguintes espécies: N2 (no topo), NH3 (à esquerda), NH4+ (na parte inferior), NO2- (à direita) e NO3- (na parte superior direita). Setas rotuladas I, II, III, IV e V indicam a direção das transformações entre essas espécies. O ciclo parece representar um processo cíclico envolvendo nitrogênio, amônia e nitrato."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O processo citado está representado na etapa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 2013",
+    "index": 13,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A charge em preto e branco retrata uma mulher corpulenta, com expressão exagerada de histeria, gesticulando com a mão aberta. Ela domina a cena, pairando sobre duas figuras menores: uma criança chorando e uma mulher sentada à mesa, que parece estar tentando se proteger da situação. Uma xícara de chá está presente na mesa. A charge é acompanhada por um texto em português, questionando se alguém ainda resiste à influência do Partido Mulherista.])",
+    "files": [
+        "A charge em preto e branco retrata uma mulher corpulenta, com expressão exagerada de histeria, gesticulando com a mão aberta. Ela domina a cena, pairando sobre duas figuras menores: uma criança chorando e uma mulher sentada à mesa, que parece estar tentando se proteger da situação. Uma xícara de chá está presente na mesa. A charge é acompanhada por um texto em português, questionando se alguém ainda resiste à influência do Partido Mulherista."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na imagem, da década de 1930, há uma crítica à conquista de um direito pelas mulheres, relacionado com a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redivisão do trabalho doméstico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Liberdade de orientação sexual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Garantia da equiparação salarial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aprovação do direito ao divórcio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Obtenção da participação eleitoral.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

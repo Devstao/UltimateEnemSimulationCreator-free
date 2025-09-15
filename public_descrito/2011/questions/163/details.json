@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2011",
+    "index": 163,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra o perfil da ilha de calor urbana, com temperaturas em graus Celsius no eixo vertical (de 28 a 33) e diferentes zonas urbanas no eixo horizontal: Rural, Comercial, Centro, Residencial Urbano e Residencial Suburbano. A temperatura é mais baixa na zona rural (aproximadamente 26°C), aumenta gradualmente até o centro urbano, onde atinge o pico de aproximadamente 33°C, depois diminui nas zonas residencial urbana e suburbana, estabilizando em torno de 30°C. Uma ilustração simplificada de edifícios está presente na zona do centro urbano. A fonte dos dados é a EPA.])",
+    "files": [
+        "O gráfico mostra o perfil da ilha de calor urbana, com temperaturas em graus Celsius no eixo vertical (de 28 a 33) e diferentes zonas urbanas no eixo horizontal: Rural, Comercial, Centro, Residencial Urbano e Residencial Suburbano. A temperatura é mais baixa na zona rural (aproximadamente 26°C), aumenta gradualmente até o centro urbano, onde atinge o pico de aproximadamente 33°C, depois diminui nas zonas residencial urbana e suburbana, estabilizando em torno de 30°C. Uma ilustração simplificada de edifícios está presente na zona do centro urbano. A fonte dos dados é a EPA."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Escolhendo, aleatoriamente, uma das outras regiões para morar, a probabilidade de ele escolher uma região que seja adequada às recomendações médicas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3/4",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

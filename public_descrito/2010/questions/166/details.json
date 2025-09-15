@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2010",
+    "index": 166,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico mostra o número de favelas no município do Rio de Janeiro entre 1980 e 2004, considerando que a variação nesse número entre os anos considerados é linear.\n\n![]([descrição: O gráfico mostra a evolução do número de favelas no Rio de Janeiro ao longo do tempo. O eixo horizontal representa os anos (1980, 1992 e 2004), enquanto o eixo vertical indica o número de favelas. Em 1980, havia 372 favelas. Em 1992, esse número aumentou para 573. Em 2004, o número de favelas atingiu 750.])",
+    "files": [
+        "O gráfico mostra a evolução do número de favelas no Rio de Janeiro ao longo do tempo. O eixo horizontal representa os anos (1980, 1992 e 2004), enquanto o eixo vertical indica o número de favelas. Em 1980, havia 372 favelas. Em 1992, esse número aumentou para 573. Em 2004, o número de favelas atingiu 750."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se o padrão na variação do período 2004/2010 se mantiver nos próximos 6 anos, e sabendo que o número de favelas em 2010 é 968, então o número de favelas em 2016 será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor que 1 150.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "218 unidades maior que em 2004.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior que 1 150 e menor que 1 200.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "177 unidades maior que em 2010.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior que 1 200.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

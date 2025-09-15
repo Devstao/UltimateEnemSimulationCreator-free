@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2023",
+    "index": 133,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.\n\n![]([descrição: A imagem mostra uma representação esquemática da estrutura molecular de um composto orgânico. A molécula consiste em uma cadeia hidrocarbonada ramificada ligada a um anel benzeno substituído por um grupo sulfonato de sódio (-SO3Na+). As ligações são representadas por linhas, e os átomos de carbono estão implícitos nos vértices das linhas.])\n\n**Tensoativo não biodegradável**",
+    "files": [
+        "A imagem mostra uma representação esquemática da estrutura molecular de um composto orgânico. A molécula consiste em uma cadeia hidrocarbonada ramificada ligada a um anel benzeno substituído por um grupo sulfonato de sódio (-SO3Na+). As ligações são representadas por linhas, e os átomos de carbono estão implícitos nos vértices das linhas."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Retirar a parte polar da molécula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Eliminar as insaturações do anel aromático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Trocar o grupo aniônico por um grupo neutro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alterar o grupo aniônico por um grupo catiônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Modificar a cadeia carbônica para cadeia normal.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 175 - ENEM 2011",
+    "index": 175,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: Gráfico de barras mostrando as respostas para uma pergunta, com as opções 'Sim', 'Não' e 'Não sei avaliar'. A barra 'Sim' representa 67% das respostas, a barra 'Não' representa 25% das respostas e a barra 'Não sei avaliar' representa 8% das respostas. O gráfico possui um eixo vertical representando a porcentagem (de 0% a 80%) e um eixo horizontal com as opções de resposta.])",
+    "files": [
+        "Gráfico de barras mostrando as respostas para uma pergunta, com as opções 'Sim', 'Não' e 'Não sei avaliar'. A barra 'Sim' representa 67% das respostas, a barra 'Não' representa 25% das respostas e a barra 'Não sei avaliar' representa 8% das respostas. O gráfico possui um eixo vertical representando a porcentagem (de 0% a 80%) e um eixo horizontal com as opções de resposta."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Analisando os dados do gráfico, quantos internautas responderam “NÃO” à enquete?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menos de 23.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mais de 23 e menos de 25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mais de 50 e menos de 75.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Mais de 100 e menos de 190.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mais de 200.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

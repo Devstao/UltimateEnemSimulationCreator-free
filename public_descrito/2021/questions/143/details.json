@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2021",
+    "index": 143,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico apresenta o nível de ocupação dos cinco reservatórios de água que abasteciam uma cidade em 2 de Fevereiro de 2015.\n\n![]([descrição: O gráfico de barras representa o nível de ocupação dos reservatórios em 2 de fevereiro de 2015, comparando a capacidade em bilhões de litros e o nível de ocupação em porcentagem. Os reservatórios são identificados como I, II, III, IV e V. As capacidades são: Reservatório I (105 bilhões de litros), Reservatório II (100 bilhões de litros), Reservatório III (20 bilhões de litros), Reservatório IV (80 bilhões de litros) e Reservatório V (40 bilhões de litros). Os níveis de ocupação, em porcentagem, são: Reservatório I (22%), Reservatório II (32%), Reservatório III (49%), Reservatório IV (41%) e Reservatório V (62%).])",
+    "files": [
+        "O gráfico de barras representa o nível de ocupação dos reservatórios em 2 de fevereiro de 2015, comparando a capacidade em bilhões de litros e o nível de ocupação em porcentagem. Os reservatórios são identificados como I, II, III, IV e V. As capacidades são: Reservatório I (105 bilhões de litros), Reservatório II (100 bilhões de litros), Reservatório III (20 bilhões de litros), Reservatório IV (80 bilhões de litros) e Reservatório V (40 bilhões de litros). Os níveis de ocupação, em porcentagem, são: Reservatório I (22%), Reservatório II (32%), Reservatório III (49%), Reservatório IV (41%) e Reservatório V (62%)."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa data, o reservatório com o maior volume de água era o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

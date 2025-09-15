@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2022",
+    "index": 82,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O mapa mostra a distribuição das rochas ígneas na Amazônia Legal, uma região do Brasil que abrange nove estados. As áreas de rochas ígneas são representadas em preto e a fronteira da Amazônia Legal é delineada por uma linha preta. O mapa inclui as coordenadas geográficas (latitude e longitude) e os nomes dos estados brasileiros e países vizinhos que fazem parte ou estão próximos à região.])\n\n**Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).**",
+    "files": [
+        "O mapa mostra a distribuição das rochas ígneas na Amazônia Legal, uma região do Brasil que abrange nove estados. As áreas de rochas ígneas são representadas em preto e a fronteira da Amazônia Legal é delineada por uma linha preta. O mapa inclui as coordenadas geográficas (latitude e longitude) e os nomes dos estados brasileiros e países vizinhos que fazem parte ou estão próximos à região."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O mapa espacializa um recurso natural com alto potencial para ocorrência de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Abalos sísmicos periódicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Jazidas de minerais metálicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Reservas de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aquíferos sedimentares profundos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estruturas geológicas metamórficas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

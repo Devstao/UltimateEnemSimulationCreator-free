@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2015",
+    "index": 90,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra dois esquemas de reação química, rotulados como 'Rota tradicional (marrom)' e 'Rota verde'. O esquema da rota tradicional começa com cicloexano que reage com Co a 180°C para formar um ácido carboxílico cíclico. Este composto passa por uma reação com Cr(III) seguida de lavagem cáustica, resultando em um aldeído insaturado e ciclohexanol. O aldeído insaturado então reage com HNO3 (60%) a 120°C na presença de V5+ e Cu para formar um ácido dicarboxílico com uma ligação dupla, liberando CO2 e N2O como subprodutos. A rota verde começa com cicloexano que reage com Na2WO4·4H2O a 75-90°C para formar o mesmo ácido dicarboxílico, além de água.])",
+    "files": [
+        "A imagem mostra dois esquemas de reação química, rotulados como 'Rota tradicional (marrom)' e 'Rota verde'. O esquema da rota tradicional começa com cicloexano que reage com Co a 180°C para formar um ácido carboxílico cíclico. Este composto passa por uma reação com Cr(III) seguida de lavagem cáustica, resultando em um aldeído insaturado e ciclohexanol. O aldeído insaturado então reage com HNO3 (60%) a 120°C na presença de V5+ e Cu para formar um ácido dicarboxílico com uma ligação dupla, liberando CO2 e N2O como subprodutos. A rota verde começa com cicloexano que reage com Na2WO4·4H2O a 75-90°C para formar o mesmo ácido dicarboxílico, além de água."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação com a primeira?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Etapa única na síntese.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Obtenção do produto puro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ausência de reagentes oxidantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ausência de elementos metálicos no processo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Gasto de energia nulo na separação do produto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

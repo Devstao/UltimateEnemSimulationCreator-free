@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2011",
+    "index": 124,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra um texto informativo com fundo preto, delimitado por uma moldura cinza clara. O título do texto é 'SE NO INVERNO É DIFÍCIL ACORDAR, IMAGINE DORMIR.'. Abaixo, há um parágrafo que descreve a situação de pessoas necessitadas durante o inverno, enfrentando fome e frio, e solicita doações para ajudá-las a terem uma noite tranquila.])\n\n**Veja**. 05 set. 1999 (adaptado).",
+    "files": [
+        "A imagem mostra um texto informativo com fundo preto, delimitado por uma moldura cinza clara. O título do texto é 'SE NO INVERNO É DIFÍCIL ACORDAR, IMAGINE DORMIR.'. Abaixo, há um parágrafo que descreve a situação de pessoas necessitadas durante o inverno, enfrentando fome e frio, e solicita doações para ajudá-las a terem uma noite tranquila."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O produtor de anúncios publicitários utiliza-se de estratégias persuasivas para influenciar o comportamento de seu leitor. Entre os recursos argumentativos mobilizados pelo autor para obter a adesão do público à campanha, destaca-se nesse texto",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A oposição entre individual e coletivo, trazendo um ideário populista para o anúncio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A utilização de tratamento informal com o leitor, o que suaviza a seriedade do problema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O emprego de linguagem figurada, o que desvia a atenção da população do apelo financeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O uso dos numerais “milhares” e “milhões”, responsável pela supervalorização das condições dos necessitados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O jogo de palavras entre “acordar” e “dormir”, o que relativiza o problema do leitor em relação ao dos necessitados.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

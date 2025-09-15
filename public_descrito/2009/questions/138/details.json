@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2009",
+    "index": 138,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A população mundial está ficando mais velha, os índices de natalidade diminuíram e a expectativa de vida aumentou. No gráfico seguinte, são apresentados dados obtidos por pesquisa realizada pela Organização das Nações Unidas (ONU), a respeito da quantidade de pessoas com 60 anos ou mais em todo o mundo. Os números da coluna da direita representam as faixas percentuais. Por exemplo, em 1950 havia 95 milhões de pessoas com 60 anos ou mais nos países desenvolvidos, número entre 10% e 15% da população total nos países desenvolvidos.\n\n![]([descrição: O gráfico de linhas mostra a estimativa da população em milhões, nos países desenvolvidos e em desenvolvimento, ao longo do tempo. O eixo horizontal representa os anos, começando em 1950 e terminando em 2050. O eixo vertical esquerdo indica a população em milhões, variando de 0 a 35. O eixo vertical direito também indica a população em milhões, variando de 0 a 1.600. A linha sólida representa a população nos países desenvolvidos, começando com 95 milhões em 1950 e atingindo 461 milhões em 2050. A linha tracejada representa a população nos países em desenvolvimento, começando com 110 milhões em 1950 e atingindo 1.592 milhões em 2050. Uma área cinza sombreada marca o período de 2010 a 2030, onde os valores populacionais são 269 milhões para países desenvolvidos e 490 milhões para países em desenvolvimento.])\n\nSuponha que o modelo exponencial y = 363e0,03x, em que x = 0 corresponde ao ano 2000, x = 1 corresponde ao ano 2001, e assim sucessivamente, e que y é a população em milhões de habitantes no ano x, seja usado para estimar essa população com 60 anos ou mais de idade nos países em desenvolvimento entre 2010 e 2050.",
+    "files": [
+        "O gráfico de linhas mostra a estimativa da população em milhões, nos países desenvolvidos e em desenvolvimento, ao longo do tempo. O eixo horizontal representa os anos, começando em 1950 e terminando em 2050. O eixo vertical esquerdo indica a população em milhões, variando de 0 a 35. O eixo vertical direito também indica a população em milhões, variando de 0 a 1.600. A linha sólida representa a população nos países desenvolvidos, começando com 95 milhões em 1950 e atingindo 461 milhões em 2050. A linha tracejada representa a população nos países em desenvolvimento, começando com 110 milhões em 1950 e atingindo 1.592 milhões em 2050. Uma área cinza sombreada marca o período de 2010 a 2030, onde os valores populacionais são 269 milhões para países desenvolvidos e 490 milhões para países em desenvolvimento."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Desse modo, considerando e0,3 = 1,35, estima-se que a população com 60 anos ou mais estará, em 2030, entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "490 e 510 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "550 e 620 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "780 e 800 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "810 e 860 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "870 e 910 milhões.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

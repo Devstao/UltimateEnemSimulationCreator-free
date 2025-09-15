@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2014",
+    "index": 1,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem é uma charge em preto e branco, com o título 'A Rede Telephonica' no topo. A ilustração mostra um indígena deitado de bruços, com fios telefônicos presos aos seus tornozelos e estendendo-se até a legenda 'Amazonas'. O corpo do indígena representa o território brasileiro, com as regiões 'Rio Grande' e 'Minas' marcadas. Há uma expressão de sofrimento no rosto do indígena. Na parte inferior da imagem, há um texto que satiriza a expansão da telefonia no Brasil.])",
+    "files": [
+        "A imagem é uma charge em preto e branco, com o título 'A Rede Telephonica' no topo. A ilustração mostra um indígena deitado de bruços, com fios telefônicos presos aos seus tornozelos e estendendo-se até a legenda 'Amazonas'. O corpo do indígena representa o território brasileiro, com as regiões 'Rio Grande' e 'Minas' marcadas. Há uma expressão de sofrimento no rosto do indígena. Na parte inferior da imagem, há um texto que satiriza a expansão da telefonia no Brasil."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A charge, datada de 1910, ao retratar a implantação da rede telefônica no Brasil, indica que esta:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Permitiria aos índios se apropriarem da telefonia móvel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliaria o contato entre a diversidade de povos indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Faria a comunicação sem ruídos entre grupos sociais distintos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Restringiria a sua área de atendimento aos estados do norte do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Possibilitaria a integração das diferentes regiões do território nacional.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

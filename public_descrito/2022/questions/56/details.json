@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2022",
+    "index": 56,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Desenho em preto e branco de dois personagens, aparentemente pai e filho, em frente a uma casa simples com telhado de madeira. O personagem à esquerda, possivelmente o pai, aponta para o filho, que está sentado na varanda da casa, com um livro aberto no colo. Uma fala em balão do pai diz: 'Tá estudando, Júnior?'. O filho responde, em outro balão: 'Calma, tô tentando achar um sinal de Wi-Fi!'. Um roteador pendurado por um fio sai da casa, indicando a busca por conexão à internet.])\n\n**CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).**\n\n**TEXTO II**  \nÉ como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?\n\n**ASSIS. A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).**",
+    "files": [
+        "Desenho em preto e branco de dois personagens, aparentemente pai e filho, em frente a uma casa simples com telhado de madeira. O personagem à esquerda, possivelmente o pai, aponta para o filho, que está sentado na varanda da casa, com um livro aberto no colo. Uma fala em balão do pai diz: 'Tá estudando, Júnior?'. O filho responde, em outro balão: 'Calma, tô tentando achar um sinal de Wi-Fi!'. Um roteador pendurado por um fio sai da casa, indicando a busca por conexão à internet."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporárea:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exclusão social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Expansão digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Manifestação cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Organização espacial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Valorização intelectual.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

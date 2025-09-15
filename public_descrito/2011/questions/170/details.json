@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2011",
+    "index": 170,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com informações sobre uma campanha de vacinação contra a gripe suína. A tabela possui três colunas: 'Datas da vacinação', 'Público-alvo' e 'Quantidade de pessoas vacinadas'. As datas da vacinação estão divididas em períodos, como 8 a 19 de março para trabalhadores de saúde e indígenas (42), 22 de março a 2 de abril para portadores de doenças crônicas (22), 5 a 23 de abril para adultos saudáveis entre 20 e 29 anos (56), 24 de abril a 7 de maio para população com mais de 60 anos (30) e 10 a 21 de maio para adultos saudáveis entre 30 e 39 anos (50). Na parte inferior da tabela, há uma fonte: 'Disponível em: http://mgterra.com.br; Acesso em: 26 abc 2010 (adaptado)'.])",
+    "files": [
+        "A imagem mostra uma tabela com informações sobre uma campanha de vacinação contra a gripe suína. A tabela possui três colunas: 'Datas da vacinação', 'Público-alvo' e 'Quantidade de pessoas vacinadas'. As datas da vacinação estão divididas em períodos, como 8 a 19 de março para trabalhadores de saúde e indígenas (42), 22 de março a 2 de abril para portadores de doenças crônicas (22), 5 a 23 de abril para adultos saudáveis entre 20 e 29 anos (56), 24 de abril a 7 de maio para população com mais de 60 anos (30) e 10 a 21 de maio para adultos saudáveis entre 30 e 39 anos (50). Na parte inferior da tabela, há uma fonte: 'Disponível em: http://mgterra.com.br; Acesso em: 26 abc 2010 (adaptado)'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Escolhendo-se aleatoriamente uma pessoa atendida nesse posto de vacinação, a probabilidade de ela ser portadora de doença crônica é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "12%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "22%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

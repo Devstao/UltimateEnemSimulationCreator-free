@@ -1,0 +1,45 @@
+{
+    "title": "Questão 175 - ENEM 2013",
+    "index": 175,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um gráfico cartesiano com eixos x e y rotulados em quilômetros (km). O eixo x varia de 0 a 90 km, enquanto o eixo y varia de 0 a 70 km. Três pontos estão marcados no gráfico: A está localizado aproximadamente nas coordenadas (30, 20), B está localizado aproximadamente nas coordenadas (70, 20) e C está localizado aproximadamente nas coordenadas (60, 50). O gráfico é delimitado por linhas de grade que facilitam a leitura das coordenadas dos pontos.])\n\nA torre deve estar situada em um local equidistante das três antenas.",
+    "files": [
+        "A imagem mostra um gráfico cartesiano com eixos x e y rotulados em quilômetros (km). O eixo x varia de 0 a 90 km, enquanto o eixo y varia de 0 a 70 km. Três pontos estão marcados no gráfico: A está localizado aproximadamente nas coordenadas (30, 20), B está localizado aproximadamente nas coordenadas (70, 20) e C está localizado aproximadamente nas coordenadas (60, 50). O gráfico é delimitado por linhas de grade que facilitam a leitura das coordenadas dos pontos."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O local adequado para a construção dessa torre corresponde ao ponto de coordenadas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "(65 ; 35).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(53 ; 30).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "(45 ; 35).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(50 ; 20).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(50 ; 30).",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2009",
+    "index": 174,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Considere um ponto P em uma circunferência de raio r no plano cartesiano. Seja Q a projeção ortogonal de P sobre o eixo x, como mostra a figura, e suponha que o ponto P percorra, no sentido anti-horário, uma distância d ≤ r sobre a circunferência.\n\n![]([descrição: A imagem mostra um círculo posicionado no primeiro quadrante de um plano cartesiano. O centro do círculo está localizado na origem (Q) do plano, e o ponto P representa um ponto na circunferência do círculo. Uma linha reta conecta Q ao ponto P, indicando o raio 'r' do círculo.])",
+    "files": [
+        "A imagem mostra um círculo posicionado no primeiro quadrante de um plano cartesiano. O centro do círculo está localizado na origem (Q) do plano, e o ponto P representa um ponto na circunferência do círculo. Uma linha reta conecta Q ao ponto P, indicando o raio 'r' do círculo."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Então, o ponto Q percorrerá, no eixo x, uma distância dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R( 1 - sen d/r ).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R( 1 - cos d/r ).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R( 1 - tag d/r ).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Rsen (r/d).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Rcos (r/d).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

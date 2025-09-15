@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2016",
+    "index": 148,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra seis cilindros verticais, dispostos lado a lado sobre uma plataforma retangular. Cada cilindro está identificado por uma letra na base da plataforma: U, CM, D, M, C e DM. Os cilindros 'D' e 'DM' possuem anéis concêntricos ao seu redor.])",
+    "files": [
+        "A imagem mostra seis cilindros verticais, dispostos lado a lado sobre uma plataforma retangular. Cada cilindro está identificado por uma letra na base da plataforma: U, CM, D, M, C e DM. Os cilindros 'D' e 'DM' possuem anéis concêntricos ao seu redor."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa disposição, o número que está representado na figura é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "46 171.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "147 016",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "171 064.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "460 171.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "610 741.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2010",
+    "index": 94,
+    "year": 2010,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "**MILLENIUM GOALS**\n\n![]([descrição: A imagem mostra oito ícones quadrados dispostos em uma grade 2x4, todos em tons de cinza. Cada ícone representa um objetivo de desenvolvimento sustentável da ONU e é numerado de 1 a 8. Os ícones incluem: (1) tigela fumegante representando erradicar a pobreza e a fome; (2) lápis representando educação primária universal; (3) símbolo feminino representando igualdade de gênero; (4) figura de um bebê em braços, representando redução da mortalidade infantil; (5) ícone de mãe e filho, representando saúde materna; (6) frasco com uma cruz vermelha, representando combate ao HIV/AIDS e outras doenças; (7) folhas de trevo, representando sustentabilidade ambiental; (8) mãos segurando um globo terrestre, representando parceria global para o desenvolvimento.])\n\nDisponível em: http://www.chris-alexander.co.uk/1191. Acesso em: 28 jul. 2010 (adaptado).",
+    "files": [
+        "A imagem mostra oito ícones quadrados dispostos em uma grade 2x4, todos em tons de cinza. Cada ícone representa um objetivo de desenvolvimento sustentável da ONU e é numerado de 1 a 8. Os ícones incluem: (1) tigela fumegante representando erradicar a pobreza e a fome; (2) lápis representando educação primária universal; (3) símbolo feminino representando igualdade de gênero; (4) figura de um bebê em braços, representando redução da mortalidade infantil; (5) ícone de mãe e filho, representando saúde materna; (6) frasco com uma cruz vermelha, representando combate ao HIV/AIDS e outras doenças; (7) folhas de trevo, representando sustentabilidade ambiental; (8) mãos segurando um globo terrestre, representando parceria global para o desenvolvimento."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Definidas pelos países membros da Organização das Nações Unidas e por organizações internacionais, as metas de desenvolvimento do milênio envolvem oito objetivos a serem alcançados até 2015. Apesar da diversidade cultural, esses objetivos, mostrados na imagem, são comuns ao mundo todo, sendo dois deles:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O combate à AIDS e a melhoria do ensino universitário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A redução da mortalidade adulta e a criação de parcerias globais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A promoção da igualdade de gêneros e a erradicação da pobreza.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A parceria global para o desenvolvimento e a valorização das crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A garantia da sustentabilidade ambiental e o combate ao trabalho infantil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

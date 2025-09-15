@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2010",
+    "index": 63,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático de uma célula eletrolítica para a eletrólise da água. A célula é dividida em dois compartimentos separados por um eletrólito. No lado esquerdo, gás hidrogênio (H₂) entra e se transforma em íons hidrogênio (2H⁺) e elétrons (2e⁻). No lado direito, os íons hidrogênio reagem com o oxigênio (O₂) para formar água (H₂O) e liberar oxigênio gasoso. Elétrons fluem do ânodo para o cátodo através de um circuito externo, indicando a corrente elétrica. As legendas 'ânodo', 'eletrólito' e 'cátodo' estão rotuladas.])",
+    "files": [
+        "Diagrama esquemático de uma célula eletrolítica para a eletrólise da água. A célula é dividida em dois compartimentos separados por um eletrólito. No lado esquerdo, gás hidrogênio (H₂) entra e se transforma em íons hidrogênio (2H⁺) e elétrons (2e⁻). No lado direito, os íons hidrogênio reagem com o oxigênio (O₂) para formar água (H₂O) e liberar oxigênio gasoso. Elétrons fluem do ânodo para o cátodo através de um circuito externo, indicando a corrente elétrica. As legendas 'ânodo', 'eletrólito' e 'cátodo' estão rotuladas."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base no texto e na figura, a produção de energia elétrica por meio da célula a combustível hidrogênio/oxigênio diferencia-se dos processos convencionais porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Transforma energia química em energia elétrica, sem causar danos ao meio ambiente, porque o principal subproduto formado é a água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Converte a energia química contida nas moléculas dos componentes em energia térmica, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Transforma energia química em energia elétrica, porém emite gases poluentes da mesma forma que a produção de energia a partir dos combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Converte energia elétrica proveniente dos combustíveis fósseis em energia química, retendo os gases poluentes produzidos no processo sem alterar a qualidade do meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Converte a energia potencial acumulada nas moléculas de água contidas no sistema em energia química, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

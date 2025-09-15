@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2017",
+    "index": 171,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma fotografia em preto e branco dividida em duas partes. A parte superior apresenta um sistema de irrigação por aspersão circular, com braços giratórios conectados a uma torre central alta e robusta. O sistema está localizado em um campo cultivado, com vegetação densa estendendo-se até o horizonte sob um céu parcialmente nublado. Na parte inferior da imagem, há um diagrama esquemático que ilustra o funcionamento do sistema de irrigação. Ele mostra círculos concêntricos representando a área irrigada, com pontos marcados como 'BASE', 'T1', 'T2' e 'T3', indicando posições ou componentes do sistema. Uma seta indica a direção da rotação.])\n\nUm pivô de três torres (T1, T2 e T3) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T1 são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.",
+    "files": [
+        "A imagem mostra uma fotografia em preto e branco dividida em duas partes. A parte superior apresenta um sistema de irrigação por aspersão circular, com braços giratórios conectados a uma torre central alta e robusta. O sistema está localizado em um campo cultivado, com vegetação densa estendendo-se até o horizonte sob um céu parcialmente nublado. Na parte inferior da imagem, há um diagrama esquemático que ilustra o funcionamento do sistema de irrigação. Ele mostra círculos concêntricos representando a área irrigada, com pontos marcados como 'BASE', 'T1', 'T2' e 'T3', indicando posições ou componentes do sistema. Uma seta indica a direção da rotação."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para atingir seu objetivo, as velocidades das torres T1, T2 e T3 devem ser, em metro por hora, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12, 24 e 36.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "6, 12 e 18.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2, 4 e 6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "300, 1200 e 2700.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "600, 2400 e 5400.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

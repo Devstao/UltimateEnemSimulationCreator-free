@@ -1,0 +1,45 @@
+{
+    "title": "Questão 84 - ENEM 2015",
+    "index": 84,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: O diagrama representa uma reação exotérmica, com energia sendo liberada. No topo, há os reagentes 'Bio-óleo + O2 (g)'. Abaixo, está o produto 'CO2 (g) + H2O (l)', conectado aos reagentes por duas setas verticais. A primeira seta é marcada como ΔH1 = -18,8 kJ/g e a segunda como ΔH2 = -2,4 kJ/g. O eixo vertical à esquerda está rotulado como 'Energia', indicando que ela aumenta para cima.])",
+    "files": [
+        "O diagrama representa uma reação exotérmica, com energia sendo liberada. No topo, há os reagentes 'Bio-óleo + O2 (g)'. Abaixo, está o produto 'CO2 (g) + H2O (l)', conectado aos reagentes por duas setas verticais. A primeira seta é marcada como ΔH1 = -18,8 kJ/g e a segunda como ΔH2 = -2,4 kJ/g. O eixo vertical à esquerda está rotulado como 'Energia', indicando que ela aumenta para cima."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A variação de entalpia, em kJ, para a queima de 5 g desse bio-óleo resultando em CO2 (gasoso) e H2O (gasoso) é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "-106.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "-94,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "-82,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "-21,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "-16,4.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

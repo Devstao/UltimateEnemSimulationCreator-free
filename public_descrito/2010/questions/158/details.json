@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2010",
+    "index": 158,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma ilustração simplificada de uma árvore com um homem medindo seu rodo. Ao lado da ilustração, há um texto explicando como calcular o volume da tora da árvore em metros cúbicos usando a fórmula V = rodo² x altura x 0,06. O texto também especifica que o rodo e a altura devem ser medidos em metros e que o coeficiente 0,06 foi obtido experimentalmente. A ilustração indica que a árvore tem 2 metros de rodo.])\n\nUm técnico em manejo florestal recebeu a missão de cubar, abater e transportar cinco toras de madeira, de  \nduas espécies diferentes, sendo\n\n• 3 toras da espécie I, com 3 m de rodo, 12 m de comprimento e densidade 0,77 toneladas/m³;  \n• 2 toras da espécie II, com 4 m de rodo, 10 m de comprimento e densidade 0,78 toneladas/m³.",
+    "files": [
+        "A imagem mostra uma ilustração simplificada de uma árvore com um homem medindo seu rodo. Ao lado da ilustração, há um texto explicando como calcular o volume da tora da árvore em metros cúbicos usando a fórmula V = rodo² x altura x 0,06. O texto também especifica que o rodo e a altura devem ser medidos em metros e que o coeficiente 0,06 foi obtido experimentalmente. A ilustração indica que a árvore tem 2 metros de rodo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após realizar seus cálculos, o técnico solicitou que enviassem caminhões para transportar uma carga de, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "29,9 toneladas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "31,1 toneladas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "32,4 toneladas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35,3 toneladas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "41,8 toneladas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

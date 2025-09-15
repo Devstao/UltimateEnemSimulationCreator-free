@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2017",
+    "index": 138,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Raios de luz solar estão atingindo a superfície de um lago formando um ângulo X com a sua superfície, conforme indica a figura.\n\nEm determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por I(x) = k . sen(x)\n\nsendo k uma constante, e supondo-se que X está entre 0° e 90º.\n\n![]([descrição: Diagrama ilustrando a reflexão da luz. Uma linha horizontal representa o solo, e um ponto acima dela representa o sol. Um raio de luz, representado por uma linha tracejada, incide sobre o solo em um ângulo 'x', refletindo-se em outra direção.])",
+    "files": [
+        "Diagrama ilustrando a reflexão da luz. Uma linha horizontal representa o solo, e um ponto acima dela representa o sol. Um raio de luz, representado por uma linha tracejada, incide sobre o solo em um ângulo 'x', refletindo-se em outra direção."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quando x = 30º, a intensidade luminosa se reduz a qual percentual de seu valor máximo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "33%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "57%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "70%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "86%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

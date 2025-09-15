@@ -1,0 +1,47 @@
+{
+    "title": "Questão 170 - ENEM 2023",
+    "index": 170,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão ![]([descrição: A imagem mostra uma equação matemática escrita em preto sobre um fundo branco. A equação é V(x) = x²/4 - 10x + 105.]) , em que os valores de x representam os dias do mês, variando de 1 a 30.\n\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário ![]([descrição: A imagem mostra duas letras manuscritas: 'V' e 'o'. A letra 'V' está posicionada acima da letra 'o'.]) arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.\n\n![]([descrição: A imagem mostra uma lista de classificações com seus respectivos valores numéricos associados. As classificações são: Ótimo (V₀ ≥ 24), Bom (20 ≤ V₀ < 24), Normal (10 ≤ V₀ < 20), Ruim (4 ≤ V₀ < 10) e Péssimo (V₀ < 4). Cada classificação é precedida por um ponto.])",
+    "files": [
+        "A imagem mostra uma equação matemática escrita em preto sobre um fundo branco. A equação é V(x) = x²/4 - 10x + 105.",
+        "A imagem mostra duas letras manuscritas: 'V' e 'o'. A letra 'V' está posicionada acima da letra 'o'.",
+        "A imagem mostra uma lista de classificações com seus respectivos valores numéricos associados. As classificações são: Ótimo (V₀ ≥ 24), Bom (20 ≤ V₀ < 24), Normal (10 ≤ V₀ < 20), Ruim (4 ≤ V₀ < 10) e Péssimo (V₀ < 4). Cada classificação é precedida por um ponto."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No caso analisado, qual seria a classificação do desempenho da empresa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ótimo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Bom.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Normal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ruim.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Péssimo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2011",
+    "index": 127,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma sacola de açúcar, vista em close-up, com a palavra 'AÇÚCAR' impressa na lateral. A sacola está cheia e amarrada no topo, com um formato que lembra vagamente o corpo humano, incluindo uma protuberância que se assemelha a uma barriga com um botão umbilical visível. A imagem é em preto e branco e há texto adicional na parte inferior direita que diz 'Mude sua embalagem'.])\n\nDisponível em: http://www.ccsp.com.br. Acesso em: 27 jul. 2010 (adaptado).",
+    "files": [
+        "A imagem mostra uma sacola de açúcar, vista em close-up, com a palavra 'AÇÚCAR' impressa na lateral. A sacola está cheia e amarrada no topo, com um formato que lembra vagamente o corpo humano, incluindo uma protuberância que se assemelha a uma barriga com um botão umbilical visível. A imagem é em preto e branco e há texto adicional na parte inferior direita que diz 'Mude sua embalagem'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto é uma propaganda de um adoçante que tem o seguinte mote: “Mude sua embalagem”. A estratégia que o autor utiliza para o convencimento do leitor baseia-se no emprego de recursos expressivos, verbais e não verbais, com vistas a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ridicularizar a forma física do possível cliente do produto anunciado, aconselhando-o a uma busca de mudanças estéticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Enfatizar a tendência da sociedade contemporânea de buscar hábitos alimentares saudáveis, reforçando tal postura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Criticar o consumo excessivo de produtos industrializados por parte da população, propondo a redução desse consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Associar o vocábulo “açúcar” à imagem do corpo fora de forma, sugerindo a substituição desse produto pelo adoçante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Relacionar a imagem do saco de açúcar a um corpo humano que não desenvolve atividades físicas, incentivando a prática esportiva.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

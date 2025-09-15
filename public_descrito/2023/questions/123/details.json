@@ -1,0 +1,46 @@
+{
+    "title": "Questão 123 - ENEM 2023",
+    "index": 123,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:\n\n![]([descrição: A imagem mostra uma representação esquemática da estrutura molecular do ibuprofeno. A molécula é composta por um anel benzênico ligado a uma cadeia lateral com grupos metil e isopropil, além de um grupo carboxílico (COOH). Abaixo da estrutura, o nome 'Ibuprofeno' está escrito em letras azuis.])\n\nAlém do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:\n\n![]([descrição: A imagem mostra diagramas estruturais de cinco moléculas orgânicas, dispostas em duas fileiras com duas moléculas cada na primeira fileira e uma molécula na segunda. Cada diagrama é rotulado com o nome da molécula abaixo. As moléculas representadas são: Fenacetina, Paracetamol, Dipirona sódica, Diclofenaco sódico e Butilbrometo de escopolamina.])",
+    "files": [
+        "A imagem mostra uma representação esquemática da estrutura molecular do ibuprofeno. A molécula é composta por um anel benzênico ligado a uma cadeia lateral com grupos metil e isopropil, além de um grupo carboxílico (COOH). Abaixo da estrutura, o nome 'Ibuprofeno' está escrito em letras azuis.",
+        "A imagem mostra diagramas estruturais de cinco moléculas orgânicas, dispostas em duas fileiras com duas moléculas cada na primeira fileira e uma molécula na segunda. Cada diagrama é rotulado com o nome da molécula abaixo. As moléculas representadas são: Fenacetina, Paracetamol, Dipirona sódica, Diclofenaco sódico e Butilbrometo de escopolamina."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fenacetina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Paracetamol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dipirona sódica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diclofenaco sódico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Butilbrometo de escopolamina.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

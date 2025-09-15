@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2013",
+    "index": 90,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática da estrutura molecular de um composto orgânico, rotulado como 'NanoKid'. A molécula consiste em dois anéis benzênicos conectados, com várias cadeias laterais ramificadas e um grupo dioxolano ligado a um dos anéis. As ligações são representadas por linhas, indicando as conexões entre os átomos de carbono. Abaixo da estrutura molecular, há uma legenda que cita a fonte como 'CHANTEAU, S. H.; TOUR, J. M. The Journal of Organic Chemistry, v. 68, n. 23, 2003 (adaptado)'.])",
+    "files": [
+        "A imagem mostra uma representação esquemática da estrutura molecular de um composto orgânico, rotulado como 'NanoKid'. A molécula consiste em dois anéis benzênicos conectados, com várias cadeias laterais ramificadas e um grupo dioxolano ligado a um dos anéis. As ligações são representadas por linhas, indicando as conexões entre os átomos de carbono. Abaixo da estrutura molecular, há uma legenda que cita a fonte como 'CHANTEAU, S. H.; TOUR, J. M. The Journal of Organic Chemistry, v. 68, n. 23, 2003 (adaptado)'."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em que parte do corpo do NanoKid existe carbono quaternário?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mãos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Cabeça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tórax.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Abdômen.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pés.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

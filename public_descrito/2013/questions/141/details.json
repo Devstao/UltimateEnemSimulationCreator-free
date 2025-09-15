@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2013",
+    "index": 141,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: Diagrama mostrando três círculos mutuamente tangentes dentro de um círculo maior. O círculo maior tem um diâmetro marcado como '10 cm'. Um dos círculos menores está posicionado no topo, enquanto os outros dois estão na base, lado a lado. A distância entre o centro do círculo maior e o centro do círculo menor superior é marcada como '30 cm'. O raio do círculo maior é indicado pela letra 'R'.])",
+    "files": [
+        "Diagrama mostrando três círculos mutuamente tangentes dentro de um círculo maior. O círculo maior tem um diâmetro marcado como '10 cm'. Um dos círculos menores está posicionado no topo, enquanto os outros dois estão na base, lado a lado. A distância entre o centro do círculo maior e o centro do círculo menor superior é marcada como '30 cm'. O raio do círculo maior é indicado pela letra 'R'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Utilize 1,7 como aproximação para √3\nO valor de R, em centímetros, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "64,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "65,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "74,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "81,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "91,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

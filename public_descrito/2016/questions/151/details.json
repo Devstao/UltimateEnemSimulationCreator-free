@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2016",
+    "index": 151,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra a relação entre idade (em meses completos) e comprimento/estatura (em centímetros) para diferentes percentis de crescimento infantil. O eixo horizontal representa a idade, variando de 3 anos (36 meses) até 5 anos (60 meses), com marcações a cada mês. O eixo vertical representa o comprimento/estatura, variando de 80 cm a 120 cm, com marcações a cada 5 cm. Cinco linhas são traçadas no gráfico, representando os percentis p3, p15, p50, p85 e p97. A linha p3 é a mais baixa e plana, enquanto a linha p97 é a mais alta e inclinada. As demais linhas estão entre elas, com inclinações intermediárias.])\n\nUma menina aos 3 anos de idade tinha altura de 85 centímetros e aos 4 anos e 4 meses sua altura chegou a um valor que corresponde a um ponto exatamente sobre a curva p50.",
+    "files": [
+        "O gráfico mostra a relação entre idade (em meses completos) e comprimento/estatura (em centímetros) para diferentes percentis de crescimento infantil. O eixo horizontal representa a idade, variando de 3 anos (36 meses) até 5 anos (60 meses), com marcações a cada mês. O eixo vertical representa o comprimento/estatura, variando de 80 cm a 120 cm, com marcações a cada 5 cm. Cinco linhas são traçadas no gráfico, representando os percentis p3, p15, p50, p85 e p97. A linha p3 é a mais baixa e plana, enquanto a linha p97 é a mais alta e inclinada. As demais linhas estão entre elas, com inclinações intermediárias."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual foi o aumento percentual da altura dessa menina, descrito com uma casa decimal, no período considerado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "23,5%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "21,2%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "19,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "11,8%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10,0%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

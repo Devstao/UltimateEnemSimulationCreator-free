@@ -1,0 +1,46 @@
+{
+    "title": "Questão 134 - ENEM 2017",
+    "index": 134,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é utilizada em escala de laboratório na síntese de aldeídos e cetonas. As duplas ligações dos alcenos são clivadas pela oxidação com o ozônio (O3), em presença de água e zinco metálico, e a reação produz aldeídos e/ou cetonas, dependendo do grau de substituição da ligação dupla. Ligações duplas dissubstituídas geram cetonas, enquanto as ligações duplas terminais ou monossubstituídas dão origem a aldeídos, como mostra o esquema.\n\n![]([descrição: A imagem mostra uma reação química representada por diagramas de estruturas moleculares. No lado esquerdo, há a molécula de but-1-eno (CH3CH2CH=CH2). Uma seta indica a transformação da molécula em dois produtos: propanal (CH3CH2CHO) e metanal (HCHO). Acima da seta, estão indicados os reagentes da reação: O3, H2O e Zn.])\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno:\n\n![]([descrição: A imagem mostra uma representação esquemática da estrutura molecular do composto químico 1-fenil-2-metilprop-1-eno. A molécula é desenhada em linhas pretas sobre um fundo branco, com anéis e ligações representando os átomos de carbono e hidrogênio. Abaixo da estrutura, há o nome do composto escrito em letras azuis.])\n\nMARTINO, A. **Química, a ciência global.** Goiânia: Editora W, 2014 (adaptado)",
+    "files": [
+        "A imagem mostra uma reação química representada por diagramas de estruturas moleculares. No lado esquerdo, há a molécula de but-1-eno (CH3CH2CH=CH2). Uma seta indica a transformação da molécula em dois produtos: propanal (CH3CH2CHO) e metanal (HCHO). Acima da seta, estão indicados os reagentes da reação: O3, H2O e Zn.",
+        "A imagem mostra uma representação esquemática da estrutura molecular do composto químico 1-fenil-2-metilprop-1-eno. A molécula é desenhada em linhas pretas sobre um fundo branco, com anéis e ligações representando os átomos de carbono e hidrogênio. Abaixo da estrutura, há o nome do composto escrito em letras azuis."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quais são os produtos formados nessa reação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Benzaldeído e propanona.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Propanal e benzaldeído.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2-fenil-etanal e metanal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Benzeno e propanona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Benzaldeído e etanal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

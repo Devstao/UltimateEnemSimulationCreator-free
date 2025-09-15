@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2020",
+    "index": 67,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O mapa mostra uma representação esquemática da África Oriental e parte da Ásia, com destaque para o Vale da Grande Fenda (marcado por uma linha tracejada verde) que se estende do Mar Vermelho até o Oceano Índico. Vários vulcões (marcados por triângulos vermelhos) estão localizados ao longo do vale e em áreas adjacentes. Os continentes África e Ásia são identificados, assim como o Oceano Índico.])\n\nDisponível em: https://noticias.uol.com.br. Acesso em: l3 jun. 2018  \n(adaptado).",
+    "files": [
+        "O mapa mostra uma representação esquemática da África Oriental e parte da Ásia, com destaque para o Vale da Grande Fenda (marcado por uma linha tracejada verde) que se estende do Mar Vermelho até o Oceano Índico. Vários vulcões (marcados por triângulos vermelhos) estão localizados ao longo do vale e em áreas adjacentes. Os continentes África e Ásia são identificados, assim como o Oceano Índico."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os aspectos físicos apresentados originam-se da atuação da força natural de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Colisão de placas tectônicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Rifteamento da crosta terrestre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Subducção da plataforma oceânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Formação de cadeias montanhosas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Metamorfismo de bordas continentais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

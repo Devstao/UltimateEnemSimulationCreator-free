@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2014",
+    "index": 143,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma linha preta grossa sobre um fundo branco. A linha tem uma forma peculiar, começando com dois ângulos agudos que se aproximam e se unem em um ponto estreito. Em seguida, ela se alarga novamente, formando outro ponto estreito antes de se expandir para formar dois ângulos agudos que convergem para a parte superior da imagem.])\n\nNo topo da escultura foi ligada uma torneira que verte água, para dentro dela, com vazão constante.",
+    "files": [
+        "A imagem mostra uma linha preta grossa sobre um fundo branco. A linha tem uma forma peculiar, começando com dois ângulos agudos que se aproximam e se unem em um ponto estreito. Em seguida, ela se alarga novamente, formando outro ponto estreito antes de se expandir para formar dois ângulos agudos que convergem para a parte superior da imagem."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O gráfico que expressa a altura (h) da água na escultura em função do tempo (t) decorrido é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/143/4d7826cb-921c-4dff-97ce-81149babd82f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/143/2d316985-fd36-476a-bbe0-7afe7e3b023f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/143/8e77cb3b-c40c-4d99-99ed-8570710b158b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/143/34491019-1b0e-408f-8215-32a73523f426.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/143/98ea7324-d1b1-4850-8c7e-e38c23efd1f6.png",
+            "isCorrect": false
+        }
+    ]
+}

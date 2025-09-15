@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2012",
+    "index": 45,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem é uma charge em preto e branco, representando duas plantas brotando do solo. Uma das plantas possui um balão de fala que diz: 'Oh, transgênico... Dizem que está faltando alimento no mundo. Mas não tinham inventado um tipo de planta que ia acabar com a fome?'. A outra planta responde em outro balão de fala: 'Ahhh... Não tô sabendo.'. Na parte inferior da imagem, há uma assinatura e informações sobre a fonte da charge.])",
+    "files": [
+        "A imagem é uma charge em preto e branco, representando duas plantas brotando do solo. Uma das plantas possui um balão de fala que diz: 'Oh, transgênico... Dizem que está faltando alimento no mundo. Mas não tinham inventado um tipo de planta que ia acabar com a fome?'. A outra planta responde em outro balão de fala: 'Ahhh... Não tô sabendo.'. Na parte inferior da imagem, há uma assinatura e informações sobre a fonte da charge."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na charge faz-se referência a uma modificação produtiva ocorrida na agricultura. Uma contradição presente no espaço rural brasileiro derivada dessa modificação produtiva está presente em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expansão das terras agricultáveis, com manutenção de desigualdades sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Modernização técnica do território, com redução do nível de emprego formal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Valorização de atividades de subsistência, com redução da produtividade da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desenvolvimento de núcleos policultores, com ampliação da concentração fundiária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Melhora da qualidade dos produtos, com retração na exportação de produtos primários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 68 - ENEM 2010",
+    "index": 68,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra dois diagramas esquemáticos de medidores de eletricidade, um representando a leitura atual e outro a leitura do mês passado. Cada diagrama consiste em cinco mostradores circulares com números de 0 a 9 ao redor da borda. Os ponteiros indicam valores diferentes em cada mostrador. No canto superior direito da imagem, há uma fotografia em preto e branco de um medidor de eletricidade real montado na parede. Na parte inferior da imagem, há uma linha de texto com informações sobre a fonte do material.])",
+    "files": [
+        "A imagem mostra dois diagramas esquemáticos de medidores de eletricidade, um representando a leitura atual e outro a leitura do mês passado. Cada diagrama consiste em cinco mostradores circulares com números de 0 a 9 ao redor da borda. Os ponteiros indicam valores diferentes em cada mostrador. No canto superior direito da imagem, há uma fotografia em preto e branco de um medidor de eletricidade real montado na parede. Na parte inferior da imagem, há uma linha de texto com informações sobre a fonte do material."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O valor a ser pago pelo consumo de energia elétrica registrado seria de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 42,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 42,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 43,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 43,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 44,00.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

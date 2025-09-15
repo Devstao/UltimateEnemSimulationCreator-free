@@ -1,0 +1,45 @@
+{
+    "title": "Questão 79 - ENEM 2014",
+    "index": 79,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em um hospital havia cinco lotes de bolsas de sangue, rotulados com os códigos I, II, III, IV e V. Cada lote continha apenas o tipo sanguíneo não identificado. Uma funcionária do hospital resolveu fazer uma identificação utilizando dois tipos de soro, anti-A e anti-B. Os resultados obtidos estão descritos no quadro.\n\n![]([descrição: A imagem mostra uma tabela com dados sobre diferentes lotes de sangue. A tabela possui quatro colunas: 'Código dos lotes', 'Volume de sangue (L)', 'Soro anti-A' e 'Soro anti-B'. As linhas da tabela representam os lotes I, II, III, IV e V. O lote I tem 22 litros e não aglutinou com o soro anti-A, mas aglutinou com o soro anti-B. O lote II tem 25 litros e aglutinou com o soro anti-A, mas não aglutinou com o soro anti-B. O lote III tem 30 litros e aglutinou com ambos os soros. O lote IV tem 15 litros e não aglutinou com nenhum dos soros. O lote V tem 33 litros e não aglutinou com o soro anti-A, mas aglutinou com o soro anti-B.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre diferentes lotes de sangue. A tabela possui quatro colunas: 'Código dos lotes', 'Volume de sangue (L)', 'Soro anti-A' e 'Soro anti-B'. As linhas da tabela representam os lotes I, II, III, IV e V. O lote I tem 22 litros e não aglutinou com o soro anti-A, mas aglutinou com o soro anti-B. O lote II tem 25 litros e aglutinou com o soro anti-A, mas não aglutinou com o soro anti-B. O lote III tem 30 litros e aglutinou com ambos os soros. O lote IV tem 15 litros e não aglutinou com nenhum dos soros. O lote V tem 33 litros e não aglutinou com o soro anti-A, mas aglutinou com o soro anti-B."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantos litros de sangue eram do grupo sanguíneo do tipo A?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "25",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "55",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

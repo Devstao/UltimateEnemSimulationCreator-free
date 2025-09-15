@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2022",
+    "index": 131,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela.Associações similares ocorriam no passadoda história da químicaorgânica, quando os compostosditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.\n\n![]([descrição: A imagem mostra seis estruturas químicas representadas como fórmulas estruturais, dispostas em uma grade de três colunas e duas linhas. Cada estrutura é acompanhada por um nome (Benzaldeído, Salicilato de metila, Anetol, Vanilina, Eugenol, Cinnamaldeído) e uma breve descrição indicando a fonte natural da qual é extraída (óleo de amêndoas, óleo de gaulteria, óleo de anis, óleo de baunilha, óleo de cravos, óleo de canela). As fórmulas estruturais são representadas em preto sobre um fundo branco.])\n\nSOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).",
+    "files": [
+        "A imagem mostra seis estruturas químicas representadas como fórmulas estruturais, dispostas em uma grade de três colunas e duas linhas. Cada estrutura é acompanhada por um nome (Benzaldeído, Salicilato de metila, Anetol, Vanilina, Eugenol, Cinnamaldeído) e uma breve descrição indicando a fonte natural da qual é extraída (óleo de amêndoas, óleo de gaulteria, óleo de anis, óleo de baunilha, óleo de cravos, óleo de canela). As fórmulas estruturais são representadas em preto sobre um fundo branco."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A característica estrutural dessa família de compostos é a presença de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ramificações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Insaturações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Anel benzênico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Átomos de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Carbonos assimétricos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

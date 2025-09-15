@@ -1,0 +1,45 @@
+{
+    "title": "Questão 69 - ENEM 2010",
+    "index": 69,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela comparativa entre metanol (CH3OH) e etanol (CH3CH2OH). A tabela possui três colunas: 'Álcool', 'Densidade a 25 °C (g/mL)' e 'Calor de Combustão (kJ/mol). O metanol tem densidade de 0,79 g/mL e calor de combustão de -726,0 kJ/mol. O etanol também possui densidade de 0,79 g/mL e calor de combustão de -1367,0 kJ/mol. Na parte inferior da imagem, há informações sobre as massas molares dos elementos: H = 1,0; C = 12,0; O = 16,0. A fonte dos dados é citada como BAIRD, C. Química Ambiental. São Paulo: Artmed, 1995 (adaptado).])",
+    "files": [
+        "A imagem mostra uma tabela comparativa entre metanol (CH3OH) e etanol (CH3CH2OH). A tabela possui três colunas: 'Álcool', 'Densidade a 25 °C (g/mL)' e 'Calor de Combustão (kJ/mol). O metanol tem densidade de 0,79 g/mL e calor de combustão de -726,0 kJ/mol. O etanol também possui densidade de 0,79 g/mL e calor de combustão de -1367,0 kJ/mol. Na parte inferior da imagem, há informações sobre as massas molares dos elementos: H = 1,0; C = 12,0; O = 16,0. A fonte dos dados é citada como BAIRD, C. Química Ambiental. São Paulo: Artmed, 1995 (adaptado)."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considere que, em pequenos volumes, o custo de produção de ambos os alcoóis seja o mesmo. Dessa forma, do ponto de vista econômico, é mais vantajoso utilizar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Metanol, pois sua combustão completa fornece, aproximadamente, 22,7 kJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Etanol, pois sua combustão completa fornece, aproximadamente, 29,7 kJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Metanol, pois sua combustão completa fornece, aproximadamente, 17,9 MJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Etanol, pois sua combustão completa fornece, aproximadamente, 23,5 MJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Etanol, pois sua combustão completa fornece, aproximadamente, 33,7 MJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

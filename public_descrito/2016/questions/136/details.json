@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2016",
+    "index": 136,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma figura geométrica composta por um cilindro e dois cones idênticos, ambos com suas bases circulares conectadas ao topo do cilindro. O cilindro tem altura de 12 metros e diâmetro de 3 metros. Cada cone tem altura de 3 metros. As dimensões estão indicadas em metros.])",
+    "files": [
+        "A imagem mostra uma figura geométrica composta por um cilindro e dois cones idênticos, ambos com suas bases circulares conectadas ao topo do cilindro. O cilindro tem altura de 12 metros e diâmetro de 3 metros. Cada cone tem altura de 3 metros. As dimensões estão indicadas em metros."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Utilize 3 como aproximação para π.\nO número mínimo de viagens que o caminhão precisará fazer para transportar todo o volume de grãos armazenados no silo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "17",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "18",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

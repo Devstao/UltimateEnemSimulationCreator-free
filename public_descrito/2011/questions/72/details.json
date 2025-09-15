@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2011",
+    "index": 72,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática da estrutura molecular do ácido cólico. A molécula é complexa, composta por anéis e cadeias de carbono com grupos hidroxila (OH) e metil (CH3) ligados a eles. Há também um grupo carboxílico (-COOH) na extremidade da cadeia. Abaixo da estrutura, está escrito o nome 'ácido cólico'. Na parte inferior da imagem, há uma citação de referência bibliográfica.])",
+    "files": [
+        "A imagem mostra uma representação esquemática da estrutura molecular do ácido cólico. A molécula é complexa, composta por anéis e cadeias de carbono com grupos hidroxila (OH) e metil (CH3) ligados a eles. Há também um grupo carboxílico (-COOH) na extremidade da cadeia. Abaixo da estrutura, está escrito o nome 'ácido cólico'. Na parte inferior da imagem, há uma citação de referência bibliográfica."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A combinação entre o ácido cólico e a glicina ou taurina origina a função amida, formada pela reação entre o grupo amina desses aminoácidos e o grupo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Carboxila do ácido cólico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aldeído do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Hidroxila do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cetona do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Éster do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

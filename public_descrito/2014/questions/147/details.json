@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2014",
+    "index": 147,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um triângulo com pontos ao longo de cada lado. Os lados do triângulo são linhas retas, e os pontos estão espaçados uniformemente ao longo de cada lado. Cada ponto é representado por um círculo pequeno.])",
+    "files": [
+        "A imagem mostra um triângulo com pontos ao longo de cada lado. Os lados do triângulo são linhas retas, e os pontos estão espaçados uniformemente ao longo de cada lado. Cada ponto é representado por um círculo pequeno."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A quantidade máxima de triângulos não congruentes dois a dois que podem ser construídos é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

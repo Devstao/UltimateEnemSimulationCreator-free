@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2021",
+    "index": 144,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando suas idades, e organizou esses dados no gráfico.\n\n![]([descrição: O gráfico de barras representa a frequência de ocorrência em relação à idade, medida em anos. O eixo vertical (y) é rotulado como 'Frequência de ocorrência' e varia de 0 a 12. O eixo horizontal (x) é rotulado como 'Idade (ano)' e mostra três categorias: 9, 18 e 27 anos. A barra correspondente à idade de 9 anos tem uma frequência de aproximadamente 6. A barra para 18 anos tem a maior frequência, com um valor próximo a 12. Finalmente, a barra para 27 anos exibe uma frequência de cerca de 9.])",
+    "files": [
+        "O gráfico de barras representa a frequência de ocorrência em relação à idade, medida em anos. O eixo vertical (y) é rotulado como 'Frequência de ocorrência' e varia de 0 a 12. O eixo horizontal (x) é rotulado como 'Idade (ano)' e mostra três categorias: 9, 18 e 27 anos. A barra correspondente à idade de 9 anos tem uma frequência de aproximadamente 6. A barra para 18 anos tem a maior frequência, com um valor próximo a 12. Finalmente, a barra para 27 anos exibe uma frequência de cerca de 9."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a média das idades, em ano, desses alunos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "19",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "27",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

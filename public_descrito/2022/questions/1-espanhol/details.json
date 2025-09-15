@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2022",
+    "index": 1,
+    "year": 2022,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é um pôster em preto e branco com texto em zapoteco e espanhol. No topo, há frases em zapoteco seguidas de uma linha que indica que se trata de um provérbio zapoteco. Abaixo do provérbio, a pergunta '¿Te gustó?' (Você gostou?). A parte central da imagem apresenta um desenho estilizado de um guaxinim ou outro animal com listras brancas em um fundo preto. Na parte inferior, há um texto em espanhol que fala sobre a importância das línguas originárias para a cultura e patrimônio nacional. Há também logotipos da Secretaría de Educación Pública (SEP) e do Instituto Nacional de Lenguas Indígenas (INALI), juntamente com o endereço do site do INALI.])\n\nDisponível em: www.inali.gob.mx. Acesso em: 2 dez. 2018.",
+    "files": [
+        "A imagem é um pôster em preto e branco com texto em zapoteco e espanhol. No topo, há frases em zapoteco seguidas de uma linha que indica que se trata de um provérbio zapoteco. Abaixo do provérbio, a pergunta '¿Te gustó?' (Você gostou?). A parte central da imagem apresenta um desenho estilizado de um guaxinim ou outro animal com listras brancas em um fundo preto. Na parte inferior, há um texto em espanhol que fala sobre a importância das línguas originárias para a cultura e patrimônio nacional. Há também logotipos da Secretaría de Educación Pública (SEP) e do Instituto Nacional de Lenguas Indígenas (INALI), juntamente com o endereço do site do INALI."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse cartaz tem a função social de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difundi a arte iconográfica indígena mexicana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Resgatar a literatura popular produzida em língua zapoteca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Questionar o conhecimento do povo mexicano sobre as línguas ameríndias",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Destacar o papel dos órgãos governamentais na conservação das línguas no México.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Defender a preservação das línguas originárias garantindo a diversidade linguística mexicana.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

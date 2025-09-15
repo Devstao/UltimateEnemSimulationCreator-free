@@ -1,0 +1,46 @@
+{
+    "title": "Questão 151 - ENEM 2017",
+    "index": 151,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A avaliação de rendimento de alunos de um curso universitário baseia-se na média ponderada das notas obtidas nas disciplinas pelos respectivos números de créditos, como mostra o quadro:\n\n![]([descrição: A imagem mostra uma tabela com duas colunas: 'Avaliação' e 'Média de notas (M)'. A coluna 'Avaliação' lista as seguintes opções: Excelente, Bom, Regular, Ruim e Péssimo. As linhas correspondentes na coluna 'Média de notas (M)' indicam os intervalos numéricos para cada avaliação: 9 < M ≤ 10 para Excelente; 7 ≤ M ≤ 9 para Bom; 5 ≤ M < 7 para Regular; 3 ≤ M < 5 para Ruim; e M < 3 para Péssimo.])\n\nQuanto melhor a avaliação de um aluno em determinado período letivo, maior sua prioridade na escolha de disciplinas para o período seguinte.\n\nDeterminado aluno sabe que se obtiver avaliação “Bom” ou “Excelente” conseguirá matrícula nas disciplinas que deseja. Ele já realizou as provas de 4 das 5 disciplinas em que está matriculado, mas ainda não realizou a prova da disciplina I, conforme o quadro.\n\n![]([descrição: A imagem mostra uma tabela com três colunas: 'Disciplinas', 'Notas' e 'Número de créditos'. A coluna 'Disciplinas' lista as disciplinas I, II, III, IV e V. A coluna 'Notas' apresenta as notas correspondentes a cada disciplina: 8.00 para a disciplina II, 6.00 para a disciplina III, 5.00 para a disciplina IV e 7.50 para a disciplina V. A coluna 'Número de créditos' indica o número de créditos para cada disciplina: 12 para a disciplina I, 4 para a disciplina II, 8 para as disciplinas III e IV, e 10 para a disciplina V.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Avaliação' e 'Média de notas (M)'. A coluna 'Avaliação' lista as seguintes opções: Excelente, Bom, Regular, Ruim e Péssimo. As linhas correspondentes na coluna 'Média de notas (M)' indicam os intervalos numéricos para cada avaliação: 9 < M ≤ 10 para Excelente; 7 ≤ M ≤ 9 para Bom; 5 ≤ M < 7 para Regular; 3 ≤ M < 5 para Ruim; e M < 3 para Péssimo.",
+        "A imagem mostra uma tabela com três colunas: 'Disciplinas', 'Notas' e 'Número de créditos'. A coluna 'Disciplinas' lista as disciplinas I, II, III, IV e V. A coluna 'Notas' apresenta as notas correspondentes a cada disciplina: 8.00 para a disciplina II, 6.00 para a disciplina III, 5.00 para a disciplina IV e 7.50 para a disciplina V. A coluna 'Número de créditos' indica o número de créditos para cada disciplina: 12 para a disciplina I, 4 para a disciplina II, 8 para as disciplinas III e IV, e 10 para a disciplina V."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para que atinja seu objetivo, a nota mínima que ele deve conseguir na disciplina I é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7,38.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8,25.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "9,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

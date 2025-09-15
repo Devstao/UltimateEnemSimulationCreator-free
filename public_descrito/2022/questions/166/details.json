@@ -1,0 +1,39 @@
+{
+    "title": "Questão 166 - ENEM 2022",
+    "index": 166,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma competição de velocidade, diz-se que há uma ultrapassagem quando um veículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo sentido. Considere uma competição automobilística entre cinco carros em uma pista com 100 m de comprimento, onde todos largam no mesmo instante e da mesma linha.  \nO gráfico mostra a variação da distância percorrida por cada  \nveículo, em função do tempo, durante toda a competição.\n\n![]([descrição: O gráfico mostra quatro linhas retas, todas partindo da origem (0,0). As linhas representam o movimento de objetos ao longo do tempo, com a distância percorrida no eixo y e o tempo no eixo x. A linha superior direita tem a maior inclinação, indicando a maior velocidade constante. As outras três linhas têm inclinações menores, representando velocidades constantes mais baixas. O eixo x (tempo) vai até 15 segundos, e o eixo y (distância) vai até 100 metros.])",
+    "files": [
+        "O gráfico mostra quatro linhas retas, todas partindo da origem (0,0). As linhas representam o movimento de objetos ao longo do tempo, com a distância percorrida no eixo y e o tempo no eixo x. A linha superior direita tem a maior inclinação, indicando a maior velocidade constante. As outras três linhas têm inclinações menores, representando velocidades constantes mais baixas. O eixo x (tempo) vai até 15 segundos, e o eixo y (distância) vai até 100 metros."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo que chegou em\núltimo lugar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

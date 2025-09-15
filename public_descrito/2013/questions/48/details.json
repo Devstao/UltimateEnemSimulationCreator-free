@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2013",
+    "index": 48,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático mostrando dois recipientes cilíndricos, um transparente e outro opaco, dispostos lado a lado sobre uma superfície horizontal. Entre os recipientes, há uma lâmpada incandescente emitindo luz em direção a ambos. Um termômetro está posicionado entre os recipientes, indicando que ele está sendo usado para medir a temperatura.])",
+    "files": [
+        "Diagrama esquemático mostrando dois recipientes cilíndricos, um transparente e outro opaco, dispostos lado a lado sobre uma superfície horizontal. Entre os recipientes, há uma lâmpada incandescente emitindo luz em direção a ambos. Um termômetro está posicionado entre os recipientes, indicando que ele está sendo usado para medir a temperatura."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A taxa de variação da temperatura da garrafa preta, em comparação à da branca, durante todo experimento, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Igual no aquecimento e igual no resfriamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Maior no aquecimento e igual no resfriamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Menor no aquecimento e igual no resfriamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior no aquecimento e menor no resfriamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior no aquecimento e maior no resfriamento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

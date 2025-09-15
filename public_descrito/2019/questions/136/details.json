@@ -1,0 +1,46 @@
+{
+    "title": "Questão 136 - ENEM 2019",
+    "index": 136,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um grupo de países criou uma instituição responsável por organizar o Programa Internacional de Nivelamento de Estudos (PINE) com o objetivo de melhorar os índices mundiais de educação. Em sua sede foi construída uma escultura suspensa, com a logomarca oficial do programa, em três dimensões, que é formada por suas iniciais, conforme mostrada na figura.\n\n![]([descrição: A imagem mostra a palavra 'PINE' escrita em letras maiúsculas pretas sobre um fundo branco.])\n\nEssa escultura está suspensa por cabos de aço, de maneira que o espaçamento entre letras adjacentes é o mesmo, todas têm igual espessura e ficam dispostas em posição ortogonal ao solo, como ilustrado a seguir.\n\n![]([descrição: A imagem mostra a palavra 'PINE' em letras maiúsculas, com uma sombra projetada sobre um bloco quadrado cinza claro. O fundo é preto e branco.])\n\nAo meio-dia, com o sol a pino, as letras que formam essa escultura projetam ortogonalmente suas sombras sobre o solo.",
+    "files": [
+        "A imagem mostra a palavra 'PINE' escrita em letras maiúsculas pretas sobre um fundo branco.",
+        "A imagem mostra a palavra 'PINE' em letras maiúsculas, com uma sombra projetada sobre um bloco quadrado cinza claro. O fundo é preto e branco."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A sombra projetada no solo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/136/71677fa0-eb8a-43db-be5b-498a3aaea496.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/136/e19c648c-acee-4a4b-8f51-31c5551f40a8.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/136/1611bf86-7b6f-4bfa-9cf0-01668feece5a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/136/3547286b-a306-4e5a-ad4e-f6f157cc4b70.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/136/f977a763-5a7d-4e53-a44e-90c12026ba73.png",
+            "isCorrect": true
+        }
+    ]
+}

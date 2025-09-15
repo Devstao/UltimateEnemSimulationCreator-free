@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2012",
+    "index": 67,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático representando uma caixa d'água com água, paredes e piso. A caixa d'água está posicionada acima do nível do piso. Cinco linhas verticais indicam alturas (h1, h2, h3, h4 e h5) medidas a partir do piso até diferentes pontos da caixa d'água e da superfície da água dentro dela. As palavras 'CAIXA D'ÁGUA', 'ÁGUA', 'PAREDE' e 'PISO' estão rotuladas em português.])",
+    "files": [
+        "Diagrama esquemático representando uma caixa d'água com água, paredes e piso. A caixa d'água está posicionada acima do nível do piso. Cinco linhas verticais indicam alturas (h1, h2, h3, h4 e h5) medidas a partir do piso até diferentes pontos da caixa d'água e da superfície da água dentro dela. As palavras 'CAIXA D'ÁGUA', 'ÁGUA', 'PAREDE' e 'PISO' estão rotuladas em português."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor da pressão da água na ducha está associado à altura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "H1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "H2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "H3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "H4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "H5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2017",
+    "index": 101,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: haleto metálico, tungstênio, mercúrio, xênon e LED (diodo emissor de luz). As áreas marcadas em cinza são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sensibilidade do olho humano aos diferentes comprimentos de onda. UV e IV são as regiões do ultravioleta e do infravermelho, respectivamente.\n\nUm arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente.\n\n![]([descrição: O gráfico mostra o espectro de emissão de diferentes fontes de luz: haleto metálico, tungstênio, mercúrio, xênon e LED. O eixo vertical representa a intensidade emitida e o eixo horizontal representa o comprimento de onda em nanômetros (nm). A parte inferior do gráfico indica as regiões UV, Visível e IV correspondentes aos comprimentos de onda. Cada fonte de luz é representada por duas curvas: uma linha contínua que mostra o espectro teórico e uma linha tracejada que representa o espectro real.])",
+    "files": [
+        "O gráfico mostra o espectro de emissão de diferentes fontes de luz: haleto metálico, tungstênio, mercúrio, xênon e LED. O eixo vertical representa a intensidade emitida e o eixo horizontal representa o comprimento de onda em nanômetros (nm). A parte inferior do gráfico indica as regiões UV, Visível e IV correspondentes aos comprimentos de onda. Cada fonte de luz é representada por duas curvas: uma linha contínua que mostra o espectro teórico e uma linha tracejada que representa o espectro real."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual tipo de lâmpada melhor atende ao desejo do arquiteto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Haleto metálico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Tungstênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mercúrio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Xênon.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "LED",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

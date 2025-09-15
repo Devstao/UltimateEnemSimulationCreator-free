@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2021",
+    "index": 5,
+    "year": 2021,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![]([descrição: Desenho monocromático em estilo cartoon, representando uma sala com vários objetos e duas figuras humanas. À esquerda, há um rádio antigo, uma máquina de escrever e uma pilha de livros. Uma lista escrita à mão está presa ao lado dos objetos, contendo palavras como 'guerra', 'crise', 'insegurança', 'miséria', 'violência', 'luxo' e 'obsceno'. À direita, um homem com óculos lê um livro em uma poltrona enquanto um grupo de figuras pequenas (possivelmente representando pessoas) o rodeia. Uma fala em balão acima do homem diz: '¿Qué le ha pasado al mundo? Nosotros.' (O que aconteceu com o mundo? Nós). No topo da imagem, há outra fala em balão com a expressão '¡Por Dios!' (Meu Deus!). Na parte inferior, há informações sobre o autor ('ERLICH') e a fonte da imagem.])",
+    "files": [
+        "Desenho monocromático em estilo cartoon, representando uma sala com vários objetos e duas figuras humanas. À esquerda, há um rádio antigo, uma máquina de escrever e uma pilha de livros. Uma lista escrita à mão está presa ao lado dos objetos, contendo palavras como 'guerra', 'crise', 'insegurança', 'miséria', 'violência', 'luxo' e 'obsceno'. À direita, um homem com óculos lê um livro em uma poltrona enquanto um grupo de figuras pequenas (possivelmente representando pessoas) o rodeia. Uma fala em balão acima do homem diz: '¿Qué le ha pasado al mundo? Nosotros.' (O que aconteceu com o mundo? Nós). No topo da imagem, há outra fala em balão com a expressão '¡Por Dios!' (Meu Deus!). Na parte inferior, há informações sobre o autor ('ERLICH') e a fonte da imagem."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A charge evoca uma situação de assombro frente a uma realidade que assola as sociedades contemporâneas. Seu efeito humorístico reside na crítica diante do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Constatação do ser humano como o responsável pela condição caótica do mundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Apelo à religiosidade diante das dificuldades enfrentadas pela humanidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Indignação dos trabalhadores em face das injustiças sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Veiculação de informações trágicas pelos telejornais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manipulação das notícias difundidas pelas mídias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

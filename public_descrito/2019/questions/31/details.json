@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2019",
+    "index": 31,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma escultura de bronze da cabeça de um touro, estilo cubista. A cabeça do animal é representada com formas geométricas angulares e simplificadas. Os chifres são longos e curvados para cima. A escultura está em tons de cinza, com áreas mais claras e escuras que realçam a textura do metal. Na parte inferior da imagem, há uma legenda com informações sobre a obra: nome do artista (Pablo Picasso), título (\"Cabeça de touro\"), material (bronze), dimensões (33,5 cm x 43,5 cm x 19 cm), museu onde está exposta (Musée Picasso, Paris, França) e ano da criação (1945). Abaixo, há informações sobre a fonte da imagem: JANSON, H. W. Iniciação à história da arte. São Paulo: Martins Fontes, 1988.])",
+    "files": [
+        "A imagem mostra uma escultura de bronze da cabeça de um touro, estilo cubista. A cabeça do animal é representada com formas geométricas angulares e simplificadas. Os chifres são longos e curvados para cima. A escultura está em tons de cinza, com áreas mais claras e escuras que realçam a textura do metal. Na parte inferior da imagem, há uma legenda com informações sobre a obra: nome do artista (Pablo Picasso), título (\"Cabeça de touro\"), material (bronze), dimensões (33,5 cm x 43,5 cm x 19 cm), museu onde está exposta (Musée Picasso, Paris, França) e ano da criação (1945). Abaixo, há informações sobre a fonte da imagem: JANSON, H. W. Iniciação à história da arte. São Paulo: Martins Fontes, 1988."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na obra Cabeça de touro, o material descartado torna-se objeto de arte por meio da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reciclagem da matéria-prima original.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Complexidade da combinação de formas abstratas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Perenidade dos elementos que constituem a escultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mudança da funcionalidade pela integração dos objetos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Fragmentação da imagem no uso de elementos diversificados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2022",
+    "index": 3,
+    "year": 2022,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma história em quadrinhos dividida em quatro painéis. O estilo é minimalista, com desenhos simples e cores limitadas (principalmente preto e branco, com toques de amarelo). \n\nNo primeiro painel, um castelo imponente está situado em uma colina, com uma pessoa admirando-o e exclamando sobre a biblioteca do castelo. No segundo painel, duas pessoas estão em frente ao castelo, e uma delas comenta que a biblioteca agora é deles também. O terceiro painel mostra uma pessoa carregando livros em uma floresta escura, expressando entusiasmo por ter tantos livros. Por fim, no quarto painel, uma pessoa se transforma em um monstro e voa para a noite, enquanto a outra permanece e planeja ler.])",
+    "files": [
+        "A imagem mostra uma história em quadrinhos dividida em quatro painéis. O estilo é minimalista, com desenhos simples e cores limitadas (principalmente preto e branco, com toques de amarelo). \n\nNo primeiro painel, um castelo imponente está situado em uma colina, com uma pessoa admirando-o e exclamando sobre a biblioteca do castelo. No segundo painel, duas pessoas estão em frente ao castelo, e uma delas comenta que a biblioteca agora é deles também. O terceiro painel mostra uma pessoa carregando livros em uma floresta escura, expressando entusiasmo por ter tantos livros. Por fim, no quarto painel, uma pessoa se transforma em um monstro e voa para a noite, enquanto a outra permanece e planeja ler."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa tirinha, o comportamento da mulher expressa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Revolta com a falta de sorte",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Gosto pela prática da leitura",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Receio pelo futuro do casamento",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Entusiasmo com os livros de terror",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Rejeição ao novo tipo de residência",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2013",
+    "index": 91,
+    "year": 2013,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma charge em preto e branco, com dois homens vestidos como cowboys, em pé um em frente ao outro. Ambos usam chapéus de cowboy e ternos escuros. O homem à esquerda está apontando para o homem à direita e diz: '¡Lo reto a un duelo!' (Eu te desafio para um duelo!). O homem à direita responde: 'Está bien, pardo. Pero yo en el joystick y usted con las teclas' (Tudo bem, pardinho. Mas eu no joystick e você com as teclas). Acima dos dois homens está uma legenda que diz: 'Ya no es como antes...' (Não é mais como antes...). A charge satiriza a mudança de desafios tradicionais para o mundo digital.])\n\nTUTE. **Tutelandia**. Disponível em: www.gocomics.com. Acesso em: 20 fev. 2012",
+    "files": [
+        "A imagem é uma charge em preto e branco, com dois homens vestidos como cowboys, em pé um em frente ao outro. Ambos usam chapéus de cowboy e ternos escuros. O homem à esquerda está apontando para o homem à direita e diz: '¡Lo reto a un duelo!' (Eu te desafio para um duelo!). O homem à direita responde: 'Está bien, pardo. Pero yo en el joystick y usted con las teclas' (Tudo bem, pardinho. Mas eu no joystick e você com as teclas). Acima dos dois homens está uma legenda que diz: 'Ya no es como antes...' (Não é mais como antes...). A charge satiriza a mudança de desafios tradicionais para o mundo digital."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A charge evoca uma situação de disputa. Seu efeito humorístico reside no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aceitação imediata da provocação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Descaracterização do convite a um desafio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sugestão de armas não convencionais para um duelo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Deslocamento temporal do comentário lateral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Posicionamento relaxado dos personagens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

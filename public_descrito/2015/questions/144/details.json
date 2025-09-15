@@ -1,0 +1,46 @@
+{
+    "title": "Questão 144 - ENEM 2015",
+    "index": 144,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: Diagrama esquemático de uma quadra de basquete, mostrando as dimensões da área restritiva antes de 2010. A área é circular e centralizada na quadra, com um diâmetro de 360 cm. As linhas que delimitam a área restritiva são tracejadas. Em ambos os lados da área restritiva, há retângulos semicirculares com dimensões de 580 cm por 600 cm. Pequenos ícones representando jogadores estão posicionados em cada canto do retângulo semicircular. Uma legenda na parte inferior indica que o diagrama representa a área restritiva antes de 2010.])\n\nVisando atender as orientações do Comitê Central da Federação Internacional de Basquete (Fiba) em 2010, que unificou as marcações das diversas ligas, foi prevista uma modificação nos garrafões das quadras, que passariam a ser retângulos, como mostra o Esquema II.\n\n![]([descrição: Diagrama esquemático de uma quadra de basquete, mostrando as áreas restritivas (ou 'key') em ambos os lados. Cada área restritiva é um retângulo cinza claro com dimensões indicadas: 490 cm de altura e 580 cm de largura. No centro da quadra há um círculo maior, representando a área central. Uma legenda na parte inferior indica que o esquema representa a área restritiva a partir de 2010.])",
+    "files": [
+        "Diagrama esquemático de uma quadra de basquete, mostrando as dimensões da área restritiva antes de 2010. A área é circular e centralizada na quadra, com um diâmetro de 360 cm. As linhas que delimitam a área restritiva são tracejadas. Em ambos os lados da área restritiva, há retângulos semicirculares com dimensões de 580 cm por 600 cm. Pequenos ícones representando jogadores estão posicionados em cada canto do retângulo semicircular. Uma legenda na parte inferior indica que o diagrama representa a área restritiva antes de 2010.",
+        "Diagrama esquemático de uma quadra de basquete, mostrando as áreas restritivas (ou 'key') em ambos os lados. Cada área restritiva é um retângulo cinza claro com dimensões indicadas: 490 cm de altura e 580 cm de largura. No centro da quadra há um círculo maior, representando a área central. Uma legenda na parte inferior indica que o esquema representa a área restritiva a partir de 2010."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após executdas as modificações previstas, houve uma alteração na área ocupada por cada garrafão, que corresponde a um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento de 5 800 cm².",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aumento de 75 400 cm².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento de 214 600 cm².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuição de 63 800 cm².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição de 272 600 cm².",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

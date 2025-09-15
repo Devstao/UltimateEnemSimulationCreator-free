@@ -1,0 +1,45 @@
+{
+    "title": "Questão 156 - ENEM 2010",
+    "index": 156,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um mapa topográfico em escala de cinza, representando uma área com elevações variadas. O eixo horizontal representa as coordenadas (20.0 - 21.2), e o eixo vertical representa a altitude em metros (60.0 - 60.8). As curvas de nível indicam as linhas que conectam pontos de igual altitude, sendo que cada tonalidade de cinza corresponde a uma faixa específica de altitude, conforme indicado na legenda no canto superior direito do mapa. Uma rosa dos ventos está localizada no canto inferior direito da imagem, indicando a direção norte.])\n\nUm pequeno helicóptero usado para reconhecimento sobrevoa a região a partir do ponto X = (20; 60). O helicóptero segue o percurso:\n\n0,8°L→0,5°N→0,2°O→0,1°S→0,4°N→0,3°L\n\nAo final, desce verticalmente até pousar no solo.",
+    "files": [
+        "A imagem mostra um mapa topográfico em escala de cinza, representando uma área com elevações variadas. O eixo horizontal representa as coordenadas (20.0 - 21.2), e o eixo vertical representa a altitude em metros (60.0 - 60.8). As curvas de nível indicam as linhas que conectam pontos de igual altitude, sendo que cada tonalidade de cinza corresponde a uma faixa específica de altitude, conforme indicado na legenda no canto superior direito do mapa. Uma rosa dos ventos está localizada no canto inferior direito da imagem, indicando a direção norte."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com as orientações, o helicóptero pousou em um local cuja altitude é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor ou igual a 200 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Maior que 200 m e menor ou igual a 400 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior que 400 m e menor ou igual a 600 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior que 600 m e menor ou igual a 800 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior que 800 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

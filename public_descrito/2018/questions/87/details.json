@@ -1,0 +1,45 @@
+{
+    "title": "Questão 87 - ENEM 2018",
+    "index": 87,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Anuncio antigo em preto e branco, com o título 'ELLA SERIA ADORAVEL...si não fosse doença'. A ilustração central mostra uma mulher deitada de lado, vestindo um roupão aberto sobre um pijama, com as mãos atrás da cabeça. Ao lado dela, há uma garrafa do produto 'A SAUDE DA MULHER', acompanhada de texto promocional descrevendo seus benefícios para a saúde feminina. O anúncio inclui informações sobre a fonte e data de acesso.])",
+    "files": [
+        "Anuncio antigo em preto e branco, com o título 'ELLA SERIA ADORAVEL...si não fosse doença'. A ilustração central mostra uma mulher deitada de lado, vestindo um roupão aberto sobre um pijama, com as mãos atrás da cabeça. Ao lado dela, há uma garrafa do produto 'A SAUDE DA MULHER', acompanhada de texto promocional descrevendo seus benefícios para a saúde feminina. O anúncio inclui informações sobre a fonte e data de acesso."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O anúncio publicitário da década de 1940 reforça os seguintes estereótipos atribuídos historicamente a uma suposta natureza feminina:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pudor inato e instinto maternal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fragilidade física e necessidade de aceitação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Isolamento social e procura de autoconhecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Dependência econômica e desejo de ostentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mentalidade fútil e conduta hedonista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

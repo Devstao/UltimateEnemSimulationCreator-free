@@ -1,0 +1,46 @@
+{
+    "title": "Questão 156 - ENEM 2017",
+    "index": 156,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma desenhista projetista deverá desenhar uma tampa de panela em forma circular. Para realizar esse desenho, ela dispõe, no momento, de apenas um compasso, cujo comprimento das hastes é de 10 cm, um transferidor e uma folha de papel com um plano cartesiano. Para esboçar o desenho dessa tampa, ela afastou as hastes do compasso de forma que o ângulo formado por elas fosse de 120o. A ponta seca está representada pelo ponto C, a ponta do grafite está representada pelo ponto B e a cabeça do compasso está representada pelo ponto A conforme a figura.\n\n![]([descrição: A imagem mostra um diagrama geométrico com um círculo centrado na coordenada (3,0) com raio 3. Um sistema de coordenadas cartesianas é sobreposto ao diagrama, com o eixo x variando de 0 a 6 e o eixo y de -1 a 2. Dois braços de um compasso estão posicionados em relação ao círculo. O ponto A está acima do círculo e o ponto B está na circunferência do círculo. Um ângulo de 120 graus é indicado entre os braços do compasso. Uma linha pontilhada horizontal cruza o círculo no ponto C, que parece ser a projeção do centro do círculo sobre o eixo x.])\n\nApós concluir o desenho, ela o encaminha para o setor de produção. Ao receber o desenho com a indicação do raio da tampa, verificará em qual intervalo este se encontra e decidirá o tipo de material a ser utilizado na sua fabricação, de acordo com os dados.\n\n![]([descrição: A imagem mostra uma tabela com duas colunas: 'Tipo de material' e 'Intervalo de valores do raio (cm)'. A primeira coluna lista os tipos de materiais como I, II, III, IV e V. A segunda coluna apresenta intervalos para o raio em centímetros correspondentes a cada tipo de material: 0 < R ≤ 5, 5 < R ≤ 10, 10 < R ≤ 15, 15 < R ≤ 21 e 21 < R ≤ 40. Abaixo da tabela, há uma nota indicando que 1,7 deve ser usado como aproximação para √3.])",
+    "files": [
+        "A imagem mostra um diagrama geométrico com um círculo centrado na coordenada (3,0) com raio 3. Um sistema de coordenadas cartesianas é sobreposto ao diagrama, com o eixo x variando de 0 a 6 e o eixo y de -1 a 2. Dois braços de um compasso estão posicionados em relação ao círculo. O ponto A está acima do círculo e o ponto B está na circunferência do círculo. Um ângulo de 120 graus é indicado entre os braços do compasso. Uma linha pontilhada horizontal cruza o círculo no ponto C, que parece ser a projeção do centro do círculo sobre o eixo x.",
+        "A imagem mostra uma tabela com duas colunas: 'Tipo de material' e 'Intervalo de valores do raio (cm)'. A primeira coluna lista os tipos de materiais como I, II, III, IV e V. A segunda coluna apresenta intervalos para o raio em centímetros correspondentes a cada tipo de material: 0 < R ≤ 5, 5 < R ≤ 10, 10 < R ≤ 15, 15 < R ≤ 21 e 21 < R ≤ 40. Abaixo da tabela, há uma nota indicando que 1,7 deve ser usado como aproximação para √3."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O tipo de material a ser utilizado pelo setor de produção será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

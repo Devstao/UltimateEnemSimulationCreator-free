@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - ENEM 2010",
+    "index": 70,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com as especificações técnicas de um chuveiro elétrico modelo Torneira, disponível em duas voltagens: 127V e 220V. A tabela detalha a tensão nominal, potência nominal (fria, morna e quente), corrente nominal, bitola mínima do fio (para até e acima de 30 metros) e o disjuntor necessário para cada modelo.])",
+    "files": [
+        "A imagem mostra uma tabela com as especificações técnicas de um chuveiro elétrico modelo Torneira, disponível em duas voltagens: 127V e 220V. A tabela detalha a tensão nominal, potência nominal (fria, morna e quente), corrente nominal, bitola mínima do fio (para até e acima de 30 metros) e o disjuntor necessário para cada modelo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando que o modelo de maior potência da versão 220 V da torneira suprema foi inadvertidamente conectada a uma rede com tensão nominal de 127 V, e que o aparelho está configurado para trabalhar em sua máxima potência. Qual o valor aproximado da potência ao ligar a torneira?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.830 W.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.800 W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.200 W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.030 W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.500 W.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

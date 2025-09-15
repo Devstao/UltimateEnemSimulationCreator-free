@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2017",
+    "index": 36,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma pintura em escala de cinza, aparentemente um emblema estilizado. O desenho central é composto por formas geométricas sobrepostas: um quadrado com quatro projeções laterais que se assemelham a braços ou hastes, posicionado sobre um triângulo invertido com uma esfera na ponta inferior. Tudo isso está contornado por um círculo mais amplo. Ao redor do círculo principal, há quadrados menores dispostos em cada canto da imagem. Na parte inferior da imagem, há informações sobre a obra: o título \"Emblema 78\", o nome do artista \"Valetim\", o material (\"Acrílico sobre tela\"), as dimensões (73 x 100 cm) e o ano de criação (1978). Há também uma referência à fonte da imagem, um site de arte.])",
+    "files": [
+        "A imagem mostra uma pintura em escala de cinza, aparentemente um emblema estilizado. O desenho central é composto por formas geométricas sobrepostas: um quadrado com quatro projeções laterais que se assemelham a braços ou hastes, posicionado sobre um triângulo invertido com uma esfera na ponta inferior. Tudo isso está contornado por um círculo mais amplo. Ao redor do círculo principal, há quadrados menores dispostos em cada canto da imagem. Na parte inferior da imagem, há informações sobre a obra: o título \"Emblema 78\", o nome do artista \"Valetim\", o material (\"Acrílico sobre tela\"), as dimensões (73 x 100 cm) e o ano de criação (1978). Há também uma referência à fonte da imagem, um site de arte."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A obra de Rubem Valentim apresenta emblemas que, baseando-se em signos de religiões afro-brasileiras, se transformam em produção artística. A obra Emblema 78 relaciona-se com o Modernismo em virtude da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Simplificação de formas da paisagem brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Valorização de símbolos do processo de urbanização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fusão de elementos da cultura brasileira com a arte europeia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Alusão aos símbolos cívicos presentes na bandeira nacional",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Composição simétrica de elementos relativos à miscigenação racial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

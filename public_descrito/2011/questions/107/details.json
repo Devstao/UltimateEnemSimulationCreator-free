@@ -1,0 +1,45 @@
+{
+    "title": "Questão 107 - ENEM 2011",
+    "index": 107,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: Desenho em preto e branco de uma estrutura arquitetônica com duas colunas curvas sustentando um teto horizontal. Uma figura humana pequena está posicionada entre as colunas. Na parte inferior da imagem, há um texto escrito em letras maiúsculas: 'IMODESTO \"As colunas do Alvorada podiam ser mais fáceis de construir, sem aquelas curvas. Mas foram elas que o mundo inteiro copiou\"'])\n\n**Brasília 50 anos**. **Veja**. N° 2 138, nov. 2009.",
+    "files": [
+        "Desenho em preto e branco de uma estrutura arquitetônica com duas colunas curvas sustentando um teto horizontal. Uma figura humana pequena está posicionada entre as colunas. Na parte inferior da imagem, há um texto escrito em letras maiúsculas: 'IMODESTO \"As colunas do Alvorada podiam ser mais fáceis de construir, sem aquelas curvas. Mas foram elas que o mundo inteiro copiou\"'"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Utilizadas desde a Antiguidade, as colunas, elementos verticais de sustentação, foram sofrendo modificações e incorporando novos materiais com ampliação de possibilidades. Ainda que as clássicas colunas gregas sejam retomadas, notáveis inovações são percebidas, por exemplo, nas obras de Oscar Niemeyer, arquiteto brasileiro nascido no Rio de Janeiro em 1907. No desenho de Niemeyer, das colunas do Palácio da Alvorada, observa-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A presença de um capitel muito simples, reforçando a sustentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O traçado simples de amplas linhas curvas opostas, resultando em formas marcantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A disposição simétrica das curvas, conferindo saliência e distorção à base.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A oposição de curvas em concreto, configurando certo peso e rebuscamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O excesso de linhas curvas, levando a um exagero na ornamentação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

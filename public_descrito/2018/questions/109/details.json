@@ -1,0 +1,48 @@
+{
+    "title": "Questão 109 - ENEM 2018",
+    "index": 109,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A hidroxilamina ![]([descrição: A imagem mostra uma representação química da hidroxilamina, com a fórmula (NH₂OH) escrita em negrito.]) é extremamente reativa em reações de substituição nucleofílica, justificando sua utilização em diversos processos. A reação de substituição nucleofílica entre o anidrido acético e a hidroxilamina está representada.\n\n![]([descrição: A imagem mostra uma reação química com duas possíveis rotas de reação. No lado esquerdo, há duas moléculas: anidrido acético e hidroxilamina (NH2OH). Uma seta dupla indica as possíveis reações que podem ocorrer. No lado direito, são mostrados dois produtos potenciais: Produto A (ácido carboxílico e acetilamina) e Produto B (ácido carboxílico e N-acetilhidroxilamina). As estruturas moleculares de cada composto estão representadas.])\n\nO produto A é favorecido em relação ao B, por um fator de![]([descrição: A imagem mostra o número '105' escrito em negrito, com uma linha abaixo do número.]). Em um estudo de possível substituição do uso de hidroxilamina, foram testadas as moléculas numeradas de 1 a 5.\n\n![]([descrição: A imagem mostra cinco estruturas químicas representadas como diagramas de linha, dispostas horizontalmente. Cada estrutura é numerada de 1 a 5. A primeira (1) e terceira (3) estruturas são semelhantes, consistindo em um grupo hidroxila (-OH) ligado a um nitrogênio que por sua vez está ligado a dois grupos metil (-CH3). A segunda (2) estrutura consiste em um grupo metoxila (-OCH2-) ligado a um grupo amina (-NH2). A quarta (4) estrutura é semelhante à primeira e terceira, mas com um átomo de oxigênio entre o nitrogênio e os grupos metil. A quinta (5) estrutura consiste em um grupo hidroxila ligado a um nitrogênio que está ligado a dois grupos metil.])",
+    "files": [
+        "A imagem mostra uma representação química da hidroxilamina, com a fórmula (NH₂OH) escrita em negrito.",
+        "A imagem mostra uma reação química com duas possíveis rotas de reação. No lado esquerdo, há duas moléculas: anidrido acético e hidroxilamina (NH2OH). Uma seta dupla indica as possíveis reações que podem ocorrer. No lado direito, são mostrados dois produtos potenciais: Produto A (ácido carboxílico e acetilamina) e Produto B (ácido carboxílico e N-acetilhidroxilamina). As estruturas moleculares de cada composto estão representadas.",
+        "A imagem mostra o número '105' escrito em negrito, com uma linha abaixo do número.",
+        "A imagem mostra cinco estruturas químicas representadas como diagramas de linha, dispostas horizontalmente. Cada estrutura é numerada de 1 a 5. A primeira (1) e terceira (3) estruturas são semelhantes, consistindo em um grupo hidroxila (-OH) ligado a um nitrogênio que por sua vez está ligado a dois grupos metil (-CH3). A segunda (2) estrutura consiste em um grupo metoxila (-OCH2-) ligado a um grupo amina (-NH2). A quarta (4) estrutura é semelhante à primeira e terceira, mas com um átomo de oxigênio entre o nitrogênio e os grupos metil. A quinta (5) estrutura consiste em um grupo hidroxila ligado a um nitrogênio que está ligado a dois grupos metil."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dentre as moléculas testadas, qual delas apresentou menor reatividade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

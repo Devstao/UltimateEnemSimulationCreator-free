@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2019",
+    "index": 96,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No quadro estão apresentadas informações sobre duas estratégias de sobrevivência que podem ser adotadas por algumas espécies de seres vivos.\n\n![]([descrição: A imagem mostra uma tabela comparativa entre duas estratégias ecológicas, Estratégia 1 e Estratégia 2. A tabela possui cinco linhas de comparação: Hábitat, Potencial biótico, Duração da vida, Descendentes e Tamanho populacional. A Estratégia 1 é caracterizada por um hábitat instável e imprevisível, alto potencial biótico, curta duração de vida com reprodução precoce, muitos descendentes de pequeno tamanho corporal e tamanho populacional variável. Já a Estratégia 2 apresenta hábitat estável e previsível, baixo potencial biótico, longa duração de vida com reprodução tardia, poucos descendentes de grande tamanho corporal e tamanho populacional constante.])",
+    "files": [
+        "A imagem mostra uma tabela comparativa entre duas estratégias ecológicas, Estratégia 1 e Estratégia 2. A tabela possui cinco linhas de comparação: Hábitat, Potencial biótico, Duração da vida, Descendentes e Tamanho populacional. A Estratégia 1 é caracterizada por um hábitat instável e imprevisível, alto potencial biótico, curta duração de vida com reprodução precoce, muitos descendentes de pequeno tamanho corporal e tamanho populacional variável. Já a Estratégia 2 apresenta hábitat estável e previsível, baixo potencial biótico, longa duração de vida com reprodução tardia, poucos descendentes de grande tamanho corporal e tamanho populacional constante."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na recuperação de uma área desmatada deveriam ser reintroduzidas primeiramente as espécies que adotam qual estratégia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estratégia 1, pois essas espécies produzem descendentes pequenos, o que diminui a competição com outras espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Estratégia 2, pois essas espécies têm uma longa duração da vida, o que favorece a produção de muitos descendentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estratégia 1, pois essas espécies apresentam um elevado potencial biótico, o que facilita a rápida recolonização da área desmatada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Estratégia 2, pois essas espécies estão adaptadas a hábitats mais estáveis, o que corresponde ao ambiente de uma área desmatada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estratégia 2, pois essas espécies apresentam um tamanho populacional constante, o que propicia uma recolonização mais estável da área desmatada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

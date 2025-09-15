@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2011",
+    "index": 172,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um grafo com oito nós (L, G, F, H, I, K, J) conectados por linhas retas. Os nós L, G, F, H, I, K e J são representados por círculos pretos. As conexões entre os nós são as seguintes: L está conectado a G e K; G está conectado a L, F, I; F está conectado a G, H, I; H está conectado a F, I; I está conectado a F, H, G, K, J; K está conectado a L, I, J; J está conectado a I. O grafo não possui arestas curvas.])",
+    "files": [
+        "A imagem mostra um grafo com oito nós (L, G, F, H, I, K, J) conectados por linhas retas. Os nós L, G, F, H, I, K e J são representados por círculos pretos. As conexões entre os nós são as seguintes: L está conectado a G e K; G está conectado a L, F, I; F está conectado a G, H, I; H está conectado a F, I; I está conectado a F, H, G, K, J; K está conectado a L, I, J; J está conectado a I. O grafo não possui arestas curvas."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Iniciando a revisão pelo ponto K e terminando em F, sem passar mais de uma vez por cada ponto, o caminho será passando pelos pontos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "K, I e F.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "K, J, I, G, L e F.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "K, L, G, I, J, H e F.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "K, J, H, I, G, L e F.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "K, L, G, I, H, J e F.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

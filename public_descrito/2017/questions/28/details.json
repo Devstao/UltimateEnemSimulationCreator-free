@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2017",
+    "index": 28,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é um cartaz em preto e branco com uma mensagem sobre violência doméstica. No topo, há o texto 'Quem bate na mulher machuca a família inteira.' Abaixo, há desenhos de quatro figuras humanas: duas crianças (um menino e uma menina), uma mulher identificada como 'mamãe' e um homem identificado como 'papai'. O homem está desenhado com características monstruosas, representando agressividade. A criança ao lado da mãe também parece triste ou preocupada. Na parte inferior do cartaz, há informações de contato para denúncias de violência doméstica ('Ligue 180') e a fonte da imagem.])",
+    "files": [
+        "A imagem é um cartaz em preto e branco com uma mensagem sobre violência doméstica. No topo, há o texto 'Quem bate na mulher machuca a família inteira.' Abaixo, há desenhos de quatro figuras humanas: duas crianças (um menino e uma menina), uma mulher identificada como 'mamãe' e um homem identificado como 'papai'. O homem está desenhado com características monstruosas, representando agressividade. A criança ao lado da mãe também parece triste ou preocupada. Na parte inferior do cartaz, há informações de contato para denúncias de violência doméstica ('Ligue 180') e a fonte da imagem."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Campanhas publicitárias podem evidenciar problemas sociais. O Cartaz tem como finalidade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alertar os homens agressores sobre as consequências de seus atos,",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Conscientizar a população sobre a necessidade de denunciar a violência doméstica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Instruir as mulheres sobre o que fazer em casos de agressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Despertar nas crianças a capacidade de reconhecer atos de violência doméstica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Exigir das autoridades ações preventivas contra a Violência doméstica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

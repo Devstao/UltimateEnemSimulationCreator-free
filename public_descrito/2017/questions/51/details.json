@@ -1,0 +1,45 @@
+{
+    "title": "Questão 51 - ENEM 2017",
+    "index": 51,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A fotografia em preto e branco mostra uma mulher adulta sentada em uma cadeira ornamentada, com um menino ao seu lado. A mulher é de ascendência africana, vestindo um vestido longo e escuro com detalhes na gola e mangas. O menino está usando um casaco ou jaqueta clara sobre uma camisa branca. Ambos estão olhando para a câmera. A imagem parece ser um retrato formal, possivelmente um cartão de visita, datado de 1860. Há texto escrito na parte inferior da imagem, identificando-os como Augusto Gomes Leal e sua ama de leite, Mônica.])",
+    "files": [
+        "A fotografia em preto e branco mostra uma mulher adulta sentada em uma cadeira ornamentada, com um menino ao seu lado. A mulher é de ascendência africana, vestindo um vestido longo e escuro com detalhes na gola e mangas. O menino está usando um casaco ou jaqueta clara sobre uma camisa branca. Ambos estão olhando para a câmera. A imagem parece ser um retrato formal, possivelmente um cartão de visita, datado de 1860. Há texto escrito na parte inferior da imagem, identificando-os como Augusto Gomes Leal e sua ama de leite, Mônica."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A fotografia, datada de 1860, é um indício da cultura escravista no Brasil, ao expressara",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ambiguidade do trabalho doméstico exercido pela ama de leite, desenvolvendo uma relação de proximidade e subordinação em relação aos senhores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Integração dos escravos aos valores das classes médias, cultivando a família como pilar da sociedade imperial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Melhoria das condições de vida dos escravos observada pela roupa luxuosa, associando o trabalho doméstico a privilégios para os cativos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Esfera da vida privada, centralizando a figura feminina para afirmar o trabalho da mulher na educação letrada dos infantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Distinção étnica entre senhores e escravos, demarcando a convivência entre estratos sociais como meio para superar a mestiçagem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

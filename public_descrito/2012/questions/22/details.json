@@ -1,0 +1,45 @@
+{
+    "title": "Questão 22 - ENEM 2012",
+    "index": 22,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Fotografia em preto e branco de um grupo de jovens em uma manifestação. Eles estão segurando um cartaz com a frase 'Love Not War' escrita à mão. A pessoa central faz o gesto da paz com os dedos. Os outros participantes parecem estar engajados na manifestação, com expressões sérias e olhares determinados.])\n\nFoto de Jovens em protesto contra a Guerra do Vietnã. Disponível em: http://goldenyears66to69.blogspot.com. Acesso em: 10 out. 2011.\n\nTexto do Cartaz: “Amor e não guerra”",
+    "files": [
+        "Fotografia em preto e branco de um grupo de jovens em uma manifestação. Eles estão segurando um cartaz com a frase 'Love Not War' escrita à mão. A pessoa central faz o gesto da paz com os dedos. Os outros participantes parecem estar engajados na manifestação, com expressões sérias e olhares determinados."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nos anos que se seguiram à Segunda Guerra, movimentos como o Maio de 1968 ou a campanha contra a Guerra do Vietnã culminaram no estabelecimento de diferentes formas de participação política. Seus slogans, tais como “Quando penso em revolução quero fazer amor”, se tornaram símbolos da agitação cultural nos anos 1960, cuja inovação relacionava-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "À contestação da crise econômica europeia, que fora provocada pela manutenção das guerras coloniais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "À organização partidária da juventude comunista, visando o estabelecimento da ditadura do proletariado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "À unificação das noções de libertação social e libertação individual, fornecendo um significado político ao uso do corpo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "À defesa do amor cristão e monogâmico, com fins à reprodução, que era tomado como solução para os conflitos sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ao reconhecimento da cultura das gerações passadas, que conviveram com a emergência do rock e outras mudanças nos costumes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

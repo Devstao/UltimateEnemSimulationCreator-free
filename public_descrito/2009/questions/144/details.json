@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2009",
+    "index": 144,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte.\n\n![]([descrição: A imagem mostra uma tabela com símbolos musicais e suas respectivas durações. Cada linha da tabela apresenta um símbolo musical (semibreve, mínima, semínima, colcheia, semicolcheia, fusa e semifusa) alinhado verticalmente com seu valor fracionário correspondente (1, 1/2, 1/4, 1/8, 1/16, 1/32 e 1/64). Os símbolos musicais são representações visuais de notas musicais, enquanto os valores fracionários indicam a duração relativa de cada nota.])\n\nUm compasso é uma unidade musical composta por determinada quantidade de notas musicais em que a soma das durações coincide com a fração indicada como fórmula do compasso. Por exemplo, se a fórmula de compasso for 1/2 , poderia ter um compasso ou com duas semínimas ou uma mínima ou quatro colcheias, sendo possível a combinação de diferentes figuras.",
+    "files": [
+        "A imagem mostra uma tabela com símbolos musicais e suas respectivas durações. Cada linha da tabela apresenta um símbolo musical (semibreve, mínima, semínima, colcheia, semicolcheia, fusa e semifusa) alinhado verticalmente com seu valor fracionário correspondente (1, 1/2, 1/4, 1/8, 1/16, 1/32 e 1/64). Os símbolos musicais são representações visuais de notas musicais, enquanto os valores fracionários indicam a duração relativa de cada nota."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um trecho musical de oito compassos, cuja fórmula é 3/4 , poderia ser preenchido com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "24 fusas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3 semínimas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8 semínimas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24 colcheias e 12 semínimas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "16 semínimas e 8 semicolcheias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

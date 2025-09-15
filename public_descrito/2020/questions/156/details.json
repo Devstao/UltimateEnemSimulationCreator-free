@@ -1,0 +1,46 @@
+{
+    "title": "Questão 156 - ENEM 2020",
+    "index": 156,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. O setor de controle de estoque encaminhou ao gerente registros gráficos descrevendo os preços unitários de cada perfume, em real, e a quantidade vendida de cada um deles, em percentual, ocorrida no mês de novembro.\n\n![]([descrição: O gráfico de barras mostra o preço por unidade de cinco perfumes diferentes, em Reais (R$). O Perfume I tem o maior preço, R$200, seguido pelo Perfume II com R$170, Perfume III com R$150, Perfume IV com R$100 e, finalmente, o Perfume V com o menor preço de R$80.])\n\n![]([descrição: Gráfico circular representando a porcentagem da quantidade vendida de cada perfume. Os perfumes são identificados como I, II, III, IV e V. As porcentagens correspondentes são: Perfume I (13%), Perfume II (10%), Perfume III (16%), Perfume IV (29%) e Perfume V (32%). O título do gráfico é 'Porcentagem da quantidade vendida de cada perfume'.])\n\nDados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro.",
+    "files": [
+        "O gráfico de barras mostra o preço por unidade de cinco perfumes diferentes, em Reais (R$). O Perfume I tem o maior preço, R$200, seguido pelo Perfume II com R$170, Perfume III com R$150, Perfume IV com R$100 e, finalmente, o Perfume V com o menor preço de R$80.",
+        "Gráfico circular representando a porcentagem da quantidade vendida de cada perfume. Os perfumes são identificados como I, II, III, IV e V. As porcentagens correspondentes são: Perfume I (13%), Perfume II (10%), Perfume III (16%), Perfume IV (29%) e Perfume V (32%). O título do gráfico é 'Porcentagem da quantidade vendida de cada perfume'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessas condições, qual o tipo de perfume que deverá ter maior reposição no estoque?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

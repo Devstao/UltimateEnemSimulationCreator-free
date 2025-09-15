@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2013",
+    "index": 39,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem é uma caricatura em preto e branco intitulada 'Meta de Faminto'. A ilustração retrata um homem magro, com olhos fundos e expressão de sofrimento, caminhando sobre blocos de concreto que repetem a palavra 'META'. Ele está vestindo roupas esfarrapadas e carrega uma sacola. Abaixo da caricatura, há duas frases atribuídas a figuras públicas: uma supostamente dita por JK (Getúlio Vargas) e outra por Jeca Tatu. Na parte inferior da imagem, encontram-se informações sobre a fonte da obra.])",
+    "files": [
+        "A imagem é uma caricatura em preto e branco intitulada 'Meta de Faminto'. A ilustração retrata um homem magro, com olhos fundos e expressão de sofrimento, caminhando sobre blocos de concreto que repetem a palavra 'META'. Ele está vestindo roupas esfarrapadas e carrega uma sacola. Abaixo da caricatura, há duas frases atribuídas a figuras públicas: uma supostamente dita por JK (Getúlio Vargas) e outra por Jeca Tatu. Na parte inferior da imagem, encontram-se informações sobre a fonte da obra."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A charge ironiza a política desenvolvimentista do governo Juscelino Kubitschek, ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evidenciar que o incremento da malha viária diminuiu as desigualdades regionais do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Destacar que a modernização das indústrias dinamizou a produção de alimentos para o mercado interno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Enfatizar que o crescimento econômico implicou aumento das contradições socioespaciais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Ressaltar que o investimento no setor de bens duráveis incrementou os salários de trabalhadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mostrar que a ocupação de regiões interioranas abriu frentes de trabalho para a população local.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

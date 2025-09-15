@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2015",
+    "index": 59,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra duas estruturas químicas representadas como fórmulas estruturais. A primeira, identificada como 'Composto A', é um álcool insaturado com uma cadeia de seis carbonos contendo uma ligação dupla e um grupo hidroxila (-CH2OH). A segunda estrutura, rotulada como 'Composto B', é um éster com uma ramificação isopropílica. Abaixo das estruturas, há uma citação referenciando a fonte da imagem.])",
+    "files": [
+        "A imagem mostra duas estruturas químicas representadas como fórmulas estruturais. A primeira, identificada como 'Composto A', é um álcool insaturado com uma cadeia de seis carbonos contendo uma ligação dupla e um grupo hidroxila (-CH2OH). A segunda estrutura, rotulada como 'Composto B', é um éster com uma ramificação isopropílica. Abaixo das estruturas, há uma citação referenciando a fonte da imagem."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As funções orgânicas que caracterizam os feromônios de trilha e de alarme são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Álcool e éster.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aldeído e cetona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Éter e hidrocarboneto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Enol e ácido carboxílico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido carboxílico e amida.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

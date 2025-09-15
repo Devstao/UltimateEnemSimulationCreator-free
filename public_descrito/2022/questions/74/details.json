@@ -1,0 +1,45 @@
+{
+    "title": "Questão 74 - ENEM 2022",
+    "index": 74,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O mapa mostra a radiação solar global horizontal média anual na América do Sul, com destaque para o Brasil. A legenda indica valores de irradiação em kWh/m², variando de 3,15 a 6,65. As áreas mais escuras representam maior irradiação, concentrando-se principalmente no centro e norte do país, enquanto as áreas mais claras indicam menor irradiação, predominantes no sul e nas regiões costeiras. O mapa inclui linhas de latitude (5°N, 10°S, 15°S, 20°S, 25°S, 30°S) e longitude (70°W, 65°W, 60°W, 55°W, 50°W, 45°W, 40°W). Uma barra de escala indica distâncias em quilômetros.])\n\n**PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006**",
+    "files": [
+        "O mapa mostra a radiação solar global horizontal média anual na América do Sul, com destaque para o Brasil. A legenda indica valores de irradiação em kWh/m², variando de 3,15 a 6,65. As áreas mais escuras representam maior irradiação, concentrando-se principalmente no centro e norte do país, enquanto as áreas mais claras indicam menor irradiação, predominantes no sul e nas regiões costeiras. O mapa inclui linhas de latitude (5°N, 10°S, 15°S, 20°S, 25°S, 30°S) e longitude (70°W, 65°W, 60°W, 55°W, 50°W, 45°W, 40°W). Uma barra de escala indica distâncias em quilômetros."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma característica regional que justifica o maior potencial anual médio para o aproveitamento da energia solar é a reduzida",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Declividade do relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Extensão longitudinal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Nebulosidade atmosférica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Irregularidade pluviométrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Influência da continentalidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 106 - ENEM 2012",
+    "index": 106,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma tirinha de quadrinhos em preto e branco. Os quatro painéis mostram uma mulher sendo abordada por um homem que tenta lhe oferecer algo, aparentemente dinheiro ou ajuda. Nos dois primeiros painéis, ela recusa com a frase 'Não, obrigada'. No terceiro painel, o homem oferece mais 10 reais para que ela ganhe um celular. No último painel, um homem de terno e bigode responde à situação com uma pergunta técnica.])\n\nLAERTE. Disponível em: http://blog.educacional.com.br. Acesso em: 8 set. 2011.",
+    "files": [
+        "A imagem é uma tirinha de quadrinhos em preto e branco. Os quatro painéis mostram uma mulher sendo abordada por um homem que tenta lhe oferecer algo, aparentemente dinheiro ou ajuda. Nos dois primeiros painéis, ela recusa com a frase 'Não, obrigada'. No terceiro painel, o homem oferece mais 10 reais para que ela ganhe um celular. No último painel, um homem de terno e bigode responde à situação com uma pergunta técnica."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Que estratégia argumentativa leva o personagem do terceiro quadrinho a persuadir sua interlocutora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Prova concreta, ao expor o produto ao consumidor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Consenso, ao sugerir que todo vendedor tem técnica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Raciocínio lógico, ao relacionar uma fruta com um produto eletrônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Comparação, ao enfatizar que os produtos apresentados anteriormente são inferiores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Indução, ao elaborar o discurso de acordo com os anseios do consumidor.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

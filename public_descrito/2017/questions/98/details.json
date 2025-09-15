@@ -1,0 +1,45 @@
+{
+    "title": "Questão 98 - ENEM 2017",
+    "index": 98,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A classificação biológica proposta por Whittaker permite distinguir cinco grandes linhas evolutivas utilizando, como critérios de classificação, a organização celular e o modo de nutrição. Woese e seus colaboradores, com base na comparação das sequências que codificam o RNA ribossômico dos seres vivos, estabeleceram relações de ancestralidade entre os grupos e concluíram que os procariontes do reino Monera não eram um grupo coeso do ponto de vista evolutivo.\n\n![]([descrição: A imagem mostra uma tabela comparando dois sistemas de classificação biológica: o sistema de Whittaker (1969) com cinco reinos e o sistema de Woese (1990) com três domínios. O lado esquerdo da tabela lista os cinco reinos de Whittaker: Monera, Protista, Fungi, Plantae e Animalia. O lado direito da tabela lista os três domínios de Woese: Archaea, Eubacteria e Eukarya.])",
+    "files": [
+        "A imagem mostra uma tabela comparando dois sistemas de classificação biológica: o sistema de Whittaker (1969) com cinco reinos e o sistema de Woese (1990) com três domínios. O lado esquerdo da tabela lista os cinco reinos de Whittaker: Monera, Protista, Fungi, Plantae e Animalia. O lado direito da tabela lista os três domínios de Woese: Archaea, Eubacteria e Eukarya."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A diferença básica nas classificações citadas é que a mais recente se baseia fundamentalmente em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tipos de células.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aspectos ecológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Relações filogenéticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Propriedades fisiológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Características morfológicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

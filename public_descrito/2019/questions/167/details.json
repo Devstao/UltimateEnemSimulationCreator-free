@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2019",
+    "index": 167,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os alunos de uma turma escolar foram divididos em dois grupos. Um grupo jogaria basquete, enquanto o outro jogaria futebol.\n\nSabe-se que o grupo de basquete é formado pelos alunos mais altos da classe e tem uma pessoa a mais do que o grupo de futebol.\n\nA tabela seguinte apresenta informações sobre as alturas dos alunos da turma.\n\nOs alunos P, J, F e M medem, respectivamente, 1,65m, 1,66m, 1,67m e 1,68m, e as suas alturas não são iguais a de nenhum outro colega da sala.\n\n![]([descrição: A imagem mostra uma tabela com três colunas rotuladas como 'Média', 'Mediana' e 'Moda'. A primeira linha da tabela contém os valores numéricos 1,65, 1,67 e 1,70, respectivamente, correspondendo aos títulos das colunas.])",
+    "files": [
+        "A imagem mostra uma tabela com três colunas rotuladas como 'Média', 'Mediana' e 'Moda'. A primeira linha da tabela contém os valores numéricos 1,65, 1,67 e 1,70, respectivamente, correspondendo aos títulos das colunas."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo essas informações, argumenta-se que os alunos P, J, F e M jogaram, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Basquete, basquete, basquete, basquete.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Futebol, basquete, basquete, basquete.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Futebol, futebol, basquete, basquete.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Futebol, futebol, futebol, basquete.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Futebol, futebol, futebol, futebol.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

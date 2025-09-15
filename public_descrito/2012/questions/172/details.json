@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2012",
+    "index": 172,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: Diagrama ilustrativo da aproximação do asteroide Yu 55 à Terra e à Lua. O diagrama mostra a Terra, a Lua e o asteroide Yu 55 em diferentes posições relativas, com setas indicando a trajetória do asteroide. Há informações textuais sobre o tamanho do asteroide (400 metros de diâmetro), sua proximidade da Terra (325 mil km) e a data e hora prevista para a passagem (8 de novembro às 21h28min, horário de Brasília). Uma imagem do asteroide Yu 55 é mostrada no canto inferior esquerdo, com a legenda 'Fonte: NASA'. O diagrama também inclui o logotipo da AFP e uma referência à fonte das informações.])",
+    "files": [
+        "Diagrama ilustrativo da aproximação do asteroide Yu 55 à Terra e à Lua. O diagrama mostra a Terra, a Lua e o asteroide Yu 55 em diferentes posições relativas, com setas indicando a trajetória do asteroide. Há informações textuais sobre o tamanho do asteroide (400 metros de diâmetro), sua proximidade da Terra (325 mil km) e a data e hora prevista para a passagem (8 de novembro às 21h28min, horário de Brasília). Uma imagem do asteroide Yu 55 é mostrada no canto inferior esquerdo, com a legenda 'Fonte: NASA'. O diagrama também inclui o logotipo da AFP e uma referência à fonte das informações."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nessas informações, a menor distância que o asteroide YU 55 passou da superfície da Terra é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,25 × 102 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,25 × 103 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,25 × 104 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,25 × 105 km.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3,25 × 106 km.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

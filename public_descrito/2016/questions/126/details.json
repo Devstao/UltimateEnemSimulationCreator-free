@@ -1,0 +1,45 @@
+{
+    "title": "Questão 126 - ENEM 2016",
+    "index": 126,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: Fotografia em preto e branco retrata uma apresentação teatral ao ar livre. No palco, duas mulheres vestidas com roupas de época dançam ou atuam, enquanto um homem, posicionado em uma escada, segura um guarda-chuva sobre elas. Uma grande multidão observa a cena sentada no chão, formando o fundo da imagem. A atmosfera sugere um evento cultural ou festivo.])\n\nEspetáculo Romeu e Julieta, Grupo Galpão.\n\nGUTO MUNIZ. Disponível em: www.focoincena.com.br. Acesso em: 30 maio 2016.",
+    "files": [
+        "Fotografia em preto e branco retrata uma apresentação teatral ao ar livre. No palco, duas mulheres vestidas com roupas de época dançam ou atuam, enquanto um homem, posicionado em uma escada, segura um guarda-chuva sobre elas. Uma grande multidão observa a cena sentada no chão, formando o fundo da imagem. A atmosfera sugere um evento cultural ou festivo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A principal razão pela qual se infere que o espetáculo retratado na fotografia é uma manifestação do teatro de rua é o fato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dispensar o edifício teatral para a sua realização.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Utilizar figurinos com adereços cômicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Empregar elementos circenses na atuação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Excluir o uso de cenário na ambientação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Negar o uso de iluminação artificial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

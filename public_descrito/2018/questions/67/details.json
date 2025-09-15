@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2018",
+    "index": 67,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico mostra a precipitação (mm) ao longo do tempo (h). A precipitação é representada por barras verticais, atingindo um pico de aproximadamente 90 mm entre 2 e 3 horas. Duas curvas são sobrepostas ao gráfico de barras: uma linha tracejada escura representa a vazão em áreas urbanizadas, enquanto uma linha tracejada mais clara representa a vazão em áreas não urbanizadas. A curva da vazão em áreas urbanizadas é mais alta e decai mais rapidamente do que a curva da vazão em áreas não urbanizadas.])",
+    "files": [
+        "O gráfico mostra a precipitação (mm) ao longo do tempo (h). A precipitação é representada por barras verticais, atingindo um pico de aproximadamente 90 mm entre 2 e 3 horas. Duas curvas são sobrepostas ao gráfico de barras: uma linha tracejada escura representa a vazão em áreas urbanizadas, enquanto uma linha tracejada mais clara representa a vazão em áreas não urbanizadas. A curva da vazão em áreas urbanizadas é mais alta e decai mais rapidamente do que a curva da vazão em áreas não urbanizadas."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A dinâmica hidrológica expressa no gráfico demonstra que o processo de urbanização promove a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução do volume dos rios",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Expansão do lençol freático",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição do índice de chuvas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Retração do nível dos reservatórios",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ampliação do escoamento superficial",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

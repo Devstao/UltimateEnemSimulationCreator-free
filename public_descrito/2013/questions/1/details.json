@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2013",
+    "index": 1,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem apresenta dois mapas do Brasil. O 'Mapa 1' ilustra a distribuição espacial da população brasileira, com maior concentração de pontos nas regiões Sudeste e Nordeste, indicando as cidades de São Paulo (11.293.503 habitantes), Rio de Janeiro (6.320.446 habitantes), Salvador (2.675.656 habitantes), Brasília (2.630.180 habitantes) e Fortaleza (2.452.155 habitantes). O 'Mapa 2' mostra conflitos em terras indígenas, com pontos representando áreas de terra indígena, garimpeiros e madeireiros, fazendeiros e pressão de políticos locais. Os mapas são acompanhados por legendas explicativas e referências bibliográficas.])",
+    "files": [
+        "A imagem apresenta dois mapas do Brasil. O 'Mapa 1' ilustra a distribuição espacial da população brasileira, com maior concentração de pontos nas regiões Sudeste e Nordeste, indicando as cidades de São Paulo (11.293.503 habitantes), Rio de Janeiro (6.320.446 habitantes), Salvador (2.675.656 habitantes), Brasília (2.630.180 habitantes) e Fortaleza (2.452.155 habitantes). O 'Mapa 2' mostra conflitos em terras indígenas, com pontos representando áreas de terra indígena, garimpeiros e madeireiros, fazendeiros e pressão de políticos locais. Os mapas são acompanhados por legendas explicativas e referências bibliográficas."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os mapas representam distintos padrões de distribuição de processos socioespaciais. Nesse sentido, a menor incidência de disputas territoriais envolvendo povos indígenas se explica pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fertilização natural dos solos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Expansão da fronteira agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Intensificação da migração de retorno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Homologação de reservas extrativistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Concentração histórica da urbanização.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2020",
+    "index": 162,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A lei municipal para a edificação de casas em lotes de uma cidade determina que sejam obedecidos os seguintes critérios:\n\n*   afastamento mínimo de 4 m da rua;\n*   afastamento mínimo de 1 m da divisa com outro lote;\n*   área total construída da casa entre 40% e 50% da área total do lote.\n\nUm construtor submeteu para aprovação na prefeitura dessa cidade uma planta com propostas para a construção de casas em seus 5 lotes. Cada lote tem área medindo 200 m2.\n\nA imagem apresenta um esquema, sem escala, no qual estão representados os lotes, as ruas e os afastamentos considerados nos projetos entre as casas e as divisas dos lotes. As medidas indicadas no esquema estão expressas em metro.\n\n![]([descrição: A imagem mostra uma planta baixa de um loteamento residencial. O loteamento é delimitado por ruas em seus lados esquerdo e superior, com dimensões de 20 unidades cada. O lote total possui 10 unidades de largura e 20 de altura. Cinco casas estão dispostas no lote: Casa 1 e Casa 2 na parte superior, Casa 3 e Casa 4 no meio, e Casa 5 na parte inferior. Cada casa é representada por um retângulo com dimensões específicas indicadas em números dentro das casas (ex: 4x1). Há também lotes vagos ao redor das casas e nas extremidades do loteamento.])",
+    "files": [
+        "A imagem mostra uma planta baixa de um loteamento residencial. O loteamento é delimitado por ruas em seus lados esquerdo e superior, com dimensões de 20 unidades cada. O lote total possui 10 unidades de largura e 20 de altura. Cinco casas estão dispostas no lote: Casa 1 e Casa 2 na parte superior, Casa 3 e Casa 4 no meio, e Casa 5 na parte inferior. Cada casa é representada por um retângulo com dimensões específicas indicadas em números dentro das casas (ex: 4x1). Há também lotes vagos ao redor das casas e nas extremidades do loteamento."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A prefeitura aprovará apenas a planta da casa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

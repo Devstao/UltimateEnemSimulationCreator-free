@@ -1,0 +1,46 @@
+{
+    "title": "Questão 63 - ENEM 2011",
+    "index": 63,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: O gráfico mostra a intensidade da luz absorvida em função do comprimento de onda, variando de aproximadamente 400 nm a 700 nm. A intensidade é baixa entre 400 e 450 nm, aumenta gradualmente até atingir um pico próximo a 520 nm, depois diminui rapidamente até cerca de 610 nm, onde continua diminuindo mais lentamente até 700 nm.])\n\n![]([descrição: A imagem mostra um diagrama circular representando o espectro visível da luz, com as cores associadas a diferentes comprimentos de onda (em nanômetros). As cores listadas são vermelho (650nm), laranja (580nm), amarelo (560nm), verde (490nm), azul (430nm) e violeta (400nm). Há também indicações de 750nm e 430nm. Uma seta aponta para a região amarela, com a legenda 'Ela apresentará essa cor'. Outra seta aponta para a região violeta, com a legenda 'Se a substância absorve nesta região'.])",
+    "files": [
+        "O gráfico mostra a intensidade da luz absorvida em função do comprimento de onda, variando de aproximadamente 400 nm a 700 nm. A intensidade é baixa entre 400 e 450 nm, aumenta gradualmente até atingir um pico próximo a 520 nm, depois diminui rapidamente até cerca de 610 nm, onde continua diminuindo mais lentamente até 700 nm.",
+        "A imagem mostra um diagrama circular representando o espectro visível da luz, com as cores associadas a diferentes comprimentos de onda (em nanômetros). As cores listadas são vermelho (650nm), laranja (580nm), amarelo (560nm), verde (490nm), azul (430nm) e violeta (400nm). Há também indicações de 750nm e 430nm. Uma seta aponta para a região amarela, com a legenda 'Ela apresentará essa cor'. Outra seta aponta para a região violeta, com a legenda 'Se a substância absorve nesta região'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual a cor da substância que deu origem ao espectro da Figura 1?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Verde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Violeta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Laranja.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vermelho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

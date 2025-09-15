@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2015",
+    "index": 85,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Desenho em preto e branco que ilustra uma câmera escura com pessoas interagindo com ela. A câmera é construída como uma estrutura de madeira elevada, com um tecido pendurado no interior para projetar uma imagem. Dois homens estão presentes: um operando a câmera e outro observando a projeção em uma superfície. Uma criança também está presente, olhando para a imagem projetada. Ao fundo, vislumbra-se uma paisagem urbana com cúpulas de edifícios que lembram arquitetura islâmica.])",
+    "files": [
+        "Desenho em preto e branco que ilustra uma câmera escura com pessoas interagindo com ela. A câmera é construída como uma estrutura de madeira elevada, com um tecido pendurado no interior para projetar uma imagem. Dois homens estão presentes: um operando a câmera e outro observando a projeção em uma superfície. Uma criança também está presente, olhando para a imagem projetada. Ao fundo, vislumbra-se uma paisagem urbana com cúpulas de edifícios que lembram arquitetura islâmica."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se fizermos uma analogia entre a ilustração e o olho humano, o tecido corresponde ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Íris.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Retina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Pupila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Córnea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cristalino.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

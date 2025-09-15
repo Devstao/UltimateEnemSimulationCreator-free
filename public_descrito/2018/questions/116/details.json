@@ -1,0 +1,49 @@
+{
+    "title": "Questão 116 - ENEM 2018",
+    "index": 116,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Células solares à base de![]([descrição: A imagem mostra a fórmula química TiO2, representando óxido de titânio.]) sensibilizadas por corantes (S) são promissoras e poderão vir a substituir as células de silício. Nessas células, o corante adsorvido sobre o ![]([descrição: A imagem mostra a fórmula química TiO2, representando óxido de titânio, escrita em preto sobre um fundo branco.]) é responsável por absorver a energia luminosa ![]([descrição: A imagem mostra a expressão matemática '(hν)' escrita à mão.]), e o corante excitado (S\\*) é capaz de transferir elétrons para o ![]([descrição: A imagem mostra a fórmula química TiO2, representando óxido de titânio. Os símbolos químicos 'Ti' e 'O' estão dispostos em uma estrutura que indica a composição do composto.]). Um esquema dessa célula e os processos envolvidos estão ilustrados na figura. A conversão de energia solar em elétrica ocorre por meio da sequência de reações apresentadas.\n\n![]([descrição: A imagem mostra um diagrama esquemático de uma célula solar sensibilizada por corante (DSSC). O diagrama ilustra o fluxo de elétrons e íons dentro da célula, com legendas em português descrevendo os componentes: 'Eletrodo de TiO₂ com corante', 'Corante', 'Mediador de carga' e 'Eletrodo de Pt'.  Um fóton (hv) incide sobre o eletrodo de TiO₂, excitando o corante. Os elétrons gerados são transferidos para o eletrodo de platina, enquanto os íons se movem através do eletrólito. Equações químicas numeradas (1 a 4) descrevem as reações que ocorrem durante o processo.])",
+    "files": [
+        "A imagem mostra a fórmula química TiO2, representando óxido de titânio.",
+        "A imagem mostra a fórmula química TiO2, representando óxido de titânio, escrita em preto sobre um fundo branco.",
+        "A imagem mostra a expressão matemática '(hν)' escrita à mão.",
+        "A imagem mostra a fórmula química TiO2, representando óxido de titânio. Os símbolos químicos 'Ti' e 'O' estão dispostos em uma estrutura que indica a composição do composto.",
+        "A imagem mostra um diagrama esquemático de uma célula solar sensibilizada por corante (DSSC). O diagrama ilustra o fluxo de elétrons e íons dentro da célula, com legendas em português descrevendo os componentes: 'Eletrodo de TiO₂ com corante', 'Corante', 'Mediador de carga' e 'Eletrodo de Pt'.  Um fóton (hv) incide sobre o eletrodo de TiO₂, excitando o corante. Os elétrons gerados são transferidos para o eletrodo de platina, enquanto os íons se movem através do eletrólito. Equações químicas numeradas (1 a 4) descrevem as reações que ocorrem durante o processo."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A reação 3 é fundamental para o contínuo funcionamento da célula solar, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/3eaf75c7-ef77-48b0-aad3-94a8b52a6ce2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/b6068734-cd1c-4dc6-ab56-a68d692dc4ea.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/6d6ead61-fc78-43c3-8636-bd86b858325b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/8f024003-e8cd-4bc0-8000-464bdf4a0778.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/85dd2cd6-fc8f-4f02-802f-7a0b7d0533c1.png",
+            "isCorrect": false
+        }
+    ]
+}

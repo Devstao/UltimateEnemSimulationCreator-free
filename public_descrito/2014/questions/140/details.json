@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2014",
+    "index": 140,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com o título 'Consumo total de água na atividade (em litros)'. A tabela possui duas colunas: 'Atividade' e 'Consumo total de água na atividade (em litros)'. As atividades listadas são: Tomar banho (24,0 litros), Dar descarga (18,0 litros), Lavar as mãos (3,2 litros), Escovar os dentes (2,4 litros) e Beber e cozinhar (22,0 litros). A tabela está em um fundo branco com bordas pretas.])",
+    "files": [
+        "A imagem mostra uma tabela com o título 'Consumo total de água na atividade (em litros)'. A tabela possui duas colunas: 'Atividade' e 'Consumo total de água na atividade (em litros)'. As atividades listadas são: Tomar banho (24,0 litros), Dar descarga (18,0 litros), Lavar as mãos (3,2 litros), Escovar os dentes (2,4 litros) e Beber e cozinhar (22,0 litros). A tabela está em um fundo branco com bordas pretas."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se cada brasileiro adotar o consumo de água indicado no quadro, mantendo o mesmo consumo nas demais atividades, então economizará diariamente, em média, em litros de água,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "69,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "100,4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "130,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "170,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

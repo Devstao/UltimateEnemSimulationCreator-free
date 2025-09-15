@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2015",
+    "index": 148,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem contém duas figuras. A Figura 1 mostra uma representação esquemática de um contêiner, com suas dimensões indicadas: altura de 2,5 metros, largura de 2,5 metros e comprimento de 6,4 metros. A Figura 2 é um retângulo representando uma área para armazenar contêineres, com dimensões de 10 metros por 32 metros. Há texto na Figura 2 indicando que se trata de uma 'Área para armazenar contêineres'.])\n\nDe acordo com as normas desse porto, os contêineres deverão ser empilhados de forma a não sobrarem espaços nem ultrapassarem a área delimitada",
+    "files": [
+        "A imagem contém duas figuras. A Figura 1 mostra uma representação esquemática de um contêiner, com suas dimensões indicadas: altura de 2,5 metros, largura de 2,5 metros e comprimento de 6,4 metros. A Figura 2 é um retângulo representando uma área para armazenar contêineres, com dimensões de 10 metros por 32 metros. Há texto na Figura 2 indicando que se trata de uma 'Área para armazenar contêineres'."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após o empilhamento total da carga e atendendo à norma do porto, a altura mínima a ser atingida por essa pilha de contêineres é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12,5 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "17,5 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25,0 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "22,5 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "32,5 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

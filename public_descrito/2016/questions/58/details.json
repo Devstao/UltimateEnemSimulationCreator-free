@@ -1,0 +1,46 @@
+{
+    "title": "Questão 58 - ENEM 2016",
+    "index": 58,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma fórmula matemática escrita em azul sobre um fundo branco. A fórmula é: R = n_produto / n_reagente limitante * 100.])\n\nem que n corresponde ao número de mols. O metanol pode ser obtido pela reação entre brometo de metila e hidróxido de sódio, conforme a equação química:\n\n![]([descrição: A imagem mostra uma equação química escrita em texto branco sobre fundo preto. A equação é: CH3Br + NaOH -> CH3OH + NaBr.])",
+    "files": [
+        "A imagem mostra uma fórmula matemática escrita em azul sobre um fundo branco. A fórmula é: R = n_produto / n_reagente limitante * 100.",
+        "A imagem mostra uma equação química escrita em texto branco sobre fundo preto. A equação é: CH3Br + NaOH -> CH3OH + NaBr."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As massas molares (em g/mol) desses elementos são: H = 1; C = 12; O = 16; Na = 23; Br = 80.\nO rendimento molar da reação, em que 32 g de metanol foram obtidos a partir de 142,5 g de brometo de metila e 80 g de hidróxido de sódio, é mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "22%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "40%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "67%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "75%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

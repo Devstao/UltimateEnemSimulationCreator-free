@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2012",
+    "index": 4,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra a capa do primeiro número dos quadrinhos do Capitão América, intitulado 'Captain America Comics', datado de março de nº 1. A capa é em preto e branco e retrata o Capitão América em ação contra soldados nazistas dentro de um prédio. Ele está no centro da imagem, com o escudo americano à frente, enquanto os soldados atiram nele. Há uma explosão de energia ao lado do Capitão América. No canto superior esquerdo, há um anúncio que indica 45 páginas e outros recursos. No canto inferior direito, há a imagem de Bucky, seu companheiro, junto com um texto promocional. O título 'Captain America' está em letras garrafais grandes na parte superior da capa.])\n\nDisponível em: http://quadro-a-quadro.blog.br. Acesso em: 27 jan. 2012.\n\nCom sua entrada no universo dos gibis, o Capitão chegaria para apaziguar a agonia, o autoritarismo militar e combater a tirania. Claro que, em tempos de guerra, um gibi de um herói com uma bandeira americana no peito aplicando um sopapo no Fürer só poderia ganhar destaque, e o sucesso não demoraria muito a chegar.\n\nCOSTA, C. Capitão América, o primeiro vingador: crítica. Disponível em: www.revistastart.com.br.  \nAcesso em: 27 jan. 2012 (adaptado).",
+    "files": [
+        "A imagem mostra a capa do primeiro número dos quadrinhos do Capitão América, intitulado 'Captain America Comics', datado de março de nº 1. A capa é em preto e branco e retrata o Capitão América em ação contra soldados nazistas dentro de um prédio. Ele está no centro da imagem, com o escudo americano à frente, enquanto os soldados atiram nele. Há uma explosão de energia ao lado do Capitão América. No canto superior esquerdo, há um anúncio que indica 45 páginas e outros recursos. No canto inferior direito, há a imagem de Bucky, seu companheiro, junto com um texto promocional. O título 'Captain America' está em letras garrafais grandes na parte superior da capa."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A capa da primeira edição norte-americana da revista do Capitão América demonstra sua associação com a participação dos Estados Unidos na luta contra",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A Tríplice Aliança, na Primeira Guerra Mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os regimes totalitários, na Segunda Guerra Mundial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O poder soviético, durante a Guerra Fria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O movimento comunista, na Guerra do Vietnã.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O terrorismo internacional, após 11 de setembro de 2001.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

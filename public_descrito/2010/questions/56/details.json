@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2010",
+    "index": 56,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem é uma ilustração em preto e branco que representa um diagrama esquemático da geração de energia geotérmica. No centro, há uma representação estilizada de magma, com setas indicando o fluxo de calor para as camadas superiores do solo. A legenda explica que ao cavar um poço na direção do centro da terra, a temperatura pode chegar a 250°C.  A água subterrânea escapa pela superfície através de fissuras e fontes termais, sendo canalizada para uso residencial. No topo da imagem, há uma estrutura que representa uma usina geotérmica, onde o vapor gerado impulsiona turbinas para gerar energia elétrica. A legenda indica que a magma está mais próxima da superfície em regiões de placas tectônicas.])",
+    "files": [
+        "A imagem é uma ilustração em preto e branco que representa um diagrama esquemático da geração de energia geotérmica. No centro, há uma representação estilizada de magma, com setas indicando o fluxo de calor para as camadas superiores do solo. A legenda explica que ao cavar um poço na direção do centro da terra, a temperatura pode chegar a 250°C.  A água subterrânea escapa pela superfície através de fissuras e fontes termais, sendo canalizada para uso residencial. No topo da imagem, há uma estrutura que representa uma usina geotérmica, onde o vapor gerado impulsiona turbinas para gerar energia elétrica. A legenda indica que a magma está mais próxima da superfície em regiões de placas tectônicas."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é extraída do calor gerado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pela circulação do magma no subsolo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Pelas erupções constantes dos vulcões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pelo sol que aquece as águas com radiação ultravioleta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pela queima do carvão e combustível fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pelos detritos e cinzas vulcânicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

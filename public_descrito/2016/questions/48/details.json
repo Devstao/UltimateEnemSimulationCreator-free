@@ -1,0 +1,46 @@
+{
+    "title": "Questão 48 - ENEM 2016",
+    "index": 48,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma sequência de quatro figuras estilizadas em preto, dispostas horizontalmente. A primeira figura representa um homem caminhando com um cachorro na coleira e segurando um saco. A segunda figura mostra um frasco ou garrafa com setas indicando movimento. A terceira figura retrata um homem carregando um cesto ou balde e uma vassoura. A quarta figura ilustra uma grande pilha de lixo em chamas, com fumaça subindo.])\n\nA Figura 2 ilustra o Projeto Park Spark, desenvolvido em Cambridge, MA (EUA), em que as fezes dos animais domésticos são recolhidas em sacolas biodegradáveis e jogadas em um biodigestor instalado em parques públicos; e os produtos são utilizados em equipamentos no próprio parque.\n\n![]([descrição: A imagem mostra uma ilustração esquemática de um biodigestor urbano. A cena é simplificada, com figuras estilizadas representando pessoas e um cachorro. Na primeira figura, uma pessoa está abaixada pegando fezes do cachorro com uma sacola. Uma seta indica o movimento em direção à segunda figura, onde outra pessoa está depositando o conteúdo da sacola em um biodigestor subterrâneo. O biodigestor é representado como um recipiente cilíndrico com uma tampa e tubos conectados. Ao lado do biodigestor, há um poste de iluminação. Na parte inferior da imagem, há informações sobre a fonte da ilustração.])",
+    "files": [
+        "A imagem mostra uma sequência de quatro figuras estilizadas em preto, dispostas horizontalmente. A primeira figura representa um homem caminhando com um cachorro na coleira e segurando um saco. A segunda figura mostra um frasco ou garrafa com setas indicando movimento. A terceira figura retrata um homem carregando um cesto ou balde e uma vassoura. A quarta figura ilustra uma grande pilha de lixo em chamas, com fumaça subindo.",
+        "A imagem mostra uma ilustração esquemática de um biodigestor urbano. A cena é simplificada, com figuras estilizadas representando pessoas e um cachorro. Na primeira figura, uma pessoa está abaixada pegando fezes do cachorro com uma sacola. Uma seta indica o movimento em direção à segunda figura, onde outra pessoa está depositando o conteúdo da sacola em um biodigestor subterrâneo. O biodigestor é representado como um recipiente cilíndrico com uma tampa e tubos conectados. Ao lado do biodigestor, há um poste de iluminação. Na parte inferior da imagem, há informações sobre a fonte da ilustração."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma inovação desse projeto é possibilitar o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Queima de gás metano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Armazenamento de gás carbônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Decomposição aeróbica das fezes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uso mais eficiente de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fixação de carbono em moléculas orgânicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

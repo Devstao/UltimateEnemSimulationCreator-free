@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2010",
+    "index": 141,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico de barras comparativo mostra a porcentagem de estudantes que possuem telefone móvel celular com idade de 10 anos ou mais, nas diferentes regiões brasileiras. As regiões são Norte, Nordeste, Sudeste, Sul e Centro-Oeste. Para cada região, há duas barras: uma representando a porcentagem de estudantes que possuem telefone (em tons de cinza escuro) e outra representando a porcentagem de estudantes que não possuem (em tons de cinza claro). No Norte, 63% dos estudantes possuem telefone, enquanto 37% não. No Nordeste, os números são 64% e 36%, respectivamente. No Sudeste, 56% possuem e 44% não. No Sul, 62% possuem e 38% não. Por fim, no Centro-Oeste, 58% possuem e 42% não.])",
+    "files": [
+        "O gráfico de barras comparativo mostra a porcentagem de estudantes que possuem telefone móvel celular com idade de 10 anos ou mais, nas diferentes regiões brasileiras. As regiões são Norte, Nordeste, Sudeste, Sul e Centro-Oeste. Para cada região, há duas barras: uma representando a porcentagem de estudantes que possuem telefone (em tons de cinza escuro) e outra representando a porcentagem de estudantes que não possuem (em tons de cinza claro). No Norte, 63% dos estudantes possuem telefone, enquanto 37% não. No Nordeste, os números são 64% e 36%, respectivamente. No Sudeste, 56% possuem e 44% não. No Sul, 62% possuem e 38% não. Por fim, no Centro-Oeste, 58% possuem e 42% não."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Supondo-se que, no Sudeste, 14 900 estudantes foram entrevistados nessa pesquisa, quantos deles possuíam telefone móvel celular?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 513",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6 556",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7 450",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8 344",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "9 536",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 22 - ENEM 2016",
+    "index": 22,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma história em quadrinhos em preto e branco dividida em quatro painéis. O primeiro painel apresenta uma menina sentada com as mãos nos joelhos, acompanhada de legendas que identificam sua idade (10 anos) e o ano (1980). O segundo painel mostra várias meninas sentadas em fileiras, também vestidas de forma semelhante, com legendas listando seus nomes: Golnaz, Mahchid, Marin e Mina. O terceiro painel retrata uma multidão levantando os braços em sinal de protesto ou celebração, com a legenda descrevendo um evento como a 'Revolução Islâmica' de 1979. O quarto painel mostra uma menina sentada perto de uma lareira, observando outras crianças e uma mulher que diz: 'Toma, minha filha', com a legenda indicando o primeiro ano em que o véu se tornou obrigatório nas escolas.])",
+    "files": [
+        "A imagem mostra uma história em quadrinhos em preto e branco dividida em quatro painéis. O primeiro painel apresenta uma menina sentada com as mãos nos joelhos, acompanhada de legendas que identificam sua idade (10 anos) e o ano (1980). O segundo painel mostra várias meninas sentadas em fileiras, também vestidas de forma semelhante, com legendas listando seus nomes: Golnaz, Mahchid, Marin e Mina. O terceiro painel retrata uma multidão levantando os braços em sinal de protesto ou celebração, com a legenda descrevendo um evento como a 'Revolução Islâmica' de 1979. O quarto painel mostra uma menina sentada perto de uma lareira, observando outras crianças e uma mulher que diz: 'Toma, minha filha', com a legenda indicando o primeiro ano em que o véu se tornou obrigatório nas escolas."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A memória recuperada pela autora apresenta a relação entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conflito trabalhista e engajamento sindical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Organização familiar e proteção à infância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Centralização econômica e pregação religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estrutura educacional e desigualdade de renda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Transformação política e modificação de costumes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

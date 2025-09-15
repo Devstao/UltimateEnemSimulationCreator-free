@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2016",
+    "index": 171,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados sobre a população residente na capital e interior, segundo as Grandes Regiões do Brasil, nos anos de 1940 e 2000. A tabela possui um cabeçalho que indica 'População residente, na capital e interior segundo as Grandes Regiões 1940/2000'. As colunas da tabela são: 'Grandes regiões', 'Total', 'Capital' (dividida em 1940 e 2000) e 'Interior' (também dividida em 1940 e 2000). As linhas representam as Grandes Regiões: Norte, Nordeste, Sudeste, Sul e Centro-Oeste. Os dados são apresentados em números, indicando a população residente em cada categoria para os anos de 1940 e 2000. Na parte inferior da tabela, há uma fonte indicada como 'IBGE, Censo Demográfico 1940/2000'.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre a população residente na capital e interior, segundo as Grandes Regiões do Brasil, nos anos de 1940 e 2000. A tabela possui um cabeçalho que indica 'População residente, na capital e interior segundo as Grandes Regiões 1940/2000'. As colunas da tabela são: 'Grandes regiões', 'Total', 'Capital' (dividida em 1940 e 2000) e 'Interior' (também dividida em 1940 e 2000). As linhas representam as Grandes Regiões: Norte, Nordeste, Sudeste, Sul e Centro-Oeste. Os dados são apresentados em números, indicando a população residente em cada categoria para os anos de 1940 e 2000. Na parte inferior da tabela, há uma fonte indicada como 'IBGE, Censo Demográfico 1940/2000'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O valor mais próximo do percentual que descreve o aumento da população nas capitais da Região Nordeste é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "125%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "231%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "331%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "700%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "800%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

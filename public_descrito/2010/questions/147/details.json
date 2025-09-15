@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2010",
+    "index": 147,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra duas figuras geométricas, Figura I e Figura II, ambas representando grafos ponderados com quatro vértices (A, B, C, D) conectados por arestas. Na Figura I, as arestas são identificadas apenas pelas letras E1 a E6, sem valores numéricos associados. Na Figura II, cada aresta é rotulada com um valor numérico que representa seu peso ou custo. As arestas conectam os vértices da seguinte forma: A-C (0.8), A-D (0.7), B-C (0.5), B-D (0.4), C-D (0.6), e B-A (0.3). A Figura I é uma representação mais genérica, enquanto a Figura II fornece informações quantitativas sobre as conexões entre os vértices.])",
+    "files": [
+        "A imagem mostra duas figuras geométricas, Figura I e Figura II, ambas representando grafos ponderados com quatro vértices (A, B, C, D) conectados por arestas. Na Figura I, as arestas são identificadas apenas pelas letras E1 a E6, sem valores numéricos associados. Na Figura II, cada aresta é rotulada com um valor numérico que representa seu peso ou custo. As arestas conectam os vértices da seguinte forma: A-C (0.8), A-D (0.7), B-C (0.5), B-D (0.4), C-D (0.6), e B-A (0.3). A Figura I é uma representação mais genérica, enquanto a Figura II fornece informações quantitativas sobre as conexões entre os vértices."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Paula deseja se deslocar da cidade A para a cidade B usando exatamente duas das vias indicadas, percorrendo um trajeto com a menor probabilidade de engarrafamento possível. O melhor trajeto para Paula é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "E1E3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "E1E4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "E2E4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "E2E5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E2E6",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

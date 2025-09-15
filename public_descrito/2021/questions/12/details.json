@@ -1,0 +1,45 @@
+{
+    "title": "Questão 12 - ENEM 2021",
+    "index": 12,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma composição em preto e branco com textura granulada, dividida verticalmente. À esquerda, está representada uma garrafa PET transparente cheia de água, com o texto 'ESSE PET É DESCARTÁVEL.' acima dela. À direita, a imagem se funde com a face de um cachorro, com o texto 'ESSE NÃO.' ao lado da cabeça do animal. Na parte inferior da imagem, há um ícone que lembra um cérebro estilizado e a frase 'ABANDONO É CRIME.', seguida pela referência à Lei Federal nº 9.605/98. No canto superior direito, há um logotipo com o formato de uma silhueta de cachorro.])\n\nDisponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).",
+    "files": [
+        "A imagem é uma composição em preto e branco com textura granulada, dividida verticalmente. À esquerda, está representada uma garrafa PET transparente cheia de água, com o texto 'ESSE PET É DESCARTÁVEL.' acima dela. À direita, a imagem se funde com a face de um cachorro, com o texto 'ESSE NÃO.' ao lado da cabeça do animal. Na parte inferior da imagem, há um ícone que lembra um cérebro estilizado e a frase 'ABANDONO É CRIME.', seguida pela referência à Lei Federal nº 9.605/98. No canto superior direito, há um logotipo com o formato de uma silhueta de cachorro."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A associação entre o texto verbal e as imagens da garrafa e do cão configura recurso expressivo que busca",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A estimular denúncias de maus-tratos contra animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Desvincular o conceito de descarte da ideia de negligência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incentivar campanhas de adoção de animais em situação de rua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sensibilizar o público em relação ao abandono de animais domésticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Alertar a população sobre as sanções legais acerca de uma prática criminosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

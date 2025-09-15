@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2022",
+    "index": 95,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença  \ndo campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica.  \nA figura ilustra um fio percorrido por uma corrente elétrica i, constante e com sentido para cima. Os pontos A, B e C  \nestão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola.\n\n![]([descrição: A imagem mostra uma representação esquemática de um experimento envolvendo uma placa metálica e uma bússola. A placa é retangular e está posicionada horizontalmente. Uma seta vertical indica um campo magnético apontando para cima, rotulado como 'i'. Três pontos (A, B e C) estão marcados na placa com linhas tracejadas conectando-os em um arco. À direita da placa, há uma representação de uma bússola, mostrando a agulha alinhada entre os polos Norte (N) e Sul (S). Uma legenda abaixo da bússola identifica o objeto como 'Bússola'.])",
+    "files": [
+        "A imagem mostra uma representação esquemática de um experimento envolvendo uma placa metálica e uma bússola. A placa é retangular e está posicionada horizontalmente. Uma seta vertical indica um campo magnético apontando para cima, rotulado como 'i'. Três pontos (A, B e C) estão marcados na placa com linhas tracejadas conectando-os em um arco. À direita da placa, há uma representação de uma bússola, mostrando a agulha alinhada entre os polos Norte (N) e Sul (S). Uma legenda abaixo da bússola identifica o objeto como 'Bússola'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando apenas o campo magnético por causa da corrente i, as respectivas configurações das bússolas nos pontos A, B e C serão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/87d9018f-a151-480a-a9a8-e44a43463b22.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/362dd438-8835-4020-bd5a-b1e16a3ce584.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/2b418706-4910-471f-a904-dee54086d259.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/7560896d-771b-43b3-9347-d3a593ccd199.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/6e7b0269-ad16-4031-b9df-fecb1c4a2acb.png",
+            "isCorrect": false
+        }
+    ]
+}

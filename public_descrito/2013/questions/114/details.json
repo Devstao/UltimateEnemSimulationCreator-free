@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2013",
+    "index": 114,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma pintura em preto e branco, aparentemente uma gravura ou reprodução de uma obra de arte. A pintura retrata um grupo de figuras humanas esqueléticas e angulosas, com expressões tensas e gestos dramáticos. As figuras parecem estar envolvidas em algum tipo de evento ou confronto, possivelmente relacionado ao descobrimento do Brasil, como indicado na legenda abaixo da imagem. Há uma figura central que parece estar empunhando um objeto longo, talvez uma lança ou vara, enquanto outras figuras o cercam com expressões de medo e apreensão. A pintura tem um estilo expressionista, com linhas fortes e cores contrastantes (embora a reprodução seja em preto e branco). Na legenda, identifica-se a obra como 'O descobrimento do Brasil', de Portinari, datada de 1956.])",
+    "files": [
+        "A imagem mostra uma pintura em preto e branco, aparentemente uma gravura ou reprodução de uma obra de arte. A pintura retrata um grupo de figuras humanas esqueléticas e angulosas, com expressões tensas e gestos dramáticos. As figuras parecem estar envolvidas em algum tipo de evento ou confronto, possivelmente relacionado ao descobrimento do Brasil, como indicado na legenda abaixo da imagem. Há uma figura central que parece estar empunhando um objeto longo, talvez uma lança ou vara, enquanto outras figuras o cercam com expressões de medo e apreensão. A pintura tem um estilo expressionista, com linhas fortes e cores contrastantes (embora a reprodução seja em preto e branco). Na legenda, identifica-se a obra como 'O descobrimento do Brasil', de Portinari, datada de 1956."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Pertencentes ao patrimônio cultural brasileiro, a carta de Pero Vaz de Caminha e a obra de Portinari retratam a chegada dos portugueses ao Brasil. Da leitura dos textos, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A carta de Pero Vaz de Caminha representa uma das primeiras manifestações artísticas dos portugueses em terras brasileiras e preocupa-se apenas com a estética literária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A tela de Portinari retrata indígenas nus com corpos pintados, cuja grande significação é a afirmação da arte acadêmica brasileira e a contestação de uma linguagem moderna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A carta, como testemunho histórico-político, mostra o olhar do colonizador sobre a gente da terra, e a pintura destaca, em primeiro plano, a inquietação dos nativos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "As duas produções, embora usem linguagens diferentes — verbal e não verbal —, cumprem a mesma função social e artística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A pintura e a carta de Caminha são manifestações de grupos étnicos diferentes, produzidas em um mesmo momento histórico, retratando a colonização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

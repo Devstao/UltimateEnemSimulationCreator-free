@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2011",
+    "index": 67,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: O gráfico mostra o comportamento espectral de diferentes alvos, representando a porcentagem de refletância em função do comprimento de onda (em micrômetros). As curvas representam: grama (alta refletância no infravermelho), concreto (refletância moderada e constante), solo arenoso (pico de absorção entre 0.5 e 0.6 μm, seguido de aumento na refletância), asfalto (baixa refletância em todo o espectro) e água (baixa refletância com um pequeno pico próximo a 0.7 μm). O eixo vertical indica a porcentagem de refletância, variando de 0% a 50%. O eixo horizontal representa o comprimento de onda, abrangendo as regiões visível e infravermelha, de 0.4 μm a 0.9 μm.])",
+    "files": [
+        "O gráfico mostra o comportamento espectral de diferentes alvos, representando a porcentagem de refletância em função do comprimento de onda (em micrômetros). As curvas representam: grama (alta refletância no infravermelho), concreto (refletância moderada e constante), solo arenoso (pico de absorção entre 0.5 e 0.6 μm, seguido de aumento na refletância), asfalto (baixa refletância em todo o espectro) e água (baixa refletância com um pequeno pico próximo a 0.7 μm). O eixo vertical indica a porcentagem de refletância, variando de 0% a 50%. O eixo horizontal representa o comprimento de onda, abrangendo as regiões visível e infravermelha, de 0.4 μm a 0.9 μm."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com as curvas de assinatura espectral apresenta na figura, para que se obtenha a melhor discriminação dos alvos mostrados, convém selecionar a banda correspondente a que comprimento de onda em micrômetros (µm)?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,4 a 0,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,5 a 0,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,6 a 0,7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,7 a 0,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,8 a 0,9.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

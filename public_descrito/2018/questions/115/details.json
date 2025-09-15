@@ -1,0 +1,45 @@
+{
+    "title": "Questão 115 - ENEM 2018",
+    "index": 115,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Alguns peixes, como o poraquê, a enguia-elétrica da Amazônia, podem produzir uma corrente elétrica quando se encontram em perigo. Um poraquê de 1 metro de comprimento, em perigo, produz uma corrente em torno de 2 ampères e uma voltagem de 600 volts.\n\nO quadro apresenta a potência aproximada de  \nequipamentos elétricos.\n\n![]([descrição: A imagem mostra uma tabela com dois colunas: 'Equipamento elétrico' e 'Potência aproximada (watt)'. A primeira coluna lista os seguintes equipamentos: Exaustor, Computador, Aspirador de pó, Churrasqueira elétrica e Secadora de roupas. As potências correspondentes em watts são 150, 300, 600, 1200 e 3600, respectivamente.])",
+    "files": [
+        "A imagem mostra uma tabela com dois colunas: 'Equipamento elétrico' e 'Potência aproximada (watt)'. A primeira coluna lista os seguintes equipamentos: Exaustor, Computador, Aspirador de pó, Churrasqueira elétrica e Secadora de roupas. As potências correspondentes em watts são 150, 300, 600, 1200 e 3600, respectivamente."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O equipamento elétrico que tem potência similar àquela produzida por esse peixe em perigo é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exaustor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Computador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aspirador de pó.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Churrasqueira elétrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Secadora de roupas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

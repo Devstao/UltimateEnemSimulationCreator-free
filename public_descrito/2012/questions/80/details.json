@@ -1,0 +1,45 @@
+{
+    "title": "Questão 80 - ENEM 2012",
+    "index": 80,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tirinha de quadrinhos do personagem Garfield, o gato. No primeiro quadro, Garfield está olhando para um espelho e diz: 'Puxa, como estou fora de forma!'. No segundo quadro, ele exclama: 'Só há uma coisa a fazer!'. No terceiro quadro, ele amarra o espelho com uma corda, enquanto olha para ele.])",
+    "files": [
+        "A imagem mostra uma tirinha de quadrinhos do personagem Garfield, o gato. No primeiro quadro, Garfield está olhando para um espelho e diz: 'Puxa, como estou fora de forma!'. No segundo quadro, ele exclama: 'Só há uma coisa a fazer!'. No terceiro quadro, ele amarra o espelho com uma corda, enquanto olha para ele."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A condição física apresentada pelo personagem da tirinha é um fator de risco que pode desencadear doenças como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Anemia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Beribéri.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diabetes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Escorbuto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fenilcetonúria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

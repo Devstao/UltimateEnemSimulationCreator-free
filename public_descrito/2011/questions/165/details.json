@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2011",
+    "index": 165,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma pista oval com duas semi-circunferências nas extremidades conectadas por dois retângulos. As dimensões da pista estão indicadas: o comprimento dos retângulos é de 84,33 metros e o diâmetro das semicircunferências é de 36,5 metros cada.])",
+    "files": [
+        "A imagem mostra uma pista oval com duas semi-circunferências nas extremidades conectadas por dois retângulos. As dimensões da pista estão indicadas: o comprimento dos retângulos é de 84,33 metros e o diâmetro das semicircunferências é de 36,5 metros cada."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se os atletas partissem do mesmo ponto, dando uma volta completa, em qual das raias o corredor estaria sendo beneficiado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

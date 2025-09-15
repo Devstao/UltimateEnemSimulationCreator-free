@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2023",
+    "index": 137,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração.\n\nOs funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.\n\n![]([descrição: A imagem mostra uma tabela com três colunas: 'Setor', 'Quantidade de funcionários' e 'Salário (em real)'. A primeira linha representa o setor de Produção, com 75 funcionários e um salário de R$2.000,00. A segunda linha representa a Administração, com 25 funcionários e um salário de R$7.000,00.])",
+    "files": [
+        "A imagem mostra uma tabela com três colunas: 'Setor', 'Quantidade de funcionários' e 'Salário (em real)'. A primeira linha representa o setor de Produção, com 75 funcionários e um salário de R$2.000,00. A segunda linha representa a Administração, com 25 funcionários e um salário de R$7.000,00."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A média dos salários dos 100 funcionários dessa empresa, em real, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2.000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.500,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.250,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4.500,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9.000,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 107 - ENEM 2017",
+    "index": 107,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A epilação a laser (popularmente conhecida como depilação a laser) consiste na aplicação de uma fonte de luz para aquecer e causar uma lesão localizada e controlada nos folículos capilares. Para evitar que outros tecidos sejam danificados, selecionam-se comprimentos de onda que são absorvidos pela melanina presente nos pelos, mas que não afetam a oxi-hemoglobina do sangue e a água dos tecidos da região em que o tratamento será aplicado. A figura mostra como é a absorção de diferentes comprimentos de onda pela melanina, oxi-hemoglobina e água.\n\n![]([descrição: O gráfico mostra a absorção de luz por diferentes substâncias em função do comprimento de onda. O eixo vertical representa a absorção em porcentagem, variando de 0% a 50%. O eixo horizontal representa o comprimento de onda em nanômetros (nm), variando de 400 nm a 1100 nm. Três curvas são apresentadas: uma linha sólida e preta representando a melanina, com alta absorção entre 400-600 nm e diminuindo gradualmente até 1100 nm; uma linha cinza contínua representando a oxi-hemoglobina, com um pico de absorção em torno de 550 nm e um mínimo em torno de 700 nm; e uma linha tracejada preta representando a água, com baixa absorção em todo o espectro. Uma legenda identifica cada curva e suas respectivas substâncias.])",
+    "files": [
+        "O gráfico mostra a absorção de luz por diferentes substâncias em função do comprimento de onda. O eixo vertical representa a absorção em porcentagem, variando de 0% a 50%. O eixo horizontal representa o comprimento de onda em nanômetros (nm), variando de 400 nm a 1100 nm. Três curvas são apresentadas: uma linha sólida e preta representando a melanina, com alta absorção entre 400-600 nm e diminuindo gradualmente até 1100 nm; uma linha cinza contínua representando a oxi-hemoglobina, com um pico de absorção em torno de 550 nm e um mínimo em torno de 700 nm; e uma linha tracejada preta representando a água, com baixa absorção em todo o espectro. Uma legenda identifica cada curva e suas respectivas substâncias."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o comprimento de onda, em nm, ideal para a epilação a laser?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "400",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "700",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "900",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

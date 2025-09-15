@@ -1,0 +1,45 @@
+{
+    "title": "Questão 75 - ENEM 2011",
+    "index": 75,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma equação química representando a desmineralização e mineralização da hidroxiapatita (Ca5(PO4)3OH). A reação de desmineralização converte a hidroxiapatita sólida em íons cálcio (Ca2+), fosfato (PO43-) e hidróxido (OH-), todos em solução aquosa. Abaixo da equação, há uma citação com informações sobre a fonte da imagem.])",
+    "files": [
+        "A imagem mostra uma equação química representando a desmineralização e mineralização da hidroxiapatita (Ca5(PO4)3OH). A reação de desmineralização converte a hidroxiapatita sólida em íons cálcio (Ca2+), fosfato (PO43-) e hidróxido (OH-), todos em solução aquosa. Abaixo da equação, há uma citação com informações sobre a fonte da imagem."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando que uma pessoa consuma refrigerantes diariamente, poderá ocorrer um processo de desmineralização dentária, devido ao aumento da concentração de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "OH- , que reage com os íons Ca2+, deslocando o equilíbrio para a direita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "H+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a direita.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "OH- , que reage com os íons Ca2+, deslocando o equilíbrio para a esquerda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "H+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a esquerda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ca2+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a esquerda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

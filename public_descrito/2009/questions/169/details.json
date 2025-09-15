@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2009",
+    "index": 169,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A vazão do rio Tietê, em São Paulo, constitui preocupação constante nos períodos chuvosos. Em alguns trechos, são construídas canaletas para controlar o fluxo de água. Uma dessas canaletas, cujo corte vertical determina a forma de um trapézio isósceles, tem as medidas especificadas na figura I. Neste caso, a vazão da água é de 1.050 m³/s. O cálculo da vazão, Q em m³/s, envolve o produto da área A do setor transversal (por onde passa a água), em m², pela velocidade da água no local, v, em m/s, ou seja, Q = Av.  \nPlaneja-se uma reforma na canaleta, com as dimensões especificadas na figura II, para evitar a ocorrência de enchentes.\n\n![]([descrição: A imagem mostra dois diagramas esquemáticos, Figura I e Figura II, representando cortes transversais de estruturas semelhantes. Ambas as figuras exibem uma linha horizontal central (o 'chão') elevada por duas rampas inclinadas em cada extremidade. A Figura I tem uma largura total de 30 metros, com a distância entre as rampas sendo de 20 metros e a altura das rampas de 2,5 metros. A Figura II possui uma largura total de 49 metros, com a distância entre as rampas de 41 metros e a altura das rampas de 2,0 metros. Há linhas de medição indicando as dimensões em metros para cada parte da estrutura.])",
+    "files": [
+        "A imagem mostra dois diagramas esquemáticos, Figura I e Figura II, representando cortes transversais de estruturas semelhantes. Ambas as figuras exibem uma linha horizontal central (o 'chão') elevada por duas rampas inclinadas em cada extremidade. A Figura I tem uma largura total de 30 metros, com a distância entre as rampas sendo de 20 metros e a altura das rampas de 2,5 metros. A Figura II possui uma largura total de 49 metros, com a distância entre as rampas de 41 metros e a altura das rampas de 2,0 metros. Há linhas de medição indicando as dimensões em metros para cada parte da estrutura."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na suposição de que a velocidade da água não se alterará, qual a vazão esperada para depois da reforma na canaleta?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "90 m³/s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "750 m³/s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1.050 m³/s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1.512 m³/s.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2.009 m³/s.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

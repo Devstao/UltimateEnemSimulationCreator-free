@@ -1,0 +1,45 @@
+{
+    "title": "Questão 86 - ENEM 2010",
+    "index": 86,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: O diagrama ilustra três testes para detectar príons patogênicos (PrP). No teste I, uma amostra de tecido é injetada em um camundongo ou outro animal de teste, com as opções A e B representando possíveis resultados. O teste II envolve o uso de anticorpos que reconhecem PrP, seguido por análise microscópica da amostra em lâmina, também com opções A e B para os resultados. No teste III, uma protease é utilizada para processar a amostra, seguida por eletroforese em gel para identificar um marcador específico de príons patogênicos (PrP), novamente com as opções A e B indicando diferentes cenários.])\n\nTrês dos quatro tipos de testes atualmente empregados para a detecção de príons patogênicos, em tecidos cerebrais do gado morto, são mostrados nas figuras a seguir. Uma vez identificados um animal morto infectado, funcionários das agências de saúde pública e fazendeiros podem removê-lo do suprimento alimentar ou rastrear os alimentos infectados que o animal possa ter consumido.",
+    "files": [
+        "O diagrama ilustra três testes para detectar príons patogênicos (PrP). No teste I, uma amostra de tecido é injetada em um camundongo ou outro animal de teste, com as opções A e B representando possíveis resultados. O teste II envolve o uso de anticorpos que reconhecem PrP, seguido por análise microscópica da amostra em lâmina, também com opções A e B para os resultados. No teste III, uma protease é utilizada para processar a amostra, seguida por eletroforese em gel para identificar um marcador específico de príons patogênicos (PrP), novamente com as opções A e B indicando diferentes cenários."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Analisando os testes I, II e III, para a detecção de príons patogênicos, identifique as condições em que os resultados foram positivos para a presença de príons nos três testes:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Animal A, lâmina B e gel A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Animal A, lâmina A e gel B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Animal B, lâmina A e gel B.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Animal B, lâmina B e gel A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Animal A, lâmina B e gel B.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

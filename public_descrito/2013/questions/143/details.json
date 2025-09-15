@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2013",
+    "index": 143,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um diagrama de caminho em uma grade quadriculada, representando o trajeto de alguém saindo de casa para ir à escola. O caminho é indicado por uma linha preta que serpenteia pela grade. Uma bicicleta está desenhada no meio do caminho. No canto inferior esquerdo da imagem, há um ícone de casa com a legenda 'Casa'. No canto superior direito, há um ícone de escola com a legenda 'Escola'. Há também uma escala na parte inferior direita da imagem, indicando que cada quadrado representa 1 cm.])",
+    "files": [
+        "A imagem mostra um diagrama de caminho em uma grade quadriculada, representando o trajeto de alguém saindo de casa para ir à escola. O caminho é indicado por uma linha preta que serpenteia pela grade. Uma bicicleta está desenhada no meio do caminho. No canto inferior esquerdo da imagem, há um ícone de casa com a legenda 'Casa'. No canto superior direito, há um ícone de escola com a legenda 'Escola'. Há também uma escala na parte inferior direita da imagem, indicando que cada quadrado representa 1 cm."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Quantos quilômetros esse aluno percorreu na fase de implantação do programa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

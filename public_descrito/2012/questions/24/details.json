@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2012",
+    "index": 24,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem contém dois gráficos de linha sobrepostos, ambos com o título \"Composição da população residente [urbana/rural] por sexo, segundo os grupos de idade - Brasil - 1991/2010\". Os gráficos comparam a distribuição etária de homens e mulheres no Brasil em 1991 (linha preta) e 2010 (linha cinza). O eixo horizontal representa as faixas etárias, variando de 0 a 8 anos, e o eixo vertical representa a porcentagem da população. Os gráficos mostram uma mudança na distribuição etária ao longo do tempo, com um deslocamento para idades mais avançadas em ambos os sexos e áreas (urbana e rural). Na parte inferior da imagem, há uma legenda indicando as fontes dos dados: BRASIL IBGE. Censo demográfico 1991-2010.])",
+    "files": [
+        "A imagem contém dois gráficos de linha sobrepostos, ambos com o título \"Composição da população residente [urbana/rural] por sexo, segundo os grupos de idade - Brasil - 1991/2010\". Os gráficos comparam a distribuição etária de homens e mulheres no Brasil em 1991 (linha preta) e 2010 (linha cinza). O eixo horizontal representa as faixas etárias, variando de 0 a 8 anos, e o eixo vertical representa a porcentagem da população. Os gráficos mostram uma mudança na distribuição etária ao longo do tempo, com um deslocamento para idades mais avançadas em ambos os sexos e áreas (urbana e rural). Na parte inferior da imagem, há uma legenda indicando as fontes dos dados: BRASIL IBGE. Censo demográfico 1991-2010."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A interpretação e a correlação das figuras sobre a dinâmica demográfica brasileira demonstram um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor proporção de fecundidade na área urbana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Menor proporção de homens na área rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento da proporção de fecundidade na área rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Queda da longevidade na área rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Queda do número de idosos na área urbana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

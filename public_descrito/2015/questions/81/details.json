@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2015",
+    "index": 81,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com semirreações de redução e seus respectivos potenciais padrão de redução (E°). A tabela possui um cabeçalho que indica 'Semirreação de redução' na coluna da esquerda e 'E° (V)' na coluna da direita. As semirreações listadas são: Ca²⁺ + 2e⁻ → Ca (-2,87 V), Fe³⁺ + 3e⁻ → Fe (-0,04 V), Cu²⁺ + 2e⁻ → Cu (+0,34 V), Cu⁺ + e⁻ → Cu (+0,52 V) e Fe³⁺ + e⁻ → Fe²⁺ (+0,77 V). Na parte inferior da imagem, há uma nota de referência com o nome 'MOTTA, I. S. Calda bordalesa: utilidades e preparo. Dourados: Embrapa, 2008 (adaptado)'.])",
+    "files": [
+        "A imagem mostra uma tabela com semirreações de redução e seus respectivos potenciais padrão de redução (E°). A tabela possui um cabeçalho que indica 'Semirreação de redução' na coluna da esquerda e 'E° (V)' na coluna da direita. As semirreações listadas são: Ca²⁺ + 2e⁻ → Ca (-2,87 V), Fe³⁺ + 3e⁻ → Fe (-0,04 V), Cu²⁺ + 2e⁻ → Cu (+0,34 V), Cu⁺ + e⁻ → Cu (+0,52 V) e Fe³⁺ + e⁻ → Fe²⁺ (+0,77 V). Na parte inferior da imagem, há uma nota de referência com o nome 'MOTTA, I. S. Calda bordalesa: utilidades e preparo. Dourados: Embrapa, 2008 (adaptado)'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A equação química que representa a reação de formação da mancha avermelhada é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ca2+(aq) +  2Cu+(aq) --> Ca(s) + 2Cu2+(aq)).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ca2+(aq) + 2Fe2+(aq) --> Ca(s) + 2Fe3+(aq).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cu2+(aq) + 2 Fe2+(aq) --> Cu(s) + 2Fe3+(aq).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3Ca2+(aq) + 2 Fe(s) --> 3 Ca(s) + 2Fe3+(aq).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 Cu2+(aq) + 2 Fe(s) --> 3 Cu(s) + 2 Fe3+(aq).",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 169 - ENEM 2023",
+    "index": 169,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo ![]([descrição: A imagem mostra as letras 'L' e 'o' em negrito, dispostas lado a lado.]) a intensidade na sua superfície.\n\n![]([descrição: O diagrama ilustra a relação entre profundidade e intensidade luminosa na água. O eixo vertical representa a intensidade luminosa, marcada como L₀ na superfície (0 m). Setas verticais descendentes indicam a diminuição da intensidade luminosa com o aumento da profundidade. Em 1 metro de profundidade, a intensidade é 2L₀/3; em 2 metros, é 4L₀/9; e em 3 metros, é 8L₀/27. Linhas tracejadas conectam cada profundidade ao seu valor correspondente de intensidade luminosa.])\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
+    "files": [
+        "A imagem mostra as letras 'L' e 'o' em negrito, dispostas lado a lado.",
+        "O diagrama ilustra a relação entre profundidade e intensidade luminosa na água. O eixo vertical representa a intensidade luminosa, marcada como L₀ na superfície (0 m). Setas verticais descendentes indicam a diminuição da intensidade luminosa com o aumento da profundidade. Em 1 metro de profundidade, a intensidade é 2L₀/3; em 2 metros, é 4L₀/9; e em 3 metros, é 8L₀/27. Linhas tracejadas conectam cada profundidade ao seu valor correspondente de intensidade luminosa."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/0ad62fa9-ccdd-40b7-95e6-024319a5c9bc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/74afb699-867b-4b47-8fa9-9c0fddd6db14.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/23fe5ab4-dc1d-4693-8a62-c17abdd5c5cb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/9394f679-b291-4e10-9384-b1f2c2dba975.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/5037e73b-aa7f-43fd-baa8-4f70d9f0f498.png",
+            "isCorrect": false
+        }
+    ]
+}

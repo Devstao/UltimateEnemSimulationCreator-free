@@ -1,0 +1,46 @@
+{
+    "title": "Questão 133 - ENEM 2021",
+    "index": 133,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.\n\n![]([descrição: A imagem mostra uma tabela com duas colunas. A primeira coluna, intitulada 'Dispositivo eletrônico', lista cinco dispositivos: relógio de parede, celular, câmera digital, carrinho de controle remoto e notebook/laptop. A segunda coluna, intitulada 'Faixa de força eletromotriz (V)', apresenta a faixa de voltagem para cada dispositivo listado na primeira coluna: 1,2 a 1,5 V para o relógio de parede; 3,5 a 3,8 V para o celular; 7,5 a 7,8 V para a câmera digital; 10,5 a 10,9 V para o carrinho de controle remoto e 19,5 a 20,0 V para o notebook/laptop. Cada linha da tabela é separada por uma borda horizontal.])\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\n![]([descrição: A imagem mostra duas equações químicas com seus respectivos potenciais padrão de redução (E°). A primeira equação é I₂ + 2e⁻ → 2I⁻, com E° = +0,54 V. A segunda equação é Li⁺ + e⁻ → Li, com E° = -3,05 V.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas. A primeira coluna, intitulada 'Dispositivo eletrônico', lista cinco dispositivos: relógio de parede, celular, câmera digital, carrinho de controle remoto e notebook/laptop. A segunda coluna, intitulada 'Faixa de força eletromotriz (V)', apresenta a faixa de voltagem para cada dispositivo listado na primeira coluna: 1,2 a 1,5 V para o relógio de parede; 3,5 a 3,8 V para o celular; 7,5 a 7,8 V para a câmera digital; 10,5 a 10,9 V para o carrinho de controle remoto e 19,5 a 20,0 V para o notebook/laptop. Cada linha da tabela é separada por uma borda horizontal.",
+        "A imagem mostra duas equações químicas com seus respectivos potenciais padrão de redução (E°). A primeira equação é I₂ + 2e⁻ → 2I⁻, com E° = +0,54 V. A segunda equação é Li⁺ + e⁻ → Li, com E° = -3,05 V."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - ENEM 2022",
+    "index": 70,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**\n\n**Interseccionalidade:** intercruzamento de desigualdades que gera padrões complexos de discriminação\n\n![]([descrição: Gráfico de barras horizontal mostrando a proporção de pessoas abaixo da linha da pobreza por arranjo domiciliar no Brasil em 2017. As categorias, do mais alto para o mais baixo percentual, são: Mulher preta ou parda sem cônjuge e com filho(s) até 14 anos (64,4%), Mulher sem cônjuge e com filho(s) até 14 anos (56,9%), Casal com filho(s) (30,4%), Outros (21,0%), Unipessoal (11,6%) e Casal sem filho (10,0%). O título do gráfico é 'Proporção de pessoas abaixo da linha da pobreza. Por arranjo domiciliar no Brasil — 2017'.])\n\n**Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.**",
+    "files": [
+        "Gráfico de barras horizontal mostrando a proporção de pessoas abaixo da linha da pobreza por arranjo domiciliar no Brasil em 2017. As categorias, do mais alto para o mais baixo percentual, são: Mulher preta ou parda sem cônjuge e com filho(s) até 14 anos (64,4%), Mulher sem cônjuge e com filho(s) até 14 anos (56,9%), Casal com filho(s) (30,4%), Outros (21,0%), Unipessoal (11,6%) e Casal sem filho (10,0%). O título do gráfico é 'Proporção de pessoas abaixo da linha da pobreza. Por arranjo domiciliar no Brasil — 2017'."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando o conceito apresentando no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Raça e gênero.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Etnia e habitação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Idade e nupcialidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Profissão e sexualidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Escolaridade e fecundidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

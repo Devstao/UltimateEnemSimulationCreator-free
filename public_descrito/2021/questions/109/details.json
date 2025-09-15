@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2021",
+    "index": 109,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Cientistas da Universidade de New South Wales, na Austrália, demonstraram em 2012 que a Lei de Ohm é válida mesmo para fios finíssimos, cuja área da seção reta compreende alguns poucos átomos. A tabela apresenta as áreas e comprimentos de alguns dos fios construídos (respectivamente com as mesmas unidades de medida). Considere que a resistividade mantém-se constante para todas as geometrias (uma aproximação confirmada pelo estudo).\n\n![]([descrição: A imagem mostra uma tabela com quatro linhas e três colunas. As colunas são rotuladas como 'Área', 'Comprimento' e 'Resistência elétrica'. A primeira linha corresponde ao 'Fio 1', com área de 9, comprimento de 312 e resistência elétrica R1. A segunda linha é do 'Fio 2', com área de 4, comprimento de 47 e resistência elétrica R2. A terceira linha representa o 'Fio 3', com área de 2, comprimento de 54 e resistência elétrica R3. Por fim, a quarta linha corresponde ao 'Fio 4', com área de 1, comprimento de 106 e resistência elétrica R4.])\n\nWEBER, S. B. et al. Ohm1s Law Survivers to the atomice sacle.\n\n**Science**, n. 335, jan. 2012 (adaptado)",
+    "files": [
+        "A imagem mostra uma tabela com quatro linhas e três colunas. As colunas são rotuladas como 'Área', 'Comprimento' e 'Resistência elétrica'. A primeira linha corresponde ao 'Fio 1', com área de 9, comprimento de 312 e resistência elétrica R1. A segunda linha é do 'Fio 2', com área de 4, comprimento de 47 e resistência elétrica R2. A terceira linha representa o 'Fio 3', com área de 2, comprimento de 54 e resistência elétrica R3. Por fim, a quarta linha corresponde ao 'Fio 4', com área de 1, comprimento de 106 e resistência elétrica R4."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As resistências elétricas dos fios, em ordem crescente, são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R1 < R2 < R3< R4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R2 < R1 < R3< R4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R2 < R3 < R1< R4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R4 < R1 < R3< R2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R4 < R3 < R2< R1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

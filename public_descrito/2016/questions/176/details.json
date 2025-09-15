@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2016",
+    "index": 176,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra dois gráficos de linhas, lado a lado. O gráfico da esquerda é rotulado como 'Tomeia' e o gráfico da direita é rotulado como 'Rab'. Ambos os gráficos representam a vazão (Q) em L/min em função do tempo (t) em minutos. \n\nNo gráfico de Tomeia, a vazão aumenta de 5 L/min para 20 L/min entre t=0 e t=10 min, permanece constante até t=15 min, e depois retorna para 5 L/min até t=25 min.\n\nNo gráfico de Rab, a vazão permanece em 5 L/min até t=15 min, então aumenta rapidamente para 20 L/min entre t=15 e t=20 min, e finalmente atinge 20 L/min novamente e permanece constante até t=25 min.])",
+    "files": [
+        "A imagem mostra dois gráficos de linhas, lado a lado. O gráfico da esquerda é rotulado como 'Tomeia' e o gráfico da direita é rotulado como 'Rab'. Ambos os gráficos representam a vazão (Q) em L/min em função do tempo (t) em minutos. \n\nNo gráfico de Tomeia, a vazão aumenta de 5 L/min para 20 L/min entre t=0 e t=10 min, permanece constante até t=15 min, e depois retorna para 5 L/min até t=25 min.\n\nNo gráfico de Rab, a vazão permanece em 5 L/min até t=15 min, então aumenta rapidamente para 20 L/min entre t=15 e t=20 min, e finalmente atinge 20 L/min novamente e permanece constante até t=25 min."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em qual intervalo de tempo, em minuto, o reservatório tem uma vazão constante de enchimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "De 0 a 10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "De 5 a 10.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "De 5 a 15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "De 15 a 25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "De 0 a 25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

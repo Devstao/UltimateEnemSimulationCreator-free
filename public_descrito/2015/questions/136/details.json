@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2015",
+    "index": 136,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico representa a variação do valor de uma ação ao longo do tempo, medido em horas. O eixo vertical (y) indica o valor da ação em Reais (R$), com três linhas horizontais representando valores de referência: Vo (valor ótimo), Vi (valor inicial) e Vm (valor mínimo). O eixo horizontal (x) representa o tempo em horas, variando de 10 a 17. A linha do gráfico mostra flutuações no valor da ação, subindo e descendo em diferentes momentos entre as horas 10 e 17.])",
+    "files": [
+        "O gráfico representa a variação do valor de uma ação ao longo do tempo, medido em horas. O eixo vertical (y) indica o valor da ação em Reais (R$), com três linhas horizontais representando valores de referência: Vo (valor ótimo), Vi (valor inicial) e Vm (valor mínimo). O eixo horizontal (x) representa o tempo em horas, variando de 10 a 17. A linha do gráfico mostra flutuações no valor da ação, subindo e descendo em diferentes momentos entre as horas 10 e 17."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantas operações o investidor fez naquele dia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

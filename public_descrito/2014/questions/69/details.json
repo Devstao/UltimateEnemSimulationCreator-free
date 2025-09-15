@@ -1,0 +1,45 @@
+{
+    "title": "Questão 69 - ENEM 2014",
+    "index": 69,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em um laboratório de genética experimental, observou-se que determinada bactéria continha um gene que conferia resistência a pragas específicas de plantas. Em vista disso, os pesquisadores procederam de acordo com a figura.\n\n![]([descrição: Diagrama ilustrando o processo de engenharia genética, começando com uma bactéria (1) e culminando em uma planta (7). As etapas são representadas por setas e descrições: isolamento do DNA bacteriano (2), clonagem do DNA (3), extração do gene de interesse e fabricação do gene (4 e 5), inserção do gene nas células do tecido da planta (6) e, finalmente, a planta resultante (7). As moléculas de DNA são representadas em forma espiral dupla. Há uma legenda na parte inferior com a fonte da imagem.])",
+    "files": [
+        "Diagrama ilustrando o processo de engenharia genética, começando com uma bactéria (1) e culminando em uma planta (7). As etapas são representadas por setas e descrições: isolamento do DNA bacteriano (2), clonagem do DNA (3), extração do gene de interesse e fabricação do gene (4 e 5), inserção do gene nas células do tecido da planta (6) e, finalmente, a planta resultante (7). As moléculas de DNA são representadas em forma espiral dupla. Há uma legenda na parte inferior com a fonte da imagem."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Do ponto de vista biotecnológico, como a planta representada na figura é classificada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Clone.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Híbrida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mutante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Adaptada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Transgênica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

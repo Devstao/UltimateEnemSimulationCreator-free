@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2009",
+    "index": 148,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A tabela mostra alguns dados da emissão de dióxido de carbono de uma fábrica, em função do número de toneladas produzidas.\n\n![]([descrição: A imagem mostra uma tabela com duas colunas. A primeira coluna, intitulada 'Produção (em toneladas)', lista valores de 1,1 até 2,0 em incrementos de 0,1. A segunda coluna, intitulada 'Emissão de dióxido de carbono (em partes por milhão - ppm)', apresenta os seguintes valores correspondentes: 2,14, 2,30, 2,46, 2,64, 2,83, 3,03, 3,25, 3,48, 3,73 e 4,00. Na parte inferior da imagem, há uma nota de rodapé indicando a fonte dos dados: Cadernos do Gestar II, Matemática TP3, disponível em www.mec.gov.br, acesso em 14 jul. 2009.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas. A primeira coluna, intitulada 'Produção (em toneladas)', lista valores de 1,1 até 2,0 em incrementos de 0,1. A segunda coluna, intitulada 'Emissão de dióxido de carbono (em partes por milhão - ppm)', apresenta os seguintes valores correspondentes: 2,14, 2,30, 2,46, 2,64, 2,83, 3,03, 3,25, 3,48, 3,73 e 4,00. Na parte inferior da imagem, há uma nota de rodapé indicando a fonte dos dados: Cadernos do Gestar II, Matemática TP3, disponível em www.mec.gov.br, acesso em 14 jul. 2009."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os dados na tabela indicam que a taxa média de variação entre a emissão de dióxido de carbono (em ppm) e a produção (em toneladas) é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Inferior a 0,18.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Superior a 0,18 e inferior a 0,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Superior a 0,50 e inferior a 1,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Superior a 1,50 e inferior a 2,80.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Superior a 2,80.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

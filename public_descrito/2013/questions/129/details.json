@@ -1,0 +1,45 @@
+{
+    "title": "Questão 129 - ENEM 2013",
+    "index": 129,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem apresenta uma ilustração em preto e branco com o título 'brasilidade em construção'. A composição é visualmente complexa, com elementos dispostos de forma não linear, sugerindo um fluxo de ideias ou associações. No topo, há a frase 'Brasilidade em Construção' em letras maiúsculas. Abaixo, a expressão 'País do FUTEBOL' está escrita em uma caixa. Uma grande nuvem de palavras se ramifica a partir dessa caixa, contendo frases e números relacionados ao futebol e à história das relações entre o Brasil e a Europa. As frases incluem 'a europa curvou-se ante o Brasil', 'A injustiça de Cette', 'Vitórias do Clube Paulistano' e 'E meia dúzia na cabeça dos portugueses'. Há também uma série de resultados de jogos de futebol, como '7 a 2', '3 a 1', '4 a 0', '2 a 1', '2 a 0' e '3 a 1'. A ilustração é acompanhada por um texto explicativo na parte inferior, identificando-a como parte do 'Museu da Língua Portuguesa', creditando Oswald de Andrade como o responsável e fornecendo informações sobre a exposição. O estilo visual lembra um desenho à mão livre ou um diagrama conceitual.])",
+    "files": [
+        "A imagem apresenta uma ilustração em preto e branco com o título 'brasilidade em construção'. A composição é visualmente complexa, com elementos dispostos de forma não linear, sugerindo um fluxo de ideias ou associações. No topo, há a frase 'Brasilidade em Construção' em letras maiúsculas. Abaixo, a expressão 'País do FUTEBOL' está escrita em uma caixa. Uma grande nuvem de palavras se ramifica a partir dessa caixa, contendo frases e números relacionados ao futebol e à história das relações entre o Brasil e a Europa. As frases incluem 'a europa curvou-se ante o Brasil', 'A injustiça de Cette', 'Vitórias do Clube Paulistano' e 'E meia dúzia na cabeça dos portugueses'. Há também uma série de resultados de jogos de futebol, como '7 a 2', '3 a 1', '4 a 0', '2 a 1', '2 a 0' e '3 a 1'. A ilustração é acompanhada por um texto explicativo na parte inferior, identificando-a como parte do 'Museu da Língua Portuguesa', creditando Oswald de Andrade como o responsável e fornecendo informações sobre a exposição. O estilo visual lembra um desenho à mão livre ou um diagrama conceitual."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O poema de Oswald de Andrade remonta à ideia de que a brasilidade está relacionada ao futebol. Quanto à questão da identidade nacional, as anotações em torno dos versos constituem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Direcionamentos possíveis para uma leitura crítica de dados histórico-culturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Forma clássica da construção poética brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Rejeição à ideia do Brasil como o país do futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Intervenções de um leitor estrangeiro no exercício de leitura poética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Lembretes de palavras tipicamente brasileiras substitutivas das originais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

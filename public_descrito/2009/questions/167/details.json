@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2009",
+    "index": 167,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta informações da área aproximada de cada bioma brasileiro.\n\n![]([descrição: A imagem mostra uma tabela com dados sobre os biomas continentais brasileiros. A tabela possui três colunas: 'biomas continentais brasileiros', 'área aproximada (km²)' e 'área / total Brasil'. Os biomas listados são Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa e Pantanal. A última linha da tabela apresenta a área total do Brasil. Abaixo da tabela, há uma nota de fonte com o endereço eletrônico www.ibge.gov.br e data de acesso.])\n\nÉ comum em conversas informais, ou mesmo em noticiários, o uso de múltiplos da área de um campo de futebol (com as medidas de 120 m x 90 m) para auxiliar a visualização de áreas consideradas extensas",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre os biomas continentais brasileiros. A tabela possui três colunas: 'biomas continentais brasileiros', 'área aproximada (km²)' e 'área / total Brasil'. Os biomas listados são Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa e Pantanal. A última linha da tabela apresenta a área total do Brasil. Abaixo da tabela, há uma nota de fonte com o endereço eletrônico www.ibge.gov.br e data de acesso."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse caso, qual é o número de campos de futebol correspondente à área aproximada do bioma Pantanal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.400",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "140.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1.400.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "14.000.000",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

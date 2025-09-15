@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2014",
+    "index": 137,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dois anos (2000 e 2010) e suas respectivas taxas de fecundidade no Brasil. Em 2000, a taxa foi de 2,38 filhos por mulher, enquanto em 2010, a taxa diminuiu para 1,90 filhos por mulher. A fonte dos dados é o site www.saladimprensa.ibge.gov.br, com acesso em 31 de julho de 2013.])\n\nSuponha que a variação percentual relativa na taxa de fecundidade no período de 2000 a 2010 se repita no período de 2010 a 2020.",
+    "files": [
+        "A imagem mostra uma tabela com dois anos (2000 e 2010) e suas respectivas taxas de fecundidade no Brasil. Em 2000, a taxa foi de 2,38 filhos por mulher, enquanto em 2010, a taxa diminuiu para 1,90 filhos por mulher. A fonte dos dados é o site www.saladimprensa.ibge.gov.br, com acesso em 31 de julho de 2013."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse caso, em 2020 a taxa de fecundidade no Brasil estará mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,14.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,42.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,52.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1,70.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,80.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

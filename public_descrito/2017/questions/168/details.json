@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2017",
+    "index": 168,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra duas figuras relacionadas a uma estrutura semicircular. A Figura 1 é um desenho esquemático que representa uma construção com uma cobertura em forma de arco, possivelmente um estádio ou arena. A Figura 2 é um diagrama geométrico que ilustra o perfil transversal da cobertura semicircular. O diagrama inclui medidas: o diâmetro do arco é de 5 metros, a largura na base é de 4 metros e a altura (H) é de 3 metros.])",
+    "files": [
+        "A imagem mostra duas figuras relacionadas a uma estrutura semicircular. A Figura 1 é um desenho esquemático que representa uma construção com uma cobertura em forma de arco, possivelmente um estádio ou arena. A Figura 2 é um diagrama geométrico que ilustra o perfil transversal da cobertura semicircular. O diagrama inclui medidas: o diâmetro do arco é de 5 metros, a largura na base é de 4 metros e a altura (H) é de 3 metros."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual a medida da altura H, em metro, indicada na Figura 2?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16/3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "31/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25/4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25/3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "75/2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

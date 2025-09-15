@@ -1,0 +1,46 @@
+{
+    "title": "Questão 55 - ENEM 2016",
+    "index": 55,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: O gráfico mostra a resposta de frequência de diferentes tamanhos de alto-falantes (3mm, 25mm, 51mm e 60mm). O eixo x representa a frequência em Hertz (Hz), variando de 20 Hz a 20.000 Hz. O eixo y representa o nível de decibéis (dB), variando de -20 dB a +20 dB. As linhas representam as respostas de frequência para cada tamanho de alto-falante: o modelo de 3mm tem uma resposta mais alta nas frequências mais baixas, enquanto o modelo de 60mm tem uma resposta mais baixa nas frequências mais baixas e um pico na faixa de 5kHz.])\n\n![]([descrição: A imagem mostra um gráfico horizontal representando as faixas do espectro de frequência sonora. O título da figura é 'Figura 2' e o subtítulo é 'Faixas do espectro de frequência sonora'. As faixas são divididas em: Subgrave (20 Hz), Grave (63 Hz), Média baixa (250 Hz), Média (640 Hz), Média alta (2.5 kHz), Aguda (5 kHz) e Agudo (20 kHz). Na parte inferior, há uma nota indicando a fonte da informação: 'Disponível em: www.somsc.com.br. Acesso em: 2 abr. 2015.'])",
+    "files": [
+        "O gráfico mostra a resposta de frequência de diferentes tamanhos de alto-falantes (3mm, 25mm, 51mm e 60mm). O eixo x representa a frequência em Hertz (Hz), variando de 20 Hz a 20.000 Hz. O eixo y representa o nível de decibéis (dB), variando de -20 dB a +20 dB. As linhas representam as respostas de frequência para cada tamanho de alto-falante: o modelo de 3mm tem uma resposta mais alta nas frequências mais baixas, enquanto o modelo de 60mm tem uma resposta mais baixa nas frequências mais baixas e um pico na faixa de 5kHz.",
+        "A imagem mostra um gráfico horizontal representando as faixas do espectro de frequência sonora. O título da figura é 'Figura 2' e o subtítulo é 'Faixas do espectro de frequência sonora'. As faixas são divididas em: Subgrave (20 Hz), Grave (63 Hz), Média baixa (250 Hz), Média (640 Hz), Média alta (2.5 kHz), Aguda (5 kHz) e Agudo (20 kHz). Na parte inferior, há uma nota indicando a fonte da informação: 'Disponível em: www.somsc.com.br. Acesso em: 2 abr. 2015.'"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Relacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afetada pelo aumento da distância do microfone ao alto-falante?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumenta na faixa das frequências médias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diminui na faixa das frequências agudas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminui na faixa das frequências graves.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Aumenta na faixa das frequências médias altas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumenta na faixa das frequências médias baixas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

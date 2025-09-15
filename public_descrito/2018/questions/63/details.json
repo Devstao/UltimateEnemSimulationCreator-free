@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2018",
+    "index": 63,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra um mapa-múndi em tons de cinza, com linhas brancas representando as trajetórias de ciclones tropicais sobre os oceanos. As linhas se concentram principalmente no Oceano Atlântico e Pacífico, mostrando a movimentação dos ciclones ao longo do tempo. No topo da imagem, há o título 'Trajetória de ciclones tropicais'. Na parte inferior, encontra-se uma fonte com informações sobre a origem da imagem.])",
+    "files": [
+        "A imagem mostra um mapa-múndi em tons de cinza, com linhas brancas representando as trajetórias de ciclones tropicais sobre os oceanos. As linhas se concentram principalmente no Oceano Atlântico e Pacífico, mostrando a movimentação dos ciclones ao longo do tempo. No topo da imagem, há o título 'Trajetória de ciclones tropicais'. Na parte inferior, encontra-se uma fonte com informações sobre a origem da imagem."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual característica do meio físico é condição necessária para a distribuição espacial do fenômeno representado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cobertura vegetal com porte arbóreo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Barreiras orográficas com altitudes elevadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pressão atmosférica com diferença acentuada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Superfície continental com refletividade intensa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Correntes marinhas com direções convergentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

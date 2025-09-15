@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2022",
+    "index": 177,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social.  \nCinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.\n\n![]([descrição: A imagem mostra uma tabela com cinco linhas e três colunas. A primeira coluna identifica cinco operários (I, II, III, IV e V). As outras duas colunas apresentam dados sobre o preço por hora em reais, o preço do transporte em reais e o tempo até a conclusão em horas para cada operário. Os valores são: Operário I - 120, 0,00, 8; Operário II - 180, 0,00, 6; Operário III - 170, 20,00, 6; Operário IV - 110, 10,00, 9; e Operário V - 110, 0,00, 10.])",
+    "files": [
+        "A imagem mostra uma tabela com cinco linhas e três colunas. A primeira coluna identifica cinco operários (I, II, III, IV e V). As outras duas colunas apresentam dados sobre o preço por hora em reais, o preço do transporte em reais e o tempo até a conclusão em horas para cada operário. Os valores são: Operário I - 120, 0,00, 8; Operário II - 180, 0,00, 6; Operário III - 170, 20,00, 6; Operário IV - 110, 10,00, 9; e Operário V - 110, 0,00, 10."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

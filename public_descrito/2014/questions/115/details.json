@@ -1,0 +1,45 @@
+{
+    "title": "Questão 115 - ENEM 2014",
+    "index": 115,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é um anúncio publicitário com fundo branco e elementos gráficos relacionados à tecnologia, como ícones de música, lupa, câmera, engrenagens e circuitos. O texto principal em letras grandes diz: 'Queremos seu talento, exatamente como ele é'. Abaixo, há um bloco de texto que descreve o perfil do candidato ideal (nerd, apaixonado por tecnologia) e convida-o a trabalhar na empresa. Na parte inferior direita da imagem, aparece um jovem sentado em uma cadeira com um laptop no colo, olhando para baixo.])\n\n**Scientific American Brasil**, ano 11, n. 134, jul. 2013 (adaptado).",
+    "files": [
+        "A imagem é um anúncio publicitário com fundo branco e elementos gráficos relacionados à tecnologia, como ícones de música, lupa, câmera, engrenagens e circuitos. O texto principal em letras grandes diz: 'Queremos seu talento, exatamente como ele é'. Abaixo, há um bloco de texto que descreve o perfil do candidato ideal (nerd, apaixonado por tecnologia) e convida-o a trabalhar na empresa. Na parte inferior direita da imagem, aparece um jovem sentado em uma cadeira com um laptop no colo, olhando para baixo."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para atingir o objetivo de recrutar talentos, esse texto publicitário",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Afirma, com a frase “Queremos seu talento exatamente como ele é”, que qualquer pessoa com talento pode fazer parte da equipe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Apresenta como estratégia a formação de um perfil por meio de perguntas direcionadas, o que dinamiza a interação texto-leitor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Utiliza a descrição da empresa como argumento principal, pois atinge diretamente os interessados em informática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Usa estereótipo negativo de uma figura conhecida, o nerd, pessoa introspectiva e que gosta de informática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Recorre a imagens tecnológicas ligadas em rede, para simbolizar como a tecnologia é interligada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

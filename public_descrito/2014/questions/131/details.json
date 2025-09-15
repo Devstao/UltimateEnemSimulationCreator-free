@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2014",
+    "index": 131,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: Charge em preto e branco com o título 'NASA divulga a primeira foto feita pelo robô Opportunity no solo de Marte. Veja:'. A charge apresenta um desenho simplificado do rover Opportunity, posicionado sobre uma superfície rochosa que simula o solo marciano. O robô está segurando uma câmera na frente de si, como se estivesse tirando uma foto. Na parte inferior da imagem, há a assinatura 'WILL' e informações sobre a fonte e data de acesso.])",
+    "files": [
+        "Charge em preto e branco com o título 'NASA divulga a primeira foto feita pelo robô Opportunity no solo de Marte. Veja:'. A charge apresenta um desenho simplificado do rover Opportunity, posicionado sobre uma superfície rochosa que simula o solo marciano. O robô está segurando uma câmera na frente de si, como se estivesse tirando uma foto. Na parte inferior da imagem, há a assinatura 'WILL' e informações sobre a fonte e data de acesso."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Opportunity é o nome de um veículo explorador que aterrissou em Marte com a missão de enviar informações à Terra. A charge apresenta uma crítica ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Gasto exagerado com o envio de robôs a outros planetas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Exploração indiscriminada de outros planetas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Circulação digital excessiva de autorretratos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Vulgarização das descobertas espaciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mecanização das atividades humanas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

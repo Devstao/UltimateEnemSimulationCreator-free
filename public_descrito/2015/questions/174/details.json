@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2015",
+    "index": 174,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dois colunas: 'Intervalos de temperatura (°C)' e 'Classificação'. A primeira coluna lista intervalos de temperatura, começando com T < 0 e terminando com T > 43. A segunda coluna corresponde a classificação para cada intervalo, que são: Muito baixa, Baixa, Média, Alta e Muito alta, respectivamente.])",
+    "files": [
+        "A imagem mostra uma tabela com dois colunas: 'Intervalos de temperatura (°C)' e 'Classificação'. A primeira coluna lista intervalos de temperatura, começando com T < 0 e terminando com T > 43. A segunda coluna corresponde a classificação para cada intervalo, que são: Muito baixa, Baixa, Média, Alta e Muito alta, respectivamente."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quando o estudante obtém o maior número possível de bactérias, a temperatura no interior da estufa está classificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Muito baixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Baixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Média.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Muito alta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

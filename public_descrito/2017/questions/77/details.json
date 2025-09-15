@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2017",
+    "index": 77,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra dois diagramas esquemáticos, Figura 1 e Figura 2, ilustrando a formação da brisa marinha (Figura 1) e do terral (Figura 2). Ambos os diagramas representam uma linha de costa com terra em um lado e o mar no outro. Setas indicam o fluxo do ar e rótulos descrevem as diferenças de temperatura e pressão. Na Figura 1, a terra é mostrada como quente e a área marítima como morna, com setas apontando para uma baixa pressão sobre a terra e alta pressão sobre o mar, indicando o movimento da brisa marinha. Na Figura 2, a terra é mostrada como fria e a área marítima como morna, com setas apontando para uma alta pressão sobre a terra e baixa pressão sobre o mar, indicando o movimento do terral.])\n\nSALGADO-LABOURIAU, M. L. **História ecológica da Terra**. São Paulo: Edgard Blucher, 1994 (adaptado).",
+    "files": [
+        "A imagem mostra dois diagramas esquemáticos, Figura 1 e Figura 2, ilustrando a formação da brisa marinha (Figura 1) e do terral (Figura 2). Ambos os diagramas representam uma linha de costa com terra em um lado e o mar no outro. Setas indicam o fluxo do ar e rótulos descrevem as diferenças de temperatura e pressão. Na Figura 1, a terra é mostrada como quente e a área marítima como morna, com setas apontando para uma baixa pressão sobre a terra e alta pressão sobre o mar, indicando o movimento da brisa marinha. Na Figura 2, a terra é mostrada como fria e a área marítima como morna, com setas apontando para uma alta pressão sobre a terra e baixa pressão sobre o mar, indicando o movimento do terral."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nas imagens constam informações sobre a formação de brisas em áreas litorâneas. Esse processo é resultado de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Uniformidade do gradiente de pressão atmosférica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aquecimento diferencial da superfície.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Quedas acentuadas de médias térmicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mudanças na umidade relativa do ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Variações altimétricas acentuadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

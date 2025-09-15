@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - ENEM 2013",
+    "index": 83,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra um circuito elétrico com uma ponte de Wheatstone. A ponte é formada por quatro resistores: dois de 470 Ω, um de 100 Ω (identificado como Rs) e outro de 120 Ω. Um voltímetro está conectado entre os pontos médio da ponte, indicando a medição de tensão. Uma fonte de alimentação de 10 V está conectada em série com o circuito, ligada ao terra.])",
+    "files": [
+        "A imagem mostra um circuito elétrico com uma ponte de Wheatstone. A ponte é formada por quatro resistores: dois de 470 Ω, um de 100 Ω (identificado como Rs) e outro de 120 Ω. Um voltímetro está conectado entre os pontos médio da ponte, indicando a medição de tensão. Uma fonte de alimentação de 10 V está conectada em série com o circuito, ligada ao terra."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para um valor de temperatura em que Rs = 100 Ω, a leitura apresentada pelo voltímetro será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "+ 6,2 V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "+ 1,7 V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "+ 0,3 V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "– 0,3 V.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "– 6,2 V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

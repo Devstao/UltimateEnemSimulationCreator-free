@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2011",
+    "index": 138,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: Desenho esquemático de um carro de corrida visto lateralmente. O carro é rosado com o número '1' centralizado na carroceria. Possui quatro rodas circulares, cada uma com um círculo interno representando o eixo. Um piloto está sentado no veículo, usando um capacete com viseira e óculos. As dimensões do comprimento (a) são indicadas como 2300 mm e a altura (b) como 160 cm.])",
+    "files": [
+        "Desenho esquemático de um carro de corrida visto lateralmente. O carro é rosado com o número '1' centralizado na carroceria. Possui quatro rodas circulares, cada uma com um círculo interno representando o eixo. Um piloto está sentado no veículo, usando um capacete com viseira e óculos. As dimensões do comprimento (a) são indicadas como 2300 mm e a altura (b) como 160 cm."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao optar pelas medidas a e b em metros, obtêm-se, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,23 e 0,16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,3 e 1,6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "23 e 16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "230 e 160.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 300 e 1 600.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

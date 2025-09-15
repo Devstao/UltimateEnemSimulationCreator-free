@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2019",
+    "index": 179,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o acendimento e o desligamento sejam instantâneos.\n\nO morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles. O gráfico descreve o consumo acumulado de energia, em watt x minuto, em função do tempo t, em minuto, das lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.\n\n![]([descrição: A imagem mostra dois gráficos lado a lado. À esquerda, há um gráfico de linha que representa energia (W/min) em relação ao tempo (min). O eixo x (tempo) varia de 0 a 8 minutos e o eixo y (energia) varia de 0 a 120 W/min. A linha do gráfico começa em (0;0) e aumenta gradualmente até o ponto (8; 120). Vários pontos são marcados no gráfico com suas coordenadas, incluindo (1; 20), (2; 35), (3; 40), (4; 55), (5; 75), (6; 85), (7; 105) e (8; 120). À direita, há um diagrama de planta baixa de uma casa. A casa é dividida em vários cômodos: sala (20 W), cozinha (10 W), quarto (13 W), banheiro (2 W) e suíte (15 W). Uma seta indica a entrada da casa.])",
+    "files": [
+        "A imagem mostra dois gráficos lado a lado. À esquerda, há um gráfico de linha que representa energia (W/min) em relação ao tempo (min). O eixo x (tempo) varia de 0 a 8 minutos e o eixo y (energia) varia de 0 a 120 W/min. A linha do gráfico começa em (0;0) e aumenta gradualmente até o ponto (8; 120). Vários pontos são marcados no gráfico com suas coordenadas, incluindo (1; 20), (2; 35), (3; 40), (4; 55), (5; 75), (6; 85), (7; 105) e (8; 120). À direita, há um diagrama de planta baixa de uma casa. A casa é dividida em vários cômodos: sala (20 W), cozinha (10 W), quarto (13 W), banheiro (2 W) e suíte (15 W). Uma seta indica a entrada da casa."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A sequência de deslocamento pelos cômodos, conforme o consumo de energia apresentado no gráfico, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 → 4 → 5 → 4 → 1 → 6 → 1 → 4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1 → 2 → 3 → 1 → 4 → 1 → 4 → 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 → 4 → 5 → 4 → 1 → 6 → 1 → 2 → 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 → 2 → 3 → 5 → 4 → 1 → 6 → 1 → 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 → 4 → 2 → 3 → 5 → 1 → 6 → 1 → 4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

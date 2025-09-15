@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2010",
+    "index": 45,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem é uma tirinha em preto e branco do cartunista Quino, da revista Toda Mafalda. Apresenta seis crianças em fila, aguardando para serem vacinadas. Uma enfermeira está de pé atrás de uma mesa com equipamentos médicos. Uma balão de fala acima das cabeças das crianças diz: 'Viemos nos vacinar contra o despotismo!' Na parte inferior da tirinha, há a assinatura do autor e informações sobre a publicação.])\n\nDemocracia: “regime político no qual a soberania é  \nexercida pelo povo, pertence ao conjunto dos cidadãos.”\n\nJAPIASSÚ, H.; MARCONDES, D. Dicionário Básico de Filosofia. Rio de Janeiro: Zahar, 2006.",
+    "files": [
+        "A imagem é uma tirinha em preto e branco do cartunista Quino, da revista Toda Mafalda. Apresenta seis crianças em fila, aguardando para serem vacinadas. Uma enfermeira está de pé atrás de uma mesa com equipamentos médicos. Uma balão de fala acima das cabeças das crianças diz: 'Viemos nos vacinar contra o despotismo!' Na parte inferior da tirinha, há a assinatura do autor e informações sobre a publicação."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma suposta “vacina” contra o despotismo, em um contexto democrático, tem por objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Impedir a contratação de familiares para o serviço público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reduzir a ação das instituições constitucionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Combater a distribuição equilibrada de poder.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Evitar a escolha de governantes autoritários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Restringir a atuação do Parlamento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

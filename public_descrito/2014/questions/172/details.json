@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2014",
+    "index": 172,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem ilustra dois quipus, sistemas de registro utilizados na civilização Inca. Cada quipu é composto por uma corda principal da qual pendem outras cordas. As cordas pendentes representam diferentes valores numéricos: milhares, centenas, dezenas e unidades. A Figura 1 mostra um quipu com todas as cordas pendentes presentes, enquanto a Figura 2 demonstra um quipu simplificado com menos cordas pendentes.])\n\nDisponível em: www.culturaperuana.com.br. Acesse em: 13 dez. 2012.",
+    "files": [
+        "A imagem ilustra dois quipus, sistemas de registro utilizados na civilização Inca. Cada quipu é composto por uma corda principal da qual pendem outras cordas. As cordas pendentes representam diferentes valores numéricos: milhares, centenas, dezenas e unidades. A Figura 1 mostra um quipu com todas as cordas pendentes presentes, enquanto a Figura 2 demonstra um quipu simplificado com menos cordas pendentes."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O número da representação do quipus da Figura 2, em base decimal, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "364.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "463.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 064.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3 640.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 603.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

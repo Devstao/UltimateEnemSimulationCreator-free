@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2021",
+    "index": 153,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um parque temático brasileiro construiu uma réplica em miniatura do castelo de Liechtenstein. O castelo original, representado na imagem, está situado na Alemanha e foi reconstruído entre os anos de 1840 e 1842, após duas destruições causadas por guerras.\n\n![]([descrição: A imagem mostra um castelo medieval imponente, construído sobre uma formação rochosa íngreme. O castelo possui torres altas e paredes robustas, com detalhes arquitetônicos que sugerem um estilo gótico ou românico. Uma ponte de pedra conecta o castelo a edifícios menores em terreno mais baixo. A vegetação circundante é escassa, consistindo principalmente de árvores secas e arbustos. O céu está nublado, criando uma atmosfera sombria e dramática. A imagem parece ser uma fotografia antiga, possivelmente em preto e branco.])\n\nO castelo possui uma ponte de 38,4m de comprimento e 1,68m de largura. O artesão que trabalhou para o parque produziu a réplica do castelo, em escala. Nessa obra, as medidas do comprimento e da largura da ponte eram, respectivamente, 160cm e 7 cm.",
+    "files": [
+        "A imagem mostra um castelo medieval imponente, construído sobre uma formação rochosa íngreme. O castelo possui torres altas e paredes robustas, com detalhes arquitetônicos que sugerem um estilo gótico ou românico. Uma ponte de pedra conecta o castelo a edifícios menores em terreno mais baixo. A vegetação circundante é escassa, consistindo principalmente de árvores secas e arbustos. O céu está nublado, criando uma atmosfera sombria e dramática. A imagem parece ser uma fotografia antiga, possivelmente em preto e branco."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A escala utilizada para fazer a réplica é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 576",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 : 240",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 : 24",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1 : 4,2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 2,4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

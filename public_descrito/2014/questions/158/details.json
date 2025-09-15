@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2014",
+    "index": 158,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela de contingência com o título 'Doença A'. A tabela compara os resultados de um teste (positivo ou negativo) com a presença ou ausência da doença. Os valores na tabela são: Positivo/Presente = 95, Positivo/Ausente = 15, Negativo/Presente = 5 e Negativo/Ausente = 85.])\n\nBENSEÑOR, I. M.; LOTUFO, P. A. **Epidemologia**: abordagem prática.\n\nSão Paulo: Sarvier, 2011 (adaptado).",
+    "files": [
+        "A imagem mostra uma tabela de contingência com o título 'Doença A'. A tabela compara os resultados de um teste (positivo ou negativo) com a presença ou ausência da doença. Os valores na tabela são: Positivo/Presente = 95, Positivo/Ausente = 15, Negativo/Presente = 5 e Negativo/Ausente = 85."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Conforme o quadro do teste proposto, a sensibilidade dele é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "47,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "85,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "86,3%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "94,4%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "95,0%.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

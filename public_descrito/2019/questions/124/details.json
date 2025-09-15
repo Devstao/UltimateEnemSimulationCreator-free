@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2019",
+    "index": 124,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma das técnicas de reciclagem química do polímero PET \\[poli(tereftalato de etileno)\\] gera o tereftalato de metila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação.\n\n![]([descrição: A imagem mostra uma reação química representada por meio de diagramas estruturais. No lado esquerdo, há um polímero PET (polietileno tereftalato) representado como uma cadeia repetitiva de unidades monoméricas. À direita da seta, que indica a direção da reação sob condições de altas temperaturas e pressão, estão os produtos da decomposição do PET: benzeno e etilenoglicol. A equação química é apresentada em um esquema simplificado.])",
+    "files": [
+        "A imagem mostra uma reação química representada por meio de diagramas estruturais. No lado esquerdo, há um polímero PET (polietileno tereftalato) representado como uma cadeia repetitiva de unidades monoméricas. À direita da seta, que indica a direção da reação sob condições de altas temperaturas e pressão, estão os produtos da decomposição do PET: benzeno e etilenoglicol. A equação química é apresentada em um esquema simplificado."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O composto A, representado no esquema de reação, é o:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Metano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metanol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Éter metílico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ácido etanoico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido etanoico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

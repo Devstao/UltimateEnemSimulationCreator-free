@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - ENEM 2014",
+    "index": 83,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com duas colunas: 'Ambiente' e 'Resíduo de naftaleno (g)'. As linhas da tabela listam diferentes ambientes (Solo I, Solo II, Água I, Água II, Água III) e os respectivos resíduos de naftaleno em gramas. Os valores dos resíduos são: 1,0 x 10^-2 g para Solo I, 2,0 x 10^-2 g para Solo II, 7,0 x 10^-6 g para Água I, 8,0 x 10^-6 g para Água II e 9,0 x 10^-6 g para Água III.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Ambiente' e 'Resíduo de naftaleno (g)'. As linhas da tabela listam diferentes ambientes (Solo I, Solo II, Água I, Água II, Água III) e os respectivos resíduos de naftaleno em gramas. Os valores dos resíduos são: 1,0 x 10^-2 g para Solo I, 2,0 x 10^-2 g para Solo II, 7,0 x 10^-6 g para Água I, 8,0 x 10^-6 g para Água II e 9,0 x 10^-6 g para Água III."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O ambiente que necessita de biorremediação é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Solo I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Solo II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Água I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Água II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Água III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

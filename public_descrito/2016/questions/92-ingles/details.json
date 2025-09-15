@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2016",
+    "index": 92,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma publicidade impressa em preto e branco sobre preparação para desastres. No topo, há uma lista de eventos catastróficos escritos em letras grandes: 'GlobalFlu Pandemic', '9/11 Terrorism', 'Earthquake Haiti', 'Katrina Hurricane' e 'Chernobyl Nuclear'. Abaixo da lista, a palavra 'Connecticut?' é exibida em letras maiores. Uma seção de texto convida o leitor a aprender como agir em caso de desastre e fornece um link para o site ct.gov/dph/prepare. No canto inferior esquerdo, há uma imagem do guia de emergência de Connecticut.])\n\nDisponível em: www.ct.gov. Acesso em: 30 jul. 2012 (adaptado).",
+    "files": [
+        "A imagem mostra uma publicidade impressa em preto e branco sobre preparação para desastres. No topo, há uma lista de eventos catastróficos escritos em letras grandes: 'GlobalFlu Pandemic', '9/11 Terrorism', 'Earthquake Haiti', 'Katrina Hurricane' e 'Chernobyl Nuclear'. Abaixo da lista, a palavra 'Connecticut?' é exibida em letras maiores. Uma seção de texto convida o leitor a aprender como agir em caso de desastre e fornece um link para o site ct.gov/dph/prepare. No canto inferior esquerdo, há uma imagem do guia de emergência de Connecticut."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Orientações à população são encontradas também em sites oficiais. Ao clicar no endereço eletrônico mencionado no cartaz disponível na internet, o leitor tem acesso aos (às)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ações do governo local referentes a calamidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Relatos de sobreviventes em tragédias marcantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tipos de desastres naturais possíveis de acontecer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Informações sobre acidentes ocorridos em Connecticut.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Medidas de emergência a serem tomadas em catástrofes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

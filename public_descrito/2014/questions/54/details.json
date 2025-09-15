@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2014",
+    "index": 54,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados sobre o teor médio do ácido graxo (% em massa) em diferentes fontes oleaginosas. As fontes oleaginosas listadas são milho, palma, canola, algodão e amendoim. Os ácidos graxos analisados são mirístico (C14:0), palmítico (C16:0), esteárico (C18:0), oleico (C18:1), linoleico (C18:2) e linolênico (C18:3). A tabela apresenta valores numéricos para cada fonte oleaginosa em relação a cada ácido graxo. Na parte inferior da tabela, há uma referência à fonte dos dados.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre o teor médio do ácido graxo (% em massa) em diferentes fontes oleaginosas. As fontes oleaginosas listadas são milho, palma, canola, algodão e amendoim. Os ácidos graxos analisados são mirístico (C14:0), palmítico (C16:0), esteárico (C18:0), oleico (C18:1), linoleico (C18:2) e linolênico (C18:3). A tabela apresenta valores numéricos para cada fonte oleaginosa em relação a cada ácido graxo. Na parte inferior da tabela, há uma referência à fonte dos dados."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Milho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Palma.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Canola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Algodão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Amendoim.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

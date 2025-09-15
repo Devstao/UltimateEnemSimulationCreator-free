@@ -1,0 +1,47 @@
+{
+    "title": "Questão 159 - ENEM 2017",
+    "index": 159,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma bicicleta do tipo mountain bike tem uma coroa com 3 engrenagens e uma catraca com 6 engrenagens, que, combinadas entre si, determinam 18 marchas (número de engrenagens da coroa vezes o número de engrenagens da catraca).\n\n![]([descrição: Diagrama esquemático de um mecanismo com duas engrenagens interligadas por uma corrente. A engrenagem à esquerda é rotulada como 'Coroas' e possui dentes em torno de seu perímetro. A engrenagem à direita, rotulada como 'Catracas', também possui dentes, mas sua forma sugere que ela permite o movimento em apenas uma direção. Uma corrente conecta as duas engrenagens, transmitindo o movimento entre elas.])\n\nOs números de dentes das engrenagens das coroas e das catracas dessa bicicleta estão listados no quadro.\n\n![]([descrição: A imagem mostra uma tabela com informações sobre engrenagens. A tabela possui duas linhas: 'Engrenagens' e 'Nº de dentes da catraca'. As colunas representam as marchas, de 1ª a 6ª. Os valores na primeira linha indicam o número de dentes da coroa para cada marcha (46, 36, 26, 18, 16 e 14). A segunda linha mostra o número de dentes da catraca correspondente a cada marcha (24, 22, 20, 18, 16 e 14). As marchas 5ª e 6ª têm valores ausentes na coluna 'Nº de dentes da coroa', indicados por um hífen.])\n\nSabe-se que o número de voltas efetuadas pela roda traseira a cada pedalada é calculado dividindo-se a quantidade de dentes da coroa pela quantidade de dentes da catraca.\n\nDurante um passeio em uma bicicleta desse tipo, deseja-se fazer um percurso o mais devagar possível, escolhendo, para isso, uma das seguintes combinações de engrenagens (coroa x catraca):\n\n![]([descrição: A imagem mostra uma tabela com cinco colunas rotuladas como I, II, III, IV e V. Cada coluna contém um retângulo com dimensões indicadas abaixo do retângulo. As dimensões são expressas em termos de 'a'. A coluna I tem um retângulo com dimensões 1ᵃ x 1ᵃ. A coluna II tem um retângulo com dimensões 1ᵃ x 6ᵃ. A coluna III tem um retângulo com dimensões 2ᵃ x 4ᵃ. A coluna IV tem um retângulo com dimensões 3ᵃ x 1ᵃ. E a coluna V tem um retângulo com dimensões 3ᵃ x 6ᵃ.])",
+    "files": [
+        "Diagrama esquemático de um mecanismo com duas engrenagens interligadas por uma corrente. A engrenagem à esquerda é rotulada como 'Coroas' e possui dentes em torno de seu perímetro. A engrenagem à direita, rotulada como 'Catracas', também possui dentes, mas sua forma sugere que ela permite o movimento em apenas uma direção. Uma corrente conecta as duas engrenagens, transmitindo o movimento entre elas.",
+        "A imagem mostra uma tabela com informações sobre engrenagens. A tabela possui duas linhas: 'Engrenagens' e 'Nº de dentes da catraca'. As colunas representam as marchas, de 1ª a 6ª. Os valores na primeira linha indicam o número de dentes da coroa para cada marcha (46, 36, 26, 18, 16 e 14). A segunda linha mostra o número de dentes da catraca correspondente a cada marcha (24, 22, 20, 18, 16 e 14). As marchas 5ª e 6ª têm valores ausentes na coluna 'Nº de dentes da coroa', indicados por um hífen.",
+        "A imagem mostra uma tabela com cinco colunas rotuladas como I, II, III, IV e V. Cada coluna contém um retângulo com dimensões indicadas abaixo do retângulo. As dimensões são expressas em termos de 'a'. A coluna I tem um retângulo com dimensões 1ᵃ x 1ᵃ. A coluna II tem um retângulo com dimensões 1ᵃ x 6ᵃ. A coluna III tem um retângulo com dimensões 2ᵃ x 4ᵃ. A coluna IV tem um retângulo com dimensões 3ᵃ x 1ᵃ. E a coluna V tem um retângulo com dimensões 3ᵃ x 6ᵃ."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A combinação escolhida para realizar esse passeio da forma desejada é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

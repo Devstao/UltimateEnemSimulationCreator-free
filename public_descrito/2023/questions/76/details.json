@@ -1,0 +1,45 @@
+{
+    "title": "Questão 76 - ENEM 2023",
+    "index": 76,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico de barras mostra a taxa de fecundidade no Brasil de 1960 a 2050, com intervalos decenais. O eixo vertical representa o número de filhos por mulher e o eixo horizontal representa as décadas. Em 1960, a taxa era de 6,3 filhos por mulher, diminuindo para 5,8 em 1970, 4,1 em 1980, 2,8 em 1990, 2,4 em 2000 e 1,8 em 2010. Em 2020, a taxa é de 1,5 filhos por mulher, mantendo-se estável até 2050.])\n\nDisponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado).",
+    "files": [
+        "O gráfico de barras mostra a taxa de fecundidade no Brasil de 1960 a 2050, com intervalos decenais. O eixo vertical representa o número de filhos por mulher e o eixo horizontal representa as décadas. Em 1960, a taxa era de 6,3 filhos por mulher, diminuindo para 5,8 em 1970, 4,1 em 1980, 2,8 em 1990, 2,4 em 2000 e 1,8 em 2010. Em 2020, a taxa é de 1,5 filhos por mulher, mantendo-se estável até 2050."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual fator foi determinante para a mudança do indicador apresentado no gráfico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Flexibilização legal da prática de aborto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Envelhecimento da população brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Crescimento dos casos de gravidez precoce.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Participação feminina no mercado de trabalho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição dos benefícios na licença-maternidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

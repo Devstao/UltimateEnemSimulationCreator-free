@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2009",
+    "index": 14,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático representando o processo de conversão de energia química em energia luminosa, começando por uma usina de força que libera fumaça, seguida por linhas de transmissão e finalizando com a emissão de luz. Abaixo de cada etapa, são indicados valores de eficiência: E1 = 0,35 para a usina, E2 = 0,90 para as linhas de transmissão e E3 = 0,05 para a luz. A eficiência geral da conversão é calculada como 0,016 ou 1,6%. Na parte inferior do diagrama, há uma fórmula que demonstra o cálculo da eficiência geral. Há também informações sobre a fonte do diagrama: HINRICHS, R. A. Energia e Meio Ambiente. São Paulo: Pioneira Thomson Learning, 2003 (adaptado).])",
+    "files": [
+        "Diagrama esquemático representando o processo de conversão de energia química em energia luminosa, começando por uma usina de força que libera fumaça, seguida por linhas de transmissão e finalizando com a emissão de luz. Abaixo de cada etapa, são indicados valores de eficiência: E1 = 0,35 para a usina, E2 = 0,90 para as linhas de transmissão e E3 = 0,05 para a luz. A eficiência geral da conversão é calculada como 0,016 ou 1,6%. Na parte inferior do diagrama, há uma fórmula que demonstra o cálculo da eficiência geral. Há também informações sobre a fonte do diagrama: HINRICHS, R. A. Energia e Meio Ambiente. São Paulo: Pioneira Thomson Learning, 2003 (adaptado)."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Aumentar a eficiência dos processos de conversão de energia implica economizar recursos e combustíveis. Das propostas seguintes, qual resultará em maior aumento da eficiência geral do processo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumentar a quantidade de combustível para queima na usina de força.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Utilizar lâmpadas incandescentes, que geram pouco calor e muita luminosidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Manter o menor número possível de aparelhos elétricos em funcionamento nas moradias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Utilizar cabos com menor diâmetro nas linhas de transmissão a fim de economizar o material condutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Utilizar materiais com melhores propriedades condutoras nas linhas de transmissão e lâmpadas fluorescentes nas moradias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

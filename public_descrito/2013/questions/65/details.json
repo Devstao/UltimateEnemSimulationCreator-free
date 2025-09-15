@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - ENEM 2013",
+    "index": 65,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama simplificado mostrando uma corda esticada acima de cinco figuras humanas estilizadas. A corda está curvada, indicando tensão. Uma seta aponta para a direita, sugerindo movimento ou força aplicada à corda. As figuras humanas estão dispostas em linha abaixo da corda, com algumas levantando os braços e outras abaixando-os, possivelmente interagindo com a corda.])\n\nCalcula-se que a velocidade de propagação dessa “onda humana” é 45 km/h, e que cada período de oscilação contém 16 pessoas, que se levantam e sentam organizadamente e distanciadas entre si por 80 cm.\n\nDisponível em: www.ufsm.br. Acesso em: 7 dez. 2012 (adaptado).",
+    "files": [
+        "Diagrama simplificado mostrando uma corda esticada acima de cinco figuras humanas estilizadas. A corda está curvada, indicando tensão. Uma seta aponta para a direita, sugerindo movimento ou força aplicada à corda. As figuras humanas estão dispostas em linha abaixo da corda, com algumas levantando os braços e outras abaixando-os, possivelmente interagindo com a corda."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessa ola mexicana, a frequência da onda, em hertz, é um valor mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1,9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,7.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

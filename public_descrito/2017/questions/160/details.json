@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2017",
+    "index": 160,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O comitê organizador da Copa do Mundo 2014 criou a logomarca da Copa, composta de uma figura plana e o slogan “Juntos num só ritmo”, com mãos que se unem formando a taça Fifa. Considere que o comitê organizador resolvesse utilizar todas as cores da bandeira nacional (verde, amarelo, azul e branco) para colorir a logomarca, de forma que regiões vizinhas tenham cores diferentes.\n\n![]([descrição: A imagem mostra uma representação em linha do troféu da Copa do Mundo, desenhado em traços simples e contínuos. A base é triangular e se eleva para formar o troféu, que possui curvas e relevos estilizados. Abaixo do troféu, há a frase 'Juntos num só ritmo'. Na parte inferior da imagem, encontra-se uma legenda indicando a fonte da imagem (www.pt.fifa.com) e a data de acesso (19 nov. 2013), com a informação de que foi adaptada.])",
+    "files": [
+        "A imagem mostra uma representação em linha do troféu da Copa do Mundo, desenhado em traços simples e contínuos. A base é triangular e se eleva para formar o troféu, que possui curvas e relevos estilizados. Abaixo do troféu, há a frase 'Juntos num só ritmo'. Na parte inferior da imagem, encontra-se uma legenda indicando a fonte da imagem (www.pt.fifa.com) e a data de acesso (19 nov. 2013), com a informação de que foi adaptada."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De quantas maneiras diferentes o comitê organizador da Copa poderia pintar a logomarca com as cores citadas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "108",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "360",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "972",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

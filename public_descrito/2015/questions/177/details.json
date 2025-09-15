@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2015",
+    "index": 177,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma tabela com o título 'Relação entre a massa de um felino e a área de sua superfície corporal'. A tabela possui duas colunas: 'Massa (kg)' e 'Área (m²)'. Os valores apresentados são: 1,0 kg - 0,100 m², 2,0 kg - 0,159 m², 3,0 kg - 0,208 m², 4,0 kg - 0,252 m² e 5,0 kg - 0,292 m². Abaixo da tabela, há a referência 'NORSWORTHY, G. D. O paciente felino. São Paulo: Roca, 2009.'.])",
+    "files": [
+        "A imagem mostra uma tabela com o título 'Relação entre a massa de um felino e a área de sua superfície corporal'. A tabela possui duas colunas: 'Massa (kg)' e 'Área (m²)'. Os valores apresentados são: 1,0 kg - 0,100 m², 2,0 kg - 0,159 m², 3,0 kg - 0,208 m², 4,0 kg - 0,252 m² e 5,0 kg - 0,292 m². Abaixo da tabela, há a referência 'NORSWORTHY, G. D. O paciente felino. São Paulo: Roca, 2009.'."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A dose diária, em miligramas, que esse felino deverá receber é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,624.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "52,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "156,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "750,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 201,9.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

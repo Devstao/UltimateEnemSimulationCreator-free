@@ -1,0 +1,45 @@
+{
+    "title": "Questão 19 - ENEM 2018",
+    "index": 19,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: O desenho apresenta uma história em quadrinhos dividida em três painéis, todos com fundo preto e desenhos minimalistas em branco e preto. O primeiro painel, intitulado 'Ideologia e Internet - 1) Nova Ética', mostra um personagem com barba e cabelo comprido falando: 'Você não era bloqueiro da oposição?', enquanto outro personagem ao lado responde: 'Coerência é coisa de torcedor, eu sou profissional'. No segundo painel, '2) Novas Oportunidades', dois personagens estão em frente a uma placa que diz 'Meme eu cobro X, Textão eu cobro Y'. Por fim, no terceiro painel, intitulado '3) Nova Bolha', um gato observa outro personagem com um microfone e fala: 'Vi o preço da opinião na internet?', ao que este responde: 'Tá pela hora da morte'.])\n\nBRANCO, A. Disponível em: www.oesquema.com.br. Acesso em: 30jun. 2015 (adaptado).",
+    "files": [
+        "O desenho apresenta uma história em quadrinhos dividida em três painéis, todos com fundo preto e desenhos minimalistas em branco e preto. O primeiro painel, intitulado 'Ideologia e Internet - 1) Nova Ética', mostra um personagem com barba e cabelo comprido falando: 'Você não era bloqueiro da oposição?', enquanto outro personagem ao lado responde: 'Coerência é coisa de torcedor, eu sou profissional'. No segundo painel, '2) Novas Oportunidades', dois personagens estão em frente a uma placa que diz 'Meme eu cobro X, Textão eu cobro Y'. Por fim, no terceiro painel, intitulado '3) Nova Bolha', um gato observa outro personagem com um microfone e fala: 'Vi o preço da opinião na internet?', ao que este responde: 'Tá pela hora da morte'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A internet proporcionou o surgimento de novos paradigmas sociais e impulsionou a modificação de outros já estabelecidos nas esferas da comunicação e da informação. A principal consequência criticada na tirinha sobre esse processo é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criação de memes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação da blogosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Supremacia das ideias cibernéticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Comercialização de pontos de vista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Banalização do comércio eletrônico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

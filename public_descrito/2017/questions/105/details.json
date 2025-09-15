@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2017",
+    "index": 105,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.\n\n![]([descrição: O diagrama ilustra um sistema integrado de geração de energia, combinando diferentes fontes e processos. No topo esquerdo, há uma 'Rede de distribuição elétrica' conectada a uma 'Planta mista de geração de energia', que produz eletricidade e calor. O calor é direcionado para um 'Destino da energia térmica'. À direita, turbinas eólicas geram eletricidade. Essa eletricidade alimenta um processo de 'Produção de hidrogênio'. O hidrogênio produzido é armazenado e utilizado como combustível em um sistema separado. No centro do diagrama, há uma 'Válvula para mistura' que conecta o biogás proveniente de um 'Armazenamento de biogás' ao fluxo principal, criando uma 'Mistura'. Setas indicam o fluxo de eletricidade, hidrogênio, biogás e calor entre os diferentes componentes do sistema.])",
+    "files": [
+        "O diagrama ilustra um sistema integrado de geração de energia, combinando diferentes fontes e processos. No topo esquerdo, há uma 'Rede de distribuição elétrica' conectada a uma 'Planta mista de geração de energia', que produz eletricidade e calor. O calor é direcionado para um 'Destino da energia térmica'. À direita, turbinas eólicas geram eletricidade. Essa eletricidade alimenta um processo de 'Produção de hidrogênio'. O hidrogênio produzido é armazenado e utilizado como combustível em um sistema separado. No centro do diagrama, há uma 'Válvula para mistura' que conecta o biogás proveniente de um 'Armazenamento de biogás' ao fluxo principal, criando uma 'Mistura'. Setas indicam o fluxo de eletricidade, hidrogênio, biogás e calor entre os diferentes componentes do sistema."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Mesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está\ninstalada, pois o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência anterior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção da estação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para a geração de eletricidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

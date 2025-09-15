@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2013",
+    "index": 177,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra uma comparação entre as notas do PISA e a carga horária de estudo (em horas) para países selecionados. O eixo vertical representa as notas no PISA, variando de 350 a 600, com uma linha tracejada indicando a média. O eixo horizontal representa as horas de estudo dos 7 aos 14 anos, variando de 4.500 a 9.000 horas. Os países incluídos são Finlândia, Coreia do Sul, Japão, Rússia, Holanda, Austrália, Portugal, México, Itália e Israel. Cada país é representado por um ponto no gráfico, indicando sua nota no PISA e carga horária de estudo. Uma legenda indica que os dados consideram as médias de cada país no exame de matemática.])",
+    "files": [
+        "O gráfico mostra uma comparação entre as notas do PISA e a carga horária de estudo (em horas) para países selecionados. O eixo vertical representa as notas no PISA, variando de 350 a 600, com uma linha tracejada indicando a média. O eixo horizontal representa as horas de estudo dos 7 aos 14 anos, variando de 4.500 a 9.000 horas. Os países incluídos são Finlândia, Coreia do Sul, Japão, Rússia, Holanda, Austrália, Portugal, México, Itália e Israel. Cada país é representado por um ponto no gráfico, indicando sua nota no PISA e carga horária de estudo. Uma legenda indica que os dados consideram as médias de cada país no exame de matemática."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dos países com notas abaixo da média nesse exame, aquele que apresenta maior quantidade de horas de estudo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Finlândia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Holanda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Israel.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "México.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Rússia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2022",
+    "index": 176,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico cartesiano mostra duas cidades, A e B, localizadas em coordenadas (15, 40) e (50, 20), respectivamente. O eixo x representa a distância em quilômetros, variando de 0 a 60 km, e o eixo y também representa a distância em quilômetros, variando de 0 a 45 km. Cinco linhas retas conectam a cidade A à cidade B, representando diferentes rotas (I, II, III, IV e V). As legendas indicam que as linhas tracejadas representam a rodovia 001 e as linhas sólidas representam a rodovia 002. Uma terceira legenda identifica a rodovia 003 como uma linha reta na parte inferior esquerda do gráfico.])",
+    "files": [
+        "O gráfico cartesiano mostra duas cidades, A e B, localizadas em coordenadas (15, 40) e (50, 20), respectivamente. O eixo x representa a distância em quilômetros, variando de 0 a 60 km, e o eixo y também representa a distância em quilômetros, variando de 0 a 45 km. Cinco linhas retas conectam a cidade A à cidade B, representando diferentes rotas (I, II, III, IV e V). As legendas indicam que as linhas tracejadas representam a rodovia 001 e as linhas sólidas representam a rodovia 002. Uma terceira legenda identifica a rodovia 003 como uma linha reta na parte inferior esquerda do gráfico."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Pretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.\nDadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

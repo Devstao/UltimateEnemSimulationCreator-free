@@ -1,0 +1,46 @@
+{
+    "title": "Questão 166 - ENEM 2023",
+    "index": 166,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.\n\n![]([descrição: A imagem mostra uma tabela com dados sobre atividades físicas realizadas ao longo da semana. A tabela possui cinco colunas: 'Dias da Semana' (Segunda-feira, Terça-feira, Quarta-feira, Quinta-feira e Sexta-feira), 'Caminhar', 'Correr', 'Andar de bicicleta' e 'Jogar futebol'. Cada célula da tabela contém um valor numérico que representa a quantidade de tempo dedicado à atividade correspondente naquele dia. Os valores estão em uma escala não especificada.])\n\nEla deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas  praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:\n\n![]([descrição: A imagem mostra uma tabela com informações sobre o gasto calórico em diferentes atividades físicas. A tabela possui um cabeçalho que indica 'Atividade física' na primeira coluna e 'Gasto calórico (cal/h)' na segunda. As atividades listadas são: Caminhar, Correr, Andar de bicicleta e Jogar futebol. Os valores correspondentes de gasto calórico para cada atividade são 248, 764, 356 e 492, respectivamente.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre atividades físicas realizadas ao longo da semana. A tabela possui cinco colunas: 'Dias da Semana' (Segunda-feira, Terça-feira, Quarta-feira, Quinta-feira e Sexta-feira), 'Caminhar', 'Correr', 'Andar de bicicleta' e 'Jogar futebol'. Cada célula da tabela contém um valor numérico que representa a quantidade de tempo dedicado à atividade correspondente naquele dia. Os valores estão em uma escala não especificada.",
+        "A imagem mostra uma tabela com informações sobre o gasto calórico em diferentes atividades físicas. A tabela possui um cabeçalho que indica 'Atividade física' na primeira coluna e 'Gasto calórico (cal/h)' na segunda. As atividades listadas são: Caminhar, Correr, Andar de bicicleta e Jogar futebol. Os valores correspondentes de gasto calórico para cada atividade são 248, 764, 356 e 492, respectivamente."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O dia da semana em que será comemorado o aniversário é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Segunda-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Terça-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Quarta-feira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Quinta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

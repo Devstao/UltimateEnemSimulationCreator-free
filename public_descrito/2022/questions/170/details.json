@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2022",
+    "index": 170,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no  \nmercado imobiliário dessa cidade.\n\n![]([descrição: A imagem apresenta dois gráficos de barras lado a lado, ambos representando dados ao longo do tempo (anos). O gráfico superior mostra o 'Valor mensal do aluguel (R$)' em relação aos anos de 2005, 2007, 2009, 2011 e 2013. Os valores são: 630, 960, 1350, 1800 e 3240, respectivamente. O gráfico inferior mostra o 'Valor de mercado do imóvel (milhar de R$)' em relação aos mesmos anos. Os valores são: 90, 120, 270, 450 e 540, respectivamente.])\n\nA rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel.",
+    "files": [
+        "A imagem apresenta dois gráficos de barras lado a lado, ambos representando dados ao longo do tempo (anos). O gráfico superior mostra o 'Valor mensal do aluguel (R$)' em relação aos anos de 2005, 2007, 2009, 2011 e 2013. Os valores são: 630, 960, 1350, 1800 e 3240, respectivamente. O gráfico inferior mostra o 'Valor de mercado do imóvel (milhar de R$)' em relação aos mesmos anos. Os valores são: 90, 120, 270, 450 e 540, respectivamente."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2005",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2007",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2009",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2011",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2013",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

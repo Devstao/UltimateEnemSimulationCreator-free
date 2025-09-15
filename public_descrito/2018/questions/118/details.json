@@ -1,0 +1,48 @@
+{
+    "title": "Questão 118 - ENEM 2018",
+    "index": 118,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alguns materiais sólidos são compostos por átomos que interagem entre si formando ligações que podem ser covalentes, iônicas ou metálicas. A figura apresenta a energia potencial de ligação em função da distância interatômica em um sólido cristalino. Analisando essa figura, observa-se que, na temperatura de zero kelvin, a distância de equilíbrio da ligação entre os átomos ![]([descrição: A imagem mostra a expressão matemática '(R₀)' escrita em letras pretas sobre fundo branco.]) corresponde ao valor mínimo de energia potencial. Acima dessa temperatura, a energia térmica fornecida aos átomos aumenta sua energia cinética e faz com que eles oscilem em torno de uma posição de equilíbrio média (círculos cheios), que é diferente para cada temperatura. A distância de ligação pode variar sobre toda a extensão das linhas horizontais, identificadas com o valor da temperatura, de ![]([descrição: A imagem mostra a letra 'T' maiúscula, seguida do número '1', ambos em preto sobre um fundo branco.]) a ![]([descrição: A imagem mostra as letras 'T' e '4' escritas em preto sobre um fundo branco. A letra 'T' é maior e está posicionada acima do número '4'.]), (temperaturas crescentes).\n\n![]([descrição: O gráfico mostra a energia de ligação em função da distância interatômica. O eixo vertical representa a energia de ligação, enquanto o eixo horizontal representa a distância interatômica. A curva inicial é parabólica e simétrica em relação ao ponto R0, que corresponde à distância de equilíbrio. À medida que a distância aumenta, a energia de ligação se aproxima de zero.  Quatro temperaturas (T1, T2, T3 e T4) são indicadas no gráfico, mostrando como o aumento da temperatura afeta a distribuição das energias dos átomos.])",
+    "files": [
+        "A imagem mostra a expressão matemática '(R₀)' escrita em letras pretas sobre fundo branco.",
+        "A imagem mostra a letra 'T' maiúscula, seguida do número '1', ambos em preto sobre um fundo branco.",
+        "A imagem mostra as letras 'T' e '4' escritas em preto sobre um fundo branco. A letra 'T' é maior e está posicionada acima do número '4'.",
+        "O gráfico mostra a energia de ligação em função da distância interatômica. O eixo vertical representa a energia de ligação, enquanto o eixo horizontal representa a distância interatômica. A curva inicial é parabólica e simétrica em relação ao ponto R0, que corresponde à distância de equilíbrio. À medida que a distância aumenta, a energia de ligação se aproxima de zero.  Quatro temperaturas (T1, T2, T3 e T4) são indicadas no gráfico, mostrando como o aumento da temperatura afeta a distribuição das energias dos átomos."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O deslocamento observado na distância média revela o fenômeno da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ionização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dilatação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Dissociação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Quebra de ligações covalentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Formação de ligações metálicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

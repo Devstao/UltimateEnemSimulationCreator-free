@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2015",
+    "index": 138,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra duas curvas, P e Q, representando o valor da diária em função da distância percorrida. O eixo vertical (y) representa o valor da diária em Reais (R$), variando de 0 a 160. O eixo horizontal (x) representa a distância percorrida em quilômetros (km), variando de 0 a 160. A curva P começa com um valor baixo e aumenta gradualmente, atingindo aproximadamente R$160 quando a distância é de 160 km. A curva Q também começa com um valor baixo, mas sua inclinação é menor que a da curva P, e ela se estabiliza em torno de R$140 para distâncias acima de 120 km.])",
+    "files": [
+        "O gráfico mostra duas curvas, P e Q, representando o valor da diária em função da distância percorrida. O eixo vertical (y) representa o valor da diária em Reais (R$), variando de 0 a 160. O eixo horizontal (x) representa a distância percorrida em quilômetros (km), variando de 0 a 160. A curva P começa com um valor baixo e aumenta gradualmente, atingindo aproximadamente R$160 quando a distância é de 160 km. A curva Q também começa com um valor baixo, mas sua inclinação é menor que a da curva P, e ela se estabiliza em torno de R$140 para distâncias acima de 120 km."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O valor pago na locadora Q é menor ou igual àquele pago na locadora P para distâncias, em quilômetros, presentes em qual(is) intervalo(s)?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "De 20 a 100.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "De 80 a 130.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "De 100 a 160.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "De 0 a 20 e de 100 a 160.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "De 40 a 80 e de 130 a 160.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

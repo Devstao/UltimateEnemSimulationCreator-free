@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2017",
+    "index": 167,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma representação gráfica de uma esfera cortada, formando uma calota esférica. A esfera é preenchida com um tom cinza claro e possui linhas pretas que delineiam sua forma circular. Uma seção da esfera foi removida, revelando a superfície interna em branco.  Uma área hachurada está presente na parte inferior da esfera, indicando a porção que será apoiada em uma mesa. Setas e textos explicativos identificam diferentes partes do diagrama: 'Região onde serão afixados os doces', 'A parte hachurada será apoiada na mesa' e 'Calota a ser cortada e eliminada'.  Um ponto central, marcado como 'O', representa o centro da esfera. Uma linha vertical, rotulada com 'h', indica a altura da calota esférica, enquanto uma linha horizontal, marcada com 'r', representa o raio.])",
+    "files": [
+        "A imagem mostra uma representação gráfica de uma esfera cortada, formando uma calota esférica. A esfera é preenchida com um tom cinza claro e possui linhas pretas que delineiam sua forma circular. Uma seção da esfera foi removida, revelando a superfície interna em branco.  Uma área hachurada está presente na parte inferior da esfera, indicando a porção que será apoiada em uma mesa. Setas e textos explicativos identificam diferentes partes do diagrama: 'Região onde serão afixados os doces', 'A parte hachurada será apoiada na mesa' e 'Calota a ser cortada e eliminada'.  Um ponto central, marcado como 'O', representa o centro da esfera. Uma linha vertical, rotulada com 'h', indica a altura da calota esférica, enquanto uma linha horizontal, marcada com 'r', representa o raio."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para atingir todos os seus objetivos, o chefe deverá cortar a calota do melão numa altura h, em centímetro, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 - √91/2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10 - √91",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

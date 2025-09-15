@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2021",
+    "index": 33,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma página de história em quadrinhos, dividida em quatro painéis. O primeiro painel ilustra pessoas pesquisando em livros e computadores, com legendas indicando que esta é a primeira etapa na produção do livro. O segundo painel mostra pessoas trabalhando em um roteiro em um laptop. O terceiro painel retrata o processo de desenho à tinta, com uma pessoa expressando dúvida. O quarto painel ilustra a edição digital e colorização da imagem. O último painel mostra três pessoas lendo o livro finalizado, com a legenda 'ser lido'.])\n\nLEMONS, A. **Artistas brasileiras**. Belo Horizonte Miguilim,2018.",
+    "files": [
+        "A imagem mostra uma página de história em quadrinhos, dividida em quatro painéis. O primeiro painel ilustra pessoas pesquisando em livros e computadores, com legendas indicando que esta é a primeira etapa na produção do livro. O segundo painel mostra pessoas trabalhando em um roteiro em um laptop. O terceiro painel retrata o processo de desenho à tinta, com uma pessoa expressando dúvida. O quarto painel ilustra a edição digital e colorização da imagem. O último painel mostra três pessoas lendo o livro finalizado, com a legenda 'ser lido'."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O que assegura o reconhecimento desse texto em quadrinhos como prefácio é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Função de apresentação do livro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Apelo emocional apoiado nas imagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Descrição do processo criativo da autora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Referência à mescla dos trabalhos manual e digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uso de elementos gráficos voltados para o público-alvo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

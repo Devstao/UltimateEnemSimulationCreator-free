@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2010",
+    "index": 95,
+    "year": 2010,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra um anúncio publicitário para tênis KangaROOS. O anúncio é formatado como um cartaz retangular com uma borda preta. No canto superior direito, há uma foto de um tênis cinza e marrom. Na parte inferior do cartaz, há texto em espanhol com o título \"¡BRINCANDO!\" seguido por informações sobre a marca KangaROOS e seus tênis, incluindo seu estilo atlético e vintage, bem como a presença de bolsos para guardar objetos pessoais. O endereço do site www.kangarous.com está listado na parte inferior.])\n\n**Revista Glamour Latinoamérica**. México, mar. 2010.",
+    "files": [
+        "A imagem mostra um anúncio publicitário para tênis KangaROOS. O anúncio é formatado como um cartaz retangular com uma borda preta. No canto superior direito, há uma foto de um tênis cinza e marrom. Na parte inferior do cartaz, há texto em espanhol com o título \"¡BRINCANDO!\" seguido por informações sobre a marca KangaROOS e seus tênis, incluindo seu estilo atlético e vintage, bem como a presença de bolsos para guardar objetos pessoais. O endereço do site www.kangarous.com está listado na parte inferior."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto publicitário utiliza diversas estratégias para enfatizar as características do produto que pretende vender. Assim, no texto, o uso de vários termos de outras línguas, que não a espanhola, tem a intenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Atrair a atenção do público alvo dessa propaganda.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Popularizar a prática de exercícios esportivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Agradar aos compradores ingleses desse tênis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Incentivar os espanhóis a falarem outras línguas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Enfatizar o conhecimento de mundo do autor do texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

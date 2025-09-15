@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2015",
+    "index": 95,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra um aviso de inspeção de bagagem da TSA (Transportation Security Administration). O título do aviso é 'NOTICE OF BAGEGE INSPECTION'. O texto explica que, para proteger os passageiros, a TSA é obrigada por lei a inspecionar todas as bagagens despachadas e que algumas malas são selecionadas aleatoriamente para inspeção física. O aviso também informa que o conteúdo da mala pode ter sido revistado em busca de itens proibidos e que, se a mala estivesse trancada, os oficiais podem ter tido que arrombar a fechadura. Há um link para o site da TSA (www.tsa.gov) e uma frase final: 'Smart Security Saves Time'.])\n\nTransportation Security Administration. Disponível em: www.tsa.gov. Acesso em: 13 jan. 2010 (adaptado).",
+    "files": [
+        "A imagem mostra um aviso de inspeção de bagagem da TSA (Transportation Security Administration). O título do aviso é 'NOTICE OF BAGEGE INSPECTION'. O texto explica que, para proteger os passageiros, a TSA é obrigada por lei a inspecionar todas as bagagens despachadas e que algumas malas são selecionadas aleatoriamente para inspeção física. O aviso também informa que o conteúdo da mala pode ter sido revistado em busca de itens proibidos e que, se a mala estivesse trancada, os oficiais podem ter tido que arrombar a fechadura. Há um link para o site da TSA (www.tsa.gov) e uma frase final: 'Smart Security Saves Time'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As instituições públicas fazem uso de avisos como instrumento de comunicação com o cidadão. Esse aviso, voltado a passageiros, tem o objetivo de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Solicitar que as malas sejam apresentadas para inspeção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Notificar o passageiro pelo transporte de produtos proibidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Informar que a mala foi revistada pelos oficiais de segurança.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Dar instruções de como arrumar malas de forma a evitar inspeções.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apresentar desculpas pelo dano causado à mala durante a viagem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

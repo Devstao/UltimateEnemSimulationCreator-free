@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2019",
+    "index": 109,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na madrugada de 11 de março de 1978, partes de um foguete soviético reentraram na atmosfera acima da cidade do Rio de Janeiro e caíram no Oceano Atlântico. Foi um belo espetáculo, os inúmeros fragmentos entrando em ignição devido ao atrito com a atmosfera brilharam intensamente, enquanto “cortavam o céu”. Mas se a reentrada tivesse acontecido alguns minutos depois, teríamos uma tragédia, pois a queda seria na área urbana do Rio de Janeiro e não no oceano.\n\n![]([descrição: A imagem mostra uma representação esquemática da Terra, vista do espaço. A rotação da Terra é indicada por uma seta curva que aponta para o sentido anti-horário. Uma linha horizontal marca o Equador. O Oceano Atlântico e a cidade do Rio de Janeiro estão identificados na parte inferior direita da imagem. A superfície terrestre é representada em tons de cinza, com algumas áreas mais claras indicando relevos.])",
+    "files": [
+        "A imagem mostra uma representação esquemática da Terra, vista do espaço. A rotação da Terra é indicada por uma seta curva que aponta para o sentido anti-horário. Uma linha horizontal marca o Equador. O Oceano Atlântico e a cidade do Rio de Janeiro estão identificados na parte inferior direita da imagem. A superfície terrestre é representada em tons de cinza, com algumas áreas mais claras indicando relevos."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com os fatos relatados, a velocidade angular do foguete em relação à Terra no ponto de reentrada era",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Igual à da Terra e no mesmo sentido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Superior à da Terra e no mesmo sentido.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Inferior à da Terra e no sentido oposto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Igual à da Terra e no sentido oposto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Superior à da Terra e no sentido oposto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

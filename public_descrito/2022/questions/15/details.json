@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2022",
+    "index": 15,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma placa de publicidade iluminada por três refletores, em preto e branco. A placa possui um fundo branco com texto preto. No topo da placa está escrito \"QUANTO CUSTOU?\" seguido do texto: \"Proposta obriga órgão público a divulgar gasto com anúncio na própria peça publicitária.\" Na parte inferior da placa, lê-se \"Qual sua opinião?\". Abaixo da placa, há uma linha de texto indicando a fonte da imagem como sendo o Facebook do Senado Federal, com data de acesso em 9 de dezembro de 2017.])\n\nDisponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
+    "files": [
+        "A imagem mostra uma placa de publicidade iluminada por três refletores, em preto e branco. A placa possui um fundo branco com texto preto. No topo da placa está escrito \"QUANTO CUSTOU?\" seguido do texto: \"Proposta obriga órgão público a divulgar gasto com anúncio na própria peça publicitária.\" Na parte inferior da placa, lê-se \"Qual sua opinião?\". Abaixo da placa, há uma linha de texto indicando a fonte da imagem como sendo o Facebook do Senado Federal, com data de acesso em 9 de dezembro de 2017."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando-se a função social dos posts, essa imagem evidencia a apropriação de outro gênero com o objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Promover o uso adequado de campanhas publicitárias do governo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Divulgar o projeto sobre transparência da administração pública.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Responsabilizar o cidadão pelo controle dos gastos públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Delegar a gestão de projetos de lei ao contribuinte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Assegurar a fiscalização dos gastos públicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

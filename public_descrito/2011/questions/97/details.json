@@ -1,0 +1,45 @@
+{
+    "title": "Questão 97 - ENEM 2011",
+    "index": 97,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é um infográfico sobre amizade pós-moderna na internet e redes sociais, dividindo-a em dois tipos: simétrica e assimétrica. A parte superior descreve a amizade simétrica como recíproca, com ícones representando duas pessoas conectadas por uma seta bidirecional. Apresenta prós (privacidade) e contras (reduz a possibilidade de conhecer gente nova). Exemplos de redes sociais são listados à direita: Facebook, Orkut, Flickr, LinkedIn, MSN e Last.fm. A parte inferior descreve a amizade assimétrica como não recíproca, com ícones representando duas pessoas conectadas por uma seta unidirecional. Apresenta prós (facilidade na formação de laços) e contras (dificuldade em criar intimidade). Exemplos de redes sociais são listados à direita: Twitter, Buzz, Tumblr e Blip.fm. O título do infográfico é 'Amizade Pós-Moderna' e há uma breve introdução sobre a base das relações online.])\n\nCOSTA, C. **Superinteressante**. Fev. 2011 (adaptado).",
+    "files": [
+        "A imagem é um infográfico sobre amizade pós-moderna na internet e redes sociais, dividindo-a em dois tipos: simétrica e assimétrica. A parte superior descreve a amizade simétrica como recíproca, com ícones representando duas pessoas conectadas por uma seta bidirecional. Apresenta prós (privacidade) e contras (reduz a possibilidade de conhecer gente nova). Exemplos de redes sociais são listados à direita: Facebook, Orkut, Flickr, LinkedIn, MSN e Last.fm. A parte inferior descreve a amizade assimétrica como não recíproca, com ícones representando duas pessoas conectadas por uma seta unidirecional. Apresenta prós (facilidade na formação de laços) e contras (dificuldade em criar intimidade). Exemplos de redes sociais são listados à direita: Twitter, Buzz, Tumblr e Blip.fm. O título do infográfico é 'Amizade Pós-Moderna' e há uma breve introdução sobre a base das relações online."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os amigos são um dos principais indicadores de bem-estar na vida social das pessoas. Da mesma forma que em outras áreas, a internet também inovou as maneiras de vivenciar a amizade. Da leitura do infográfico, depreendem-se dois tipos de amizade virtual, a simétrica e a assimétrica, ambas com seus prós e contras. Enquanto a primeira se baseia na relação de reciprocidade, a segunda",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reduz o número de amigos virtuais, ao limitar o acesso à rede.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Parte do anonimato obrigatório para se difundir.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reforça a configuração de laços mais profundos de amizade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Facilita a interação entre pessoas em virtude de interesses comuns.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Tem a responsabilidade de promover a proximidade física.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

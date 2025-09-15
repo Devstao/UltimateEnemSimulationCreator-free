@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2014",
+    "index": 5,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Desenho em preto e branco representando uma cena com robôs e um homem. Um robô, com braços mecânicos e pernas finas, está sentado em frente a uma porta de metal que exibe um letreiro escrito 'Não há vagas'. Ao lado do robô, um homem com capacete e barba está sentado em um banco, parecendo desanimado. Outros dois robôs estão próximos, um aparentemente tentando entrar na porta e outro se movendo para o lado. Ao fundo, uma paisagem industrial com chaminés e fábricas é visível.])\n\nNEVES, E. Engraxate. Disponível em: www.grafar.blogspot.com. Acesso em: 15 fev. 2013.",
+    "files": [
+        "Desenho em preto e branco representando uma cena com robôs e um homem. Um robô, com braços mecânicos e pernas finas, está sentado em frente a uma porta de metal que exibe um letreiro escrito 'Não há vagas'. Ao lado do robô, um homem com capacete e barba está sentado em um banco, parecendo desanimado. Outros dois robôs estão próximos, um aparentemente tentando entrar na porta e outro se movendo para o lado. Ao fundo, uma paisagem industrial com chaminés e fábricas é visível."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando-se a dinâmica entre tecnologia e organização do trabalho, a representação contida no cartum é caracterizada pelo pessimismo em relação à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ideia de progresso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Concentração do capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Noção de sustentabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Organização dos sindicatos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Obsolescência dos equipamentos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

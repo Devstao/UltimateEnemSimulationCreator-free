@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2017",
+    "index": 37,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma instalação artística em preto e branco, com estruturas suspensas do teto que se assemelham a árvores ou cogumelos feitos de materiais trançados, possivelmente bambu ou vime. As estruturas são penduradas por cabos finos e preenchem o espaço, criando um ambiente imersivo. Pessoas podem ser vistas caminhando sob as instalações, indicando que é uma exposição em um museu ou galeria de arte. A iluminação é suave e difusa, realçando a textura das estruturas trançadas. Na parte inferior da imagem, há informações sobre o artista (Ernesto Neto), o título da obra (])",
+    "files": [
+        "A imagem mostra uma instalação artística em preto e branco, com estruturas suspensas do teto que se assemelham a árvores ou cogumelos feitos de materiais trançados, possivelmente bambu ou vime. As estruturas são penduradas por cabos finos e preenchem o espaço, criando um ambiente imersivo. Pessoas podem ser vistas caminhando sob as instalações, indicando que é uma exposição em um museu ou galeria de arte. A iluminação é suave e difusa, realçando a textura das estruturas trançadas. Na parte inferior da imagem, há informações sobre o artista (Ernesto Neto), o título da obra ("
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A instalação Dengo transformou a sala do MAM-SP em um ambiente singular, explorando como principal característica artística a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Participação do público na interação lúdica com a obra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Distribuição de obstáculos no espaço da exposição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Representação simbólica de objetos oníricos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Interpretação subjetiva da lei da gravidade",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Valorização de técnicas de artesanato.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

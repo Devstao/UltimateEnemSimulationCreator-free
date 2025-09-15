@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2012",
+    "index": 179,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra o comportamento do emprego formal no Brasil, no período de janeiro a outubro de 2010, com base nos dados do CAGED (Cadastro Geral de Empregados e Desempregados). O eixo vertical representa o número de empregos formais em milhares, variando de 0 a 400. O eixo horizontal indica os meses de janeiro a outubro de 2010. A linha do gráfico oscila entre aproximadamente 181 mil empregos em janeiro e 305 mil empregos em abril, com flutuações nos meses seguintes. Os valores específicos para cada mês estão indicados no gráfico: Jan/2010 (181.419), Fev/2010 (209.425), Mar/2010 (266.415), Abr/2010 (305.068), Mai/2010 (298.041), Jun/2010 (212.952), Jul/2010 (181.796), Ago/2010 (299.415), Set/2010 (246.875) e Out/2010 (204.804). Na parte inferior do gráfico, há a fonte dos dados: 'Disponível em: www.mte.gov.br. Acesso em: 28 fev. 2012 (adaptado)'.])",
+    "files": [
+        "O gráfico mostra o comportamento do emprego formal no Brasil, no período de janeiro a outubro de 2010, com base nos dados do CAGED (Cadastro Geral de Empregados e Desempregados). O eixo vertical representa o número de empregos formais em milhares, variando de 0 a 400. O eixo horizontal indica os meses de janeiro a outubro de 2010. A linha do gráfico oscila entre aproximadamente 181 mil empregos em janeiro e 305 mil empregos em abril, com flutuações nos meses seguintes. Os valores específicos para cada mês estão indicados no gráfico: Jan/2010 (181.419), Fev/2010 (209.425), Mar/2010 (266.415), Abr/2010 (305.068), Mai/2010 (298.041), Jun/2010 (212.952), Jul/2010 (181.796), Ago/2010 (299.415), Set/2010 (246.875) e Out/2010 (204.804). Na parte inferior do gráfico, há a fonte dos dados: 'Disponível em: www.mte.gov.br. Acesso em: 28 fev. 2012 (adaptado)'."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base no gráfico, o valor da parte inteira da mediana dos empregos formais surgidos no período é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "212 952.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "229 913.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "240 621.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "255 496.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "298 041.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

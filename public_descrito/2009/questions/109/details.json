@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2009",
+    "index": 109,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma tirinha em preto e branco do cartunista brasileiro Maurício de Sousa, aparentemente uma adaptação ou paródia de um cartoon estrangeiro (indicado na legenda como 'BROWNE, C. Hagar, o horrível'). A cena se passa em um cenário marítimo, com um grupo de figuras caricaturais reunidas ao redor de um barco danificado. Uma figura antropomórfica de cachorro está à esquerda, respondendo negativamente a uma pergunta sobre consertar o vazamento do barco. Ao lado, outro personagem, aparentemente um capitão ou líder, expressa surpresa e decepção com a resposta negativa. No fundo, há uma criatura marinha com cabeça de dragão observando a cena. A legenda inferior identifica a obra como 'BROWNE, C. Hagar, o horrível' e fornece informações sobre sua publicação no jornal O Globo em 20 de fevereiro de 2009.])",
+    "files": [
+        "A imagem é uma tirinha em preto e branco do cartunista brasileiro Maurício de Sousa, aparentemente uma adaptação ou paródia de um cartoon estrangeiro (indicado na legenda como 'BROWNE, C. Hagar, o horrível'). A cena se passa em um cenário marítimo, com um grupo de figuras caricaturais reunidas ao redor de um barco danificado. Uma figura antropomórfica de cachorro está à esquerda, respondendo negativamente a uma pergunta sobre consertar o vazamento do barco. Ao lado, outro personagem, aparentemente um capitão ou líder, expressa surpresa e decepção com a resposta negativa. No fundo, há uma criatura marinha com cabeça de dragão observando a cena. A legenda inferior identifica a obra como 'BROWNE, C. Hagar, o horrível' e fornece informações sobre sua publicação no jornal O Globo em 20 de fevereiro de 2009."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A linguagem da tirinha revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O uso de expressões linguísticas e vocabulário próprios de épocas antigas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O uso de expressões linguísticas inseridas no registro mais formal da língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O caráter coloquial expresso pelo uso do tempo verbal no segundo quadrinho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "O uso de um vocabulário específico para situações comunicativas de emergência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A intenção comunicativa dos personagens: a de estabelecer a hierarquia entre eles.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 74 - ENEM 2016",
+    "index": 74,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático de um circuito elétrico com três lâmpadas (L1, L2, L3) conectadas em paralelo a uma fonte de tensão (V). Os pontos do circuito são identificados como A, B, C, D, E. As conexões entre os componentes são representadas por linhas retas.])",
+    "files": [
+        "Diagrama esquemático de um circuito elétrico com três lâmpadas (L1, L2, L3) conectadas em paralelo a uma fonte de tensão (V). Os pontos do circuito são identificados como A, B, C, D, E. As conexões entre os componentes são representadas por linhas retas."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O técnico concluiu que as correntes que apresentam o mesmo valor são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "IA = IE e IC = ID.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "IA = IB = IE e IC = ID.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "IA = IB, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IA = IB = IE, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "IC = IB, apenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

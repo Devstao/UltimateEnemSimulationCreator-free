@@ -1,0 +1,45 @@
+{
+    "title": "Questão 118 - ENEM 2023",
+    "index": 118,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.\n\n![]([descrição: A imagem mostra uma tabela com duas colunas: 'Composto' e 'Nomenclatura'. A coluna 'Composto' lista os números romanos I, II, III, IV e V. A coluna 'Nomenclatura' apresenta as seguintes nomenclaturas correspondentes a cada composto: n-decano, n-heptano, 2,2,4-trimetilpentano, 3-etil-4-metilex-1-eno e 3-etil-2-metilpentan-1-ol.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Composto' e 'Nomenclatura'. A coluna 'Composto' lista os números romanos I, II, III, IV e V. A coluna 'Nomenclatura' apresenta as seguintes nomenclaturas correspondentes a cada composto: n-decano, n-heptano, 2,2,4-trimetilpentano, 3-etil-4-metilex-1-eno e 3-etil-2-metilpentan-1-ol."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

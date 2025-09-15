@@ -1,0 +1,45 @@
+{
+    "title": "Questão 152 - ENEM 2018",
+    "index": 152,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para criar um logotipo, um profissional da área de _design_ gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo,  exatamente como mostra a imagem.\n\n![]([descrição: A imagem mostra um gráfico cartesiano com eixos x e y. No eixo y, os valores variam de -15 a 15, enquanto no eixo x, variam de -15 a 15. Há uma série de pontos plotados no gráfico, formando uma estrutura que se assemelha a uma forma geométrica irregular. A forma é mais densa entre x = 2 e x = 10, com altura máxima em torno de y = 10.])\n\nPara construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico.",
+    "files": [
+        "A imagem mostra um gráfico cartesiano com eixos x e y. No eixo y, os valores variam de -15 a 15, enquanto no eixo x, variam de -15 a 15. Há uma série de pontos plotados no gráfico, formando uma estrutura que se assemelha a uma forma geométrica irregular. A forma é mais densa entre x = 2 e x = 10, com altura máxima em torno de y = 10."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse conjunto é dado pelos pares ordenados tais que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/ba7275fc-dc07-4b42-94d6-da6c53844fa8.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/fea69a4e-b568-4a4e-a2a3-bf30a6e8d34c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/a3a18021-6219-406f-81a0-8057aceea09e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/37ae63c0-96c9-40d4-b88f-75223b31607a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/e9743309-471e-43e8-a2de-71d1739329df.png",
+            "isCorrect": false
+        }
+    ]
+}

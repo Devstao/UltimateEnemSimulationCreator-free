@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2014",
+    "index": 57,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático de um circuito elétrico com três nós rotulados como 1, 2 e 3. Cada nó contém uma letra 'X' dentro de um círculo. Uma fonte de tensão (G) está conectada a dois terminais, A e B, no canto inferior direito do diagrama. As linhas representam as conexões entre os nós e a fonte de tensão.])",
+    "files": [
+        "Diagrama esquemático de um circuito elétrico com três nós rotulados como 1, 2 e 3. Cada nó contém uma letra 'X' dentro de um círculo. Uma fonte de tensão (G) está conectada a dois terminais, A e B, no canto inferior direito do diagrama. As linhas representam as conexões entre os nós e a fonte de tensão."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando o funcionamento do circuito dado, a lâmpada 1 brilhará mais quando a chave estiver na posição",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "B, pois a corrente será maior nesse caso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B, pois a potência total será maior nesse caso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A, pois a resistência equivalente será menor nesse caso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "B, pois o gerador fornecerá uma maior tensão nesse caso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A, pois a potência dissipada pelo gerador será menor nesse caso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

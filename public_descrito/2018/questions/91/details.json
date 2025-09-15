@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2018",
+    "index": 91,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesquisas demonstram que nanodispositivos baseados em movimentos de dimensões atômicas, induzidos por luz, poderão ter aplicações em tecnologias futuras, substituindo micromotores, sem a necessidade de componentes mecânicos. Exemplo de movimento molecular induzido pela luz pode ser observado pela flexão de uma lâmina delgada de silício, ligado a um polímero de azobenzeno e a um material suporte, em dois comprimentos de onda, conforme ilustrado na figura. Com a aplicação de luz ocorrem reações reversíveis da cadeia do polímero, que promovem o movimento observado:\n\nTOMA, H. E. A nanotecnologia das moléculas. **Química Nova na Escola**, n.21, maio 2005 (adaptado).\n\n![]([descrição: A imagem mostra uma representação esquemática de duas estruturas moleculares dispostas lado a lado, dentro de um espaço retangular delimitado por paredes verticais e horizontais. A estrutura à esquerda consiste em anéis hexagonais interligados, representando grafeno, com átomos de hidrogênio ligados a alguns dos carbonos. A estrutura à direita é semelhante, mas com cadeias laterais que se estendem para fora do plano do grafeno, formando uma estrutura mais complexa. Uma seta indica uma distância de 365 nm entre as duas estruturas na primeira imagem, e outra seta indica uma distância de 420 nm na segunda imagem. No canto superior direito, há uma legenda indicando os átomos representados: hidrogênio (círculos brancos), carbono (círculos pretos) e nitrogênio (círculos pretos). Uma fonte é citada na parte inferior da imagem.])",
+    "files": [
+        "A imagem mostra uma representação esquemática de duas estruturas moleculares dispostas lado a lado, dentro de um espaço retangular delimitado por paredes verticais e horizontais. A estrutura à esquerda consiste em anéis hexagonais interligados, representando grafeno, com átomos de hidrogênio ligados a alguns dos carbonos. A estrutura à direita é semelhante, mas com cadeias laterais que se estendem para fora do plano do grafeno, formando uma estrutura mais complexa. Uma seta indica uma distância de 365 nm entre as duas estruturas na primeira imagem, e outra seta indica uma distância de 420 nm na segunda imagem. No canto superior direito, há uma legenda indicando os átomos representados: hidrogênio (círculos brancos), carbono (círculos pretos) e nitrogênio (círculos pretos). Uma fonte é citada na parte inferior da imagem."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O fenômeno de movimento molecular, promovido pela incidência de luz, decorre do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Movimento vibracional dos átomos, que leva ao encurtamento e à relaxação das ligações",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Isomerização das ligações N=N, sendo a forma cis do polímero mais compacta que a trans.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Tautomerização das unidades monoméricas do polímero, que leva a um composto mais compacto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ressonância entre os elétrons π do grupo azo e os do anel aromático que encurta as ligações duplas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Variação conformacional das ligações N=N, que resulta em estruturas com diferentes áreas de superfície.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

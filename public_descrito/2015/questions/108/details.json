@@ -1,0 +1,45 @@
+{
+    "title": "Questão 108 - ENEM 2015",
+    "index": 108,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem em preto e branco mostra dois homens de costas, vestidos com ternos escuros, olhando para um espelho. No reflexo do espelho, as imagens dos homens são invertidas e ligeiramente diferentes, sugerindo uma duplicação ou alteração da realidade. Um objeto retangular, possivelmente um livro ou caixa, está posicionado na base do espelho. A imagem é acompanhada de texto identificando o artista como René Magritte e fornecendo detalhes sobre a obra, incluindo o título, técnica (óleo sobre tela), dimensões e local de exibição.])\n\nO Surrealismo configurou-se como uma das vanguardas artísticas europeias do início do século XX. René Magritte, pintor belga, apresenta elementos dessa vanguarda em suas produções.",
+    "files": [
+        "A imagem em preto e branco mostra dois homens de costas, vestidos com ternos escuros, olhando para um espelho. No reflexo do espelho, as imagens dos homens são invertidas e ligeiramente diferentes, sugerindo uma duplicação ou alteração da realidade. Um objeto retangular, possivelmente um livro ou caixa, está posicionado na base do espelho. A imagem é acompanhada de texto identificando o artista como René Magritte e fornecendo detalhes sobre a obra, incluindo o título, técnica (óleo sobre tela), dimensões e local de exibição."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Um traço do Surrealismo presente nessa pintura é o(a):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Justaposição de elementos díspares, observada na imagem do homem no espelho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Crítica ao passadismo, exposta na dupla imagem do homem olhando sempre para frente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Construção de perspectiva, apresentada na sobreposição de planos visuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Processo de automatismo, indicado na repetição da imagem do homem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Procedimento de colagem, identificado no reflexo do livro no espelho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

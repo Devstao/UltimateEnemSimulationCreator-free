@@ -1,0 +1,45 @@
+{
+    "title": "Questão 161 - ENEM 2014",
+    "index": 161,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com linhas representando 'Experimento 1' até 'Experimento 5' e colunas rotuladas como 'Reagente 1', 'Reagente 2', 'Reagente 3', 'Reagente 4' e 'Reagente 5'. Cada célula da tabela contém um número inteiro. Os valores na tabela são: Experimento 1: 1, 0, 2, 2, 1; Experimento 2: 6, 6, 3, 4, 2; Experimento 3: 6, 7, 8, 7, 9; Experimento 4: 6, 6, 10, 8, 10; Experimento 5: 11, 5, 11, 12, 11.])",
+    "files": [
+        "A imagem mostra uma tabela com linhas representando 'Experimento 1' até 'Experimento 5' e colunas rotuladas como 'Reagente 1', 'Reagente 2', 'Reagente 3', 'Reagente 4' e 'Reagente 5'. Cada célula da tabela contém um número inteiro. Os valores na tabela são: Experimento 1: 1, 0, 2, 2, 1; Experimento 2: 6, 6, 3, 4, 2; Experimento 3: 6, 7, 8, 7, 9; Experimento 4: 6, 6, 10, 8, 10; Experimento 5: 11, 5, 11, 12, 11."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Levando-se em consideração os experimentos feitos, o reagente que atende às expectativas do pesquisador é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

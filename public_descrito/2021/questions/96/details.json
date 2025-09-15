@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2021",
+    "index": 96,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A sequência de nucleotídeos do RNA mensageiro presentes em um gene de um fungo, constituída de sete códons, está escrita a seguir\n\n![]([descrição: A imagem mostra uma tabela com sete colunas numeradas de 1 a 7. Cada coluna contém sequências de três letras, representando códons. Os códons listados são AUG, UUU, GUU, CAA, UGU, AGU e UAG. Abaixo da tabela, há a legenda 'análise de mutações'.])\n\nPesquisadores submeteram a sequência a mutações independentes. Sabe-se que os códons UAG e UAA são terminais, ou seja, indicam a interrupção da tradução.",
+    "files": [
+        "A imagem mostra uma tabela com sete colunas numeradas de 1 a 7. Cada coluna contém sequências de três letras, representando códons. Os códons listados são AUG, UUU, GUU, CAA, UGU, AGU e UAG. Abaixo da tabela, há a legenda 'análise de mutações'."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual mutação produzirá a menor proteína?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Deleção de G no códon 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Substituição de C por U no códon 4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Substituição de G por C no códon 6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Substituição de A por G no códon 7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Deleção dos dois primeiros nucleotídeos no códon 5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

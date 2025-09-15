@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2018",
+    "index": 125,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Afigura representa um prisma óptico, constituído de um material transparente, cujo índice de refração é crescente com a frequência da luz que sobre ele incide. Um feixe luminoso, composto por luzes vermelha, azul e verde, incide na face A, emerge na face B e, após ser refletido por um espelho. Incide num flime para fotografia colorida, revelando três pontos.\n\n![]([descrição: Diagrama ilustrando a dispersão da luz branca por um prisma e a reflexão do feixe resultante em um espelho, formando um espectro de cores. No topo, há um gráfico que representa o espectro visível, com as cores violeta, azul, verde, amarelo, laranja e vermelho, indicando seus respectivos comprimentos de onda em nanômetros (400 a 750 nm). O feixe incidente atinge o prisma, é desviado através das faces A e B, refletido pelo espelho e projetado no perfil do filme, separando-se nas cores do espectro.])",
+    "files": [
+        "Diagrama ilustrando a dispersão da luz branca por um prisma e a reflexão do feixe resultante em um espelho, formando um espectro de cores. No topo, há um gráfico que representa o espectro visível, com as cores violeta, azul, verde, amarelo, laranja e vermelho, indicando seus respectivos comprimentos de onda em nanômetros (400 a 750 nm). O feixe incidente atinge o prisma, é desviado através das faces A e B, refletido pelo espelho e projetado no perfil do filme, separando-se nas cores do espectro."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Observando os pontos luminosos revelados no flime, de baixo para cima, constatam-se as seguintes cores:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vermelha, verde, azul.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Verde, vermelha, azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Azul, verde, vermelha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Verde, azul, vermelha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Azul, vermelha, verde.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

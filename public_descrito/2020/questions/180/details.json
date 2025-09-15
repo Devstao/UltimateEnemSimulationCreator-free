@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2020",
+    "index": 180,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro.\n\n![]([descrição: A imagem mostra uma tabela com três procedimentos (Rapidez no atendimento, Clareza nas informações passadas aos clientes e Cortesia no atendimento). Cada procedimento tem um 'Peso' associado e notas de diferentes empresas (X, Y, Z, W, T) em uma escala numérica. A tabela é utilizada para avaliar o desempenho das empresas nos procedimentos listados.])\n\nA agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados.",
+    "files": [
+        "A imagem mostra uma tabela com três procedimentos (Rapidez no atendimento, Clareza nas informações passadas aos clientes e Cortesia no atendimento). Cada procedimento tem um 'Peso' associado e notas de diferentes empresas (X, Y, Z, W, T) em uma escala numérica. A tabela é utilizada para avaliar o desempenho das empresas nos procedimentos listados."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Z.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "T.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

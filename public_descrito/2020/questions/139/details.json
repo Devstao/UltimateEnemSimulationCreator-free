@@ -1,0 +1,46 @@
+{
+    "title": "Questão 139 - ENEM 2020",
+    "index": 139,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os gráficos representam a produção de peças em uma indústria e as horas trabalhadas dos funcionários no período de cinco dias. Em cada dia, o gerente de produção aplica uma metodologia diferente de trabalho. Seu objetivo é avaliar a metodologia mais eficiente para utilizá-la como modelo nos próximos períodos. Sabe-se que, neste caso, quanto maior for a razão entre o número de peças produzidas e o número de horas trabalhadas, maior será a eficiência da metodologia.\n\n![]([descrição: O gráfico de barras mostra a quantidade de peças produzidas ao longo de cinco dias. O eixo vertical representa o número de peças, variando de 0 a 2000. O eixo horizontal representa os dias, de 1 a 5. As alturas das barras correspondem às seguintes quantidades: Dia 1 - 800 peças; Dia 2 - 1000 peças; Dia 3 - 1100 peças; Dia 4 - 1800 peças; Dia 5 - 1400 peças.])\n\n![]([descrição: A imagem mostra um gráfico de barras representando as horas trabalhadas ao longo de cinco dias. O título do gráfico é 'Horas Trabalhadas'. No eixo vertical, estão marcados valores de 0 a 15. As barras representam: Dia 1 (4 horas), Dia 2 (8 horas), Dia 3 (5 horas), Dia 4 (9 horas) e Dia 5 (10 horas). O gráfico está em um documento impresso com uma qualidade visual ligeiramente baixa.])",
+    "files": [
+        "O gráfico de barras mostra a quantidade de peças produzidas ao longo de cinco dias. O eixo vertical representa o número de peças, variando de 0 a 2000. O eixo horizontal representa os dias, de 1 a 5. As alturas das barras correspondem às seguintes quantidades: Dia 1 - 800 peças; Dia 2 - 1000 peças; Dia 3 - 1100 peças; Dia 4 - 1800 peças; Dia 5 - 1400 peças.",
+        "A imagem mostra um gráfico de barras representando as horas trabalhadas ao longo de cinco dias. O título do gráfico é 'Horas Trabalhadas'. No eixo vertical, estão marcados valores de 0 a 15. As barras representam: Dia 1 (4 horas), Dia 2 (8 horas), Dia 3 (5 horas), Dia 4 (9 horas) e Dia 5 (10 horas). O gráfico está em um documento impresso com uma qualidade visual ligeiramente baixa."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em qual dia foi aplicada a metodologia mais eficiente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

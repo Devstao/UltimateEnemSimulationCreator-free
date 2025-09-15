@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2009",
+    "index": 139,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A população mundial está ficando mais velha, os índices de natalidade diminuíram e a expectativa de vida aumentou. No gráfico seguinte, são apresentados dados obtidos por pesquisa realizada pela Organização das Nações Unidas (ONU), a respeito da quantidade de pessoas com 60 anos ou mais em todo o mundo. Os números da coluna da direita representam as faixas percentuais. Por exemplo, em 1950 havia 95 milhões de pessoas com 60 anos ou mais nos países desenvolvidos, número entre 10% e 15% da população total nos países desenvolvidos.\n\n![]([descrição: O gráfico de linhas mostra a estimativa da população em milhões, nos países desenvolvidos e em desenvolvimento, ao longo do tempo. O eixo horizontal representa os anos, começando em 1950 e terminando em 2050. O eixo vertical esquerdo representa a população em milhões para países desenvolvidos, enquanto o eixo vertical direito representa a população em milhões para países em desenvolvimento. A linha sólida (países desenvolvidos) começa em 95 milhões em 1950 e aumenta gradualmente até 461 milhões em 2050. A linha pontilhada (país em desenvolvimento) começa em 110 milhões em 1950 e aumenta mais rapidamente, atingindo 1.592 milhões em 2050. Em 2010, a população de países desenvolvidos é estimada em 269 milhões, enquanto a população de países em desenvolvimento é estimada em 490 milhões.])",
+    "files": [
+        "O gráfico de linhas mostra a estimativa da população em milhões, nos países desenvolvidos e em desenvolvimento, ao longo do tempo. O eixo horizontal representa os anos, começando em 1950 e terminando em 2050. O eixo vertical esquerdo representa a população em milhões para países desenvolvidos, enquanto o eixo vertical direito representa a população em milhões para países em desenvolvimento. A linha sólida (países desenvolvidos) começa em 95 milhões em 1950 e aumenta gradualmente até 461 milhões em 2050. A linha pontilhada (país em desenvolvimento) começa em 110 milhões em 1950 e aumenta mais rapidamente, atingindo 1.592 milhões em 2050. Em 2010, a população de países desenvolvidos é estimada em 269 milhões, enquanto a população de países em desenvolvimento é estimada em 490 milhões."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em 2050, a probabilidade de se escolher, aleatoriamente, uma pessoa com 60 anos ou mais de idade, na população dos países desenvolvidos, será um número mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7/20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8/25.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1/5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3/25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

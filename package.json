@@ -1,0 +1,24 @@
+{
+    "name": "enem-simulado",
+    "private": true,
+    "workspaces": [
+        "server",
+        "web"
+    ],
+    "scripts": {
+        "dev:server": "yarn workspace enem-simulado-server dev",
+        "dev:web": "yarn workspace enem-simulado-web dev",
+        "dev": "concurrently \"yarn dev:server\" \"yarn dev:web\"",
+        "build": "yarn workspace enem-simulado-web build",
+        "start": "yarn workspace enem-simulado-web start",
+        "start:server": "yarn workspace enem-simulado-server start"
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.2",
+        "tsx": "^4.16.2",
+        "typescript": "^5.5.4"
+    },
+    "dependencies": {
+        "franc": "^6.2.0"
+    }
+}

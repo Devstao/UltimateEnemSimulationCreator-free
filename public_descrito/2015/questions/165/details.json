@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2015",
+    "index": 165,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um setor circular com um ângulo central de 60 graus. O raio do círculo é indicado pela letra 'R'. Duas linhas tracejadas conectam o centro do círculo aos pontos da circunferência, formando o ângulo de 60 graus. Uma linha sólida conecta os dois pontos na circunferência, definindo a curva do setor.])\n\nO parque aquático já conta com uma piscina em formato retangular com dimensões 50 m x 24 m.\n\nO proprietário quer que a área ocupada pela nova piscina seja menor que a ocupada pela piscina já existente.\n\nConsidere 3,0 como aproximação para π.",
+    "files": [
+        "A imagem mostra um setor circular com um ângulo central de 60 graus. O raio do círculo é indicado pela letra 'R'. Duas linhas tracejadas conectam o centro do círculo aos pontos da circunferência, formando o ângulo de 60 graus. Uma linha sólida conecta os dois pontos na circunferência, definindo a curva do setor."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O maior valor possível para R, em metros, deverá ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "28.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "29.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "31.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "49.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

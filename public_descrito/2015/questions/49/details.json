@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2015",
+    "index": 49,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra um veículo movido a energia solar, semelhante a um carro, em movimento sobre uma pista. O veículo possui painéis solares cobrindo sua superfície superior e laterais. A perspectiva da foto sugere que o veículo está se movendo rapidamente, com o fundo ligeiramente borrado devido ao efeito de velocidade. Há vegetação e árvores visíveis no horizonte distante. Na parte inferior direita da imagem, há uma legenda em português indicando a fonte da imagem e a data de acesso.])\n\nConsidere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1 000 W/m² , que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m² e rendimento de 30%.",
+    "files": [
+        "A imagem mostra um veículo movido a energia solar, semelhante a um carro, em movimento sobre uma pista. O veículo possui painéis solares cobrindo sua superfície superior e laterais. A perspectiva da foto sugere que o veículo está se movendo rapidamente, com o fundo ligeiramente borrado devido ao efeito de velocidade. Há vegetação e árvores visíveis no horizonte distante. Na parte inferior direita da imagem, há uma legenda em português indicando a fonte da imagem e a data de acesso."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Desprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 km/h é um valor mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4,0 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "33 s.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "300 s.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

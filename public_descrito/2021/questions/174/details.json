@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2021",
+    "index": 174,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Após a consulta médica, um paciente deve seguir um tratamento composto por três medicamentos: X, Y e Z. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes, conforme o quadro.\n\n![]([descrição: A imagem mostra uma tabela com três linhas e três colunas. A primeira linha contém os títulos 'X', 'Y' e 'Z'. As linhas subsequentes representam três farmácias (Farmácia 1, Farmácia 2 e Farmácia 3) e seus respectivos preços em cada coluna. Os valores são expressos em reais (R$).\n\n- **Farmácia 1:** X = R$45,00; Y = R$40,00; Z = R$50,00\n- **Farmácia 2:** X = R$50,00; Y = R$50,00; Z = R$40,00\n- **Farmácia 3:** X = R$65,00; Y = R$45,00; Z = R$35,00])\n\nDessas farmácias, algumas oferecem descontos:\n\n*   na compra dos medicamentos X e Y na Farmácia 2, recebe-se um desconto de 20% em ambos os produtos, independentemente da compra do medicamento Z, e não há desconto para o medicamento Z;\n*   na compra dos 3 medicamentos na Farmácia 3, recebe-se 20% de desconto no valor total da compra.\n\nO paciente deseja efetuar a compra de modo a minimizar duas despesa com os medicamentos.",
+    "files": [
+        "A imagem mostra uma tabela com três linhas e três colunas. A primeira linha contém os títulos 'X', 'Y' e 'Z'. As linhas subsequentes representam três farmácias (Farmácia 1, Farmácia 2 e Farmácia 3) e seus respectivos preços em cada coluna. Os valores são expressos em reais (R$).\n\n- **Farmácia 1:** X = R$45,00; Y = R$40,00; Z = R$50,00\n- **Farmácia 2:** X = R$50,00; Y = R$50,00; Z = R$40,00\n- **Farmácia 3:** X = R$65,00; Y = R$45,00; Z = R$35,00"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com as informações fornecidas, o paciente deve comprar os medicamentos da seguinte forma:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X, Y e Z na Farmácia 1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "X e Y na Farmácia 1, e Z na Farmácia 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "X e Y na Farmácia 2, e Z na Farmácia 3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "X na Farmácia 2, e Y e Z na Farmácia 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "X, Y e Z na Farmácia 3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

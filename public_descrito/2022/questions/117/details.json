@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2022",
+    "index": 117,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3 ) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\n![]([descrição: Ilustração esquemática de um experimento químico. Um balão de Erlenmeyer contém um líquido identificado como 'Ácido' e um pedaço de 'Mármore'. Um tubo conecta o balão a um recipiente maior contendo água, onde bolhas indicam a liberação de 'Gás'.])",
+    "files": [
+        "Ilustração esquemática de um experimento químico. Um balão de Erlenmeyer contém um líquido identificado como 'Ácido' e um pedaço de 'Mármore'. Um tubo conecta o balão a um recipiente maior contendo água, onde bolhas indicam a liberação de 'Gás'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O gás obtido no experimento é o:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "H2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "CO2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "CO",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cl2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

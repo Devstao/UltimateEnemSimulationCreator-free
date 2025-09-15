@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2010",
+    "index": 162,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O jornal de certa cidade publicou em uma página inteira a seguinte divulgação de seu caderno de classificados\n\n![]([descrição: A imagem mostra uma representação gráfica retangular, possivelmente de um anúncio ou página de jornal. A área principal é preenchida com um tom cinza claro. No canto superior esquerdo, há um pequeno retângulo branco contendo o texto \"4% outros jornais\". Na parte inferior do retângulo maior, encontra-se a frase \"96% Pessoas que consultam nossos classificados\" em letras pretas. As dimensões de 26 mm e 400 mm estão indicadas nas bordas verticais, enquanto 260 mm está indicado na borda horizontal.])",
+    "files": [
+        "A imagem mostra uma representação gráfica retangular, possivelmente de um anúncio ou página de jornal. A área principal é preenchida com um tom cinza claro. No canto superior esquerdo, há um pequeno retângulo branco contendo o texto \"4% outros jornais\". Na parte inferior do retângulo maior, encontra-se a frase \"96% Pessoas que consultam nossos classificados\" em letras pretas. As dimensões de 26 mm e 400 mm estão indicadas nas bordas verticais, enquanto 260 mm está indicado na borda horizontal."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para que a propaganda seja fidedigna à porcentagem da área que aparece na divulgação, a medida do lado do retângulo que representa os 4%, deve ser de aproximadamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "17 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "160 mm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "167 mm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

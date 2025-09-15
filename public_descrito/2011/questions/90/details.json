@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2011",
+    "index": 90,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: O desenho apresenta uma tirinha com quatro quadros. Em cada quadro, há três vacas pretas e brancas. No primeiro quadro, as vacas apontam para si mesmas com legendas que dizem: 'Colocaram a culpa do aquecimento global nas vacas'. No segundo quadro, as vacas apontam para cima com uma legenda que pergunta: 'E o que faremos?'. No terceiro quadro, as vacas apontam para baixo com a legenda: 'Culparemos as galinhas'.])\n\nDe acordo com o relatório “A grande sombra da pecuária” (Livestock’s Long Shadow), feito pela Organização das Nações Unidas para a Agricultura e a Alimentação, o gado é responsável por cerca de 18% do aquecimento global, uma contribuição maior que a do setor de transportes.\n\n**Disponível em: www.conpet.gov.br. Acesso em: 22 jun. 2010. (Foto: Reprodução/Enem)**",
+    "files": [
+        "O desenho apresenta uma tirinha com quatro quadros. Em cada quadro, há três vacas pretas e brancas. No primeiro quadro, as vacas apontam para si mesmas com legendas que dizem: 'Colocaram a culpa do aquecimento global nas vacas'. No segundo quadro, as vacas apontam para cima com uma legenda que pergunta: 'E o que faremos?'. No terceiro quadro, as vacas apontam para baixo com a legenda: 'Culparemos as galinhas'."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A criação de gado em larga escala contribui para o aquecimento global por meio da emissão de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Metano durante o processo de digestão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Óxido nitroso durante o processo de ruminação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Clorofluorcarbono durante o transporte de carne.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Óxido nitroso durante o processo respiratório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dióxido de enxofre durante o consumo de pastagens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

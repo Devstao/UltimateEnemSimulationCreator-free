@@ -1,0 +1,46 @@
+{
+    "title": "Questão 143 - ENEM 2022",
+    "index": 143,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dentre as diversas planificações possíveis para o cubo, uma delas é a que se encontra apresentada na Figura 1.\n\n![]([descrição: A imagem mostra uma figura composta por nove quadrados idênticos, dispostos em um padrão escalonado. Os quadrados são cinza claro e estão conectados por linhas pretas que formam seus contornos. A disposição dos quadrados forma uma estrutura que se estende para a direita e ligeiramente para baixo.])\n\nEm um cubo, foram pintados, em três de suas faces, quadrados de cor cinza escura, que ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum, conforme ilustrado na Figura 2.\n\n![]([descrição: A imagem mostra uma representação tridimensional de um cubo maior, com um cubo menor posicionado dentro dele. O cubo maior é branco e possui linhas tracejadas que indicam suas arestas. O cubo menor, localizado no canto superior esquerdo do cubo maior, é cinza escuro. A legenda 'Figura 2' está localizada na parte inferior central da imagem.])",
+    "files": [
+        "A imagem mostra uma figura composta por nove quadrados idênticos, dispostos em um padrão escalonado. Os quadrados são cinza claro e estão conectados por linhas pretas que formam seus contornos. A disposição dos quadrados forma uma estrutura que se estende para a direita e ligeiramente para baixo.",
+        "A imagem mostra uma representação tridimensional de um cubo maior, com um cubo menor posicionado dentro dele. O cubo maior é branco e possui linhas tracejadas que indicam suas arestas. O cubo menor, localizado no canto superior esquerdo do cubo maior, é cinza escuro. A legenda 'Figura 2' está localizada na parte inferior central da imagem."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na Figura 1, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/37b0d8a0-5992-4fac-8f58-93924c6877e2.jpg",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/c2a2bae5-e20a-4bdb-af9e-b6d37b0cdc81.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/bfd0a9ed-5ff2-444f-b297-e2f37eba789b.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/b76f04c7-e485-4c93-8e57-60d5ce9f5623.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/2e478466-a3b6-4a44-8c04-a6187dc164df.jpg",
+            "isCorrect": false
+        }
+    ]
+}

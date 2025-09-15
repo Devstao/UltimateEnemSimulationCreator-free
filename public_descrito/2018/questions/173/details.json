@@ -1,0 +1,47 @@
+{
+    "title": "Questão 173 - ENEM 2018",
+    "index": 173,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um  guindaste iça uma viga de aço que se encontra inicialmente no solo.\n\n![]([descrição: A imagem mostra três estágios de uma grua, cada um representando uma mudança na posição de uma carga suspensa por um cabo de aço conectado à viga da grua. No estágio 1, a carga está diretamente abaixo da grua. No estágio 2, a carga é movida para cima e para a direita em relação à grua. No estágio 3, a carga retorna à posição original sob a grua.])\n\nNa figura, o ponto O representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga, que se inicia no tempo t = 0 (estágio 1) e finaliza no ![]([descrição: A imagem mostra o texto 'tempo t' escrito em letras pretas sobre fundo branco.]) (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra extremidade desliza sobre o solo em direção ao ponto O. Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto M representa o ponto médio do segmento que representa a viga.\n\n![]([descrição: A imagem mostra o texto 't=0' seguido por uma letra 'e' minúscula, e então 't₁'. O texto está centralizado horizontalmente sobre um fundo preto.])",
+    "files": [
+        "A imagem mostra três estágios de uma grua, cada um representando uma mudança na posição de uma carga suspensa por um cabo de aço conectado à viga da grua. No estágio 1, a carga está diretamente abaixo da grua. No estágio 2, a carga é movida para cima e para a direita em relação à grua. No estágio 3, a carga retorna à posição original sob a grua.",
+        "A imagem mostra o texto 'tempo t' escrito em letras pretas sobre fundo branco.",
+        "A imagem mostra o texto 't=0' seguido por uma letra 'e' minúscula, e então 't₁'. O texto está centralizado horizontalmente sobre um fundo preto."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que descreve a distância do ponto M ao ponto O, em função do tempo, entre, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/ff2abae2-528e-4337-8115-3f45241150f7.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/f1baf187-1d0f-440c-bf5e-ddf90a972eb9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/be3758af-749d-40c8-861c-79e0cc06eaa0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/744395ff-a1d2-4989-9c4e-ab3599aae57f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/a2c79be7-a0af-4389-a011-16d1b661007d.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2012",
+    "index": 94,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma tirinha em preto e branco com quatro quadros. Os personagens são representados em estilo cartoon, com traços simples e expressões faciais exageradas. No primeiro quadro, uma mulher expressa irritação ao dizer 'Me revoltam os tipos que pensam que a mulher é inferior'. No segundo quadro, ela continua: 'Será que, mas que nada, vêm em tarefas domésticas! E bem, isso é para o que estamos as mulheres! Al fin de cuentas uma mulher que não cozinha, que não plancha, que não lava, ni limpa, ni nada de eso. É menos mulher, que diabos!' No terceiro quadro, um homem responde: 'Ah, segundo vocês, uma mulher que tenha cozinheira, lavadeira, mucama e demais, ¿es pouco mulher?'. Por fim, no quarto quadro, o outro homem diz: '¡Momentito!... Uma coisa é a mulher e outra el status'.])\n\nQUINO.Disponível em: http://mafalda.dreamers.com. Acesso em: 27 fev. 2012.",
+    "files": [
+        "A imagem é uma tirinha em preto e branco com quatro quadros. Os personagens são representados em estilo cartoon, com traços simples e expressões faciais exageradas. No primeiro quadro, uma mulher expressa irritação ao dizer 'Me revoltam os tipos que pensam que a mulher é inferior'. No segundo quadro, ela continua: 'Será que, mas que nada, vêm em tarefas domésticas! E bem, isso é para o que estamos as mulheres! Al fin de cuentas uma mulher que não cozinha, que não plancha, que não lava, ni limpa, ni nada de eso. É menos mulher, que diabos!' No terceiro quadro, um homem responde: 'Ah, segundo vocês, uma mulher que tenha cozinheira, lavadeira, mucama e demais, ¿es pouco mulher?'. Por fim, no quarto quadro, o outro homem diz: '¡Momentito!... Uma coisa é a mulher e outra el status'."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A personagem Susanita, no último quadro, inventa o vocábulo mujerez, utilizando-se de um recurso de formação de palavra existente na língua espanhola. Na concepção da personagem, o sentido do vocábulo mujerez remete à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Falta de feminilidade das mulheres que não se dedicam às tarefas domésticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Valorização das mulheres que realizam todas as tarefas domésticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Inferioridade das mulheres que praticam as tarefas domésticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Relevância social das mulheres que possuem empregados para realizar as tarefas domésticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Independência das mulheres que não se prendem apenas às tarefas domésticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

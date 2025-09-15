@@ -1,0 +1,47 @@
+{
+    "title": "Questão 154 - ENEM 2018",
+    "index": 154,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um _designer_ de jogos planeja um jogo que faz uso de um tabuleiro de dimensão  n x n, com ![]([descrição: A imagem mostra a expressão matemática 'n ≥ 2', onde 'n' é um símbolo representando uma variável, '≥' representa o operador 'maior ou igual a', e '2' é um número inteiro.])no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. Na figura está ilustrada a zona de combate de uma peça colocada em uma das casas de um tabuleiro de dimensão 8 x 8.\n\n![]([descrição: A imagem mostra uma grade quadrada composta por quadrados cinza claro e escuro, dispostos em um padrão aparentemente aleatório. Uma cruz formada por retângulos cinza escuro se estende verticalmente e horizontalmente pelo centro da grade. Um pequeno círculo preto está localizado na interseção dos braços da cruz. A disposição geral sugere uma representação visual de dados ou um quebra-cabeça.])\n\nO tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a ![]([descrição: A imagem mostra uma fração, com o número '1' acima da linha fracionária e o número '5' abaixo.])",
+    "files": [
+        "A imagem mostra a expressão matemática 'n ≥ 2', onde 'n' é um símbolo representando uma variável, '≥' representa o operador 'maior ou igual a', e '2' é um número inteiro.",
+        "A imagem mostra uma grade quadrada composta por quadrados cinza claro e escuro, dispostos em um padrão aparentemente aleatório. Uma cruz formada por retângulos cinza escuro se estende verticalmente e horizontalmente pelo centro da grade. Um pequeno círculo preto está localizado na interseção dos braços da cruz. A disposição geral sugere uma representação visual de dados ou um quebra-cabeça.",
+        "A imagem mostra uma fração, com o número '1' acima da linha fracionária e o número '5' abaixo."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A dimensão mínima que o designer deve adotar para esse tabuleiro é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 x 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6 x 6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9 x 9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10 x 10.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "11 x 11.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

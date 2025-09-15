@@ -1,0 +1,45 @@
+{
+    "title": "Questão 76 - ENEM 2016",
+    "index": 76,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática de uma reação química, especificamente uma substituição nucleofílica unimolecular (SN1). A parte superior da imagem ilustra um íon carbocátion intermediário formado a partir de um composto R-X. O íon carbocátion é representado como um átomo de carbono com carga positiva e ligado a outros átomos. Abaixo do íon carbocátion, há uma seta indicando o ataque de um nucleófilo (Nu-) ao carbocátion, resultando na formação de um novo composto R-Nu e um íon haleto (X-). Uma equação química genérica é fornecida: R-X + Nu⁻ → R-Nu + X⁻. Uma nota explicativa abaixo da equação define R como um grupo alquila e X como um halogênio.])",
+    "files": [
+        "A imagem mostra uma representação esquemática de uma reação química, especificamente uma substituição nucleofílica unimolecular (SN1). A parte superior da imagem ilustra um íon carbocátion intermediário formado a partir de um composto R-X. O íon carbocátion é representado como um átomo de carbono com carga positiva e ligado a outros átomos. Abaixo do íon carbocátion, há uma seta indicando o ataque de um nucleófilo (Nu-) ao carbocátion, resultando na formação de um novo composto R-Nu e um íon haleto (X-). Uma equação química genérica é fornecida: R-X + Nu⁻ → R-Nu + X⁻. Uma nota explicativa abaixo da equação define R como um grupo alquila e X como um halogênio."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A reação de SN entre metóxido de sódio (Nu– = CH3O–) e brometo de metila fornece um composto orgânico pertencente à função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Éter.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Éster.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Haleto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Hidrocarboneto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

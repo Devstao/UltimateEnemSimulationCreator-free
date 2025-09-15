@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2017",
+    "index": 169,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem apresenta dois gráficos de pizza lado a lado, comparando o tempo de acesso a diferentes sites na sexta-feira e no sábado. O gráfico da esquerda, intitulado 'Tempo de acesso na sexta-feira (minuto)', mostra as porcentagens de tempo gasto em cada site: Site U (40%), Site W (38%), Site Y (30%) e Site Z (10%). O gráfico da direita, intitulado 'Tempo de acesso no sábado (minuto)', exibe os seguintes tempos: Site U (56%), Site W (57%), Site Y (51%) e Site Z (11%). Os gráficos são apresentados em um fundo preto com texto branco.])",
+    "files": [
+        "A imagem apresenta dois gráficos de pizza lado a lado, comparando o tempo de acesso a diferentes sites na sexta-feira e no sábado. O gráfico da esquerda, intitulado 'Tempo de acesso na sexta-feira (minuto)', mostra as porcentagens de tempo gasto em cada site: Site U (40%), Site W (38%), Site Y (30%) e Site Z (10%). O gráfico da direita, intitulado 'Tempo de acesso no sábado (minuto)', exibe os seguintes tempos: Site U (56%), Site W (57%), Site Y (51%) e Site Z (11%). Os gráficos são apresentados em um fundo preto com texto branco."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Analisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado, foi no site",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "U.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

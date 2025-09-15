@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2014",
+    "index": 37,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Um mapa-múndi em tons de cinza, com diferentes países destacados em cores variadas (cinza claro, cinza médio e preto). A legenda 'Disponível em: www.ipea.gov.br. Acesso em: 2 ago. 2013.' está localizada na parte inferior direita da imagem.])",
+    "files": [
+        "Um mapa-múndi em tons de cinza, com diferentes países destacados em cores variadas (cinza claro, cinza médio e preto). A legenda 'Disponível em: www.ipea.gov.br. Acesso em: 2 ago. 2013.' está localizada na parte inferior direita da imagem."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na imagem, é ressaltado, em tom mais escuro, um grupo de países que na atualidade possuem características político-econômicas comuns, no sentido de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adotarem o liberalismo político na dinâmica dos seus setores públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Constituírem modelos de ações decisórias vinculadas à social-democracia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Instituírem fóruns de discussão sobre intercâmbio multilateral de economias emergentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Promoverem a integração representativa dos diversos povos integrantes de seus territórios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apresentarem uma frente de desalinhamento político aos polos dominantes do sistema-mundo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

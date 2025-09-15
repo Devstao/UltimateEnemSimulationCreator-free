@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2015",
+    "index": 77,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma equação química representando a eletrólise do lactato de etila. Na parte esquerda da equação, há duas moléculas de lactato de etila (CH3CH2CH(OH)COOCH2CH3). A seta indica a reação que ocorre sob condições de eletrólise, KOH e metanol. Na parte direita da equação, os produtos são uma molécula de pentano (CH3CH2CH2CH2CH3) e duas moléculas de dióxido de carbono (CO2). Abaixo da equação, há informações sobre a fonte da adaptação: AZEVEDO, D. C.; GOULART, M. O. F. Estereosseletividade em reações eletrodróicas. Química Nova, n. 2, 1997.])",
+    "files": [
+        "A imagem mostra uma equação química representando a eletrólise do lactato de etila. Na parte esquerda da equação, há duas moléculas de lactato de etila (CH3CH2CH(OH)COOCH2CH3). A seta indica a reação que ocorre sob condições de eletrólise, KOH e metanol. Na parte direita da equação, os produtos são uma molécula de pentano (CH3CH2CH2CH2CH3) e duas moléculas de dióxido de carbono (CO2). Abaixo da equação, há informações sobre a fonte da adaptação: AZEVEDO, D. C.; GOULART, M. O. F. Estereosseletividade em reações eletrodróicas. Química Nova, n. 2, 1997."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,2,7,7-tetrametil-octano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,3,4,4-tetrametil-hexano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,2,5,5-tetrametil-hexano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3,3,6,6-tetrametil-octano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,2,4,4-tetrametil-hexano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 33 - ENEM 2013",
+    "index": 33,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Pintura monocromática retratando uma multidão celebrando, possivelmente um evento histórico ou político. No centro da cena, um homem montado em um cavalo levanta o braço em sinal de vitória ou saudação. A multidão é composta por homens, mulheres e crianças, muitos deles com as mãos levantadas em aclamação. O cenário parece ser uma área rural, com árvores ao fundo e um céu nublado. A pintura tem um estilo realista e detalhado, capturando a emoção e o entusiasmo da multidão.])\n\nMOREAUX, F.R. Proclamação da Independência. Disponível em: www.tvbrasil.org.br. Acesso em 14 jun. 2010. (Foto: Enem)\n\n![]([descrição: Fotografia monocromática de um homem mais velho sentado em uma cadeira. Ele tem barba longa e branca, cabelo ralo na parte superior da cabeça e está vestindo um terno escuro com colete e camisa social. Suas mãos estão apoiadas nas coxas. O fundo é neutro, possivelmente um estúdio fotográfico.])\n\nFERREZ, M. D. Pedro II. SCHWARCZ, L.M. As barbas do Imperador. D. Pedro II, um monarca nos trópicos. São Paulo: Cia das Letras, 1998.",
+    "files": [
+        "Pintura monocromática retratando uma multidão celebrando, possivelmente um evento histórico ou político. No centro da cena, um homem montado em um cavalo levanta o braço em sinal de vitória ou saudação. A multidão é composta por homens, mulheres e crianças, muitos deles com as mãos levantadas em aclamação. O cenário parece ser uma área rural, com árvores ao fundo e um céu nublado. A pintura tem um estilo realista e detalhado, capturando a emoção e o entusiasmo da multidão.",
+        "Fotografia monocromática de um homem mais velho sentado em uma cadeira. Ele tem barba longa e branca, cabelo ralo na parte superior da cabeça e está vestindo um terno escuro com colete e camisa social. Suas mãos estão apoiadas nas coxas. O fundo é neutro, possivelmente um estúdio fotográfico."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As imagens, que retratam D. Pedro I e D. Pedro II, procuram transmitir determinadas representações políticas acerca dos dois monarcas e seus contextos de atuação. A ideia que cada imagem evoca é, respectivamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Habilidade militar – riqueza pessoal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Liderança popular – estabilidade política.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Instabilidade econômica – herança europeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Isolamento político – centralização do poder.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nacionalismo exacerbado – inovação administrativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2013",
+    "index": 54,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática da estrutura química de um polímero, provavelmente poli(etileno tereftalato) (PET). A estrutura é repetitiva e indicada pelo 'n', representando o grau de polimerização. Ela consiste em unidades alternadas de ácido tereftálico (anel benzênico com grupos carbonila) e etileno glicol (CH2-CH2-O-H). Há dois grupos hidroxila (-OH) nas extremidades da cadeia polimérica.])",
+    "files": [
+        "A imagem mostra uma representação esquemática da estrutura química de um polímero, provavelmente poli(etileno tereftalato) (PET). A estrutura é repetitiva e indicada pelo 'n', representando o grau de polimerização. Ela consiste em unidades alternadas de ácido tereftálico (anel benzênico com grupos carbonila) e etileno glicol (CH2-CH2-O-H). Há dois grupos hidroxila (-OH) nas extremidades da cadeia polimérica."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nas informações do texto, uma alternativa para a obtenção de etilenoglicol a partir do PET é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Solubilização dos objetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Combustão dos objetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Trituração dos objetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hidrólise dos objetos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Fusão dos objetos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

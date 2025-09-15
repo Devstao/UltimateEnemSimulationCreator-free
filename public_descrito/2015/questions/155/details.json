@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2015",
+    "index": 155,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: Diagrama ilustrando áreas de cobertura de antenas. Duas áreas circulares sobrepostas representam as coberturas da Antena 1 e Antena 2, respectivamente. Uma terceira área circular maior engloba as duas primeiras, representando a área de cobertura com a adição de uma nova antena. Setas indicam as áreas de cobertura das antenas.])\n\nO ponto _O_ indica a posição da nova antena, e sua região de cobertura será um círculo cuja circunferência tangenciará externamente as circunferências das áreas de cobertura menores.",
+    "files": [
+        "Diagrama ilustrando áreas de cobertura de antenas. Duas áreas circulares sobrepostas representam as coberturas da Antena 1 e Antena 2, respectivamente. Uma terceira área circular maior engloba as duas primeiras, representando a área de cobertura com a adição de uma nova antena. Setas indicam as áreas de cobertura das antenas."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com a instalação da nova antena, a medida da área de cobertura, em quilômetros quadrados, foi ampliada em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8π.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "12π.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "16π.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "32π.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "64π.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

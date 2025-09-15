@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2015",
+    "index": 53,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático representando a interferência da luz em uma fina camada de óleo sobre a água. A ilustração mostra um feixe de luz incidindo na interface ar/óleo, com parte do feixe refletido (raio 1) e outra parte refratada para dentro da camada de óleo (raio 2). Dentro da camada de óleo, o feixe se divide em dois raios: um refletido na interface óleo/água (raio 3) e outro que atravessa a interface óleo/água e é refletido na superfície da água (raio 4). Os raios refletidos (1, 3 e 4) são indicados com setas. O feixe de luz incidente é representado por um diagrama de raio. Uma legenda identifica as camadas como 'ar', 'camada fina de óleo' e 'água'. Há uma anotação textual indicando que os raios representados produzem a interferência observada.])",
+    "files": [
+        "Diagrama esquemático representando a interferência da luz em uma fina camada de óleo sobre a água. A ilustração mostra um feixe de luz incidindo na interface ar/óleo, com parte do feixe refletido (raio 1) e outra parte refratada para dentro da camada de óleo (raio 2). Dentro da camada de óleo, o feixe se divide em dois raios: um refletido na interface óleo/água (raio 3) e outro que atravessa a interface óleo/água e é refletido na superfície da água (raio 4). Os raios refletidos (1, 3 e 4) são indicados com setas. O feixe de luz incidente é representado por um diagrama de raio. Uma legenda identifica as camadas como 'ar', 'camada fina de óleo' e 'água'. Há uma anotação textual indicando que os raios representados produzem a interferência observada."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Expressa em termos do comprimento de onda (λ), a espessura mínima é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Λ / 4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Λ / 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3λ / 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Λ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2λ.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

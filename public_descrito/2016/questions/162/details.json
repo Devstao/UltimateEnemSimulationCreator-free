@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2016",
+    "index": 162,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico climático apresenta dados de precipitação (em mm), temperatura máxima (°C) e temperatura mínima (°C) para os anos de 2012 e 2013, mensais. A precipitação é representada por barras cinzas, a temperatura máxima por uma linha preta sólida e a temperatura mínima por uma linha tracejada. Em 2012, a precipitação é baixa nos meses de maio, junho, julho e agosto, aumentando em setembro e outubro. A temperatura máxima apresenta variações ao longo do ano, enquanto a mínima acompanha um padrão decrescente até dezembro, seguido de um aumento gradual. Em 2013, a precipitação é mais concentrada nos meses de janeiro e fevereiro. A temperatura máxima atinge o pico em março e diminui gradualmente até maio, com a temperatura mínima seguindo uma trajetória semelhante à de 2012.])",
+    "files": [
+        "O gráfico climático apresenta dados de precipitação (em mm), temperatura máxima (°C) e temperatura mínima (°C) para os anos de 2012 e 2013, mensais. A precipitação é representada por barras cinzas, a temperatura máxima por uma linha preta sólida e a temperatura mínima por uma linha tracejada. Em 2012, a precipitação é baixa nos meses de maio, junho, julho e agosto, aumentando em setembro e outubro. A temperatura máxima apresenta variações ao longo do ano, enquanto a mínima acompanha um padrão decrescente até dezembro, seguido de um aumento gradual. Em 2013, a precipitação é mais concentrada nos meses de janeiro e fevereiro. A temperatura máxima atinge o pico em março e diminui gradualmente até maio, com a temperatura mínima seguindo uma trajetória semelhante à de 2012."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nas informações do gráfico, o floricultor verificou que poderia plantar essa flor rara.\nO mês escolhido para o plantio foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Janeiro",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Fevereiro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Agosto",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Novembro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dezembro",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2009",
+    "index": 143,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico a seguir mostra a evolução, de abril de 2008 a maio de 2009, da população economicamente ativa para seis Regiões Metropolitanas pesquisadas.\n\n![]([descrição: O gráfico de linha mostra a evolução da população economicamente ativa (em mil pessoas) ao longo do tempo. O eixo vertical representa o número de pessoas, variando de 22.300 a 23.500. O eixo horizontal indica períodos de tempo, começando em '04/08' e terminando em '05'. A linha do gráfico apresenta flutuações, atingindo um pico por volta de '10', com valor próximo a 23.300, e um mínimo no início do período, em torno de 22.600. Os valores iniciais e finais são indicados em retângulos: 22.811 em '04/08' e 23.020 em '05'.])\n\nDisponível em: www.ibge.gov.br.",
+    "files": [
+        "O gráfico de linha mostra a evolução da população economicamente ativa (em mil pessoas) ao longo do tempo. O eixo vertical representa o número de pessoas, variando de 22.300 a 23.500. O eixo horizontal indica períodos de tempo, começando em '04/08' e terminando em '05'. A linha do gráfico apresenta flutuações, atingindo um pico por volta de '10', com valor próximo a 23.300, e um mínimo no início do período, em torno de 22.600. Os valores iniciais e finais são indicados em retângulos: 22.811 em '04/08' e 23.020 em '05'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando que a taxa de crescimento da população economicamente ativa, entre 05/09 e 06/09, seja de 4%, então o número de pessoas economicamente ativas em 06/09 será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "23.940.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "32.228.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "920.800.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "23.940.800.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "32.228.000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

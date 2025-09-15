@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2016",
+    "index": 173,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra a variação do nível de duas substâncias, A e B, ao longo do tempo (24 horas). A substância A é representada por uma curva ondulada que oscila acima de um nível de referência, indicando flutuações significativas no seu nível. A substância B é representada por uma curva mais baixa, também ondulada, mas com amplitudes menores e permanecendo abaixo do nível de referência. As curvas se cruzam em vários pontos ao longo do período de 24 horas.])\n\nConsidere que o padrão apresentado no resultado do exame, no período analisado, se repita para os dias subsequentes.",
+    "files": [
+        "O gráfico mostra a variação do nível de duas substâncias, A e B, ao longo do tempo (24 horas). A substância A é representada por uma curva ondulada que oscila acima de um nível de referência, indicando flutuações significativas no seu nível. A substância B é representada por uma curva mais baixa, também ondulada, mas com amplitudes menores e permanecendo abaixo do nível de referência. As curvas se cruzam em vários pontos ao longo do período de 24 horas."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O valor do parâmetro estabelecido pelo nutricionista, para uma dieta semanal, será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "28",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "14",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

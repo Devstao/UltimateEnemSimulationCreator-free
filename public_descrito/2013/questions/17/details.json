@@ -1,0 +1,45 @@
+{
+    "title": "Questão 17 - ENEM 2013",
+    "index": 17,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem apresenta dois modelos de fluxo de produção industrial, dispostos lado a lado. O 'Modelo 1' ilustra um processo linear com setas indicando o fluxo: Fornecedor -> Estoque -> Produção -> Estoque -> Cliente. Cada etapa é representada por uma ilustração simplificada dos elementos envolvidos (máquina, armazém, trabalhador operando engrenagens, etc.). O 'Modelo 2' demonstra um ciclo contínuo de produção com setas curvas: Cliente -> Requisição -> Entrega -> Produção -> Requisição -> Entrega -> Fornecedor.  A imagem é em preto e branco e possui uma legenda na parte inferior indicando a fonte da informação.])",
+    "files": [
+        "A imagem apresenta dois modelos de fluxo de produção industrial, dispostos lado a lado. O 'Modelo 1' ilustra um processo linear com setas indicando o fluxo: Fornecedor -> Estoque -> Produção -> Estoque -> Cliente. Cada etapa é representada por uma ilustração simplificada dos elementos envolvidos (máquina, armazém, trabalhador operando engrenagens, etc.). O 'Modelo 2' demonstra um ciclo contínuo de produção com setas curvas: Cliente -> Requisição -> Entrega -> Produção -> Requisição -> Entrega -> Fornecedor.  A imagem é em preto e branco e possui uma legenda na parte inferior indicando a fonte da informação."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na imagem, estão representados dois modelos de produção. A possibilidade de uma crise de superprodução é distinta entre eles em função do seguinte fator:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Origem da matéria-prima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Qualificação da mão de obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Velocidade de processamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade de armazenamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Amplitude do mercado consumidor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

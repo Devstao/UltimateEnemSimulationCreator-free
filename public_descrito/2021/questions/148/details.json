@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2021",
+    "index": 148,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na escala de Richter, ocorridos em nosso planeta nos anos 2000 e 2011.\n\n![]([descrição: A imagem mostra uma tabela com dados sobre terremotos por ano, de 2000 a 2011. A coluna 'Ano' lista os anos de 2000 a 2011. A coluna 'Terremotos' apresenta o número de terremotos ocorridos em cada ano: 15, 16, 13, 15, 16, 11, 11, 18, 12, 17, 24 e 20, respectivamente. A tabela está sobre um fundo escuro.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre terremotos por ano, de 2000 a 2011. A coluna 'Ano' lista os anos de 2000 a 2011. A coluna 'Terremotos' apresenta o número de terremotos ocorridos em cada ano: 15, 16, 13, 15, 16, 11, 11, 18, 12, 17, 24 e 20, respectivamente. A tabela está sobre um fundo escuro."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um pesquisador acredita que a mediana representa bem o número anual típico de terremotos em um período. Segundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou igual a 7 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "15,7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "17,5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

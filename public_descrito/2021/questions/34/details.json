@@ -1,0 +1,45 @@
+{
+    "title": "Questão 34 - ENEM 2021",
+    "index": 34,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: O infográfico apresenta os riscos do uso de celular por crianças antes de dormir. No topo, o título 'Os Riscos para Crianças do Uso do Celular Antes de Dormir' destaca que um estudo concluiu que essas crianças têm maior risco de obesidade, baixo sistema imunológico, crescimento atrofiado e depressão. A falta de sono prolongada reduz hormônios.  A ilustração central mostra uma criança com os olhos fixos em um celular, cercada por raios e elementos gráficos que representam o impacto negativo na saúde. Abaixo, são listados efeitos como a interferência da luz azul no ritmo biológico, dificuldade para dormir, problemas de comportamento e prejuízo à memória. Na parte inferior, são apresentadas dicas para mitigar esses riscos: ficar sem telas 30 minutos a 2 horas antes de dormir, reduzir a intensidade da luz emitida e manter o telefone longe do quarto.])",
+    "files": [
+        "O infográfico apresenta os riscos do uso de celular por crianças antes de dormir. No topo, o título 'Os Riscos para Crianças do Uso do Celular Antes de Dormir' destaca que um estudo concluiu que essas crianças têm maior risco de obesidade, baixo sistema imunológico, crescimento atrofiado e depressão. A falta de sono prolongada reduz hormônios.  A ilustração central mostra uma criança com os olhos fixos em um celular, cercada por raios e elementos gráficos que representam o impacto negativo na saúde. Abaixo, são listados efeitos como a interferência da luz azul no ritmo biológico, dificuldade para dormir, problemas de comportamento e prejuízo à memória. Na parte inferior, são apresentadas dicas para mitigar esses riscos: ficar sem telas 30 minutos a 2 horas antes de dormir, reduzir a intensidade da luz emitida e manter o telefone longe do quarto."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No texto, os recursos verbais e não verbais empregados têm por objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Influenciar o leitor a mudar atitudes e hábitos considerados prejudicados às crianças.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sugerir aos pais e responsáveis a subtituição de dispositivos mpoveis por atividades lúdicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

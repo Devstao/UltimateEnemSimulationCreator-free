@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - ENEM 2022",
+    "index": 65,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem apresenta um diagrama circular representando ciclos de relacionamento abusivo. Seis círculos concêntricos são interligados por setas, cada círculo rotulado com os termos 'Tensão', 'Lua de Mel' e 'Agressão'. As setas indicam a progressão entre esses estados, demonstrando como a agressão pode levar à tensão, que por sua vez pode resultar em um período de 'lua de mel' antes de recomeçar o ciclo. Uma legenda abaixo do diagrama define cada termo: 'Lua de Mel' associado a sentimentos positivos e ações afetuosas; 'Tensão' ligado a comportamentos controladores e ameaçadores; e 'Agressão' relacionada a atos físicos e verbais violentos. No topo, um símbolo de cruz está presente.])\n\n**Disponível em:https://hdmais.com.br. Acesso em: 8 out. 2021.**",
+    "files": [
+        "A imagem apresenta um diagrama circular representando ciclos de relacionamento abusivo. Seis círculos concêntricos são interligados por setas, cada círculo rotulado com os termos 'Tensão', 'Lua de Mel' e 'Agressão'. As setas indicam a progressão entre esses estados, demonstrando como a agressão pode levar à tensão, que por sua vez pode resultar em um período de 'lua de mel' antes de recomeçar o ciclo. Uma legenda abaixo do diagrama define cada termo: 'Lua de Mel' associado a sentimentos positivos e ações afetuosas; 'Tensão' ligado a comportamentos controladores e ameaçadores; e 'Agressão' relacionada a atos físicos e verbais violentos. No topo, um símbolo de cruz está presente."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O ápice da ilustração se traduz por uma conduta social caracterizada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cultura do cancelamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Prática do feminicídio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Postura negacionista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ação involuntária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Defesa da honra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

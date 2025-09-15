@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2013",
+    "index": 145,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma grade de barras verticais pretas, dispostas em linhas horizontais e colunas verticais. A palavra 'SETOR' está escrita verticalmente à esquerda da grade, seguida pelo número '3'. As barras são espaçadas uniformemente e alternam entre estar presentes e ausentes, criando um padrão visual.])",
+    "files": [
+        "A imagem mostra uma grade de barras verticais pretas, dispostas em linhas horizontais e colunas verticais. A palavra 'SETOR' está escrita verticalmente à esquerda da grade, seguida pelo número '3'. As barras são espaçadas uniformemente e alternam entre estar presentes e ausentes, criando um padrão visual."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A razão que representa a quantidade de cadeiras reservadas do setor 3 em relação ao total de cadeiras desse mesmo setor é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "17/10",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "17/53",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "53/70",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "53/17",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "70/17",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

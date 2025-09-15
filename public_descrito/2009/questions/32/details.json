@@ -1,0 +1,45 @@
+{
+    "title": "Questão 32 - ENEM 2009",
+    "index": 32,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma radiografia do pescoço, exibindo as vértebras cervicais e estruturas adjacentes. A coluna vertebral é visível em perfil, com os corpos vertebrais aparecendo como áreas claras e bem definidas. As articulações intervertebrais e os discos intervertebrais também são identificáveis. A radiografia inclui a base do crânio e parte da clavícula. O exame parece ter sido realizado para avaliar a estrutura óssea da região cervical.])",
+    "files": [
+        "A imagem mostra uma radiografia do pescoço, exibindo as vértebras cervicais e estruturas adjacentes. A coluna vertebral é visível em perfil, com os corpos vertebrais aparecendo como áreas claras e bem definidas. As articulações intervertebrais e os discos intervertebrais também são identificáveis. A radiografia inclui a base do crânio e parte da clavícula. O exame parece ter sido realizado para avaliar a estrutura óssea da região cervical."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Dentre os fenômenos decorrentes da interação entre a radiação e os átomos do indivíduo que permitem a obtenção desta imagem inclui-se a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Absorção da radiação eletromagnética e a consequente ionização dos átomos de cálcio, que se transformam em átomos de fósforo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Maior absorção da radiação eletromagnética pelos átomos de cálcio que por outros tipos de átomos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Maior absorção da radiação eletromagnética pelos átomos de carbono que por átomos de cálcio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior refração ao atravessar os átomos de carbono que os átomos de cálcio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior ionização de moléculas de água que de átomos de carbono.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

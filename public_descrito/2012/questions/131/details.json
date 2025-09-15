@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2012",
+    "index": 131,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma estátua em preto e branco de um homem vestido com roupas elaboradas, possivelmente representando um rei ou figura histórica importante. Ele está ajoelhado sobre um rolo de pergaminho, com as mãos unidas em oração ou contemplação. A estátua é adornada com detalhes intrincados em suas vestes e armadura. Ao fundo, vislumbra-se a fachada de uma igreja barroca com elementos arquitetônicos ornamentados.])\n\nBARDI, P. M. **Em torno da escultura no Brasil**. São Paulo: Banco Sudameris Brasil, 1989.",
+    "files": [
+        "A imagem mostra uma estátua em preto e branco de um homem vestido com roupas elaboradas, possivelmente representando um rei ou figura histórica importante. Ele está ajoelhado sobre um rolo de pergaminho, com as mãos unidas em oração ou contemplação. A estátua é adornada com detalhes intrincados em suas vestes e armadura. Ao fundo, vislumbra-se a fachada de uma igreja barroca com elementos arquitetônicos ornamentados."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com contornos assimétricos, riqueza de detalhes nas vestes e nas feições, a escultura barroca no Brasil tem forte influência do rococó europeu e está representada aqui por um dos profetas do pátio do Santuário do Bom Jesus de Matosinho, em Congonhas (MG), esculpido em pedra-sabão por Aleijadinho. Profundamente religiosa, sua obra revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Liberdade, representando a vida de mineiros à procura da salvação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Credibilidade, atendendo a encomendas dos nobres de Minas Gerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Simplicidade, demonstrando compromisso com a contemplação do divino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Personalidade, modelando uma imagem sacra com feições populares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Singularidade, esculpindo personalidades do reinado nas obras divinas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

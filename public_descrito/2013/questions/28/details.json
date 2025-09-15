@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2013",
+    "index": 28,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma paisagem montanhosa com terraços agrícolas em tons de cinza. Os terraços são dispostos em níveis, criando um padrão ondulado e escalonado na encosta da montanha. Uma pessoa pequena pode ser vista caminhando em um dos terraços mais baixos. A iluminação é forte, com sombras contrastantes que realçam a textura do terreno. Na parte inferior da imagem, há uma área de plantação com linhas paralelas de plantas.])",
+    "files": [
+        "A imagem mostra uma paisagem montanhosa com terraços agrícolas em tons de cinza. Os terraços são dispostos em níveis, criando um padrão ondulado e escalonado na encosta da montanha. Uma pessoa pequena pode ser vista caminhando em um dos terraços mais baixos. A iluminação é forte, com sombras contrastantes que realçam a textura do terreno. Na parte inferior da imagem, há uma área de plantação com linhas paralelas de plantas."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na imagem, visualiza-se um método de cultivo e as transformações provocadas no espaço geográfico. O objetivo imediato da técnica agrícola utilizada é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Controlar a erosão laminar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Preservar as nascentes fluviais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuir a contaminação química.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Incentivar a produção transgênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Implantar a mecanização intensiva.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

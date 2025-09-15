@@ -1,0 +1,45 @@
+{
+    "title": "Questão 26 - ENEM 2019",
+    "index": 26,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\nO Estatuto do Idoso completou 15 anos em 2018 e 56 no primeiro semestre o Disque 100 recebeu 16 mil denúncias de violacão de direitos dos idosos em todo o País.\n\nPara especialistas da área, o aumento no número de denúncias pode ser consequência do encorajamento dos mais velhos na busca pelos direitos. Mas também pode refletir uma onda crescente de violência na sociedade e dentro das próprias famílias.\n\nPolíticas públicas mais eficazes no atendimento ao idoso são o mínimo que um país deve estabelecer. O Brasil está ficando para trás e é preciso levar em consideração que o País envelhece (tendência mundial) sem estar preparado para arcar com os desafios, como criar uma rede de proteção, preparar os serviços de saúde pública e dar suporte às famílias que precisam cuidar de seus idosos dependentes,\n\nDisponível em: www.folhadelondrina.com.br. Acesso em: 9 dez. 2018 (adaptado).\n\n**TEXTO II**\n\n![]([descrição: A imagem é um cartaz informativo sobre os direitos dos idosos, com fundo preto e texto em tons de cinza. No centro, há uma ilustração de um senhor sentado em uma poltrona, utilizando um laptop e apoiando os pés em um banquinho. À esquerda e à direita da ilustração, listam-se os direitos assegurados pelo Estatuto do Idoso e pela Constituição Federal, bem como os direitos garantidos aos idosos de baixa renda. Os direitos incluem atendimento preferencial no SUS, prioridade na tramitação de processos judiciais, vagas preferenciais em estacionamentos, meia-entrada em eventos culturais, esportivos e de lazer, viagem gratuita em ônibus interestadual, assistência de um salário mínimo e acesso a mais de 20 programas sociais.])\n\nDisponível em: www.brasil.gov.br. Acesso em: 9 dez. 2018.",
+    "files": [
+        "A imagem é um cartaz informativo sobre os direitos dos idosos, com fundo preto e texto em tons de cinza. No centro, há uma ilustração de um senhor sentado em uma poltrona, utilizando um laptop e apoiando os pés em um banquinho. À esquerda e à direita da ilustração, listam-se os direitos assegurados pelo Estatuto do Idoso e pela Constituição Federal, bem como os direitos garantidos aos idosos de baixa renda. Os direitos incluem atendimento preferencial no SUS, prioridade na tramitação de processos judiciais, vagas preferenciais em estacionamentos, meia-entrada em eventos culturais, esportivos e de lazer, viagem gratuita em ônibus interestadual, assistência de um salário mínimo e acesso a mais de 20 programas sociais."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na comparação entre os textos, conclui-se que as regras do Estatuto do Idoso",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apresentam vantagens em relação às de outros países.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "São ignoradas pelas famílias responsáveis por idosos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Alteram a qualidade de vida das pessoas com mais de 60 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Precisam ser revistas em razão do envelhecimento da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Contrastam com as condições de vida proporcionadas pelo País.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

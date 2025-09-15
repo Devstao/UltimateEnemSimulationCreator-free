@@ -1,0 +1,45 @@
+{
+    "title": "Questão 38 - ENEM 2014",
+    "index": 38,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra um mapa da América do Sul, com destaque para o Brasil e seus estados vizinhos. Uma área específica dentro do Brasil, identificada como 'Aquífero Alter do Chão', é destacada em uma cor diferente (roxo). O mapa inclui legendas que fornecem informações sobre a extensão superficial e volume de água do Aquífero Alter do Chão em comparação com o Aquífero Guarani. Há também referências à fonte dos dados e data de acesso.])",
+    "files": [
+        "A imagem mostra um mapa da América do Sul, com destaque para o Brasil e seus estados vizinhos. Uma área específica dentro do Brasil, identificada como 'Aquífero Alter do Chão', é destacada em uma cor diferente (roxo). O mapa inclui legendas que fornecem informações sobre a extensão superficial e volume de água do Aquífero Alter do Chão em comparação com o Aquífero Guarani. Há também referências à fonte dos dados e data de acesso."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A preservação da sustentabilidade do recurso natural exposto pressupõe:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Impedir a perfuração de poços.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Coibir o uso pelo setor residencial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Substituir as leis ambientais vigentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reduzir o contingente populacional na área.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Introduzir a gestão participativa entre os municípios.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

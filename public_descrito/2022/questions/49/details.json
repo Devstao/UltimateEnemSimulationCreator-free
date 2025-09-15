@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2022",
+    "index": 49,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Diagrama ilustrando o ciclo da água em diferentes tipos de cobertura do solo, desde natural até áreas urbanas densamente construídas. Cada seção representa um cenário com porcentagens indicadas para evapotranspiração, escoamento superficial, infiltração subsuperficial e percolação profunda. A primeira seção mostra uma área com cobertura natural do solo (40% evapotranspiração, 10% escoamento superficial, 25% infiltração subsuperficial e 25% percolação profunda). As seções subsequentes mostram áreas com diferentes graus de impermeabilização: 10%-20% de superfície impermeável (38% evapotranspiração, 20% escoamento superficial, 21% infiltração subsuperficial e 21% percolação profunda), 35%-50% de superfície impermeável (35% evapotranspiração, 30% escoamento superficial, 20% infiltração subsuperficial e 15% percolação profunda) e 75%-100% de superfície impermeável (30% evapotranspiração, 55% escoamento superficial, 10% infiltração subsuperficial e 5% percolação profunda). As imagens incluem árvores, casas e edifícios para representar as diferentes coberturas do solo.])\n\n**PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021. (adaptado.)**",
+    "files": [
+        "Diagrama ilustrando o ciclo da água em diferentes tipos de cobertura do solo, desde natural até áreas urbanas densamente construídas. Cada seção representa um cenário com porcentagens indicadas para evapotranspiração, escoamento superficial, infiltração subsuperficial e percolação profunda. A primeira seção mostra uma área com cobertura natural do solo (40% evapotranspiração, 10% escoamento superficial, 25% infiltração subsuperficial e 25% percolação profunda). As seções subsequentes mostram áreas com diferentes graus de impermeabilização: 10%-20% de superfície impermeável (38% evapotranspiração, 20% escoamento superficial, 21% infiltração subsuperficial e 21% percolação profunda), 35%-50% de superfície impermeável (35% evapotranspiração, 30% escoamento superficial, 20% infiltração subsuperficial e 15% percolação profunda) e 75%-100% de superfície impermeável (30% evapotranspiração, 55% escoamento superficial, 10% infiltração subsuperficial e 5% percolação profunda). As imagens incluem árvores, casas e edifícios para representar as diferentes coberturas do solo."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A intensificação da ocupação urbana demonstrada afeta de forma imediata o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Nível altimétrico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ciclo hidrológico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Padrão climático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tectônica das placas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estrutura das rochas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

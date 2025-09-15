@@ -1,0 +1,45 @@
+{
+    "title": "Questão 47 - ENEM 2019",
+    "index": 47,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Diagrama ilustrando o conceito de energia solar incidente e refletida. No topo, há uma representação do Sol emitindo raios que atingem a atmosfera e são direcionados para diferentes elementos terrestres: uma floresta, pastagens, uma rodovia e um conjunto de edifícios residenciais. Setas indicam a trajetória da 'energia solar incidente' vinda do sol e a 'energia solar refletida' retornando em direção a um satélite que orbita a Terra. As legendas identificam cada elemento: 'Sol', 'Satélite', 'Energia Solar Refletida', 'Energia Solar Incidente', 'Floresta', 'Pastagens', 'Rodovia'. O fundo é dividido em duas áreas, representando a atmosfera superior e o solo terrestre.])\n\nDisponível em: www.ibge.gov.br.\n\nAcesso em: 11 dez. 2018 (adaptado).",
+    "files": [
+        "Diagrama ilustrando o conceito de energia solar incidente e refletida. No topo, há uma representação do Sol emitindo raios que atingem a atmosfera e são direcionados para diferentes elementos terrestres: uma floresta, pastagens, uma rodovia e um conjunto de edifícios residenciais. Setas indicam a trajetória da 'energia solar incidente' vinda do sol e a 'energia solar refletida' retornando em direção a um satélite que orbita a Terra. As legendas identificam cada elemento: 'Sol', 'Satélite', 'Energia Solar Refletida', 'Energia Solar Incidente', 'Floresta', 'Pastagens', 'Rodovia'. O fundo é dividido em duas áreas, representando a atmosfera superior e o solo terrestre."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A geração de imagens por meio da tecnologia ilustrada depende da variação do(a):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Albedo dos corpos físicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Profundidade do lençol freático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Campo de magnetismo terrestre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Qualidade dos recursos minerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Movimento de translação planetária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 120 - ENEM 2013",
+    "index": 120,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma charge em preto e branco que retrata um engarrafamento intenso. Diversos carros, caminhões e ônibus estão parados em uma estrada sinuosa, cercada por colinas ou montanhas. No canto superior esquerdo, há a inscrição 'Não há movimento'. Um balão de fala próximo ao topo da imagem cita Parmênides: 'Certo estava Parmênides... \"Não há movimento!!!\"'.])",
+    "files": [
+        "A imagem é uma charge em preto e branco que retrata um engarrafamento intenso. Diversos carros, caminhões e ônibus estão parados em uma estrada sinuosa, cercada por colinas ou montanhas. No canto superior esquerdo, há a inscrição 'Não há movimento'. Um balão de fala próximo ao topo da imagem cita Parmênides: 'Certo estava Parmênides... \"Não há movimento!!!\"'."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Pelas características da linguagem visual e pelas escolhas vocabulares, pode-se entender que o texto possibilita a reflexão sobre uma problemática contemporânea ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criticar o transporte rodoviário brasileiro, em razão da grande quantidade de caminhões nas estradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ironizar a dificuldade de locomoção no trânsito urbano, devida ao grande fluxo de veículos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Expor a questão do movimento como um problema existente desde tempos antigos, conforme frase citada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Restringir os problemas de tráfego a veículos particulares, defendendo, como solução, o transporte público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Propor a ampliação de vias nas estradas, detalhando o espaço exíguo ocupado pelos veículos nas ruas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

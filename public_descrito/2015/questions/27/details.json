@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2015",
+    "index": 27,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem apresenta dois gráficos relacionados às regiões de intemperismo no Brasil. O gráfico superior, intitulado 'Figura 1. Diagrama das regiões de intemperismo para as condições brasileiras (adaptado de Peltier, 1950)', é um diagrama de dispersão que relaciona a temperatura em graus Celsius (eixo vertical) com a precipitação média anual em milímetros (eixo horizontal). O gráfico divide o espaço em quatro áreas, representando diferentes intensidades de intemperismo: 'Muito Fraco', 'Fraco', 'Moderado' e 'Forte'. Cada área é colorida de forma diferente para facilitar a identificação. \n\nA parte inferior da imagem mostra um mapa do Brasil, intitulado 'Figura 2. Mapa das regiões de intemperismo do Brasil, baseado no diagrama da Figura 1'. O mapa utiliza cores diferentes para representar as mesmas quatro categorias de intemperismo mostradas no gráfico superior: Muito Fraco (branco), Fraco (verde), Moderado (amarelo) e Forte (cinza escuro). Uma legenda detalhada explica o significado de cada cor e a localização do Trópico de Capricórnio. O Equador é indicado como uma linha horizontal no mapa.])",
+    "files": [
+        "A imagem apresenta dois gráficos relacionados às regiões de intemperismo no Brasil. O gráfico superior, intitulado 'Figura 1. Diagrama das regiões de intemperismo para as condições brasileiras (adaptado de Peltier, 1950)', é um diagrama de dispersão que relaciona a temperatura em graus Celsius (eixo vertical) com a precipitação média anual em milímetros (eixo horizontal). O gráfico divide o espaço em quatro áreas, representando diferentes intensidades de intemperismo: 'Muito Fraco', 'Fraco', 'Moderado' e 'Forte'. Cada área é colorida de forma diferente para facilitar a identificação. \n\nA parte inferior da imagem mostra um mapa do Brasil, intitulado 'Figura 2. Mapa das regiões de intemperismo do Brasil, baseado no diagrama da Figura 1'. O mapa utiliza cores diferentes para representar as mesmas quatro categorias de intemperismo mostradas no gráfico superior: Muito Fraco (branco), Fraco (verde), Moderado (amarelo) e Forte (cinza escuro). Uma legenda detalhada explica o significado de cada cor e a localização do Trópico de Capricórnio. O Equador é indicado como uma linha horizontal no mapa."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com as figuras, a intensidade de intemperismo de grau muito fraco é característica de qual tipo climático?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tropical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Litorâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Equatorial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Semiárido.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Subtropical.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

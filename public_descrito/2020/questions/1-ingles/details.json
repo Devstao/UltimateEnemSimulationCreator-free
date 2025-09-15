@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2020",
+    "index": 1,
+    "year": 2020,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra o rosto de uma mulher em close-up, em preto e branco. Sobre sua boca, há uma barra de pesquisa simulada com sugestões de busca que começam com 'women shouldn't...' (mulheres não deveriam...). As sugestões incluem frases como 'women shouldn't have rights' (mulheres não deveriam ter direitos), 'women shouldn't vote' (mulheres não deveriam votar) e 'women shouldn't work' (mulheres não deveriam trabalhar). Abaixo da barra de pesquisa, há a frase 'women shouldn’t suffer from discrimination anymore' (mulheres não deveriam mais sofrer discriminação). Na parte inferior da imagem, há uma legenda com informações sobre a fonte e data de acesso.])",
+    "files": [
+        "A imagem mostra o rosto de uma mulher em close-up, em preto e branco. Sobre sua boca, há uma barra de pesquisa simulada com sugestões de busca que começam com 'women shouldn't...' (mulheres não deveriam...). As sugestões incluem frases como 'women shouldn't have rights' (mulheres não deveriam ter direitos), 'women shouldn't vote' (mulheres não deveriam votar) e 'women shouldn't work' (mulheres não deveriam trabalhar). Abaixo da barra de pesquisa, há a frase 'women shouldn’t suffer from discrimination anymore' (mulheres não deveriam mais sofrer discriminação). Na parte inferior da imagem, há uma legenda com informações sobre a fonte e data de acesso."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os reursos usados nesse pôster de divulgação de uma campanha levam o leitor a refletir sobre a necessidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criticar o tipo de tratamento dado à mulher.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Rever o desempenho da mulher no trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Questionar a sobrecarga de atribuições da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Analisar as pesquisas acerca dos direitos da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Censurar a mulher pelo uso de determinadas palavras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

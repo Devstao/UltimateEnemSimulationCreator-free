@@ -1,0 +1,45 @@
+{
+    "title": "Questão 164 - ENEM 2020",
+    "index": 164,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras.\n\n![]([descrição: O gráfico mostra a variação do nível de decibéis ao longo de 24 horas. O eixo vertical representa o nível de decibéis, variando de 0 a 60. O eixo horizontal representa as horas do dia, de 0 a 24. A linha do gráfico apresenta picos e vales, indicando flutuações no nível de decibéis ao longo do tempo. Há um pico significativo entre as horas 3 e 7, outro entre as horas 8 e 10, seguido por uma diminuição e depois mais dois picos entre as horas 15 e 19, e finalmente um último pico entre as horas 20 e 23.])",
+    "files": [
+        "O gráfico mostra a variação do nível de decibéis ao longo de 24 horas. O eixo vertical representa o nível de decibéis, variando de 0 a 60. O eixo horizontal representa as horas do dia, de 0 a 24. A linha do gráfico apresenta picos e vales, indicando flutuações no nível de decibéis ao longo do tempo. Há um pico significativo entre as horas 3 e 7, outro entre as horas 8 e 10, seguido por uma diminuição e depois mais dois picos entre as horas 15 e 19, e finalmente um último pico entre as horas 20 e 23."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse dia, durante quantas horas o ruído esteve acima de 55 decibéis?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "11",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "13",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

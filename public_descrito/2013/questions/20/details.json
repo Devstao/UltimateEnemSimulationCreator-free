@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 2013",
+    "index": 20,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma lista de acrônimos dispostos em linhas, separados por hífens, sobre um fundo preto. Os acrônimos são PSD, PSP, PTN, PRP, PTB, PDC, PST, PR, PL, PRT, UDN, MTR e PSB. À direita da lista, na mesma fonte, está a palavra 'Finados'.])\n\nFORTUNA. Correio da Manhã, ano 65, n. 22 264, 2 nov. 1965.",
+    "files": [
+        "A imagem mostra uma lista de acrônimos dispostos em linhas, separados por hífens, sobre um fundo preto. Os acrônimos são PSD, PSP, PTN, PRP, PTB, PDC, PST, PR, PL, PRT, UDN, MTR e PSB. À direita da lista, na mesma fonte, está a palavra 'Finados'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A imagem foi publicada no jornal Correio da Manhã, no dia de Finados de 1965. Sua relação com os direitos políticos existentes no período revela a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Extinção dos partidos nanicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Retomada dos partidos estaduais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Adoção do bipartidarismo regulado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Superação do fisiologismo tradicional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Valorização da representação parlamentar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

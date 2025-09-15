@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2010",
+    "index": 151,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra dois cilindros. O primeiro, à esquerda, representa uma caneca com dimensões indicadas: diâmetro de 8 cm e altura de 20 cm. Possui um cabo lateral. O segundo cilindro, à direita, tem dimensões menores: diâmetro de 4 cm e altura de 4 cm.])\n\nCom o objetivo de não desperdiçar café, a diarista deseja colocar a quantidade mínima de água na leiteira para encher os vinte copinhos pela metade.",
+    "files": [
+        "A imagem mostra dois cilindros. O primeiro, à esquerda, representa uma caneca com dimensões indicadas: diâmetro de 8 cm e altura de 20 cm. Possui um cabo lateral. O segundo cilindro, à direita, tem dimensões menores: diâmetro de 4 cm e altura de 4 cm."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para que isso ocorra, Dona Maria deverá",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o volume do copo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Encher a leiteira toda de água, pois ela tem um volume 20 vezes maior que o volume do copo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Encher a leiteira toda de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Encher duas leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Encher cinco leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2014",
+    "index": 67,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra um diagrama representando um plano inclinado. O plano está dividido em duas partes: uma seção inclinada para cima (ângulo do plano de subida) e outra seção inclinada para baixo (ângulo do plano de descida). Uma esfera é mostrada no ponto onde as duas seções se encontram, indicando o 'nível de abandono da esfera'. Há linhas tracejadas horizontais que servem como referência visual para os ângulos. Na parte inferior da imagem, há uma legenda com a fonte do diagrama.])",
+    "files": [
+        "A imagem mostra um diagrama representando um plano inclinado. O plano está dividido em duas partes: uma seção inclinada para cima (ângulo do plano de subida) e outra seção inclinada para baixo (ângulo do plano de descida). Uma esfera é mostrada no ponto onde as duas seções se encontram, indicando o 'nível de abandono da esfera'. Há linhas tracejadas horizontais que servem como referência visual para os ângulos. Na parte inferior da imagem, há uma legenda com a fonte do diagrama."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2023",
+    "index": 179,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.\n\n![]([descrição: A imagem mostra uma charge em preto e branco com seis figuras estilizadas, semelhantes a personagens de desenho animado, dispostas em sequência numérica de 1 a 6. Cada figura está associada a uma fala em balão: 'URAPUM!', 'OKOSA!' ou ambos. As figuras apresentam expressões e poses variadas, sugerindo movimento e animação. A quinta figura, correspondente ao número 5, possui um balão de fala com um ponto de interrogação, indicando uma pergunta ou incerteza. Há assinaturas na parte inferior da imagem.])",
+    "files": [
+        "A imagem mostra uma charge em preto e branco com seis figuras estilizadas, semelhantes a personagens de desenho animado, dispostas em sequência numérica de 1 a 6. Cada figura está associada a uma fala em balão: 'URAPUM!', 'OKOSA!' ou ambos. As figuras apresentam expressões e poses variadas, sugerindo movimento e animação. A quinta figura, correspondente ao número 5, possui um balão de fala com um ponto de interrogação, indicando uma pergunta ou incerteza. Há assinaturas na parte inferior da imagem."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Okosa urapum urapum urapum e okosa okosa urapum urapum urapum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Okosa okosa urapum e okosa okosa okosa okosa urapum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Okosa okosa urapum e okosa okosa okosa urapum.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Okosa urapum urapum e okosa urapum okosa urapum urapum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Okosa okosa urapum e okosa okosa okosa okosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

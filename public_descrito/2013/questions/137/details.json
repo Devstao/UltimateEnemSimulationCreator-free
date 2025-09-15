@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2013",
+    "index": 137,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico de barras comparativo apresenta as notas (em pontos) obtidas por cinco avaliadores (A, B, C, D e E) em duas categorias: conhecimentos específicos e conhecimentos pedagógicos. A legenda indica que as barras pretas representam os conhecimentos específicos e as cinzas, os conhecimentos pedagógicos. \n\nAvaliador A obteve 18 pontos em conhecimentos específicos e 16 em conhecimentos pedagógicos.\n\nAvaliador B obteve 17 pontos em conhecimentos específicos e 13 em conhecimentos pedagógicos.\n\nAvaliador C obteve 19 pontos em conhecimentos específicos e 14 em conhecimentos pedagógicos, sendo a maior nota na categoria de conhecimentos específicos.\n\nAvaliador D obteve 16 pontos em conhecimentos específicos e 14 em conhecimentos pedagógicos.\n\nAvaliador E obteve 12 pontos em conhecimentos específicos e a menor pontuação em conhecimentos pedagógicos com 1 ponto.])",
+    "files": [
+        "O gráfico de barras comparativo apresenta as notas (em pontos) obtidas por cinco avaliadores (A, B, C, D e E) em duas categorias: conhecimentos específicos e conhecimentos pedagógicos. A legenda indica que as barras pretas representam os conhecimentos específicos e as cinzas, os conhecimentos pedagógicos. \n\nAvaliador A obteve 18 pontos em conhecimentos específicos e 16 em conhecimentos pedagógicos.\n\nAvaliador B obteve 17 pontos em conhecimentos específicos e 13 em conhecimentos pedagógicos.\n\nAvaliador C obteve 19 pontos em conhecimentos específicos e 14 em conhecimentos pedagógicos, sendo a maior nota na categoria de conhecimentos específicos.\n\nAvaliador D obteve 16 pontos em conhecimentos específicos e 14 em conhecimentos pedagógicos.\n\nAvaliador E obteve 12 pontos em conhecimentos específicos e a menor pontuação em conhecimentos pedagógicos com 1 ponto."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Utilizando um novo critério, essa banca avaliadora resolveu descartar a maior e a menor notas atribuídas ao professor. A nova média, em relação à média anterior, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,25 ponto maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,00 ponto maior.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,00 ponto menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,25 ponto maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,00 pontos menor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

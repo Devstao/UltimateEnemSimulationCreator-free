@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2016",
+    "index": 53,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático representando o processo de produção de etanol a partir do milho. O diagrama mostra dois recipientes idênticos conectados por uma seta, indicando uma reação sequencial. No primeiro recipiente, é adicionado milho e ocorre a hidrólise. No segundo recipiente, a levedura é adicionada, resultando na fermentação e na produção de etanol, dióxido de carbono (CO2) e água.])",
+    "files": [
+        "Diagrama esquemático representando o processo de produção de etanol a partir do milho. O diagrama mostra dois recipientes idênticos conectados por uma seta, indicando uma reação sequencial. No primeiro recipiente, é adicionado milho e ocorre a hidrólise. No segundo recipiente, a levedura é adicionada, resultando na fermentação e na produção de etanol, dióxido de carbono (CO2) e água."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A etapa de hidrólise na produção de etanol a partir do milho é fundamental para que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A glicose seja convertida em sacarose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As enzimas dessa planta sejam ativadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A maceração favoreçа a solubilização em águа.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O amido seja transformado em substratos utilizáveis pela levedura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Os grãos com diferentes composições químicas sejam padronizados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

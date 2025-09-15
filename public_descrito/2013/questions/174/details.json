@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2013",
+    "index": 174,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um mapa político do Brasil, com uma área ampliada da região sudeste. O mapa principal tem uma escala de 1:25.000.000, enquanto o detalhe da região sudeste possui uma escala de 1:4.000.000. A imagem é em preto e branco.])\n\nHá interesse em estimar o número de vezes que foi ampliada a área correspondente a esse estado no mapa do Brasil.",
+    "files": [
+        "A imagem mostra um mapa político do Brasil, com uma área ampliada da região sudeste. O mapa principal tem uma escala de 1:25.000.000, enquanto o detalhe da região sudeste possui uma escala de 1:4.000.000. A imagem é em preto e branco."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse número é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor que 10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Maior que 10 e menor que 20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior que 20 e menor que 30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior que 30 e menor que 40.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Maior que 40.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

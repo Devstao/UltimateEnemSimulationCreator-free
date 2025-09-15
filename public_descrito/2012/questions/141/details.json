@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2012",
+    "index": 141,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um retângulo branco com linhas verticais e horizontais, indicando uma grade. As dimensões do retângulo são marcadas: a largura é de 5 unidades e a altura é de 3 unidades. Uma pequena seção no canto inferior direito está marcada como 'x' e outra na lateral direita como 'y'.])",
+    "files": [
+        "A imagem mostra um retângulo branco com linhas verticais e horizontais, indicando uma grade. As dimensões do retângulo são marcadas: a largura é de 5 unidades e a altura é de 3 unidades. Uma pequena seção no canto inferior direito está marcada como 'x' e outra na lateral direita como 'y'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nestas condições, a área perdida do forro, após a primeira lavagem, será expressa por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2xy",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15 − 3x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15 − 5y",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "−5y − 3x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5y + 3x − xy",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

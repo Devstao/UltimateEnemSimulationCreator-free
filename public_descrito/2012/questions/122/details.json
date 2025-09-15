@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2012",
+    "index": 122,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma fotografia em preto e branco do grupo musical Os Mutantes, provavelmente para um álbum. Três membros da banda estão presentes: um está de pé, usando um terno com gravata estampada e colarinho alto; outro está sentado no chão, vestindo uma jaqueta ornamentada; o terceiro está parcialmente visível atrás dos outros dois, com um visual mais andrógino. O cenário parece ser um interior clássico, possivelmente um salão de baile ou palácio, com detalhes arquitetônicos elaborados e cortinas pesadas. No canto superior direito, há o logotipo da gravadora Polydor. Na parte inferior da imagem, em letras grandes e estilizadas, está escrito 'Os Mutantes'.])\n\nCapa do LP **Os Mutantes**, 1968.  \nDisponível em: http://mutantes.com. Acesso em: 28 fev. 2012.",
+    "files": [
+        "A imagem é uma fotografia em preto e branco do grupo musical Os Mutantes, provavelmente para um álbum. Três membros da banda estão presentes: um está de pé, usando um terno com gravata estampada e colarinho alto; outro está sentado no chão, vestindo uma jaqueta ornamentada; o terceiro está parcialmente visível atrás dos outros dois, com um visual mais andrógino. O cenário parece ser um interior clássico, possivelmente um salão de baile ou palácio, com detalhes arquitetônicos elaborados e cortinas pesadas. No canto superior direito, há o logotipo da gravadora Polydor. Na parte inferior da imagem, em letras grandes e estilizadas, está escrito 'Os Mutantes'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A capa do LP Os Mutantes, de 1968, ilustra o movimento da contracultura. O desafio à tradição nessa criação musical é caracterizado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Letras e melodias com características amargas e depressivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Arranjos baseados em ritmos e melodias nordestinos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sonoridades experimentais e confluência de elementos populares e eruditos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Temas que refletem situações domésticas ligadas à tradição popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ritmos contidos e reservados em oposição aos modelos estrangeiros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2014",
+    "index": 141,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados sobre o desempenho de candidatos (K, L, M, N, P) em diferentes disciplinas: Português, Matemática, Direito e Informática. Cada linha representa um candidato e cada coluna representa uma disciplina, com os respectivos resultados numéricos.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre o desempenho de candidatos (K, L, M, N, P) em diferentes disciplinas: Português, Matemática, Direito e Informática. Cada linha representa um candidato e cada coluna representa uma disciplina, com os respectivos resultados numéricos."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo o edital de seleção, o candidato aprovado será aquele para o qual a mediana das notas obtidas por ele nas quatro disciplinas for a maior. O candidato aprovado será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "K.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "M.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "N.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "P.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

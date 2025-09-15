@@ -1,0 +1,45 @@
+{
+    "title": "Questão 50 - ENEM 2011",
+    "index": 50,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com informações sobre substâncias químicas, suas fórmulas e seus valores de entalpia de formação padrão (ΔH°). A tabela inclui as seguintes entradas: benzeno (C₆H₆), etanol (C₂H₅OH), glicose (C₆H₁₂O₆), metano (CH₄) e octano (C₈H₁₈). Para cada substância, a fórmula química e o valor de ΔH° em kJ/mol são fornecidos. A fonte da tabela é Atkins, P. Principles of Chemistry, Bookman, 2007 (adaptado).])",
+    "files": [
+        "A imagem mostra uma tabela com informações sobre substâncias químicas, suas fórmulas e seus valores de entalpia de formação padrão (ΔH°). A tabela inclui as seguintes entradas: benzeno (C₆H₆), etanol (C₂H₅OH), glicose (C₆H₁₂O₆), metano (CH₄) e octano (C₈H₁₈). Para cada substância, a fórmula química e o valor de ΔH° em kJ/mol são fornecidos. A fonte da tabela é Atkins, P. Principles of Chemistry, Bookman, 2007 (adaptado)."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Neste contexto, qual dos combustíveis, quando queimado completamente, libera mais dióxido de carbono no ambiente pela mesma quantidade de energia produzida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Benzeno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Glicose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Octano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Etanol.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

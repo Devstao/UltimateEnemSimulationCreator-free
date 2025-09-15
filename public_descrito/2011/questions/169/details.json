@@ -1,0 +1,46 @@
+{
+    "title": "Questão 169 - ENEM 2011",
+    "index": 169,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela comparativa sobre o perfil de novos corredores, dividida em duas colunas para 'Duilio Saba' e 'Sandra Tescari'. Cada coluna apresenta informações como idade (51 anos para Duilio e 42 anos para Sandra), altura (1,88 metro para Duilio e 1,76 metro para Sandra), peso (96,4 quilos para Duilio e 84 quilos para Sandra) e peso ideal (94,5 quilos para Duilio e 77 quilos para Sandra). Cada coluna também possui uma ilustração de um relógio. No topo da tabela, há o título 'O Perfil dos Novos Corredores'. Na parte inferior direita, lê-se a fonte: 'Veja. Ed. 2055 (adaptado)'.])\n\nNo quadro é apresentada a Escala de Índice de Massa Corporal com as respectivas categorias relacionadas aos pesos.\n\n![]([descrição: A imagem mostra uma tabela com o título 'Escala de Índice de Massa Corporal'. A tabela possui duas colunas: 'CATEGORIAS' e 'IMC (kg/m²)' . As categorias listadas são: Desnutrição, Peso abaixo do normal, Peso normal, Sobrepeso, Obesidade e Obesidade mórbida. Os respectivos valores de IMC para cada categoria estão indicados na coluna correspondente.])",
+    "files": [
+        "A imagem mostra uma tabela comparativa sobre o perfil de novos corredores, dividida em duas colunas para 'Duilio Saba' e 'Sandra Tescari'. Cada coluna apresenta informações como idade (51 anos para Duilio e 42 anos para Sandra), altura (1,88 metro para Duilio e 1,76 metro para Sandra), peso (96,4 quilos para Duilio e 84 quilos para Sandra) e peso ideal (94,5 quilos para Duilio e 77 quilos para Sandra). Cada coluna também possui uma ilustração de um relógio. No topo da tabela, há o título 'O Perfil dos Novos Corredores'. Na parte inferior direita, lê-se a fonte: 'Veja. Ed. 2055 (adaptado)'.",
+        "A imagem mostra uma tabela com o título 'Escala de Índice de Massa Corporal'. A tabela possui duas colunas: 'CATEGORIAS' e 'IMC (kg/m²)' . As categorias listadas são: Desnutrição, Peso abaixo do normal, Peso normal, Sobrepeso, Obesidade e Obesidade mórbida. Os respectivos valores de IMC para cada categoria estão indicados na coluna correspondente."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A partir dos dados biométricos de Duílio e Sandra e da Escala de IMC, o valor IMC e a categoria em que cada uma das pessoas se posiciona na Escala são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1estando ambos na categoria de sobrepeso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

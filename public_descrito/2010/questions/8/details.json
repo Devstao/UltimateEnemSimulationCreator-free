@@ -1,0 +1,45 @@
+{
+    "title": "Questão 8 - ENEM 2010",
+    "index": 8,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra duas seções transversais de perfis estratigráficos, representando camadas sedimentares do solo. Em ambas as seções, há uma árvore crescendo no topo e várias rochas arredondadas espalhadas pelas camadas. No perfil da esquerda, são visíveis restos ósseos de um animal (possivelmente um cavalo) e fragmentos de cerâmica. No perfil da direita, há o esqueleto parcial de um animal (parecendo uma tartaruga ou cágado), além de mais fragmentos de cerâmica e um objeto pontiagudo que pode ser uma ferramenta de pedra. As camadas sedimentares são representadas por diferentes tons de cinza, indicando variações na composição do solo. Na parte inferior da imagem, há a citação da fonte: TEIXEIRA, W. et al. (Orgs.) Decifrando a Terra. São Paulo: Companhia Editora Nacional, 2009 (adaptado).])",
+    "files": [
+        "A imagem mostra duas seções transversais de perfis estratigráficos, representando camadas sedimentares do solo. Em ambas as seções, há uma árvore crescendo no topo e várias rochas arredondadas espalhadas pelas camadas. No perfil da esquerda, são visíveis restos ósseos de um animal (possivelmente um cavalo) e fragmentos de cerâmica. No perfil da direita, há o esqueleto parcial de um animal (parecendo uma tartaruga ou cágado), além de mais fragmentos de cerâmica e um objeto pontiagudo que pode ser uma ferramenta de pedra. As camadas sedimentares são representadas por diferentes tons de cinza, indicando variações na composição do solo. Na parte inferior da imagem, há a citação da fonte: TEIXEIRA, W. et al. (Orgs.) Decifrando a Terra. São Paulo: Companhia Editora Nacional, 2009 (adaptado)."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O esquema mostra depósitos em que aparecem fósseis de animais do Período Jurássico. As rochas em que se encontram esses fósseis são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Magmáticas, pois a ação de vulcões causou as maiores extinções desses animais já conhecidas ao longo da história terrestre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sedimentares, pois os restos podem ter sido soterrados e litificados com o restante dos sedimentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Magmáticas, pois são as rochas mais facilmente erodidas, possibilitando a formação de tocas que foram posteriormente lacradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sedimentares, já que cada uma das camadas encontradas na figura simboliza um evento de erosão dessa área representada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Metamórficas, pois os animais representados precisavam estar perto de locais quentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2011",
+    "index": 173,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico de linha mostra a evolução de uma variável ao longo do tempo, entre os anos 1998 e 2008. O eixo horizontal representa os anos, enquanto o eixo vertical indica valores que variam aproximadamente entre 20 e 30. A linha apresenta um padrão ondulatório, com picos em 2002 (aproximadamente 26,28) e 2004 (aproximadamente 27,79), seguido por uma queda em 2006 (aproximadamente 23,92) e um aumento gradual até 2008 (aproximadamente 26,46). A legenda indica que o gráfico foi adaptado do Almanaque Abril de 2010, publicado pelo Centro de Estudos Avançados em Economia Aplicada (CEPEA).])\n\nEsse gráfico foi usado em uma palestra na qual o orador ressaltou uma queda da participação do agronegócio no PIB brasileiro e a posterior recuperação dessa participação, em termos percentuais.",
+    "files": [
+        "O gráfico de linha mostra a evolução de uma variável ao longo do tempo, entre os anos 1998 e 2008. O eixo horizontal representa os anos, enquanto o eixo vertical indica valores que variam aproximadamente entre 20 e 30. A linha apresenta um padrão ondulatório, com picos em 2002 (aproximadamente 26,28) e 2004 (aproximadamente 27,79), seguido por uma queda em 2006 (aproximadamente 23,92) e um aumento gradual até 2008 (aproximadamente 26,46). A legenda indica que o gráfico foi adaptado do Almanaque Abril de 2010, publicado pelo Centro de Estudos Avançados em Economia Aplicada (CEPEA)."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo o gráfico, o período de queda ocorreu entre os anos de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1998 e 2001",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2001 e 2003",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2003 e 2006",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2003 e 2007",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2003 e 2008",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

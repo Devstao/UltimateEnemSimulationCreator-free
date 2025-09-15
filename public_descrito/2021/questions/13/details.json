@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 2021",
+    "index": 13,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: O desenho apresenta uma tirinha em preto e branco dividida em seis quadros, cada um com uma ilustração e texto. A ilustração principal em todos os quadros é um cacto estilizado, representando o crescimento e a resistência. Em alguns quadros, há também a representação de uma pessoa com características caricaturais. Os textos nos quadros expressam renúncias progressivas: 'Quando me vier nascer, renunciarei aos prazeres mundanos', 'Renunciarei à vida folgazeira, renunciarei à busca da beleza física', 'Renunciarei à vida social, renunciarei a projetos individualistas' e, finalmente, 'Assim termina mais um capítulo na luta da mulher por sua emancipação'.])\n\nHENFIL. Disponível em: https://medium.com. Acesso em: 29 out. 2018 (adaptado).",
+    "files": [
+        "O desenho apresenta uma tirinha em preto e branco dividida em seis quadros, cada um com uma ilustração e texto. A ilustração principal em todos os quadros é um cacto estilizado, representando o crescimento e a resistência. Em alguns quadros, há também a representação de uma pessoa com características caricaturais. Os textos nos quadros expressam renúncias progressivas: 'Quando me vier nascer, renunciarei aos prazeres mundanos', 'Renunciarei à vida folgazeira, renunciarei à busca da beleza física', 'Renunciarei à vida social, renunciarei a projetos individualistas' e, finalmente, 'Assim termina mais um capítulo na luta da mulher por sua emancipação'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessa tirinha, produzida na década de 1970, os recursos verbais e não verbais sinalizam a finalidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reforçar a luta por direitos civis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Explicitar a autonomia feminina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ironizar as condições de igualdade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Estimular a abdicação da vida social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Criticar as obrigações de maternidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

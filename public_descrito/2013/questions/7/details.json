@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2013",
+    "index": 7,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico mostra a taxa de fecundidade total do Brasil entre 1940 e 2010. O eixo horizontal representa os anos, começando em 1930 e terminando em 2020, com intervalos de dez anos. O eixo vertical representa a taxa de fecundidade total. Em 1940, a taxa era de 6,16 filhos por mulher. Em 1950, a taxa era de 6,21 filhos por mulher. Em 1960, a taxa era de 6,28 filhos por mulher. Em 1970, a taxa era de 5,76 filhos por mulher. Em 1980, a taxa era de 4,35 filhos por mulher. Em 1990, a taxa era de 2,85 filhos por mulher. Em 2000, a taxa era de 2,38 filhos por mulher. Em 2010, a taxa era de 1,90 filhos por mulher.])",
+    "files": [
+        "O gráfico mostra a taxa de fecundidade total do Brasil entre 1940 e 2010. O eixo horizontal representa os anos, começando em 1930 e terminando em 2020, com intervalos de dez anos. O eixo vertical representa a taxa de fecundidade total. Em 1940, a taxa era de 6,16 filhos por mulher. Em 1950, a taxa era de 6,21 filhos por mulher. Em 1960, a taxa era de 6,28 filhos por mulher. Em 1970, a taxa era de 5,76 filhos por mulher. Em 1980, a taxa era de 4,35 filhos por mulher. Em 1990, a taxa era de 2,85 filhos por mulher. Em 2000, a taxa era de 2,38 filhos por mulher. Em 2010, a taxa era de 1,90 filhos por mulher."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O processo registrado no gráfico gerou a seguinte consequência demográfica:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Decréscimo da população absoluta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Redução do crescimento vegetativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da proporção de adultos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Expansão de políticas de controle da natalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumento da renovação da população economicamente ativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

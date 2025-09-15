@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2013",
+    "index": 131,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma tirinha em preto e branco com três quadros. No primeiro quadro, um homem sentado em frente a um computador diz: 'Sou alto, loiro e sincero'. No segundo quadro, um homem gesticula para outro que lê um livro e pergunta: 'Ler pra quê? Tem tudo na Wikipédia!'. O terceiro quadro mostra uma mulher entregando uma mensagem escrita com a frase: 'Nova mensagem: Eu não te amo mais'.])",
+    "files": [
+        "A imagem é uma tirinha em preto e branco com três quadros. No primeiro quadro, um homem sentado em frente a um computador diz: 'Sou alto, loiro e sincero'. No segundo quadro, um homem gesticula para outro que lê um livro e pergunta: 'Ler pra quê? Tem tudo na Wikipédia!'. O terceiro quadro mostra uma mulher entregando uma mensagem escrita com a frase: 'Nova mensagem: Eu não te amo mais'."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A tirinha denota a postura assumida por seu produtor frente ao uso social da tecnologia para fins de interação e de informação. Tal posicionamento é expresso, de forma argumentativa, por meio de uma atitude",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Crítica, expressa pelas ironias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Resignada, expressa pelas enumerações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Indignada, expressa pelos discursos diretos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Agressiva, expressa pela contra-argumentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Alienada, expressa pela negação da realidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2014",
+    "index": 25,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem é uma representação em preto e branco da pintura 'A Escola de Atenas' de Rafael. A cena retrata um grupo de filósofos, cientistas e artistas gregos antigos reunidos em um ambiente que se assemelha a um pórtico romano. No centro, destacam-se Platão e Aristóteles, figuras centrais do pensamento ocidental. Vários outros indivíduos estão presentes, cada um envolvido em diferentes atividades, como debates, escrita e observação. A composição é organizada com uma perspectiva central que converge para os dois filósofos principais, criando uma sensação de profundidade e hierarquia.])",
+    "files": [
+        "A imagem é uma representação em preto e branco da pintura 'A Escola de Atenas' de Rafael. A cena retrata um grupo de filósofos, cientistas e artistas gregos antigos reunidos em um ambiente que se assemelha a um pórtico romano. No centro, destacam-se Platão e Aristóteles, figuras centrais do pensamento ocidental. Vários outros indivíduos estão presentes, cada um envolvido em diferentes atividades, como debates, escrita e observação. A composição é organizada com uma perspectiva central que converge para os dois filósofos principais, criando uma sensação de profundidade e hierarquia."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No centro da imagem, o filósofo Platão é retratado apontando para o alto. Esse gesto significa que o conhecimento se encontra em uma instância na qual o homem descobre a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Suspensão do juízo como reveladora da verdade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Realidade inteligível por meio do método dialético.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Salvação da condição mortal pelo poder de Deus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Essência das coisas sensíveis no intelecto divino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ordem intrínseca ao mundo por meio da sensibilidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

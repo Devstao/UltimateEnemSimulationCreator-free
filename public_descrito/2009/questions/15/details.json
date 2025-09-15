@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2009",
+    "index": 15,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma lista vertical de metais, do topo para baixo: Ouro, Platina, Prata, Cobre, Chumbo, Níquel e Zinco. À direita da lista, há a frase 'Força redutora' com uma seta apontando para baixo, indicando uma direção ou gradiente em relação aos metais listados.])",
+    "files": [
+        "A imagem mostra uma lista vertical de metais, do topo para baixo: Ouro, Platina, Prata, Cobre, Chumbo, Níquel e Zinco. À direita da lista, há a frase 'Força redutora' com uma seta apontando para baixo, indicando uma direção ou gradiente em relação aos metais listados."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Entre as impurezas metálicas que constam na série apresentada, as que se sedimentam abaixo do ânodo de cobre são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Au, Pt, Ag, Zn, Ni e Pb.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Au, Pt e Ag.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Zn, Ni e Pb.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Au e Zn.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ag e Pb.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

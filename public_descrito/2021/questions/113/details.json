@@ -1,0 +1,45 @@
+{
+    "title": "Questão 113 - ENEM 2021",
+    "index": 113,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como reagente de partida. Após uma sequência de reações (I, II, III, IV e V), o cobre retorna ao seu estado inicial ao final do ciclo.\n\n![]([descrição: O diagrama mostra uma série de reações químicas envolvendo o cobre (Cu) e seus compostos. Começa com o cobre reagindo com ácido nítrico (HNO3) para formar nitrato de cobre(II) (Cu(NO3)2). O nitrato de cobre(II) então reage com hidróxido de sódio (NaOH) para produzir hidróxido de cobre(II) (Cu(OH)2). O hidróxido de cobre(II) é decomposto por calor (Δ) para formar óxido de cobre (CuO). O óxido de cobre reage com ácido sulfúrico (H2SO4) para formar sulfato de cobre(II) (CuSO4). Finalmente, o sulfato de cobre(II) reage com zinco (Zn) e ácido clorídrico (HCl) para regenerar o cobre metálico.])",
+    "files": [
+        "O diagrama mostra uma série de reações químicas envolvendo o cobre (Cu) e seus compostos. Começa com o cobre reagindo com ácido nítrico (HNO3) para formar nitrato de cobre(II) (Cu(NO3)2). O nitrato de cobre(II) então reage com hidróxido de sódio (NaOH) para produzir hidróxido de cobre(II) (Cu(OH)2). O hidróxido de cobre(II) é decomposto por calor (Δ) para formar óxido de cobre (CuO). O óxido de cobre reage com ácido sulfúrico (H2SO4) para formar sulfato de cobre(II) (CuSO4). Finalmente, o sulfato de cobre(II) reage com zinco (Zn) e ácido clorídrico (HCl) para regenerar o cobre metálico."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A reação de redução do cobre ocorre na etapa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

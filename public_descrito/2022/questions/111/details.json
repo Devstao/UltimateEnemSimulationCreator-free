@@ -1,0 +1,46 @@
+{
+    "title": "Questão 111 - ENEM 2022",
+    "index": 111,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O eixo de rotação da Terra apresenta uma inclinação  \nem relação ao plano de sua órbita em torno do Sol,  \ninterferindo na duração do dia e da noite ao longo do ano.\n\n![]([descrição: Diagrama ilustrando a Terra na posição do solstício de inverno (21 de dezembro). A ilustração mostra o globo terrestre com as linhas principais de latitude marcadas: Polo Norte, Círculo Polar Ártico, Trópico de Câncer, Equador, Trópico de Capricórnio, Círculo Polar Antártico e Polo Sul. Setas indicam a incidência direta dos raios solares ao meio-dia, dividindo o globo em áreas de dia (em tons mais claros) e noite (em tons mais escuros). A legenda inferior identifica a ilustração como 'Terra em 21 de dezembro'.])\n\nUma pessoa instala em sua residência uma placa  \nfotovoltaica, que transforma energia solar em elétrica.  \nEla monitora a energia total produzida por essa placa  \nem 4 dias do ano, ensolarados e sem nuvens, e lança os  \nresultados no gráfico.\n\n![]([descrição: O gráfico de barras representa a energia ao longo do tempo, com datas especificas marcadas no eixo horizontal (10/01, 10/04, 10/07 e 10/10). O eixo vertical é rotulado como 'Energia'. As barras mostram variações na energia em cada data: a barra de 10/01 é a mais alta, seguida pela de 10/04, depois a de 10/07 que é a menor e finalmente a de 10/10 que é ligeiramente maior que a de 10/04.])\n\nDisponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado)",
+    "files": [
+        "Diagrama ilustrando a Terra na posição do solstício de inverno (21 de dezembro). A ilustração mostra o globo terrestre com as linhas principais de latitude marcadas: Polo Norte, Círculo Polar Ártico, Trópico de Câncer, Equador, Trópico de Capricórnio, Círculo Polar Antártico e Polo Sul. Setas indicam a incidência direta dos raios solares ao meio-dia, dividindo o globo em áreas de dia (em tons mais claros) e noite (em tons mais escuros). A legenda inferior identifica a ilustração como 'Terra em 21 de dezembro'.",
+        "O gráfico de barras representa a energia ao longo do tempo, com datas especificas marcadas no eixo horizontal (10/01, 10/04, 10/07 e 10/10). O eixo vertical é rotulado como 'Energia'. As barras mostram variações na energia em cada data: a barra de 10/01 é a mais alta, seguida pela de 10/04, depois a de 10/07 que é a menor e finalmente a de 10/10 que é ligeiramente maior que a de 10/04."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Próximo a que região se situa a residência onde as placas\nforam instaladas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Trópico de Capricórnio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Trópico de Câncer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Polo Norte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Polo Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Equador",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

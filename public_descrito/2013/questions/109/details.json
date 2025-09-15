@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2013",
+    "index": 109,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma ilustração em preto e branco que retrata dois meninos em situações contrastantes. Um menino, com roupas esfarrapadas e descalço, está puxando um vagão de minério grande e pesado, demonstrando esforço e trabalho árduo. O outro menino, usando boné e vestindo roupas mais adequadas, brinca alegremente com um pequeno trem de brinquedo amarrado a uma corda, simbolizando diversão e despreocupação. A composição sugere uma crítica social sobre desigualdade e exploração infantil.])\n\nKUCZYNSKIEGO, P. Ilustração, 2008. Disponível em: http://capu.pl. Acesso em 3 ago. 2012. (Foto: Reprodução)\n\nO artista gráfico polonês Pawla Kuczynskiego nasceu em 1976 e recebeu diversos prêmios por suas ilustrações.",
+    "files": [
+        "A imagem é uma ilustração em preto e branco que retrata dois meninos em situações contrastantes. Um menino, com roupas esfarrapadas e descalço, está puxando um vagão de minério grande e pesado, demonstrando esforço e trabalho árduo. O outro menino, usando boné e vestindo roupas mais adequadas, brinca alegremente com um pequeno trem de brinquedo amarrado a uma corda, simbolizando diversão e despreocupação. A composição sugere uma crítica social sobre desigualdade e exploração infantil."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessa obra, ao abordar o trabalho infantil, Kuczynskiego usa sua arte para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difundir a origem de marcantes diferenças sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Estabelecer uma postura proativa da sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Provocar a reflexão sobre essa realidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Propor alternativas para solucionar esse problema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Retratar como a questão é enfrentada em vários países do mundo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

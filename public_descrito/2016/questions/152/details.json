@@ -1,0 +1,45 @@
+{
+    "title": "Questão 152 - ENEM 2016",
+    "index": 152,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: Diagrama representando um fluxo de processo com cinco etapas (I, II, III, IV e V) conectadas por linhas retas. Uma caixa rotulada 'Entrada' está conectada à etapa II. As etapas I, III, IV e V são representadas por círculos, sendo que a etapa IV é maior do que as demais.])\n\nSuponha que relativamente a cada ramificação, as opções existentes de percurso pelos caminhos apresentem iguais probabilidades de escolha, que a caminhada foi feita escolhendo ao acaso os caminhos existentes e que, ao tomar um caminho que chegue a uma área distinta da IV, o adolescente necessariamente passa por ela ou retorna.",
+    "files": [
+        "Diagrama representando um fluxo de processo com cinco etapas (I, II, III, IV e V) conectadas por linhas retas. Uma caixa rotulada 'Entrada' está conectada à etapa II. As etapas I, III, IV e V são representadas por círculos, sendo que a etapa IV é maior do que as demais."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessas condições, a probabilidade de ele chegar à área IV sem passar por outras áreas e sem\nretornar é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/96",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/64",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5/24",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1/4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5/12",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

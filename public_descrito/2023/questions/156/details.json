@@ -1,0 +1,45 @@
+{
+    "title": "Questão 156 - ENEM 2023",
+    "index": 156,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:\n\n![]([descrição: O gráfico mostra a intensidade do sinal de internet ao longo do tempo, medido em minutos. O eixo vertical representa a intensidade do sinal e o eixo horizontal representa o tempo. A linha do gráfico começa alta em t=0, diminui até t=8, atinge um mínimo em t=10, sobe rapidamente até t=14, cai novamente até t=18, sobe até t=22, desce até t=26 e finalmente sobe para um nível alto em t=30. O gráfico é apresentado sobre uma grade de fundo.])",
+    "files": [
+        "O gráfico mostra a intensidade do sinal de internet ao longo do tempo, medido em minutos. O eixo vertical representa a intensidade do sinal e o eixo horizontal representa o tempo. A linha do gráfico começa alta em t=0, diminui até t=8, atinge um mínimo em t=10, sobe rapidamente até t=14, cai novamente até t=18, sobe até t=22, desce até t=26 e finalmente sobe para um nível alto em t=30. O gráfico é apresentado sobre uma grade de fundo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Por quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

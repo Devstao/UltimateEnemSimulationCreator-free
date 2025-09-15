@@ -1,0 +1,46 @@
+{
+    "title": "Questão 162 - ENEM 2012",
+    "index": 162,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico mostra a variação do valor de uma ação em reais ao longo do tempo, medido em horas. O eixo vertical representa o valor da ação, variando de aproximadamente 100 a 460 reais. O eixo horizontal representa o tempo, que vai de 10 a 17 horas. A linha do gráfico exibe flutuações no valor da ação, com picos e vales ao longo do período analisado. O valor da ação começa em cerca de 230 reais às 10h, sobe para aproximadamente 340 reais às 12h, atinge um pico de quase 460 reais às 15h e depois cai para cerca de 180 reais às 17h.])\n\nNeste dia, cinco investidores compraram e venderam o mesmo volume de ações, porém em horários diferentes, de acordo com a seguinte tabela.\n\n![]([descrição: A imagem mostra uma tabela com três colunas: 'Investidor', 'Hora da Compra' e 'Hora da Venda'. A coluna 'Investidor' lista os números de 1 a 5. As colunas 'Hora da Compra' e 'Hora da Venda' indicam, respectivamente, as horas em que cada investidor realizou suas transações. Os horários listados são: 10:00, 13:00, 15:00, 16:00 e 17:00.])",
+    "files": [
+        "O gráfico mostra a variação do valor de uma ação em reais ao longo do tempo, medido em horas. O eixo vertical representa o valor da ação, variando de aproximadamente 100 a 460 reais. O eixo horizontal representa o tempo, que vai de 10 a 17 horas. A linha do gráfico exibe flutuações no valor da ação, com picos e vales ao longo do período analisado. O valor da ação começa em cerca de 230 reais às 10h, sobe para aproximadamente 340 reais às 12h, atinge um pico de quase 460 reais às 15h e depois cai para cerca de 180 reais às 17h.",
+        "A imagem mostra uma tabela com três colunas: 'Investidor', 'Hora da Compra' e 'Hora da Venda'. A coluna 'Investidor' lista os números de 1 a 5. As colunas 'Hora da Compra' e 'Hora da Venda' indicam, respectivamente, as horas em que cada investidor realizou suas transações. Os horários listados são: 10:00, 13:00, 15:00, 16:00 e 17:00."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com relação ao capital adquirido na compra e venda das ações, qual investidor fez o melhor negócio?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2015",
+    "index": 1,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O mapa mostra o território brasileiro dividido em diferentes biomas, com uma legenda indicando cada um deles: Amazônia (área extensa na região norte), Caatinga (nordeste), Cerrado (centro-oeste), Mata Atlântica (litoral leste e sudeste), Pampa (região sul), Pantanal (entre Mato Grosso e Mato Xisto) e áreas com problemas ambientais (principalmente no nordeste e sudeste). Há uma bússola indicando o norte no canto superior direito e a fonte do mapa é o Ministério do Meio Ambiente/IBGE, de 2004.])",
+    "files": [
+        "O mapa mostra o território brasileiro dividido em diferentes biomas, com uma legenda indicando cada um deles: Amazônia (área extensa na região norte), Caatinga (nordeste), Cerrado (centro-oeste), Mata Atlântica (litoral leste e sudeste), Pampa (região sul), Pantanal (entre Mato Grosso e Mato Xisto) e áreas com problemas ambientais (principalmente no nordeste e sudeste). Há uma bússola indicando o norte no canto superior direito e a fonte do mapa é o Ministério do Meio Ambiente/IBGE, de 2004."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No mapa estão representados os biomas brasileiros que, em função de suas características físicas e do modo de ocupação do território, apresentam problemas ambientais distintos. Nesse sentido, o problema ambiental destacado no mapa indica.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Desertificação das áreas afetadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Poluição dos rios temporários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Queimadas dos remanescentes vegetais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desmatamento das matas ciliares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Contaminação das águas subterrâneas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

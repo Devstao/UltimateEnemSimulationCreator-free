@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2017",
+    "index": 114,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglicerídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, como o metanol ou etanol, na presença de um catalisador, de acordo com a equação química:\n\n![]([descrição: A imagem mostra uma equação química representando uma reação de transesterificação. À esquerda, há uma molécula de triglicerídeo (triacetato de glicerila) representada por estruturas químicas com grupos CH2-O-CO-R1, CH-O-CO-R2 e CH2-O-CO-R3.  À direita, a equação mostra os produtos da reação: duas moléculas de acetato de metila (CH3-O-CO-C-R1 e CH3-O-CO-C-R3) e uma molécula de glicerol (CH2-OH, CH-OH, CH2-OH).  A seta entre as estruturas indica a direção da reação, com a legenda 'catalisador' escrita acima da seta. A equação também inclui a fórmula química do metanol (CH3OH) como reagente.])",
+    "files": [
+        "A imagem mostra uma equação química representando uma reação de transesterificação. À esquerda, há uma molécula de triglicerídeo (triacetato de glicerila) representada por estruturas químicas com grupos CH2-O-CO-R1, CH-O-CO-R2 e CH2-O-CO-R3.  À direita, a equação mostra os produtos da reação: duas moléculas de acetato de metila (CH3-O-CO-C-R1 e CH3-O-CO-C-R3) e uma molécula de glicerol (CH2-OH, CH-OH, CH2-OH).  A seta entre as estruturas indica a direção da reação, com a legenda 'catalisador' escrita acima da seta. A equação também inclui a fórmula química do metanol (CH3OH) como reagente."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A função química presente no produto que representa o biodiesel é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Éter.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Éster.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cetona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido carboxílico",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2013",
+    "index": 42,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Diagrama ilustrando o ciclo da chuva ácida. No lado esquerdo, mostra-se uma paisagem com montanhas, vegetação e um corpo d'água. Setas indicam a emissão de dióxido de enxofre e óxido de azoto que se combinam para formar ácido sulfúrico (H2SO4) e ácido nítrico (HNO3), resultando em vapor de água e nuvens. Essas substâncias formam chuva ácida, neve ácida e neblina ácida. A chuva ácida causa danos à vegetação, acidifica a água do degelo, leva ao desaparecimento da vida aquática e à lixiviação ácida, além de toxicidade pelo alumínio. Há também a ocorrência de 'precipitação seca' (queda de partículas) e condensação da água.])",
+    "files": [
+        "Diagrama ilustrando o ciclo da chuva ácida. No lado esquerdo, mostra-se uma paisagem com montanhas, vegetação e um corpo d'água. Setas indicam a emissão de dióxido de enxofre e óxido de azoto que se combinam para formar ácido sulfúrico (H2SO4) e ácido nítrico (HNO3), resultando em vapor de água e nuvens. Essas substâncias formam chuva ácida, neve ácida e neblina ácida. A chuva ácida causa danos à vegetação, acidifica a água do degelo, leva ao desaparecimento da vida aquática e à lixiviação ácida, além de toxicidade pelo alumínio. Há também a ocorrência de 'precipitação seca' (queda de partículas) e condensação da água."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No esquema, o problema atmosférico relacionado ao ciclo da água acentuou-se após as revoluções industriais. Uma consequência direta desse problema está na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução da flora.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Elevação das marés.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Erosão das encostas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Laterização dos solos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fragmentação das rochas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

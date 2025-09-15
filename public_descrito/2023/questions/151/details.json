@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2023",
+    "index": 151,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo.\n\n![]([descrição: O gráfico mostra uma relação entre duas criptomoedas, A e B, representadas em milhares de reais nos eixos horizontal (A) e vertical (B). Uma curva complexa conecta vários pontos no gráfico, cada um marcado com uma hora específica. Os pontos variam em altura, indicando flutuações no valor da Criptomoeda B em relação à Criptomoeda A ao longo do tempo. As horas marcadas são: 9h, 10h, 11h, 12h, 13h, 14h, 15h, 16h e 17h.])\n\nDurante horas consecutivas, esses valores foram observados em nove instantes, representados por horas exatas.",
+    "files": [
+        "O gráfico mostra uma relação entre duas criptomoedas, A e B, representadas em milhares de reais nos eixos horizontal (A) e vertical (B). Uma curva complexa conecta vários pontos no gráfico, cada um marcado com uma hora específica. Os pontos variam em altura, indicando flutuações no valor da Criptomoeda B em relação à Criptomoeda A ao longo do tempo. As horas marcadas são: 9h, 10h, 11h, 12h, 13h, 14h, 15h, 16h e 17h."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

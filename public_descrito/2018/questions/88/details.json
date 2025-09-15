@@ -1,0 +1,45 @@
+{
+    "title": "Questão 88 - ENEM 2018",
+    "index": 88,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico de linhas mostra a participação percentual do extrativismo vegetal e da silvicultura no valor da produção primária florestal no Brasil, entre 1996 e 2014. O eixo vertical representa a porcentagem (%), variando de 0% a 90%. O eixo horizontal representa os anos, de 1996 a 2014. A linha que representa o extrativismo vegetal começa em aproximadamente 55%, diminui gradualmente até atingir cerca de 25% em 2010 e depois se estabiliza em torno de 30%. A linha da silvicultura começa em aproximadamente 45%, aumenta para cerca de 65% em 2000, diminui um pouco e depois se mantém estável em torno de 65% até 2014. As legendas indicam que a linha preta representa a silvicultura e a linha cinza representa o extrativismo vegetal.])",
+    "files": [
+        "O gráfico de linhas mostra a participação percentual do extrativismo vegetal e da silvicultura no valor da produção primária florestal no Brasil, entre 1996 e 2014. O eixo vertical representa a porcentagem (%), variando de 0% a 90%. O eixo horizontal representa os anos, de 1996 a 2014. A linha que representa o extrativismo vegetal começa em aproximadamente 55%, diminui gradualmente até atingir cerca de 25% em 2010 e depois se estabiliza em torno de 30%. A linha da silvicultura começa em aproximadamente 45%, aumenta para cerca de 65% em 2000, diminui um pouco e depois se mantém estável em torno de 65% até 2014. As legendas indicam que a linha preta representa a silvicultura e a linha cinza representa o extrativismo vegetal."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando as diferenças entre extrativismo vegetal e silvicultura, a variação das curvas do gráfico foi influenciada pela tendência de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conservação do bioma nativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Estagnação do setor primário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Utilização de madeira de reflorestamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Redução da produção de móveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Retração da indústria alimentícia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

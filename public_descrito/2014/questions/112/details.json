@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2014",
+    "index": 112,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra um texto em português sobre a televisão do futuro, com o título 'Viva a Nova TV!'. O texto descreve como a nova TV permite assistir ao que se quer, quando se quer, e como a segunda tela é um tablet ou smartphone. Também enfatiza a importância do engajamento nas redes sociais. A parte inferior da imagem contém informações sobre a fonte do texto: 'Por Paula Rothmann' e uma referência à página web 'http://info.abril.com.br', com data de acesso em 9 maio de 2013 (adaptado). O fundo é cinza claro.])",
+    "files": [
+        "A imagem mostra um texto em português sobre a televisão do futuro, com o título 'Viva a Nova TV!'. O texto descreve como a nova TV permite assistir ao que se quer, quando se quer, e como a segunda tela é um tablet ou smartphone. Também enfatiza a importância do engajamento nas redes sociais. A parte inferior da imagem contém informações sobre a fonte do texto: 'Por Paula Rothmann' e uma referência à página web 'http://info.abril.com.br', com data de acesso em 9 maio de 2013 (adaptado). O fundo é cinza claro."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto introduz uma reportagem a respeito do futuro da televisão, destacando que as tecnologias a ela incorporadas serão responsáveis por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estimular a substituição dos antigos aparelhos de TV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Contemplar os desejos individuais com recursos de ponta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Transformar a televisão no principal meio de acesso às redes sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Renovar técnicas de apresentação de programas e de captação de imagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Minimizar a importância dessa ferramenta como meio de comunicação de massa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

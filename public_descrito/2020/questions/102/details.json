@@ -1,0 +1,45 @@
+{
+    "title": "Questão 102 - ENEM 2020",
+    "index": 102,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro.\n\n![]([descrição: A imagem mostra uma tabela com três colunas, organizada em linhas representando etapas de um processo industrial. A primeira coluna, intitulada 'Etapa', lista as subetapas: Seleção dos grãos, Descascamento, Trituração, Cozimento, Prensagem, Extração e Destilação. A segunda coluna, 'Subetapa', detalha cada uma das etapas listadas na primeira coluna. A terceira coluna, intitulada 'O que ocorre', descreve o processo ou resultado de cada subetapa, como separação de sujidades, remoção parcial do óleo e obtenção do óleo bruto com hexano.])",
+    "files": [
+        "A imagem mostra uma tabela com três colunas, organizada em linhas representando etapas de um processo industrial. A primeira coluna, intitulada 'Etapa', lista as subetapas: Seleção dos grãos, Descascamento, Trituração, Cozimento, Prensagem, Extração e Destilação. A segunda coluna, 'Subetapa', detalha cada uma das etapas listadas na primeira coluna. A terceira coluna, intitulada 'O que ocorre', descreve o processo ou resultado de cada subetapa, como separação de sujidades, remoção parcial do óleo e obtenção do óleo bruto com hexano."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual das subetapas do processo é realizada em função apenas da polaridade das substâncias?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Trituração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cozimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Prensagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Extração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Destilação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2014",
+    "index": 72,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra um imã permanente (com polos S e N) se movendo para a direita, entrando em uma bobina cilíndrica conectada a um amperímetro. Uma seta indica a velocidade do imã (v). Outra seta indica a corrente elétrica (i) no circuito da bobina. Há também uma seta representando o campo magnético (B) saindo da bobina.])",
+    "files": [
+        "A imagem mostra um imã permanente (com polos S e N) se movendo para a direita, entrando em uma bobina cilíndrica conectada a um amperímetro. Uma seta indica a velocidade do imã (v). Outra seta indica a corrente elétrica (i) no circuito da bobina. Há também uma seta representando o campo magnético (B) saindo da bobina."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A fim de se obter uma corrente com o mesmo sentido da apresentada na figura, utilizando os mesmos materiais, outra possibilidade é mover a espira para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Esquerda e o ímã para a direita com polaridade invertida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Direita e o ímã para a esquerda com polaridade invertida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Esquerda e o ímã para a esquerda com mesma polaridade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Direita e manter o ímã em repouso com polaridade invertida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Esquerda e manter o ímã em repouso com mesma polaridade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

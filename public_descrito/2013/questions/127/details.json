@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2013",
+    "index": 127,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem em preto e branco mostra um homem parado atrás de uma grande pilha de bananas, aparentemente em um mercado ou armazém. Ele está usando uma camisa xadrez aberta sobre uma camiseta branca e tem cabelo comprido e rastas. Uma placa com texto ilegível está parcialmente escondida pelas bananas na frente dele. O fundo é desfocado, mas parece ser a parte interna de um veículo utilitário esportivo (SUV). Há uma tradução da placa abaixo da imagem, que diz: \"Não me esqueçam quando eu for um nome importante.\" A imagem é creditada a Nazareth P. Mercado de Artes / Mercado de Bananas, Miami Art Basel, EUA, 2011.])",
+    "files": [
+        "A imagem em preto e branco mostra um homem parado atrás de uma grande pilha de bananas, aparentemente em um mercado ou armazém. Ele está usando uma camisa xadrez aberta sobre uma camiseta branca e tem cabelo comprido e rastas. Uma placa com texto ilegível está parcialmente escondida pelas bananas na frente dele. O fundo é desfocado, mas parece ser a parte interna de um veículo utilitário esportivo (SUV). Há uma tradução da placa abaixo da imagem, que diz: \"Não me esqueçam quando eu for um nome importante.\" A imagem é creditada a Nazareth P. Mercado de Artes / Mercado de Bananas, Miami Art Basel, EUA, 2011."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A contemporaneidade identificada na performance / instalação do artista mineiro Paulo Nazareth reside principalmente na forma como ele",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Resgata conhecidas referências do modernismo mineiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Utiliza técnicas e suportes tradicionais na construção das formas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Articula questões de identidade, território e códigos de linguagens.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Imita o papel das celebridades no mundo contemporâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Camufla o aspecto plástico e a composição visual de sua montagem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

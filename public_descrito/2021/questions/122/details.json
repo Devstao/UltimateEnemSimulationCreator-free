@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2021",
+    "index": 122,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A imagem apresenta as etapas do funcionamento de uma estação individual para tratamento do esgoto residencial.\n\n![]([descrição: Diagrama ilustrativo do funcionamento de uma estação individual de tratamento de esgoto residencial. A ilustração mostra uma casa com um sistema subterrâneo de caixas e tanques conectados por tubulações. As etapas são numeradas e descritas: 1) Caixa de gordura, que retém detritos da pia e cozinha; 2) Caixa de passagem, que recebe o esgoto dos banheiros e lavanderia; 3) Tanque séptico, onde o esgoto fica em repouso; 4) Caixa de inspeção, que facilita a distribuição dos efluentes; 5) Cistérnas, onde o sistema final é tratado com cloro; e 6) Filtro biológico, onde colônias de bactérias consomem matéria orgânica. O título acima do diagrama indica 'Como funciona a estação individual'.])\n\nTAVARES, K. **Estações de tratamento de esgoto individuais permitem a reutilização da água.** Disponível em: https://extra.globo.com. Acesso em: 18 nov 2014 (adaptado).",
+    "files": [
+        "Diagrama ilustrativo do funcionamento de uma estação individual de tratamento de esgoto residencial. A ilustração mostra uma casa com um sistema subterrâneo de caixas e tanques conectados por tubulações. As etapas são numeradas e descritas: 1) Caixa de gordura, que retém detritos da pia e cozinha; 2) Caixa de passagem, que recebe o esgoto dos banheiros e lavanderia; 3) Tanque séptico, onde o esgoto fica em repouso; 4) Caixa de inspeção, que facilita a distribuição dos efluentes; 5) Cistérnas, onde o sistema final é tratado com cloro; e 6) Filtro biológico, onde colônias de bactérias consomem matéria orgânica. O título acima do diagrama indica 'Como funciona a estação individual'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em qual etapa decanta-se o lodo a ser separado do esgoto residencial?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

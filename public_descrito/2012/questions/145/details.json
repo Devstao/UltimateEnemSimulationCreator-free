@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2012",
+    "index": 145,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra cinco árvores desenhadas em estilo esquemático, dispostas lado a lado sobre um fundo quadriculado. Cada árvore é acompanhada de uma proporção numérica (1:100, 2:100, 2:300, 1:300 e 2:300). As árvores diminuem gradualmente de tamanho da esquerda para a direita, com variações na forma da copa. A primeira árvore tem uma copa arredondada e larga, enquanto as demais apresentam copas mais estreitas e alongadas.])",
+    "files": [
+        "A imagem mostra cinco árvores desenhadas em estilo esquemático, dispostas lado a lado sobre um fundo quadriculado. Cada árvore é acompanhada de uma proporção numérica (1:100, 2:100, 2:300, 1:300 e 2:300). As árvores diminuem gradualmente de tamanho da esquerda para a direita, com variações na forma da copa. A primeira árvore tem uma copa arredondada e larga, enquanto as demais apresentam copas mais estreitas e alongadas."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a árvore que apresenta a maior altura real?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

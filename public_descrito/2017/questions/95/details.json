@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2017",
+    "index": 95,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\n\n![]([descrição: Diagrama esquemático de uma célula eletroquímica, representando o processo de eletrólise de cloreto de sódio (NaCl). A célula consiste em um recipiente retangular contendo uma solução aquosa de NaCl. No lado esquerdo, há o ânodo de carbono (+) onde ocorre a liberação de gás cloro (Cl₂). No lado direito, está o cátodo de carbono (-) onde é formado um produto secundário. Uma membrana de amianto (diafragma) separa os dois eletrodos, permitindo a passagem de íons mas impedindo a mistura dos reagentes. A célula está conectada a uma bateria que fornece energia para o processo. Setas indicam o fluxo de elétrons e a direção das reações químicas.])",
+    "files": [
+        "Diagrama esquemático de uma célula eletroquímica, representando o processo de eletrólise de cloreto de sódio (NaCl). A célula consiste em um recipiente retangular contendo uma solução aquosa de NaCl. No lado esquerdo, há o ânodo de carbono (+) onde ocorre a liberação de gás cloro (Cl₂). No lado direito, está o cátodo de carbono (-) onde é formado um produto secundário. Uma membrana de amianto (diafragma) separa os dois eletrodos, permitindo a passagem de íons mas impedindo a mistura dos reagentes. A célula está conectada a uma bateria que fornece energia para o processo. Setas indicam o fluxo de elétrons e a direção das reações químicas."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No processo eletrolítico ilustrado, o produto secundário obtido é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vapor de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Oxigênio molecular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Hipoclorito de sódio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hidrogênio molecular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Cloreto de hidrogênio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

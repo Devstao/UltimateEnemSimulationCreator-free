@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2011",
+    "index": 171,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico de barras mostra a porcentagem de domicílios segundo a velocidade de conexão à internet. As categorias são: Até 256 kbps (34%), Entre 256 kbps e 1 Mbps (20%), De 1 Mbps a 2 Mbps (15%), Entre 2 Mbps e 4 Mbps (5%), De 4 Mbps a 8 Mbps (1%), Acima de 8 Mbps (1%) e Não sabe/Não responde (24%). A fonte dos dados é o site da agência Ipea, com acesso em 28 de abril de 2010.])",
+    "files": [
+        "O gráfico de barras mostra a porcentagem de domicílios segundo a velocidade de conexão à internet. As categorias são: Até 256 kbps (34%), Entre 256 kbps e 1 Mbps (20%), De 1 Mbps a 2 Mbps (15%), Entre 2 Mbps e 4 Mbps (5%), De 4 Mbps a 8 Mbps (1%), Acima de 8 Mbps (1%) e Não sabe/Não responde (24%). A fonte dos dados é o site da agência Ipea, com acesso em 28 de abril de 2010."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Escolhendo-se, aleatoriamente, um domicílio pesquisado, qual a chance de haver banda larga de conexão de pelo menos 1 Mbps neste domicílio?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,45",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,42",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,22",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,15",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

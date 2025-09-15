@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2016",
+    "index": 169,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra uma curva de distribuição cumulativa, com o eixo x representando a quantidade de funcionários em porcentagem (0% a 100%) e o eixo y representando a massa salarial acumulada em porcentagem (0% a 100%). A área sob a curva é sombreada. A curva é dividida em duas partes: uma parte inclinada para cima, rotulada como 'A', que começa no ponto (0%, 0%) e termina aproximadamente em (50%, 25%), e outra parte com inclinação mais acentuada, rotulada como 'B', que continua a partir de (50%, 25%) até o ponto (100%, 100%). Uma linha vertical tracejada indica um ponto de corte no eixo x em aproximadamente 90%.])\n\nO Índice de Gini, que mede o grau de concentração de renda de um determinado grupo, pode ser calculado pela razão A/(A + B) em que A e B são as medidas das áreas indicadas no gráfico.\n\nA empresa tem como meta tornar seu Índice de Gini igual ao do país, que é 0,3. Para tanto, precisa ajustar os salários de modo a alterar o percentual que representa a parcela recebida pelos 10% dos funcionários de maior salário em relação ao total da massa salarial.\n\nDisponível em: www.ipea.gov.br. Acesso em: 4 maio 2016 (adaptado)",
+    "files": [
+        "O gráfico mostra uma curva de distribuição cumulativa, com o eixo x representando a quantidade de funcionários em porcentagem (0% a 100%) e o eixo y representando a massa salarial acumulada em porcentagem (0% a 100%). A área sob a curva é sombreada. A curva é dividida em duas partes: uma parte inclinada para cima, rotulada como 'A', que começa no ponto (0%, 0%) e termina aproximadamente em (50%, 25%), e outra parte com inclinação mais acentuada, rotulada como 'B', que continua a partir de (50%, 25%) até o ponto (100%, 100%). Uma linha vertical tracejada indica um ponto de corte no eixo x em aproximadamente 90%."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para atingir a meta desejada, o percentual deve ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "40%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "20%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "60%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "30%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "70%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2015",
+    "index": 163,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma chave de fenda elétrica portátil, cinza escura com detalhes pretos, ao lado de sua base de carregamento preta.])\n\nPara controle das aplicações, definiu-se a unidade de insulina como 0,01 mL. Antes de cada aplicação, é necessário descartar 2 unidades de insulina, de forma a retirar possíveis bolhas de ar.\n\nA um paciente foram prescritas duas aplicações diárias: 10 unidades de insulina pela manhã e 10 à noite.",
+    "files": [
+        "A imagem mostra uma chave de fenda elétrica portátil, cinza escura com detalhes pretos, ao lado de sua base de carregamento preta."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual o número máximo de aplicações por refil que o paciente poderá utilizar com a dosagem prescrita?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

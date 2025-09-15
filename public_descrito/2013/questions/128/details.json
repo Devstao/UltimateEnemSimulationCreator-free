@@ -1,0 +1,45 @@
+{
+    "title": "Questão 128 - ENEM 2013",
+    "index": 128,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: O desenho apresenta uma página de quadrinhos dividida em quatro painéis, com estilo minimalista em preto e branco. O primeiro painel mostra um livro aberto, com a legenda 'Definições Intangíveis'. O segundo painel também exibe um livro aberto, acompanhado da frase 'Um livro é feito de letras que formam palavras e de palavras dispostas em sentenças', seguida pela pergunta 'Será um livro uma sentença?'. No terceiro painel, há uma caixa com a exclamação '- Olhos!'. O quarto painel ilustra uma pessoa lendo um livro, com os olhos arregalados, como se estivesse surpresa ou pensativa. Há texto adicional na parte inferior da imagem, indicando o autor e a fonte.])",
+    "files": [
+        "O desenho apresenta uma página de quadrinhos dividida em quatro painéis, com estilo minimalista em preto e branco. O primeiro painel mostra um livro aberto, com a legenda 'Definições Intangíveis'. O segundo painel também exibe um livro aberto, acompanhado da frase 'Um livro é feito de letras que formam palavras e de palavras dispostas em sentenças', seguida pela pergunta 'Será um livro uma sentença?'. No terceiro painel, há uma caixa com a exclamação '- Olhos!'. O quarto painel ilustra uma pessoa lendo um livro, com os olhos arregalados, como se estivesse surpresa ou pensativa. Há texto adicional na parte inferior da imagem, indicando o autor e a fonte."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os objetivos que motivam os seres humanos a estabelecer comunicação determinam, em uma situação de interlocução, o predomínio de uma ou de outra função de linguagem. Nesse texto, predomina a função que se caracteriza por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tentar persuadir o leitor acerca da necessidade de se tomarem certas medidas para a elaboração de um livro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Enfatizar a percepção subjetiva do autor, que projeta para sua obra seus sonhos e histórias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Apontar para o estabelecimento de interlocução de modo superficial e automático, entre o leitor e o livro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fazer um exercício de reflexão a respeito dos princípios que estruturam a forma e o conteúdo de um livro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Retratar as etapas do processo de produção de um livro, as quais antecedem o contato entre leitor e obra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

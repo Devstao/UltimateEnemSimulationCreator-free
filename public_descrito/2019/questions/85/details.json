@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2019",
+    "index": 85,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma parede com grafite em preto e branco. No centro, há um texto escrito à mão que diz: 'Nuestra cultura no cabe en sus museos'. À esquerda e à direita do texto, há duas imagens emolduradas. A imagem da esquerda retrata o rosto de um homem usando um chapéu tradicional e roupas típicas. A imagem da direita mostra uma cena com várias pessoas reunidas ao redor de algo que parece ser uma fogueira ou altar.])\n\n“Nossa cultura não cabe nos seus museus”.\n\n**TOLENTINO, A. B. Patrimônio cultural e discursos museológicos. Midas, n. 6, 2016.**",
+    "files": [
+        "A imagem mostra uma parede com grafite em preto e branco. No centro, há um texto escrito à mão que diz: 'Nuestra cultura no cabe en sus museos'. À esquerda e à direita do texto, há duas imagens emolduradas. A imagem da esquerda retrata o rosto de um homem usando um chapéu tradicional e roupas típicas. A imagem da direita mostra uma cena com várias pessoas reunidas ao redor de algo que parece ser uma fogueira ou altar."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Produzida no Chile, no final da década de 1970, a imagem expressa um conflito entre culturas e sua presença em museus decorrente da:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Valorização do mercado das obras de arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Definição dos critérios de criação de acervos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Ampliação da rede de instituições de memória.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Burocratização do acesso dos espaços expositivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fragmentação dos territórios das comunidades representadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

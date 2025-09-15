@@ -1,0 +1,45 @@
+{
+    "title": "Questão 84 - ENEM 2011",
+    "index": 84,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem ilustra três experimentos relacionados à difração da luz. Em cada experimento, uma lâmpada é posicionada atrás de um obstáculo com um buraco ou fenda. No primeiro caso, o buraco produz raios de luz que se propagam em linha reta. No segundo, a luz passa por duas fendas próximas e forma um padrão de interferência. No terceiro, a luz passa por uma única fenda larga e se espalha, criando um padrão de difração na tela.])",
+    "files": [
+        "A imagem ilustra três experimentos relacionados à difração da luz. Em cada experimento, uma lâmpada é posicionada atrás de um obstáculo com um buraco ou fenda. No primeiro caso, o buraco produz raios de luz que se propagam em linha reta. No segundo, a luz passa por duas fendas próximas e forma um padrão de interferência. No terceiro, a luz passa por uma única fenda larga e se espalha, criando um padrão de difração na tela."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em qual das situações a seguir está representado o fenômeno descrito no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ao se esconder atrás de um muro, um menino ouve a conversa de seus colegas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Ao gritar diante de um desfiladero, uma pessoa ouve a repetição do seu próprio grito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ao encostar o ouvido no chão, um homem percebe o som de uma locomotiva antes de ouvi-lo pelo ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao ouvir uma ambulância se aproximando, uma pessoa percebe o som mais agudo do que quando aquela se afasta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ao emitir uma nota musical muito aguda, uma cantora de ópera faz com que uma taça de cristal se despedace.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

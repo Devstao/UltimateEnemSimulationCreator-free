@@ -1,0 +1,46 @@
+{
+    "title": "Questão 59 - ENEM 2017",
+    "index": 59,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico mostra a taxa de pluviosidade e a temperatura ao longo dos meses do ano (J, F, M, A, M, J, J, A, S, O, N, D). A taxa de pluviosidade é representada por barras cinzas, com picos em junho e agosto. A temperatura é indicada por uma linha preta, atingindo o ponto mais alto em julho e o mais baixo em janeiro.])\n\n![]([descrição: A imagem mostra um mapa-múndi em tons de cinza, com seis cidades marcadas por pontos: Moscou (na Rússia e Europa Oriental), Barcelona (na Espanha, Europa Ocidental), Mumbai (na Índia, Ásia), Cidade do Cabo (na África do Sul), e Sydney (na Austrália). No topo da imagem está o título 'Figura 2'. Na parte inferior, há uma nota sobre a fonte dos dados: 'Disponível em: https://pt.climate-data.org. Acesso em: 12 maio 2017 (adaptado)'.])",
+    "files": [
+        "O gráfico mostra a taxa de pluviosidade e a temperatura ao longo dos meses do ano (J, F, M, A, M, J, J, A, S, O, N, D). A taxa de pluviosidade é representada por barras cinzas, com picos em junho e agosto. A temperatura é indicada por uma linha preta, atingindo o ponto mais alto em julho e o mais baixo em janeiro.",
+        "A imagem mostra um mapa-múndi em tons de cinza, com seis cidades marcadas por pontos: Moscou (na Rússia e Europa Oriental), Barcelona (na Espanha, Europa Ocidental), Mumbai (na Índia, Ásia), Cidade do Cabo (na África do Sul), e Sydney (na Austrália). No topo da imagem está o título 'Figura 2'. Na parte inferior, há uma nota sobre a fonte dos dados: 'Disponível em: https://pt.climate-data.org. Acesso em: 12 maio 2017 (adaptado)'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As temperaturas médias mensais e as taxas de pluviosidade expressas no climograma apresentam o clima típico da seguinte cidade:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cidade do Cabo (África do Sul), marcado pela reduzida amplitude térmica anual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sydney (Austrália), caracterizado por precipitações abundantes no decorrer do ano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mumbai (índia), definido pelas chuvas monçônicas torrenciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Barcelona (Espanha), afetado por massas de ar seco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Moscou (Rússia), influenciado pela localização geográfica em alta latitude.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

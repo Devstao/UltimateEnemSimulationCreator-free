@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2016",
+    "index": 45,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico de linhas mostra a taxa de fecundidade total de seis países (Brasil, China, Coreia do Sul, Portugal, EUA e Japão) ao longo do tempo, de 1970 a 2010. O eixo horizontal representa os anos, enquanto o eixo vertical representa a taxa de fecundidade total, variando de 1,0 a 6,0. As linhas indicam uma tendência geral de diminuição da taxa de fecundidade em todos os países ao longo do período analisado. Em 1970, o Brasil tinha a maior taxa de fecundidade (5,8), enquanto o Japão tinha a menor (2,0). Em 2010, o Japão apresentou a menor taxa (1,9) e o Brasil uma das menores (2,4). O gráfico inclui barras de erro verticais para cada ponto de dados, indicando a variabilidade nos valores da taxa de fecundidade.])",
+    "files": [
+        "O gráfico de linhas mostra a taxa de fecundidade total de seis países (Brasil, China, Coreia do Sul, Portugal, EUA e Japão) ao longo do tempo, de 1970 a 2010. O eixo horizontal representa os anos, enquanto o eixo vertical representa a taxa de fecundidade total, variando de 1,0 a 6,0. As linhas indicam uma tendência geral de diminuição da taxa de fecundidade em todos os países ao longo do período analisado. Em 1970, o Brasil tinha a maior taxa de fecundidade (5,8), enquanto o Japão tinha a menor (2,0). Em 2010, o Japão apresentou a menor taxa (1,9) e o Brasil uma das menores (2,4). O gráfico inclui barras de erro verticais para cada ponto de dados, indicando a variabilidade nos valores da taxa de fecundidade."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma consequência socioeconômica para os países que vivenciam o fenômeno demográfico ilustrado é a diminuição da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Oferta de mão de obra nacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Média de expectativa de vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Disponibilidade de serviços de saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Despesa de natureza previdenciária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Imigração de trabalhadores qualificados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

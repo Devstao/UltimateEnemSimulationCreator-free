@@ -1,0 +1,45 @@
+{
+    "title": "Questão 84 - ENEM 2009",
+    "index": 84,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O mapa mostra as fronteiras do território português na América do Sul em diferentes momentos históricos, indicados por linhas de cores distintas. Uma legenda explica que a linha preta representa a fronteira definida pelo Tratado de Tordesilhas (1494), a cinza claro indica o território português conforme o Tratado de Tordesilhas, a cinza escuro representa o território português com base no Tratado de Madri (1750) e a linha tracejada simboliza a fronteira do Tratado de San Ildefonso (1778). O mapa inclui rios como o Paraná, Uruguai, Jequitinhonha e São Francisco. Uma escala gráfica indica distâncias em milhas (500 e 1000 km). Um destaque em caixa mostra uma área específica com a cidade de Laguna.])\n\nBETHEL, L. História da América. V. I. São Paulo. (Foto: EDUSP)",
+    "files": [
+        "O mapa mostra as fronteiras do território português na América do Sul em diferentes momentos históricos, indicados por linhas de cores distintas. Uma legenda explica que a linha preta representa a fronteira definida pelo Tratado de Tordesilhas (1494), a cinza claro indica o território português conforme o Tratado de Tordesilhas, a cinza escuro representa o território português com base no Tratado de Madri (1750) e a linha tracejada simboliza a fronteira do Tratado de San Ildefonso (1778). O mapa inclui rios como o Paraná, Uruguai, Jequitinhonha e São Francisco. Uma escala gráfica indica distâncias em milhas (500 e 1000 km). Um destaque em caixa mostra uma área específica com a cidade de Laguna."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As terras brasileiras foram divididas por meio de tratados entre Portugal e Espanha. De acordo com esses tratados, identificados no mapa, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Portugal, pelo Tratado de Tordesilhas, detinha o controle da foz do rio Amazonas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O Tratado de Tordesilhas utilizava os rios como limite físico da América portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O Tratado de Madri reconheceu a expansão portuguesa além da linha de Tordesilhas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Portugal, pelo Tratado de San Ildefonso, perdia territórios na América em relação ao de Tordesilhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O Tratado de Madri criou a divisão administrativa da América Portuguesa em Vice-Reinos Oriental e Ocidental.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

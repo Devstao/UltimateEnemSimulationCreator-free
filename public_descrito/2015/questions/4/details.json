@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2015",
+    "index": 4,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Charge em preto e branco mostrando um homem sentado em uma cadeira, aparentemente dando depoimento a um delegado. O delegado está sentado atrás de sua mesa, com uma placa identificando-o como 'Delegado'. O homem fala para o delegado, enquanto este anota algo em seu bloco. As falas do homem são: 'Por que o Sr. desconfia que sua mulher tá tentando matá-lo?', 'Ela me serviu pimentão, alface e tomate no jantar' e 'E de sobremesa morango e uva!'.])",
+    "files": [
+        "Charge em preto e branco mostrando um homem sentado em uma cadeira, aparentemente dando depoimento a um delegado. O delegado está sentado atrás de sua mesa, com uma placa identificando-o como 'Delegado'. O homem fala para o delegado, enquanto este anota algo em seu bloco. As falas do homem são: 'Por que o Sr. desconfia que sua mulher tá tentando matá-lo?', 'Ela me serviu pimentão, alface e tomate no jantar' e 'E de sobremesa morango e uva!'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na charge há uma crítica ao processo produtivo agrícola brasileiro relacionada ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elevado preço das mercadorias no comércio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumento da demanda por produtos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Crescimento da produção de alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hábito de adquirir derivados industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uso de agrotóxicos nas plantações.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

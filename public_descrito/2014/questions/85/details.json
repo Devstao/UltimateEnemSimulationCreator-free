@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2014",
+    "index": 85,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Diagrama ilustrando diferentes formas de produção e aplicação de imunobiológicos. No canto superior, o título 'Imunobiológicos: diferentes formas de produção, diferentes aplicações' está escrito em letras maiúsculas. A ilustração é dividida em três etapas principais, identificadas pelas letras A, B e C. Na etapa A, um médico aplica uma injeção em uma pessoa, com a legenda 'Aplicação do imunobiológico I'. Ao lado, há uma representação de vírus e bactérias. Na etapa B, uma imagem estilizada de um anticorpo se conecta a um cavalo, que é usado para produzir o imunobiológico III em um béquer. A etapa C mostra uma criança recebendo uma injeção, com a legenda 'Aplicação do imunobiológico III', seguida por uma pessoa idosa, indicando proteção contra doenças.])",
+    "files": [
+        "Diagrama ilustrando diferentes formas de produção e aplicação de imunobiológicos. No canto superior, o título 'Imunobiológicos: diferentes formas de produção, diferentes aplicações' está escrito em letras maiúsculas. A ilustração é dividida em três etapas principais, identificadas pelas letras A, B e C. Na etapa A, um médico aplica uma injeção em uma pessoa, com a legenda 'Aplicação do imunobiológico I'. Ao lado, há uma representação de vírus e bactérias. Na etapa B, uma imagem estilizada de um anticorpo se conecta a um cavalo, que é usado para produzir o imunobiológico III em um béquer. A etapa C mostra uma criança recebendo uma injeção, com a legenda 'Aplicação do imunobiológico III', seguida por uma pessoa idosa, indicando proteção contra doenças."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Embora sejam produzidos e utilizados em situações distintas, os imunobiológicos I e II atuam de forma semelhante nos humanos e equinos, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conferem imunidade passiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Transferem células de defesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Suprimem a resposta imunológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estimulam a produção de anticorpos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Desencadeiam a produção de antígenos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

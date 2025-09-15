@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2011",
+    "index": 62,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: O diagrama ilustra o ciclo de nutrientes (carbono, nitrogênio e fósforo) em um ecossistema aquático. No centro, há uma caixa representando os 'Produtores primários' (algas e outros organismos fixadores de nitrogênio), que assimilam carbono (C), nitrogênio (N) e fósforo (P) nas razões atômicas de 106:16:1. Setas indicam o fluxo desses nutrientes do ambiente para os produtores primários, incluindo fosfatos do solo/esgoto, nitrogênio da atmosfera/nitratos do solo/esgoto e dióxido de carbono da atmosfera. Outras setas mostram a transferência de nutrientes através da decomposição bacteriana, crescimento de peixes e outros produtores secundários, sedimentação de resíduos vegetais e animais, e o retorno dos nutrientes ao ambiente. A legenda indica que o fósforo é geralmente limitado, o nitrogênio é potencialmente limitado e o carbono é geralmente abundante. Microelementos como ferro (Fe), manganês (Mn) e cobre (Cu) também são mencionados. O diagrama inclui informações sobre a presença de oxigênio suficiente em diferentes etapas do ciclo.])",
+    "files": [
+        "O diagrama ilustra o ciclo de nutrientes (carbono, nitrogênio e fósforo) em um ecossistema aquático. No centro, há uma caixa representando os 'Produtores primários' (algas e outros organismos fixadores de nitrogênio), que assimilam carbono (C), nitrogênio (N) e fósforo (P) nas razões atômicas de 106:16:1. Setas indicam o fluxo desses nutrientes do ambiente para os produtores primários, incluindo fosfatos do solo/esgoto, nitrogênio da atmosfera/nitratos do solo/esgoto e dióxido de carbono da atmosfera. Outras setas mostram a transferência de nutrientes através da decomposição bacteriana, crescimento de peixes e outros produtores secundários, sedimentação de resíduos vegetais e animais, e o retorno dos nutrientes ao ambiente. A legenda indica que o fósforo é geralmente limitado, o nitrogênio é potencialmente limitado e o carbono é geralmente abundante. Microelementos como ferro (Fe), manganês (Mn) e cobre (Cu) também são mencionados. O diagrama inclui informações sobre a presença de oxigênio suficiente em diferentes etapas do ciclo."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A análise da água de um lago que recebe a descarga de águas residuais provenientes de lavouras adubadas revelou as concentrações dos elementos carbono (21,2 mol/L), nitrogênio (1,2 mol/L) e fósforo (0,2 mol/L). Nessas condições, o nutriente limítrofe é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "N.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "P.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CO2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "PO43-.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

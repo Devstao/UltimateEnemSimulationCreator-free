@@ -1,0 +1,46 @@
+{
+    "title": "Questão 150 - ENEM 2022",
+    "index": 150,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola ![]([descrição: A imagem mostra uma equação matemática escrita em branco sobre um fundo preto. A equação é y = -x²/6 - 7x/3 + 12.]) , em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra, como representado na figura. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.\n\n![]([descrição: Diagrama esquemático representando uma situação de física envolvendo um jogador de vôlei saltando para bloquear uma bola. O diagrama mostra o jogador à esquerda, com uma trajetória parabólica tracejada indicando a possível trajetória da bola. No centro, há uma rede de vôlei, e à direita, outra área delimitada. As distâncias entre as linhas são marcadas como 1,5 m. Eixos x e y estão representados no canto superior direito.])\n\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas  \nem um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:  \n• ginásio I: 17 m;  \n• ginásio II: 18 m;  \n• ginásio III: 19 m;  \n• ginásio IV: 21 m;  \n• ginásio V: 40 m.",
+    "files": [
+        "A imagem mostra uma equação matemática escrita em branco sobre um fundo preto. A equação é y = -x²/6 - 7x/3 + 12.",
+        "Diagrama esquemático representando uma situação de física envolvendo um jogador de vôlei saltando para bloquear uma bola. O diagrama mostra o jogador à esquerda, com uma trajetória parabólica tracejada indicando a possível trajetória da bola. No centro, há uma rede de vôlei, e à direita, outra área delimitada. As distâncias entre as linhas são marcadas como 1,5 m. Eixos x e y estão representados no canto superior direito."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O saque desse atleta foi invalidado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apenas no ginásio I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Apenas nos ginásios I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Apenas nos ginásios I, II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apenas nos ginásios I, II, III e IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Em todos os ginásios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

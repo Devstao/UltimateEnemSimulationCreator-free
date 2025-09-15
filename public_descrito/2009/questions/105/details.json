@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2009",
+    "index": 105,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: O desenho apresenta uma tirinha em preto e branco, dividida em três quadros. O primeiro quadro mostra duas figuras com cabeças alongadas, uma apontando para cima e falando: 'Olha quem vem lá... o HTML!'. No segundo quadro, a mesma figura fala: 'Fala, HTML! Como vão as coisas?'. Uma caixa de diálogo contém código HTML. No terceiro quadro, a figura novamente fala: '<script> <span> id= {<div> align = \"left\" > <br/> <br/>  <br/> Numa boa, e vocês? <br/> <br/> } </script>'. Na parte inferior direita da imagem, há uma legenda com o título 'La Vie en Rose', o nome do autor (Iturrusgaral), a fonte (Folha de S.Paulo) e a data (11 ago. 2007).])",
+    "files": [
+        "O desenho apresenta uma tirinha em preto e branco, dividida em três quadros. O primeiro quadro mostra duas figuras com cabeças alongadas, uma apontando para cima e falando: 'Olha quem vem lá... o HTML!'. No segundo quadro, a mesma figura fala: 'Fala, HTML! Como vão as coisas?'. Uma caixa de diálogo contém código HTML. No terceiro quadro, a figura novamente fala: '<script> <span> id= {<div> align = \"left\" > <br/> <br/>  <br/> Numa boa, e vocês? <br/> <br/> } </script>'. Na parte inferior direita da imagem, há uma legenda com o título 'La Vie en Rose', o nome do autor (Iturrusgaral), a fonte (Folha de S.Paulo) e a data (11 ago. 2007)."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os quadrinhos exemplificam que as Histórias em Quadrinhos constituem um gênero textual",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Em que a imagem pouco contribui para facilitar a interpretação da mensagem contida no texto, como pode ser constatado no primeiro quadrinho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cuja linguagem se caracteriza por ser rápida e clara, que facilita a compreensão, como se percebe na fala do segundo quadrinho: “</DIV> </SPAN> <BR CLEAR = ALL> < BR> <BR> <SCRIPT>”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Em que o uso de letras com espessuras diversas está ligado a sentimentos expressos pelos personagens, como pode ser percebido no último quadrinho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Que possui em seu texto escrito características próximas a uma conversação face a face, como pode ser percebido no segundo quadrinho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Que a localização casual dos balões nos quadrinhos expressa com clareza a sucessão cronológica da história, como pode ser percebido no segundo quadrinho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

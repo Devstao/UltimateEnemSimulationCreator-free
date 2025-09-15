@@ -1,0 +1,48 @@
+{
+    "title": "Questão 106 - ENEM 2020",
+    "index": 106,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou.\n\n![]([descrição: A imagem mostra uma representação esquemática de um bolsão de ar submerso na água, preso dentro de uma formação rochosa. A profundidade da água é indicada como 50 metros, e a distância vertical do nível da água até o topo do bolsão de ar é de 30 metros.  No canto superior esquerdo, está escrito 'p_atm = 1,0 x 10^5 Pa', indicando a pressão atmosférica. As áreas são rotuladas como 'Água', 'Rocha' e 'Bolsão de ar'.])\n\nDurante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão.\n\n![]([descrição: A imagem mostra um gráfico com dois eixos: o eixo horizontal representa a variação da pressão em kPa, variando de 100 a 700; o eixo vertical representa o tempo de descompressão em minutos, variando de 0 a 100. A curva no gráfico começa baixa (aproximadamente 20 minutos) e aumenta gradualmente à medida que a pressão aumenta até cerca de 400 kPa. Depois disso, a curva se inclina mais acentuadamente, indicando um aumento mais rápido no tempo de descompressão com o aumento da pressão.])\n\nConsidere que a aceleração da gravidade seja igual a ![]([descrição: A imagem mostra o texto '10 m s-2' centralizado em um fundo branco.]) e que a densidade da água seja de ![]([descrição: A imagem mostra o texto 'ρ = 1 000 kg m⁻³' escrito em azul sobre um fundo branco.]).",
+    "files": [
+        "A imagem mostra uma representação esquemática de um bolsão de ar submerso na água, preso dentro de uma formação rochosa. A profundidade da água é indicada como 50 metros, e a distância vertical do nível da água até o topo do bolsão de ar é de 30 metros.  No canto superior esquerdo, está escrito 'p_atm = 1,0 x 10^5 Pa', indicando a pressão atmosférica. As áreas são rotuladas como 'Água', 'Rocha' e 'Bolsão de ar'.",
+        "A imagem mostra um gráfico com dois eixos: o eixo horizontal representa a variação da pressão em kPa, variando de 100 a 700; o eixo vertical representa o tempo de descompressão em minutos, variando de 0 a 100. A curva no gráfico começa baixa (aproximadamente 20 minutos) e aumenta gradualmente à medida que a pressão aumenta até cerca de 400 kPa. Depois disso, a curva se inclina mais acentuadamente, indicando um aumento mais rápido no tempo de descompressão com o aumento da pressão.",
+        "A imagem mostra o texto '10 m s-2' centralizado em um fundo branco.",
+        "A imagem mostra o texto 'ρ = 1 000 kg m⁻³' escrito em azul sobre um fundo branco."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "60.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

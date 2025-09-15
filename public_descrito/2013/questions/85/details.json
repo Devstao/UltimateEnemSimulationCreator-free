@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2013",
+    "index": 85,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma configuração experimental envolvendo um cilindro vertical conectado a uma catraca por um fio. O cilindro está posicionado entre duas placas paralelas, indicadas por 'x's, que representam um campo magnético uniforme (B) perpendicular ao plano da imagem. Uma mola (k) está conectada à extremidade direita do cilindro e presa a uma superfície isolante. A posição do cilindro é indicada pelo eixo x, com as coordenadas C e 0 marcadas. Setas indicam a direção da velocidade (V) e da corrente elétrica (i) no cilindro.])",
+    "files": [
+        "A imagem mostra uma configuração experimental envolvendo um cilindro vertical conectado a uma catraca por um fio. O cilindro está posicionado entre duas placas paralelas, indicadas por 'x's, que representam um campo magnético uniforme (B) perpendicular ao plano da imagem. Uma mola (k) está conectada à extremidade direita do cilindro e presa a uma superfície isolante. A posição do cilindro é indicada pelo eixo x, com as coordenadas C e 0 marcadas. Setas indicam a direção da velocidade (V) e da corrente elétrica (i) no cilindro."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A intensidade do campo magnético, para que o dispositivo funcione corretamente, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 × 10–1 T.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "5 × 10–2 T.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5 × 101  T.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 × 10–2 T.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 × 100  T.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 118 - ENEM 2022",
+    "index": 118,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 2002, foi publicado um artigo científico que  \nrelacionava alterações na produção de hormônios sexuais  \nde sapos machos expostos à atrazina, um herbicida, com  \no desenvolvimento anômalo de seus caracteres sexuais  \nprimários e secundários. Entre os animais sujeitos à  \ncontaminação, observaram-se casos de hermafroditismo  \ne desmasculinização da laringe. O estudo em questão  \ncomparou a concentração de um hormônio específico  \nno sangue de machos expostos ao agrotóxico com a de  \noutros machos e fêmeas que não o foram (controles).  \nOs resultados podem ser vistos na figura.\n\n![]([descrição: Gráfico de barras mostrando a concentração do hormônio (ng mL⁻¹) em machos controle, machos expostos à atrazina e fêmeas controle. Os machos controle apresentam uma média de aproximadamente 4 ng mL⁻¹ com um desvio padrão elevado. Os machos expostos à atrazina mostram uma média significativamente menor, em torno de 0,5 ng mL⁻¹. As fêmeas controle exibem uma concentração média próxima a 0,8 ng mL⁻¹, também com desvio padrão baixo.])\n\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to  \nthe Herbicide Atrazine at Low Ecologically Relevant Doses. **Proceedings of**  \n**the National Academy of Sciences**, n. 8, 2002 (adaptado).",
+    "files": [
+        "Gráfico de barras mostrando a concentração do hormônio (ng mL⁻¹) em machos controle, machos expostos à atrazina e fêmeas controle. Os machos controle apresentam uma média de aproximadamente 4 ng mL⁻¹ com um desvio padrão elevado. Os machos expostos à atrazina mostram uma média significativamente menor, em torno de 0,5 ng mL⁻¹. As fêmeas controle exibem uma concentração média próxima a 0,8 ng mL⁻¹, também com desvio padrão baixo."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nas informações do texto, qual é o hormônio\ncujas concentrações estão representadas na figura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estrogênio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Feromônio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Testosterona.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Somatotrofina",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Hormônio folículo estimulante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

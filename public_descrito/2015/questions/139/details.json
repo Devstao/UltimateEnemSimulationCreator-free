@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2015",
+    "index": 139,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra duas cartas e um conjunto de outras cartas dispostas em fã. A carta da mesa é quadrada, com as frações 6/8 e 6/8 nos cantos superiores e inferiores, respectivamente. No centro da carta da mesa, há um quadrado dividido por quatro linhas formando oito quadrados menores. As cartas na mão exibem diferentes números e porcentagens, incluindo 75%, 3,4, 34%, 0,75, 4,3, 7,5, 4/3, 6,8 e 4/3. Uma das cartas da mão também possui um quadrado dividido por quatro linhas como a carta da mesa.])",
+    "files": [
+        "A imagem mostra duas cartas e um conjunto de outras cartas dispostas em fã. A carta da mesa é quadrada, com as frações 6/8 e 6/8 nos cantos superiores e inferiores, respectivamente. No centro da carta da mesa, há um quadrado dividido por quatro linhas formando oito quadrados menores. As cartas na mão exibem diferentes números e porcentagens, incluindo 75%, 3,4, 34%, 0,75, 4,3, 7,5, 4/3, 6,8 e 4/3. Uma das cartas da mão também possui um quadrado dividido por quatro linhas como a carta da mesa."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Segundo as regras do jogo, quantas cartas da mão desse jogador podem formar um par com a carta da mesa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

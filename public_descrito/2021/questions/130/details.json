@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2021",
+    "index": 130,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria alimentícia se utiliza de flavorizantes. Em geral, essas substâncias são ésteres, como as apresentadas no quadro.\n\n![]([descrição: A imagem mostra uma tabela com seis linhas, cada uma representando um composto químico diferente. As colunas da tabela são 'Nome', 'Fórmula' e 'Aroma'.\n\nNa primeira linha, o nome é 'Benzoato de metila', a fórmula é 'C6H5CO2CH3' e o aroma é 'Kiwi'.\n\nNa segunda linha, o nome é 'Acetato de isoamila', a fórmula é 'CH3CO2(CH2)2CH(CH3)2' e o aroma é 'Banana'.\n\nNa terceira linha, o nome é 'Acetato de benzila', a fórmula é 'CH3CO2CH2C6H5' e o aroma é 'Pêssego'.\n\nNa quarta linha, o nome é 'Propanoato de isobutila', a fórmula é 'CH3CH2CO2CH2CH(CH3)2' e o aroma é 'Rum'.\n\nNa quinta linha, o nome é 'Antranilato de metila', a fórmula é 'C6H4NH2CO2CH3' e o aroma é 'Uva'.])",
+    "files": [
+        "A imagem mostra uma tabela com seis linhas, cada uma representando um composto químico diferente. As colunas da tabela são 'Nome', 'Fórmula' e 'Aroma'.\n\nNa primeira linha, o nome é 'Benzoato de metila', a fórmula é 'C6H5CO2CH3' e o aroma é 'Kiwi'.\n\nNa segunda linha, o nome é 'Acetato de isoamila', a fórmula é 'CH3CO2(CH2)2CH(CH3)2' e o aroma é 'Banana'.\n\nNa terceira linha, o nome é 'Acetato de benzila', a fórmula é 'CH3CO2CH2C6H5' e o aroma é 'Pêssego'.\n\nNa quarta linha, o nome é 'Propanoato de isobutila', a fórmula é 'CH3CH2CO2CH2CH(CH3)2' e o aroma é 'Rum'.\n\nNa quinta linha, o nome é 'Antranilato de metila', a fórmula é 'C6H4NH2CO2CH3' e o aroma é 'Uva'."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O aroma do flavorizante derivado do ácido etanoico e que apresenta cadeia carbônica saturada é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Kiwi.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Banana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Pêssego.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Rum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uva.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

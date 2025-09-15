@@ -1,0 +1,45 @@
+{
+    "title": "Questão 129 - ENEM 2022",
+    "index": 129,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O esquema representa o ciclo do nitrogênio:\n\n![]([descrição: Diagrama esquemático do ciclo do nitrogênio. O diagrama ilustra o fluxo de nitrogênio através de diferentes componentes do ecossistema, incluindo plantas, decompositores (fungos e bactérias aeróbicas e anaeróbicas), bactérias fixadoras de N2 no solo e nos nódulos de raízes de leguminosas, bactérias nitrificantes e desnitrificantes. As setas indicam as transformações do nitrogênio entre esses componentes, como amonificação, nitrificação, assimilação e desnitrificação. Os compostos nitrogenados envolvidos no ciclo são identificados, incluindo N2, amônia (NH3), íons amônio (NH4+), nitritos (NO2-) e nitratos (NO3-).])\n\nA chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma diminuição do pH do solo e da atmosfera, alterando a concentração dos compostos presentes nesse ciclo.\n\nDisponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado).",
+    "files": [
+        "Diagrama esquemático do ciclo do nitrogênio. O diagrama ilustra o fluxo de nitrogênio através de diferentes componentes do ecossistema, incluindo plantas, decompositores (fungos e bactérias aeróbicas e anaeróbicas), bactérias fixadoras de N2 no solo e nos nódulos de raízes de leguminosas, bactérias nitrificantes e desnitrificantes. As setas indicam as transformações do nitrogênio entre esses componentes, como amonificação, nitrificação, assimilação e desnitrificação. Os compostos nitrogenados envolvidos no ciclo são identificados, incluindo N2, amônia (NH3), íons amônio (NH4+), nitritos (NO2-) e nitratos (NO3-)."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em um solo de menor pH, será favorecida a formação de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "N2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "NH3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "NH4 +",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "NO2 −",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "NO3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

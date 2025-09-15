@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2013",
+    "index": 165,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um grafo com quatro nós, identificados pelas letras A, B, C e D. Os nós estão conectados por quatro arestas: uma entre A e B, uma entre B e C, uma entre C e D e uma entre D e A. O grafo forma um losango.])",
+    "files": [
+        "A imagem mostra um grafo com quatro nós, identificados pelas letras A, B, C e D. Os nós estão conectados por quatro arestas: uma entre A e B, uma entre B e C, uma entre C e D e uma entre D e A. O grafo forma um losango."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nas informações fornecidas, quantas joias diferentes, nesse formato, o artesão poderá obter?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "36",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

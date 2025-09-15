@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2011",
+    "index": 139,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem ilustra o sistema de numeração posicional utilizando relógios para representar cada casa decimal. Quatro relógios são mostrados, representando Milhar, Centena, Dezena e Unidade, respectivamente. Cada relógio possui números dispostos como em um mostrador de relógio, com ponteiros indicando valores específicos: o relógio do Milhar aponta para 1, o da Centena para 0, o da Dezena para 9 e o da Unidade para 3. Setas indicam a direção dos valores de cada casa decimal.])\n\nA medida é expressa em kWh. O número obtido na leitura é composto por 4 algarismos. Cada posição do número é formada pelo último algarismo ultrapassado pelo ponteiro.",
+    "files": [
+        "A imagem ilustra o sistema de numeração posicional utilizando relógios para representar cada casa decimal. Quatro relógios são mostrados, representando Milhar, Centena, Dezena e Unidade, respectivamente. Cada relógio possui números dispostos como em um mostrador de relógio, com ponteiros indicando valores específicos: o relógio do Milhar aponta para 1, o da Centena para 0, o da Dezena para 9 e o da Unidade para 3. Setas indicam a direção dos valores de cada casa decimal."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O número obtido pela leitura em kWh, na imagem, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 614.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2 624.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 715.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 725.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 162.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

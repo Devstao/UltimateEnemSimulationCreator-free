@@ -1,0 +1,46 @@
+{
+    "title": "Questão 112 - ENEM 2011",
+    "index": 112,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\n![]([descrição: A imagem mostra uma parede rochosa com pinturas rupestres em preto e branco. As figuras representam humanos, animais (possivelmente cervos ou veados) e formas geométricas como linhas verticais e espirais. A pintura está localizada em um afloramento rochoso que se projeta sobre o terreno. O estilo das pinturas sugere arte rupestre antiga.])\n\nToca do Salitre – Piauí  \nDisponível em: http://www.fumdham.org.br. Acesso em: 27 jul. 2010.\n\n**TEXTO II**\n\n![]([descrição: A imagem mostra uma pintura em preto e branco de duas figuras humanas entrelaçadas, com um estilo que lembra grafite ou arte urbana. As figuras parecem estar se abraçando ou lutando, com expressões faciais tensas e poses dinâmicas. O fundo é coberto por outros grafites e rabiscos, criando uma atmosfera caótica e urbana. A pintura parece estar em uma parede de concreto.])\n\nArte Urbana. Foto: Diego Singh  \nDisponível em: http://www.diaadia.pr.gov.br. Acesso em: 27 jul. 2010.",
+    "files": [
+        "A imagem mostra uma parede rochosa com pinturas rupestres em preto e branco. As figuras representam humanos, animais (possivelmente cervos ou veados) e formas geométricas como linhas verticais e espirais. A pintura está localizada em um afloramento rochoso que se projeta sobre o terreno. O estilo das pinturas sugere arte rupestre antiga.",
+        "A imagem mostra uma pintura em preto e branco de duas figuras humanas entrelaçadas, com um estilo que lembra grafite ou arte urbana. As figuras parecem estar se abraçando ou lutando, com expressões faciais tensas e poses dinâmicas. O fundo é coberto por outros grafites e rabiscos, criando uma atmosfera caótica e urbana. A pintura parece estar em uma parede de concreto."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O grafite contemporâneo, considerado em alguns momentos como uma arte marginal, tem sido comparado às pinturas murais de várias épocas e às escritas pré-históricas. Observando as imagens apresentadas, é possível reconhecer elementos comuns entre os tipos de pinturas murais, tais como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A preferência por tintas naturais, em razão de seu efeito estético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A inovação na técnica de pintura, rompendo com modelos estabelecidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O registro do pensamento e das crenças das sociedades em várias épocas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A repetição dos temas e a restrição de uso pelas classes dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O uso exclusivista da arte para atender aos interesses da elite.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

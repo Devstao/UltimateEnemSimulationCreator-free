@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2015",
+    "index": 92,
+    "year": 2015,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma tirinha em preto e branco com quatro quadros. Os quadros mostram dois personagens, um homem e uma mulher, sentados à mesa bebendo chá. No primeiro quadro, o homem diz: 'Bem, aqui está. A estação que eu odeio'. No segundo quadro, a mulher diz: 'Venha, Anne! As crianças estão na escola, o ar está fresco, as folhas estão caindo'. No terceiro quadro, o homem responde: 'Eu não estou falando sobre o outono, seu idiota!'. No quarto e último quadro, ele diz: 'Estou falando de futebol'.])\n\nRIDGWAY, L. Disponível em: http://fborfw.com. Acesso em: 23 fev. 2012.",
+    "files": [
+        "A imagem é uma tirinha em preto e branco com quatro quadros. Os quadros mostram dois personagens, um homem e uma mulher, sentados à mesa bebendo chá. No primeiro quadro, o homem diz: 'Bem, aqui está. A estação que eu odeio'. No segundo quadro, a mulher diz: 'Venha, Anne! As crianças estão na escola, o ar está fresco, as folhas estão caindo'. No terceiro quadro, o homem responde: 'Eu não estou falando sobre o outono, seu idiota!'. No quarto e último quadro, ele diz: 'Estou falando de futebol'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na tira da série For better or for worse, a comunicação entre as personagens fica comprometida em um determinado momento porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As duas amigas divergem de opinião sobre futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Uma das amigas desconsidera as preferências da outra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Uma das amigas ignora que o outono é temporada de futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uma das amigas desconhece a razão pela qual a outra a maltrata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As duas amigas atribuem sentidos diferentes à palavra season.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

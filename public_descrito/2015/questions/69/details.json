@@ -1,0 +1,45 @@
+{
+    "title": "Questão 69 - ENEM 2015",
+    "index": 69,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: O gráfico mostra o consumo de glicose (eixo y) em função da concentração de oxigênio (eixo x). Apresenta três curvas distintas, todas oscilantes e com picos e vales regulares. Uma linha tracejada ascendente acompanha as curvas, indicando uma tendência geral de aumento do consumo de glicose com o aumento da concentração de oxigênio. As unidades dos eixos são arbitrárias.])",
+    "files": [
+        "O gráfico mostra o consumo de glicose (eixo y) em função da concentração de oxigênio (eixo x). Apresenta três curvas distintas, todas oscilantes e com picos e vales regulares. Uma linha tracejada ascendente acompanha as curvas, indicando uma tendência geral de aumento do consumo de glicose com o aumento da concentração de oxigênio. As unidades dos eixos são arbitrárias."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual curva representa o perfil de consumo de glicose, para manutenção da homeostase de uma célula que inicialmente está em uma condição anaeróbica e é submetida a um aumento gradual da concentração de oxigênio?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

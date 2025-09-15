@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2010",
+    "index": 140,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados sobre a classificação de países em relação ao número de medalhas conquistadas. A tabela possui as colunas 'Classificação', 'País', 'Medalhas de ouro', 'Medalhas de prata', 'Medalhas de bronze' e 'Total de medalhas'. Os países listados são Itália (8º lugar, 10 ouros, 11 pratas, 11 bronzes, totalizando 32), Coreia do Sul (9º lugar, 9 ouros, 12 pratas, 9 bronzes, totalizando 30), Grã-Bretanha (10º lugar, 9 ouros, 9 pratas, 12 bronzes, totalizando 30), Cuba (11º lugar, 9 ouros, 7 pratas, 11 bronzes, totalizando 27), Ucrânia (12º lugar, 9 ouros, 5 pratas, 9 bronzes, totalizando 23) e Hungria (13º lugar, 8 ouros, 6 pratas, 3 bronzes, totalizando 17). A fonte dos dados é indicada na parte inferior da imagem.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre a classificação de países em relação ao número de medalhas conquistadas. A tabela possui as colunas 'Classificação', 'País', 'Medalhas de ouro', 'Medalhas de prata', 'Medalhas de bronze' e 'Total de medalhas'. Os países listados são Itália (8º lugar, 10 ouros, 11 pratas, 11 bronzes, totalizando 32), Coreia do Sul (9º lugar, 9 ouros, 12 pratas, 9 bronzes, totalizando 30), Grã-Bretanha (10º lugar, 9 ouros, 9 pratas, 12 bronzes, totalizando 30), Cuba (11º lugar, 9 ouros, 7 pratas, 11 bronzes, totalizando 27), Ucrânia (12º lugar, 9 ouros, 5 pratas, 9 bronzes, totalizando 23) e Hungria (13º lugar, 8 ouros, 6 pratas, 3 bronzes, totalizando 17). A fonte dos dados é indicada na parte inferior da imagem."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se o Brasil tivesse obtido mais 4 medalhas de ouro, 4 de prata e 10 de bronze, sem alteração no número de medalhas dos demais países mostrados no quadro, qual teria sido a classificação brasileira no quadro de medalhas das Olimpíadas de 2004?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "13º",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12º",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "11º",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10º",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9º",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

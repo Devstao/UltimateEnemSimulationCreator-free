@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2019",
+    "index": 112,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão presentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação fracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na destilação do petróleo em diferentes faixas de temperaturas.\n\n![]([descrição: A imagem mostra uma tabela com informações sobre as frações do petróleo. A tabela possui quatro linhas, cada uma representando uma fração diferente: 1, 2, 3 e 4. Cada linha contém colunas que descrevem a faixa de temperatura em graus Celsius, exemplos de produtos derivados dessa fração e o número de átomos de carbono (hidrocarboneto) com sua fórmula geral. A fração 1 corresponde a temperaturas até 20°C, sendo composta por gás natural e gás de cozinha (GLP), com hidrocarbonetos de C₁ a C₄. A fração 2 varia de 30 a 180°C, representando gasolina, com hidrocarbonetos de C₆ a C₁₂. A fração 3 tem temperaturas entre 170 e 290°C, sendo o queroseno seu exemplo, com hidrocarbonetos de C₁₁ a C₁₆. Por fim, a fração 4 possui temperaturas de 260 a 350°C, correspondendo ao óleo diesel, com hidrocarbonetos de C₁₄ a C₁₈. Na parte inferior da imagem, há uma referência à fonte das informações: SANTA MARIA, L. C. et al. Petróleo: um tema para o ensino de química. Química Nova na Escola, n. 15, maio 2002 (adaptado).])",
+    "files": [
+        "A imagem mostra uma tabela com informações sobre as frações do petróleo. A tabela possui quatro linhas, cada uma representando uma fração diferente: 1, 2, 3 e 4. Cada linha contém colunas que descrevem a faixa de temperatura em graus Celsius, exemplos de produtos derivados dessa fração e o número de átomos de carbono (hidrocarboneto) com sua fórmula geral. A fração 1 corresponde a temperaturas até 20°C, sendo composta por gás natural e gás de cozinha (GLP), com hidrocarbonetos de C₁ a C₄. A fração 2 varia de 30 a 180°C, representando gasolina, com hidrocarbonetos de C₆ a C₁₂. A fração 3 tem temperaturas entre 170 e 290°C, sendo o queroseno seu exemplo, com hidrocarbonetos de C₁₁ a C₁₆. Por fim, a fração 4 possui temperaturas de 260 a 350°C, correspondendo ao óleo diesel, com hidrocarbonetos de C₁₄ a C₁₈. Na parte inferior da imagem, há uma referência à fonte das informações: SANTA MARIA, L. C. et al. Petróleo: um tema para o ensino de química. Química Nova na Escola, n. 15, maio 2002 (adaptado)."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Suas densidades são maiores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O número de ramificações é maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sua solubilidade no petróleo é maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As forças intermoleculares são mais intensas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A cadeia carbônica é mais difícil de ser quebrada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

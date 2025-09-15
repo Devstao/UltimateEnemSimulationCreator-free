@@ -1,0 +1,45 @@
+{
+    "title": "Questão 98 - ENEM 2016",
+    "index": 98,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma parede decorada com um mosaico geométrico em preto e branco. O mosaico é composto por quadrados e retângulos interligados, alguns contendo padrões circulares ou semicirculares. A parede parece estar localizada em um espaço público, possivelmente um túnel ou passagem subterrânea, como indicado pelo piso de concreto e pela iluminação no teto. No canto inferior direito da imagem, há uma assinatura legível como \"Claus Torni\". Algumas pessoas podem ser vistas caminhando ao fundo, indicando a presença de movimento na área.])\n\nTOZZI, C. **Colcha de retalhos**. Mosaico figurativo. Estação de Metrô Sé. Disponível em: www.arteforadomuseu.com.br. Acesso em 8 mar. 2013.",
+    "files": [
+        "A imagem mostra uma parede decorada com um mosaico geométrico em preto e branco. O mosaico é composto por quadrados e retângulos interligados, alguns contendo padrões circulares ou semicirculares. A parede parece estar localizada em um espaço público, possivelmente um túnel ou passagem subterrânea, como indicado pelo piso de concreto e pela iluminação no teto. No canto inferior direito da imagem, há uma assinatura legível como \"Claus Torni\". Algumas pessoas podem ser vistas caminhando ao fundo, indicando a presença de movimento na área."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Colcha de retalhos representa a essência do mural e convida o público a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apreciar a estética do cotidiano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Interagir com os elementos da composição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Refletir sobre elementos do inconsciente do artista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reconhecer a estética clássica das formas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Contemplar a obra por meio da movimentação física.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

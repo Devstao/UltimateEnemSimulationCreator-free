@@ -1,0 +1,45 @@
+{
+    "title": "Questão 74 - ENEM 2018",
+    "index": 74,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem é uma ilustração em preto e branco, com estilo vintage, representando uma família brasileira. Um homem bem vestido, de terno e chapéu, sorri enquanto observa duas crianças: um menino uniformizado e uma menina usando um laço grande no cabelo. A menina estende a mão para o pai, que parece estar segurando um objeto (possivelmente uma bandeira ou instrumento). Ao fundo, há um texto em português com frases sobre patriotismo e amor à pátria. Na parte inferior da imagem, há uma nota indicando a fonte da imagem e a data de acesso.])",
+    "files": [
+        "A imagem é uma ilustração em preto e branco, com estilo vintage, representando uma família brasileira. Um homem bem vestido, de terno e chapéu, sorri enquanto observa duas crianças: um menino uniformizado e uma menina usando um laço grande no cabelo. A menina estende a mão para o pai, que parece estar segurando um objeto (possivelmente uma bandeira ou instrumento). Ao fundo, há um texto em português com frases sobre patriotismo e amor à pátria. Na parte inferior da imagem, há uma nota indicando a fonte da imagem e a data de acesso."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa imagem foi impressa em cartilha escolar durante a vigência do Estado Novo com o intuito de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Destacar a sabedoria inata do líder governamental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Atender a necessidade familiar de obediência infantil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Promover o desenvolvimento consistente das atitudes solidárias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Conquistar a aprovação política por meio do apelo carismático.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Estimular o interesse acadêmico por meio de exercícios intelectuais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

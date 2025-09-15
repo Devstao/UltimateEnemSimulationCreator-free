@@ -1,0 +1,45 @@
+{
+    "title": "Questão 161 - ENEM 2013",
+    "index": 161,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra o custo em reais (R$) versus a massa em gramas (g). O eixo vertical representa o custo, variando de 0,80 a 4,45 R$. O eixo horizontal representa a massa, variando de 0 a 400 g. A curva é composta por segmentos horizontais, indicando um preço fixo para diferentes faixas de massa. Os pontos são: (50g, 1,25R$), (100g, 1,70R$), (150g, 2,15R$), (200g, 2,65R$), (250g, 3,55R$), (300g, 4,00R$) e (400g, 4,45R$).])\n\nDisponível em: www.correios.com.br. Acesso em: 2 ago. 2012 (adaptado).",
+    "files": [
+        "O gráfico mostra o custo em reais (R$) versus a massa em gramas (g). O eixo vertical representa o custo, variando de 0,80 a 4,45 R$. O eixo horizontal representa a massa, variando de 0 a 400 g. A curva é composta por segmentos horizontais, indicando um preço fixo para diferentes faixas de massa. Os pontos são: (50g, 1,25R$), (100g, 1,70R$), (150g, 2,15R$), (200g, 2,65R$), (250g, 3,55R$), (300g, 4,00R$) e (400g, 4,45R$)."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O valor total gasto, em reais, para postar essas cartas é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8,35",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14,40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "15,35",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "18,05",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

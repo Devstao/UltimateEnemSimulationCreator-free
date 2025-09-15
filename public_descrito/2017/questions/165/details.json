@@ -1,0 +1,46 @@
+{
+    "title": "Questão 165 - ENEM 2017",
+    "index": 165,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico de barras mostra a porcentagem de eleitores para dois candidatos, A e B. O candidato A recebeu 70% dos votos, enquanto o candidato B recebeu 30%. O eixo vertical representa a porcentagem de eleitores, variando de 0 a 70%, e o eixo horizontal identifica os candidatos.])\n\nAo ser divulgado esse resultado em jornal, o Gráfico 1 foi cortado durante a diagramação, como mostra o Gráfico 2.\n\n![]([descrição: O gráfico de barras compara o percentual de eleitores entre dois candidatos, A e B. O candidato A obteve aproximadamente 70% dos votos, enquanto o candidato B recebeu cerca de 30%. O eixo vertical representa o percentual de eleitores, variando de 20 a 75%, e o eixo horizontal identifica os candidatos.])\n\nApesar de os valores apresentados estarem corretos e a largura das colunas ser a mesma, muitos leitores criticaram o formato do Gráfico 2 impresso no jornal, alegando que houve prejuízo visual para o candidato B.",
+    "files": [
+        "O gráfico de barras mostra a porcentagem de eleitores para dois candidatos, A e B. O candidato A recebeu 70% dos votos, enquanto o candidato B recebeu 30%. O eixo vertical representa a porcentagem de eleitores, variando de 0 a 70%, e o eixo horizontal identifica os candidatos.",
+        "O gráfico de barras compara o percentual de eleitores entre dois candidatos, A e B. O candidato A obteve aproximadamente 70% dos votos, enquanto o candidato B recebeu cerca de 30%. O eixo vertical representa o percentual de eleitores, variando de 20 a 75%, e o eixo horizontal identifica os candidatos."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A diferença entre as razões da altura da coluna B pela coluna A nos gráficos 1 e 2 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1/5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2/15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8/35.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

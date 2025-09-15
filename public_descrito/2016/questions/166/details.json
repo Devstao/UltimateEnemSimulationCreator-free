@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2016",
+    "index": 166,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um gráfico cartesiano com os eixos x e y rotulados em quilômetros (km). Um semicírculo está desenhado acima do eixo x, com o centro na origem (0,0) e um raio de 1 km. Dois pontos são marcados no semicírculo: F = (-1, 1) no canto superior esquerdo e B = (1, -1) no canto inferior direito. O ponto F está localizado acima do eixo x e à esquerda do eixo y, enquanto o ponto B está abaixo do eixo x e à direita do eixo y.])\n\nEstudos de viabilidade técnica mostraram que, pelas características do solo, a construção de 1 m de galeria via segmento de reta demora 1,0 h, enquanto que 1 m de construção de galeria via semicircunferência demora 0,6 h. Há urgência em disponibilizar água para esse bairro.\n\nUse 3 como aproximação para π e 1,4 como aproximação para √2 .",
+    "files": [
+        "A imagem mostra um gráfico cartesiano com os eixos x e y rotulados em quilômetros (km). Um semicírculo está desenhado acima do eixo x, com o centro na origem (0,0) e um raio de 1 km. Dois pontos são marcados no semicírculo: F = (-1, 1) no canto superior esquerdo e B = (1, -1) no canto inferior direito. O ponto F está localizado acima do eixo x e à esquerda do eixo y, enquanto o ponto B está abaixo do eixo x e à direita do eixo y."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O menor tempo possível, em hora, para conclusão da construção da galeria, para atender às necessidades de água do bairro, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 260.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 520.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2 800.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 600.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2022",
+    "index": 138,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no  \ndecorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa.\n\n![]([descrição: O gráfico de barras comparativo mostra as receitas e despesas mensais ao longo de um ano. As receitas são representadas por barras pretas, enquanto as despesas são representadas por barras cinzas. Os meses do ano estão listados no eixo horizontal (Jan., Fev., Mar., Abr., Maio, Jun., Jul., Ago., Set., Out., Nov., Dez.) e os valores das receitas e despesas estão no eixo vertical, variando de 0 a 9. As receitas são geralmente maiores que as despesas em todos os meses, com exceção de fevereiro e julho. O mês de novembro apresenta o maior valor tanto para receitas quanto para despesas.])",
+    "files": [
+        "O gráfico de barras comparativo mostra as receitas e despesas mensais ao longo de um ano. As receitas são representadas por barras pretas, enquanto as despesas são representadas por barras cinzas. Os meses do ano estão listados no eixo horizontal (Jan., Fev., Mar., Abr., Maio, Jun., Jul., Ago., Set., Out., Nov., Dez.) e os valores das receitas e despesas estão no eixo vertical, variando de 0 a 9. As receitas são geralmente maiores que as despesas em todos os meses, com exceção de fevereiro e julho. O mês de novembro apresenta o maior valor tanto para receitas quanto para despesas."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a mediana, em milhão de reais, dos valores dos lucros apurados pela empresa nesse ano?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5,5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

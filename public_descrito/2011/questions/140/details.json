@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2011",
+    "index": 140,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma lista de terrenos com suas dimensões, escritas em português. Cada linha representa um terreno e suas medidas em metros (m). Os terrenos listados são: Terreno 1 (55 m por 45 m), Terreno 2 (55 m por 55 m), Terreno 3 (60 m por 30 m), Terreno 4 (70 m por 20 m) e Terreno 5 (95 m por 85 m). O texto está centralizado na imagem, com um fundo branco e bordas levemente sombreadas.])",
+    "files": [
+        "A imagem mostra uma lista de terrenos com suas dimensões, escritas em português. Cada linha representa um terreno e suas medidas em metros (m). Os terrenos listados são: Terreno 1 (55 m por 45 m), Terreno 2 (55 m por 55 m), Terreno 3 (60 m por 30 m), Terreno 4 (70 m por 20 m) e Terreno 5 (95 m por 85 m). O texto está centralizado na imagem, com um fundo branco e bordas levemente sombreadas."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para optar pelo terreno de maior área, que atenda às restrições impostas pela prefeitura, os moradores deverão escolher o terreno.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

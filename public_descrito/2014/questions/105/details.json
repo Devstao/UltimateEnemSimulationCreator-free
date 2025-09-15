@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2014",
+    "index": 105,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma ilustração em preto e branco de uma figura monstruosa com braços e pernas grossas e arredondadas, em estilo de desenho infantil. A forma da criatura é preenchida com texto em português que diz 'Para algumas crianças o pesadelo chega antes do sono'. Na parte inferior esquerda, há um texto menor que diz: 'Denuncie qualquer caso de violência sexual infantil. Ligue 100.'. Há também uma linha de texto na parte inferior direita indicando a fonte da imagem e a data de acesso.])\n\nOs meios de comunicação podem contribuir para a resolução de problemas sociais, entre os quais o da violência sexual infantil.",
+    "files": [
+        "A imagem mostra uma ilustração em preto e branco de uma figura monstruosa com braços e pernas grossas e arredondadas, em estilo de desenho infantil. A forma da criatura é preenchida com texto em português que diz 'Para algumas crianças o pesadelo chega antes do sono'. Na parte inferior esquerda, há um texto menor que diz: 'Denuncie qualquer caso de violência sexual infantil. Ligue 100.'. Há também uma linha de texto na parte inferior direita indicando a fonte da imagem e a data de acesso."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse sentido, a propaganda usa a metáfora do pesadelo para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Informar crianças vítimas de abuso sexual sobre os perigos dessa prática, contribuindo para erradicá-la.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Denunciar ocorrências de abuso sexual contra meninas, com o objetivo de colocar criminosos na cadeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dar a devida dimensão do que é o abuso sexual para uma criança, enfatizando a importância da denúncia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Destacar que a violência sexual infantil predomina durante a noite, o que requer maior cuidado dos responsáveis nesse período.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Chamar a atenção para o fato de o abuso infantil ocorrer durante o sono, sendo confundido por algumas crianças com um pesadelo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

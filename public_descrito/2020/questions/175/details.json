@@ -1,0 +1,45 @@
+{
+    "title": "Questão 175 - ENEM 2020",
+    "index": 175,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de produção de seus itens, em real, em função da quantidade de itens produzidos.\n\n![]([descrição: O gráfico apresenta duas curvas, uma representando a receita (em Reais) e outra o custo (em Reais), ambas em função da quantidade de itens produzidos. O eixo vertical representa os valores em Reais (R$), variando de 0 a 55. O eixo horizontal representa a quantidade de itens produzidos, variando de 0 a 30. A curva da receita começa em um valor baixo e aumenta gradualmente até atingir um pico próximo à quantidade de 15 itens produzidos, depois diminui levemente. A curva do custo também começa baixa, aumenta mais rapidamente que a receita, atinge um ponto máximo próximo à quantidade de 20 itens produzidos, e depois diminui.])\n\nO lucro é determinado pela diferença: Receita – Custo.",
+    "files": [
+        "O gráfico apresenta duas curvas, uma representando a receita (em Reais) e outra o custo (em Reais), ambas em função da quantidade de itens produzidos. O eixo vertical representa os valores em Reais (R$), variando de 0 a 55. O eixo horizontal representa a quantidade de itens produzidos, variando de 0 a 30. A curva da receita começa em um valor baixo e aumenta gradualmente até atingir um pico próximo à quantidade de 15 itens produzidos, depois diminui levemente. A curva do custo também começa baixa, aumenta mais rapidamente que a receita, atinge um ponto máximo próximo à quantidade de 20 itens produzidos, e depois diminui."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/b3298ba7-589f-4ca3-a510-3cebdb9903cd.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/fdcc74b5-e93d-42c8-9cce-7e018e43eb67.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/8d380a8c-6b10-40a5-bafa-cfe75141c412.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/5c8b1402-d364-4c5f-beaa-559cb23d0891.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/f718a2fc-7a30-4e17-b4b3-28dfb028a6f5.png",
+            "isCorrect": false
+        }
+    ]
+}

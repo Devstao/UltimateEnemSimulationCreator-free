@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2016",
+    "index": 139,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra o volume (em litros) versus tempo (em horas). O eixo y representa o volume, variando de 0 a 6000 L, e o eixo x representa o tempo, variando de 0 a 3 h. A linha do gráfico começa em um ponto A no valor de 6000 L quando o tempo é 0 h. A linha diminui ligeiramente até o ponto B, onde o volume é aproximadamente 5200 L e o tempo é 1 h. Em seguida, a linha continua diminuindo até o ponto C, onde o volume é próximo de 4000 L e o tempo é 3 h.])",
+    "files": [
+        "O gráfico mostra o volume (em litros) versus tempo (em horas). O eixo y representa o volume, variando de 0 a 6000 L, e o eixo x representa o tempo, variando de 0 a 3 h. A linha do gráfico começa em um ponto A no valor de 6000 L quando o tempo é 0 h. A linha diminui ligeiramente até o ponto B, onde o volume é aproximadamente 5200 L e o tempo é 1 h. Em seguida, a linha continua diminuindo até o ponto C, onde o volume é próximo de 4000 L e o tempo é 3 h."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é a vazão, em litro por hora, da bomba que foi ligada no início da segunda hora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 250",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 500",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

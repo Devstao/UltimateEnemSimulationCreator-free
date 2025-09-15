@@ -1,0 +1,45 @@
+{
+    "title": "Questão 93 - ENEM 2015",
+    "index": 93,
+    "year": 2015,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra um sinal preto e branco com o símbolo internacional de acessibilidade para deficientes físicos (uma figura sentada em uma cadeira de rodas). Acima do símbolo, há texto em espanhol que diz: 'si te quedas mi aparcamiento, quédate mi discapacidad' (se você ficar no meu estacionamento, fique com minha deficiência). Abaixo do texto, há a frase 'no aumentes mis barreras' (não aumente minhas barreiras). O símbolo da cadeira de rodas também está pintado no chão em branco.])\n\nDisponível em: www.lacronicadeleon.es. Acesso em: 12 mar. 2012 (adaptado).",
+    "files": [
+        "A imagem mostra um sinal preto e branco com o símbolo internacional de acessibilidade para deficientes físicos (uma figura sentada em uma cadeira de rodas). Acima do símbolo, há texto em espanhol que diz: 'si te quedas mi aparcamiento, quédate mi discapacidad' (se você ficar no meu estacionamento, fique com minha deficiência). Abaixo do texto, há a frase 'no aumentes mis barreras' (não aumente minhas barreiras). O símbolo da cadeira de rodas também está pintado no chão em branco."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A acessibilidade é um tema de relevância tanto na esfera pública quanto na esfera privada. No cartaz, a exploração desse tema destaca a importância de se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estimular os cadeirantes na superação de barreiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Respeitar o estacionamento destinado a cadeirantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Identificar as vagas reservadas aos cadeirantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Eliminar os obstáculos para o trânsito de cadeirantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Facilitar a locomoção de cadeirantes em estacionamentos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

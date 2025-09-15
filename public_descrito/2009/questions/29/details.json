@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2009",
+    "index": 29,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico mostra a relação entre o número de prótons (Z) e o número de nêutrons (N) em núcleos atômicos. O eixo horizontal representa o número de prótons (Z), variando de 0 a 110, enquanto o eixo vertical representa o número de nêutrons (N), variando de 0 a 160. Uma linha diagonal indica a condição Z = N, onde o número de prótons é igual ao número de nêutrons. Pontos espalhados representam núcleos reais, com uma tendência de aumentar o número de nêutrons em relação ao número de prótons à medida que Z aumenta. A área superior do gráfico é marcada como 'Núcleos estáveis'. Linhas diagonais adicionais estão presentes no fundo do gráfico, indicando relações entre N e Z.])",
+    "files": [
+        "O gráfico mostra a relação entre o número de prótons (Z) e o número de nêutrons (N) em núcleos atômicos. O eixo horizontal representa o número de prótons (Z), variando de 0 a 110, enquanto o eixo vertical representa o número de nêutrons (N), variando de 0 a 160. Uma linha diagonal indica a condição Z = N, onde o número de prótons é igual ao número de nêutrons. Pontos espalhados representam núcleos reais, com uma tendência de aumentar o número de nêutrons em relação ao número de prótons à medida que Z aumenta. A área superior do gráfico é marcada como 'Núcleos estáveis'. Linhas diagonais adicionais estão presentes no fundo do gráfico, indicando relações entre N e Z."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O antimônio é um elemento químico que possui 50 prótons e possui vários isótopos ― átomos que só se diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Entre 12 e 24 nêutrons a menos que o número de prótons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Exatamente o mesmo número de prótons e nêutrons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Entre 0 e 12 nêutrons a mais que o número de prótons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Entre 12 e 24 nêutrons a mais que o número de prótons.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Entre 0 e 12 nêutrons a menos que o número de prótons.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

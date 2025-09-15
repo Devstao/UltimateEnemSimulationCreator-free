@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2018",
+    "index": 114,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Por meio de reações químicas que envolvem carboidratos, lipídeos e proteínas, nossas células obtêm energia e produzem gás carbônico e água. A oxidação da glicose no organismo humano libera energia, conforme ilustra a equação química, sendo que aproximadamente 40% dela é disponibilizada para atividade muscular.\n\n![]([descrição: A imagem mostra uma equação química escrita em preto sobre fundo branco. A equação representa a combustão da glicose (C6H12O6) com oxigênio (O2), produzindo dióxido de carbono (CO2) e água (H2O). Abaixo da equação, há informações sobre as massas molares dos elementos H, C e O. Na parte inferior da imagem, encontra-se a referência bibliográfica: LIMA, L. M.; FRAGA, C. A. M.; BARREIRO, E. J. Química na saúde. São Paulo: Sociedade Brasileira de Química, 2010 (adaptado).])",
+    "files": [
+        "A imagem mostra uma equação química escrita em preto sobre fundo branco. A equação representa a combustão da glicose (C6H12O6) com oxigênio (O2), produzindo dióxido de carbono (CO2) e água (H2O). Abaixo da equação, há informações sobre as massas molares dos elementos H, C e O. Na parte inferior da imagem, encontra-se a referência bibliográfica: LIMA, L. M.; FRAGA, C. A. M.; BARREIRO, E. J. Química na saúde. São Paulo: Sociedade Brasileira de Química, 2010 (adaptado)."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na oxidação de 1,0 grama de glicose, a energia obtida para atividade muscular, em quilojoule, é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6,2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "15,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "70,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "622,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 120,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

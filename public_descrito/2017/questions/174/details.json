@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2017",
+    "index": 174,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: Gráfico de linha mostrando a taxa de desemprego em porcentagem ao longo do tempo. O eixo horizontal representa meses e anos, começando em março de 2008 e terminando em abril de 2014. O eixo vertical representa a taxa de desemprego em porcentagem. Os pontos de dados são conectados por uma linha e os valores numéricos correspondentes estão rotulados para cada ponto. A taxa de desemprego varia entre 6,8% (em dezembro de 2009) e 9,0% (em março de 2014).])\n\nIBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. Acesso em: 30 jul. 2012 (adaptado).",
+    "files": [
+        "Gráfico de linha mostrando a taxa de desemprego em porcentagem ao longo do tempo. O eixo horizontal representa meses e anos, começando em março de 2008 e terminando em abril de 2014. O eixo vertical representa a taxa de desemprego em porcentagem. Os pontos de dados são conectados por uma linha e os valores numéricos correspondentes estão rotulados para cada ponto. A taxa de desemprego varia entre 6,8% (em dezembro de 2009) e 9,0% (em março de 2014)."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A mediana dessa taxa de desemprego, no período de março de 2008 a abril de 2009, foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8,1%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8,0%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "7,9%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7,7%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7,6%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2016",
+    "index": 140,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados estatísticos sobre o peso de quatro atletas (I, II, III e IV). A tabela possui as seguintes colunas: 'Atleta', '1ª pesagem (kg)', '2ª pesagem (kg)', '3ª pesagem (kg)', 'Média', 'Mediana' e 'Desvio padrão'. Os valores da tabela são os seguintes:\n\n*   **Atleta I:** 78, 72, 66, 72, 72, 4.90\n*   **Atleta II:** 83, 65, 65, 71, 65, 8.49\n*   **Atleta III:** 75, 70, 65, 70, 70, 4.08\n*   **Atleta IV:** 80, 77, 62, 73, 77, 7.87])",
+    "files": [
+        "A imagem mostra uma tabela com dados estatísticos sobre o peso de quatro atletas (I, II, III e IV). A tabela possui as seguintes colunas: 'Atleta', '1ª pesagem (kg)', '2ª pesagem (kg)', '3ª pesagem (kg)', 'Média', 'Mediana' e 'Desvio padrão'. Os valores da tabela são os seguintes:\n\n*   **Atleta I:** 78, 72, 66, 72, 72, 4.90\n*   **Atleta II:** 83, 65, 65, 71, 65, 8.49\n*   **Atleta III:** 75, 70, 65, 70, 70, 4.08\n*   **Atleta IV:** 80, 77, 62, 73, 77, 7.87"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após as três “pesagens”, os organizadores do torneio informaram aos atletas quais deles se enfrentariam na primeira luta.\nA primeira luta foi entre os atletas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II e IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III e IV",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

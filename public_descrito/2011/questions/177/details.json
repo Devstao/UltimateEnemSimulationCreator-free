@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2011",
+    "index": 177,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com duas colunas. A primeira coluna, intitulada 'n', contém os valores 3, 6, 9 e 12. A segunda coluna, intitulada '1,03^n', apresenta os seguintes valores correspondentes: 1.093, 1.194, 1.305 e 1.426. A tabela é delimitada por linhas horizontais.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas. A primeira coluna, intitulada 'n', contém os valores 3, 6, 9 e 12. A segunda coluna, intitulada '1,03^n', apresenta os seguintes valores correspondentes: 1.093, 1.194, 1.305 e 1.426. A tabela é delimitada por linhas horizontais."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para escolher o investimento com a maior rentabilidade anual, essa pessoa deverá",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Escolher qualquer um dos investimentos A, B ou C, pois as suas rentabilidades anuais são iguais a 36%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Escolher os investimentos A ou C, pois suas rentabilidades anuais são iguais a 39%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Escolher o investimento A, pois a sua rentabilidade anual é maior que as rentabilidades anuais dos investimentos B e C.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Escolher o investimento B, pois sua rentabilidade de 36% é maior que as rentabilidades de 3% do investimento A e de 18% do investimento C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Escolher o investimento C, pois sua rentabilidade de 39% ao ano é maior que a rentabilidade de 36% ao ano dos investimentos A e B.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

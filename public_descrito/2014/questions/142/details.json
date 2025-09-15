@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2014",
+    "index": 142,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática de um tronco de pirâmide ou cone frustado, visto em perspectiva isométrica. A base é um retângulo com largura 'b' e a parte superior também é um retângulo com largura 'B', onde B > b.  Uma linha vertical rotulada como 'h' indica a altura do tronco. Uma linha inclinada rotulada como 'C' conecta os cantos correspondentes das duas bases retangulares, representando o comprimento da aresta lateral. Um quadro de legenda à direita define as variáveis: 'b' (largura do fundo), 'B' (largura do topo), 'C' (comprimento do silo) e 'h' (altura do silo). O fundo é preto.])\n\nConsidere um silo de 2 m de altura, 6 m de largura de topo e 20 m de comprimento. Para cada metro de altura do silo, a largura do topo tem 0,5 m a mais do que a largura do fundo. Após a silagem, 1 tonelada de forragem ocupa 2 m3 desse tipo de silo.\n\nEMBRAPA. **Gado de corte**. Disponível em: www.cnpgc.embrapa.br. Acesso em: 1 ago. 2012 (adaptado).",
+    "files": [
+        "A imagem mostra uma representação esquemática de um tronco de pirâmide ou cone frustado, visto em perspectiva isométrica. A base é um retângulo com largura 'b' e a parte superior também é um retângulo com largura 'B', onde B > b.  Uma linha vertical rotulada como 'h' indica a altura do tronco. Uma linha inclinada rotulada como 'C' conecta os cantos correspondentes das duas bases retangulares, representando o comprimento da aresta lateral. Um quadro de legenda à direita define as variáveis: 'b' (largura do fundo), 'B' (largura do topo), 'C' (comprimento do silo) e 'h' (altura do silo). O fundo é preto."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após a silagem, a quantidade máxima de forragem que cabe no silo, em toneladas, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "110.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "125.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "130.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "220.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "260.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

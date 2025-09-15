@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2015",
+    "index": 169,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem apresenta dois gráficos circulares lado a lado. O gráfico da esquerda, intitulado 'PET Reciclado - 2010 Usos Finais', mostra a distribuição percentual dos usos finais do PET reciclado. As categorias incluem: Têxteis (37,8%), Embalagens de Alimentos e não alimentos (17,2%), Resinas Insaturadas e Alquídicas (18,9%), Laminados e Chapas (7,9%), Fitas de Arqueação (6,8%), Tubos (3,8%) e Outros (7,6%). O gráfico da direita, intitulado 'Usos Finais Têxteis', detalha a distribuição dos usos têxteis do PET reciclado. As categorias são: Tecidos e Malhas (30%), Cordas/Cordas/Monofilamentos (27%) e Não tecidos (43%). A fonte dos dados é www.abipet.org.br, acesso em 12 jul. 2012.])",
+    "files": [
+        "A imagem apresenta dois gráficos circulares lado a lado. O gráfico da esquerda, intitulado 'PET Reciclado - 2010 Usos Finais', mostra a distribuição percentual dos usos finais do PET reciclado. As categorias incluem: Têxteis (37,8%), Embalagens de Alimentos e não alimentos (17,2%), Resinas Insaturadas e Alquídicas (18,9%), Laminados e Chapas (7,9%), Fitas de Arqueação (6,8%), Tubos (3,8%) e Outros (7,6%). O gráfico da direita, intitulado 'Usos Finais Têxteis', detalha a distribuição dos usos têxteis do PET reciclado. As categorias são: Tecidos e Malhas (30%), Cordas/Cordas/Monofilamentos (27%) e Não tecidos (43%). A fonte dos dados é www.abipet.org.br, acesso em 12 jul. 2012."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com os gráficos, a quantidade de embalagens PET recicladas destinadas à produção de tecidos e malhas, em kton, é mais aproximada de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "22,9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "32,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "84,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "106,6.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

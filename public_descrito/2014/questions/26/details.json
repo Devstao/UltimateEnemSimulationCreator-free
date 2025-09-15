@@ -1,0 +1,45 @@
+{
+    "title": "Questão 26 - ENEM 2014",
+    "index": 26,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O mapa mostra o fluxo de pessoas na Região Metropolitana de Belo Horizonte, Brasil. A cidade de Belo Horizonte está centralizada, com setas indicando o movimento diário de trabalhadores para e do trabalho. As áreas em tons de cinza representam o saldo do deslocamento populacional, variando de -31.000 a -40.000 (cinza escuro) a 0 a 19.168 (cinza claro). Setas mais grossas indicam fluxos maiores de pessoas, variando de 15.000 a 31.400, 31.401 a 58.500 e 58.301 a 103.200. Os municípios vizinhos incluem Confins, Ribeirão das Neves, Vespasiano, Santa Luzia, Sabará, Contagem, Itabirité, Nova Lima e Betim. Uma legenda explica as cores do saldo de deslocamento e a espessura das setas que representam o fluxo de pessoas.])",
+    "files": [
+        "O mapa mostra o fluxo de pessoas na Região Metropolitana de Belo Horizonte, Brasil. A cidade de Belo Horizonte está centralizada, com setas indicando o movimento diário de trabalhadores para e do trabalho. As áreas em tons de cinza representam o saldo do deslocamento populacional, variando de -31.000 a -40.000 (cinza escuro) a 0 a 19.168 (cinza claro). Setas mais grossas indicam fluxos maiores de pessoas, variando de 15.000 a 31.400, 31.401 a 58.500 e 58.301 a 103.200. Os municípios vizinhos incluem Confins, Ribeirão das Neves, Vespasiano, Santa Luzia, Sabará, Contagem, Itabirité, Nova Lima e Betim. Uma legenda explica as cores do saldo de deslocamento e a espessura das setas que representam o fluxo de pessoas."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O fluxo migratório representado está associado ao processo de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fuga de áreas degradadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Inversão da hierarquia urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Busca por amenidades ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Conurbação entre municípios contíguos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Desconcentração dos investimentos produtivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

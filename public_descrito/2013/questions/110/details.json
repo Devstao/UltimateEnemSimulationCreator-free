@@ -1,0 +1,45 @@
+{
+    "title": "Questão 110 - ENEM 2013",
+    "index": 110,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma ilustração estilizada da letra 'b' repetida várias vezes, dispostas em um padrão agrupado. Cada 'b' é desenhado com linhas grossas e um estilo de desenho infantil, com formas arredondadas e simplificadas. Ao lado do grupo de letras 'b', há uma figura escura que se assemelha a um pinguim ou personagem similar, também estilizado.])\n\nCAULOS. Disponível em: www.caulos.com. Acesso em 24 set. 2011. (Foto: Reprodução)",
+    "files": [
+        "A imagem mostra uma ilustração estilizada da letra 'b' repetida várias vezes, dispostas em um padrão agrupado. Cada 'b' é desenhado com linhas grossas e um estilo de desenho infantil, com formas arredondadas e simplificadas. Ao lado do grupo de letras 'b', há uma figura escura que se assemelha a um pinguim ou personagem similar, também estilizado."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O cartum faz uma crítica social. A figura destacada está em oposição às outras e representa a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A opressão das minorias sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Carência de recursos tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Falta de liberdade de expressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Defesa da qualificação profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reação ao controle do pensamento coletivo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

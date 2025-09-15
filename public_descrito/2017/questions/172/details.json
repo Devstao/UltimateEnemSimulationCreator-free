@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2017",
+    "index": 172,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra a quantidade de água armazenada em dois reservatórios (A e B) ao longo do tempo, medido em horas. O eixo horizontal representa o tempo em horas, variando de 0 a 20. O eixo vertical esquerdo representa a quantidade de água no Reservatório A em litros, variando de 0 a 180.000 L. O eixo vertical direito representa a quantidade de água no Reservatório B em litros, variando de 0 a 90.000 L.  O Reservatório A é representado por uma linha pontilhada com círculos, enquanto o Reservatório B é representado por uma linha contínua com triângulos. O Reservatório A começa com aproximadamente 20.000 litros e aumenta gradualmente até cerca de 175.000 litros em 20 horas. O Reservatório B começa com aproximadamente 10.000 litros e aumenta para cerca de 85.000 litros em 20 horas, apresentando um período de estabilização entre 4 e 8 horas.])",
+    "files": [
+        "O gráfico mostra a quantidade de água armazenada em dois reservatórios (A e B) ao longo do tempo, medido em horas. O eixo horizontal representa o tempo em horas, variando de 0 a 20. O eixo vertical esquerdo representa a quantidade de água no Reservatório A em litros, variando de 0 a 180.000 L. O eixo vertical direito representa a quantidade de água no Reservatório B em litros, variando de 0 a 90.000 L.  O Reservatório A é representado por uma linha pontilhada com círculos, enquanto o Reservatório B é representado por uma linha contínua com triângulos. O Reservatório A começa com aproximadamente 20.000 litros e aumenta gradualmente até cerca de 175.000 litros em 20 horas. O Reservatório B começa com aproximadamente 10.000 litros e aumenta para cerca de 85.000 litros em 20 horas, apresentando um período de estabilização entre 4 e 8 horas."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O número de horas em que os dois reservatórios contêm a mesma quantidade de água é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

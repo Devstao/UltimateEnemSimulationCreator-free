@@ -1,0 +1,45 @@
+{
+    "title": "Questão 89 - ENEM 2023",
+    "index": 89,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem apresenta duas séries de mapas mundiais lado a lado, cada série mostrando três cenários de aquecimento global: 1,5°C, 2°C e 4°C. A primeira série ilustra a mudança na temperatura média anual em relação ao período pré-industrial, com cores que variam do azul (mais frio) para o vermelho (mais quente). O mapa de 1,5°C mostra um aquecimento relativamente uniforme, enquanto os mapas de 2°C e 4°C indicam aumentos progressivamente maiores nas temperaturas, especialmente em áreas continentais. Uma barra de cores na parte inferior da primeira série quantifica a variação da temperatura em graus Celsius (°C). A segunda série ilustra a mudança na pluviosidade média anual, também em relação ao período pré-industrial, com cores que variam do azul (mais seco) para o amarelo/laranja (mais úmido). Os mapas de 1,5°C e 2°C mostram mudanças moderadas na precipitação, enquanto o mapa de 4°C indica alterações mais significativas, com algumas áreas se tornando muito mais secas e outras mais úmidas. Uma barra de cores na parte inferior da segunda série quantifica a variação da pluviosidade em porcentagem (%). A fonte dos dados é o IPCC, e uma referência bibliográfica está listada na parte inferior.])",
+    "files": [
+        "A imagem apresenta duas séries de mapas mundiais lado a lado, cada série mostrando três cenários de aquecimento global: 1,5°C, 2°C e 4°C. A primeira série ilustra a mudança na temperatura média anual em relação ao período pré-industrial, com cores que variam do azul (mais frio) para o vermelho (mais quente). O mapa de 1,5°C mostra um aquecimento relativamente uniforme, enquanto os mapas de 2°C e 4°C indicam aumentos progressivamente maiores nas temperaturas, especialmente em áreas continentais. Uma barra de cores na parte inferior da primeira série quantifica a variação da temperatura em graus Celsius (°C). A segunda série ilustra a mudança na pluviosidade média anual, também em relação ao período pré-industrial, com cores que variam do azul (mais seco) para o amarelo/laranja (mais úmido). Os mapas de 1,5°C e 2°C mostram mudanças moderadas na precipitação, enquanto o mapa de 4°C indica alterações mais significativas, com algumas áreas se tornando muito mais secas e outras mais úmidas. Uma barra de cores na parte inferior da segunda série quantifica a variação da pluviosidade em porcentagem (%). A fonte dos dados é o IPCC, e uma referência bibliográfica está listada na parte inferior."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expandir o transporte marítimo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Incentivar os fluxos migratórios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Monitorar as atividades vulcânicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Controlar as emissões de carbono.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Priorizar a utilização de termoelétricas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

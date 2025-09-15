@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2011",
+    "index": 92,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A charge mostra duas mulheres em um ambiente de trabalho, possivelmente um escritório. Uma delas está falando com a outra. No topo da imagem, há uma placa que diz 'RELATÓRIOS DEVEM SER ENTREGUES HOJE!'. A mulher que fala diz: 'Meu relatório é sobre a importância de economizar papel, eletricidade e outros recursos. Vou enviá-lo telepaticamente para você.' A outra mulher parece estar esperando o relatório.])\n\nGLASBERGEN, R. **Today’s cartoon**. Disponível em: http://www.glasbergen.com. Acesso em: 23 jul. 2010.",
+    "files": [
+        "A charge mostra duas mulheres em um ambiente de trabalho, possivelmente um escritório. Uma delas está falando com a outra. No topo da imagem, há uma placa que diz 'RELATÓRIOS DEVEM SER ENTREGUES HOJE!'. A mulher que fala diz: 'Meu relatório é sobre a importância de economizar papel, eletricidade e outros recursos. Vou enviá-lo telepaticamente para você.' A outra mulher parece estar esperando o relatório."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na fase escolar, é prática comum que os professores passem atividades extraclasse e marquem uma data para que as mesmas sejam entregues para correção. No caso da cena da charge, a professora ouve uma estudante apresentando argumentos para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Discutir sobre o conteúdo do seu trabalho já entregue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Elogiar o tema proposto para o relatório solicitado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sugerir temas para novas pesquisas e relatórios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reclamar do curto prazo para entrega do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Convencer de que fez o relatório solicitado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

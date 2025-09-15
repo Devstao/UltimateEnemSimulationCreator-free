@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2014",
+    "index": 81,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os parasitoides (misto de parasitas e predadores) são insetos diminutos que têm hábitos muito peculiares: suas larvas podem se desenvolver dentro do corpo de outros organismos, como mostra a figura. A forma adulta se alimenta de pólen e açúcares. Em geral, cada parasitoide ataca hospedeiros de determinada espécie e, por isso, esses organismos vêm sendo amplamente usados para o controle biológico de pragas agrícolas.\n\n![]([descrição: Diagrama ilustrando o ciclo de vida de um inseto parasitoide de lagartas. O diagrama é circular, mostrando as fases A, B, C e D. Na fase A, uma fêmea adulta acopla-se e procura um hospedeiro para depositar ovos. Na fase B, o ovo eclode e a larva se desenvolve dentro da lagarta. Na fase C, a larva transforma-se em pupa, levando à morte do hospedeiro. Na fase D, o parasitoide emerge como adulto, cavando um túnel nos tecidos do hospedeiro. Há setas indicando a sequência das fases no ciclo de vida. Abaixo do diagrama, há uma referência bibliográfica.])",
+    "files": [
+        "Diagrama ilustrando o ciclo de vida de um inseto parasitoide de lagartas. O diagrama é circular, mostrando as fases A, B, C e D. Na fase A, uma fêmea adulta acopla-se e procura um hospedeiro para depositar ovos. Na fase B, o ovo eclode e a larva se desenvolve dentro da lagarta. Na fase C, a larva transforma-se em pupa, levando à morte do hospedeiro. Na fase D, o parasitoide emerge como adulto, cavando um túnel nos tecidos do hospedeiro. Há setas indicando a sequência das fases no ciclo de vida. Abaixo do diagrama, há uma referência bibliográfica."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A forma larval do parasitoide assume qual papel nessa cadeia alimentar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Consumidor primário, pois ataca diretamente uma espécie herbívora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Consumidor secundário, pois se alimenta diretamente dos tecidos da lagarta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Organismo heterótrofo de primeira ordem, pois se alimenta de pólen na fase adulta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Organismo heterótrofo de segunda ordem, pois apresenta o maior nível energético na cadeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Decompositor, pois se alimenta de tecidos do interior do corpo da lagarta e a leva à morte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

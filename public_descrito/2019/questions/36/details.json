@@ -1,0 +1,46 @@
+{
+    "title": "Questão 36 - ENEM 2019",
+    "index": 36,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem em preto e branco mostra um homem, possivelmente Jackson Pollock, em uma posição inclinada sobre uma grande tela branca. Ele está segurando um balde com tinta e parece estar gotejando ou jogando a tinta na tela. Ao lado dele, há vários potes e recipientes cheios de tinta. O chão também está coberto por respingos de tinta. A imagem sugere um processo criativo caótico e expressivo.])\n\nFotografia de Jackson Pollock pintando em seu ateliê, realizada por Hans Namuth em 1951.\n\n**CHIPP, H. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.**\n\n![]([descrição: A imagem é uma gravura em preto e branco, com estilo expressionista. Apresenta um homem em movimento, possivelmente correndo ou caindo, em um ambiente urbano sugerido por linhas verticais que podem representar edifícios. A figura humana é estilizada com formas angulares e contrastantes, enfatizando a dinâmica do movimento. O fundo é predominantemente preto, criando um forte contraste com as áreas claras da imagem.])\n\n**MUNIZ, V. Action Photo (segundo Hans Namuth em Pictures in Chocolate). Impressão fotográfica. The Museum of Modern Art, Nova Iorque, 1977.**\n\n**_NEVES, A_. História da Arte 4. Vitória: Ufes – Nead, 2011.**",
+    "files": [
+        "A imagem em preto e branco mostra um homem, possivelmente Jackson Pollock, em uma posição inclinada sobre uma grande tela branca. Ele está segurando um balde com tinta e parece estar gotejando ou jogando a tinta na tela. Ao lado dele, há vários potes e recipientes cheios de tinta. O chão também está coberto por respingos de tinta. A imagem sugere um processo criativo caótico e expressivo.",
+        "A imagem é uma gravura em preto e branco, com estilo expressionista. Apresenta um homem em movimento, possivelmente correndo ou caindo, em um ambiente urbano sugerido por linhas verticais que podem representar edifícios. A figura humana é estilizada com formas angulares e contrastantes, enfatizando a dinâmica do movimento. O fundo é predominantemente preto, criando um forte contraste com as áreas claras da imagem."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Utilizando chocolate derretido como matéria-prima, essa obra de Vick Muniz reproduz a célebre fotografia do processo de criação de Jackson Pollock. A originalidade dessa releitura reside na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apropriação parodística das técnicas e materiais utilizados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Reflexão acerca dos sistemas de circulação da arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Simplificação dos traços da composição pictórica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Contraposição de linguagens artísticas distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Crítica ao advento do abstracionismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

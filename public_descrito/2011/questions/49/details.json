@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2011",
+    "index": 49,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um paciente deu entrada em um pronto-socorro apresentando os seguintes sintomas: cansaço, dificuldade em respirar e sangramento nasal. O médico solicitou um hemograma ao paciente para definir um diagnóstico. Os resultados estão dispostos na tabela:\n\n![]([descrição: A imagem mostra uma tabela comparativa dos valores normais e os valores encontrados em um paciente para três componentes do sangue: glóbulos vermelhos, glóbulos brancos e plaquetas. A coluna 'Constituinte' lista os elementos sanguíneos. A coluna 'Número normal' apresenta a faixa de valores considerados saudáveis para cada componente. A coluna 'Paciente' indica os valores encontrados no paciente em questão. Os valores do paciente estão abaixo do normal para glóbulos vermelhos, dentro da faixa normal para glóbulos brancos e abaixo do normal para plaquetas. Na parte inferior da tabela, há a referência bibliográfica: TORTORA, G. J. Corpo Humano: fundamentos de anatomia e fisiologia. Porto Alegre: Artmed, 2000 (adaptado).])",
+    "files": [
+        "A imagem mostra uma tabela comparativa dos valores normais e os valores encontrados em um paciente para três componentes do sangue: glóbulos vermelhos, glóbulos brancos e plaquetas. A coluna 'Constituinte' lista os elementos sanguíneos. A coluna 'Número normal' apresenta a faixa de valores considerados saudáveis para cada componente. A coluna 'Paciente' indica os valores encontrados no paciente em questão. Os valores do paciente estão abaixo do normal para glóbulos vermelhos, dentro da faixa normal para glóbulos brancos e abaixo do normal para plaquetas. Na parte inferior da tabela, há a referência bibliográfica: TORTORA, G. J. Corpo Humano: fundamentos de anatomia e fisiologia. Porto Alegre: Artmed, 2000 (adaptado)."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Relacionando os sintomas apresentados pelo paciente com os resultados de seu hemograma, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O sangramento nasal é devido à baixa quantidade de plaquetas, que são responsáveis pela coagulação sanguínea.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "O cansaço ocorreu em função da quantidade de glóbulos brancos, que são responsáveis pela coagulação sanguínea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A dificuldade respiratória decorreu da baixa quantidade de glóbulos vermelhos, que são responsáveis pela defesa imunológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O sangramento nasal é decorrente da baixa quantidade de glóbulos brancos, que são responsáveis pelo transporte de gases no sangue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A dificuldade respiratória ocorreu pela quantidade de plaquetas, que são responsáveis pelo transporte de oxigênio no sangue.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

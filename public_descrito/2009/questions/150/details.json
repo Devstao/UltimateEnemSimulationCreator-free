@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2009",
+    "index": 150,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Brasil e França têm relações comerciais há mais de 200 anos. Enquanto a França é a 5ª nação mais rica do planeta, o Brasil é a 10ª, e ambas se destacam na economia mundial. No entanto, devido a uma série de restrições, o comércio entre esses dois países ainda não é adequadamente explorado, como mostra a tabela seguinte, referente ao período 2003-2007.\n\n![]([descrição: A imagem mostra uma tabela com dados sobre investimentos bilaterais entre o Brasil e a França, expressos em milhões de dólares, nos anos de 2003 a 2007. A tabela possui duas colunas: 'Brasil na França' e 'França no Brasil'. Os valores para 'Brasil na França' variam de 280 milhões de dólares em 2007 a 539 milhões de dólares em 2006. Já os valores para 'França no Brasil' variam de 485 milhões de dólares em 2004 a 1.458 milhões de dólares em 2005. Abaixo da tabela, há uma nota indicando a fonte dos dados: www.cartacapital.com.br, com acesso em 7 jul. 2009.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre investimentos bilaterais entre o Brasil e a França, expressos em milhões de dólares, nos anos de 2003 a 2007. A tabela possui duas colunas: 'Brasil na França' e 'França no Brasil'. Os valores para 'Brasil na França' variam de 280 milhões de dólares em 2007 a 539 milhões de dólares em 2006. Já os valores para 'França no Brasil' variam de 485 milhões de dólares em 2004 a 1.458 milhões de dólares em 2005. Abaixo da tabela, há uma nota indicando a fonte dos dados: www.cartacapital.com.br, com acesso em 7 jul. 2009."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os dados da tabela mostram que, no período considerado, os valores médios dos investimentos da França no Brasil foram maiores que os investimentos do Brasil na França em um valor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Inferior a 300 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Superior a 300 milhões de dólares, mas inferior a 400 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Superior a 400 milhões de dólares, mas inferior a 500 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Superior a 500 milhões de dólares, mas inferior a 600 milhões de dólares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Superior a 600 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

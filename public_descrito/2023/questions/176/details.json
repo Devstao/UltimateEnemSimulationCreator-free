@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2023",
+    "index": 176,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.\n\n![]([descrição: A imagem mostra uma sequência de pentágonos concêntricos, cada um maior que o anterior. Os números 1, 5, 12, 22, 35 e 51 estão dispostos ao lado dos respectivos pentágonos, indicando possivelmente uma progressão numérica relacionada ao tamanho ou número de seções de cada pentágono. O fundo é branco com uma moldura preta.])",
+    "files": [
+        "A imagem mostra uma sequência de pentágonos concêntricos, cada um maior que o anterior. Os números 1, 5, 12, 22, 35 e 51 estão dispostos ao lado dos respectivos pentágonos, indicando possivelmente uma progressão numérica relacionada ao tamanho ou número de seções de cada pentágono. O fundo é branco com uma moldura preta."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O oitavo número pentagonal é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "59",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "83",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "86",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "89",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "92",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

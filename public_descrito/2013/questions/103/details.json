@@ -1,0 +1,45 @@
+{
+    "title": "Questão 103 - ENEM 2013",
+    "index": 103,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma gota d'água suspensa no ar, com o planeta Terra visível dentro dela. A gota está prestes a cair e se dividir em duas gotas menores. O fundo é cinza claro e uniforme. Na parte inferior da imagem, há um texto em português que parece ser uma brincadeira sobre conjugação verbal.])\n\nDisponível em: http://orion-oblog.blogspot.com.br. Acesso em: 6 jun. 2012 (adaptado).",
+    "files": [
+        "A imagem mostra uma gota d'água suspensa no ar, com o planeta Terra visível dentro dela. A gota está prestes a cair e se dividir em duas gotas menores. O fundo é cinza claro e uniforme. Na parte inferior da imagem, há um texto em português que parece ser uma brincadeira sobre conjugação verbal."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O cartaz aborda a questão do aquecimento global. A relação entre os recursos verbais e não verbais nessa propaganda revela que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O discurso ambientalista propõe formas radicais de resolver os problemas climáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A preservação da vida na Terra depende de ações de dessalinização da água marinha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A acomodação da topografia terrestre desencadeia o natural degelo das calotas polares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O descongelamento das calotas polares diminui a quantidade de água doce potável do mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A agressão ao planeta é dependente da posição assumida pelo homem frente aos problemas ambientais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

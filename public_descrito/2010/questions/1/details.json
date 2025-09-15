@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2010",
+    "index": 1,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico circular representa a distribuição de propriedades rurais por tamanho, conforme dados do Incra de 1998. As fatias indicam as seguintes porcentagens: 53% das propriedades possuem área acima de 1.000 hectares (preto); 30,5% estão na faixa de 100 a 1.000 hectares (cinza claro); 15,2% variam de 10 a 100 hectares (cinza médio); e 1,3% possuem até 10 hectares (branco). Na parte inferior do gráfico, há a legenda correspondente às cores e tamanhos das propriedades.])",
+    "files": [
+        "O gráfico circular representa a distribuição de propriedades rurais por tamanho, conforme dados do Incra de 1998. As fatias indicam as seguintes porcentagens: 53% das propriedades possuem área acima de 1.000 hectares (preto); 30,5% estão na faixa de 100 a 1.000 hectares (cinza claro); 15,2% variam de 10 a 100 hectares (cinza médio); e 1,3% possuem até 10 hectares (branco). Na parte inferior do gráfico, há a legenda correspondente às cores e tamanhos das propriedades."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico representa a relação entre o tamanho e a totalidade dos imóveis rurais no Brasil. Que característica da estrutura fundiária brasileira está evidenciada no gráfico apresentado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A concentração de terras nas mãos de poucos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A existência de poucas terras agricultáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O domínio territorial dos minifúndios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A primazia da agricultura familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A debilidade dos plantations modernos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

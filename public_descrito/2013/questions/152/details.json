@@ -1,0 +1,46 @@
+{
+    "title": "Questão 152 - ENEM 2013",
+    "index": 152,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma taça de vinho preenchida com líquido, vista lateralmente. A taça está sobre uma base circular. Um sistema de coordenadas cartesianas (x, y) é sobreposto à imagem, com o eixo y vertical e o eixo x horizontal. Uma seta indica o eixo de rotação z, perpendicular ao plano da imagem. As letras 'C' e 'V' estão marcadas na taça, possivelmente indicando pontos de referência.])\n\nA função real que expressa a parábola, no plano cartesiano da figura, é dada pela lei ![]([descrição: A imagem mostra uma equação matemática escrita em fonte branca sobre fundo preto. A equação é f(x) = (3/2)x² - 6x + C.]) onde C é a medida da altura do líquido contido na taça,  em centímetros. Sabe-se que o ponto V, na figura, representa o vértice da parábola, localizado sobre o eixo x.",
+    "files": [
+        "A imagem mostra uma taça de vinho preenchida com líquido, vista lateralmente. A taça está sobre uma base circular. Um sistema de coordenadas cartesianas (x, y) é sobreposto à imagem, com o eixo y vertical e o eixo x horizontal. Uma seta indica o eixo de rotação z, perpendicular ao plano da imagem. As letras 'C' e 'V' estão marcadas na taça, possivelmente indicando pontos de referência.",
+        "A imagem mostra uma equação matemática escrita em fonte branca sobre fundo preto. A equação é f(x) = (3/2)x² - 6x + C."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessas condições, a altura do líquido contido na taça, em centímetros, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

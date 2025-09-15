@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2014",
+    "index": 176,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico de linhas mostra a quantidade de bactérias das espécies I e II ao longo dos dias da semana (Segunda a Domingo). O eixo vertical representa a quantidade de bactérias, variando de 0 a 1600. O eixo horizontal representa os dias da semana. A linha que representa as 'Bactérias I' (diamantes) começa em 350 na segunda-feira e diminui para 300 na quarta-feira, depois aumenta para 400 na sexta-feira e termina em 290 no domingo. A linha que representa as 'Bactérias II' (quadrados) começa em 1250 na segunda-feira, diminui para 800 na terça-feira, sobe para 1450 na quarta-feira, desce para 850 na quinta-feira, sobe para 1400 na sexta-feira e termina em 1350 no domingo.])",
+    "files": [
+        "O gráfico de linhas mostra a quantidade de bactérias das espécies I e II ao longo dos dias da semana (Segunda a Domingo). O eixo vertical representa a quantidade de bactérias, variando de 0 a 1600. O eixo horizontal representa os dias da semana. A linha que representa as 'Bactérias I' (diamantes) começa em 350 na segunda-feira e diminui para 300 na quarta-feira, depois aumenta para 400 na sexta-feira e termina em 290 no domingo. A linha que representa as 'Bactérias II' (quadrados) começa em 1250 na segunda-feira, diminui para 800 na terça-feira, sobe para 1450 na quarta-feira, desce para 850 na quinta-feira, sobe para 1400 na sexta-feira e termina em 1350 no domingo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em que dia dessa semana a quantidade total de bactérias nesse ambiente de cultura foi máxima?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Terça-feira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Quarta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Quinta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Domingo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

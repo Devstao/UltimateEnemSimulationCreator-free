@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2017",
+    "index": 11,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem apresenta um diagrama circular representando o 'Novo Consumidor Social'. No centro, há uma silhueta de uma pessoa. Ao redor dessa figura central, sete ovais negros contêm frases que descrevem as características desse novo consumidor: 'Usa novos canais on-line e novas ferramentas de comunicação', 'Confia em conselhos de amigos on-line, conhecidos e estranhos', 'Tende a comprar mais on-line do que off-line', 'Quer fornecer feedback sobre o produto e serviço ao cliente', 'Deseja uma experiência melhor on-line do que off-line', 'Lê e cria avaliações, ranking de produtos e posts em blogs' e 'Quer suporte para encontrar pessoas que compartilham da mesma opinião'. Na parte inferior da imagem, há a fonte utilizada para a criação do diagrama.])",
+    "files": [
+        "A imagem apresenta um diagrama circular representando o 'Novo Consumidor Social'. No centro, há uma silhueta de uma pessoa. Ao redor dessa figura central, sete ovais negros contêm frases que descrevem as características desse novo consumidor: 'Usa novos canais on-line e novas ferramentas de comunicação', 'Confia em conselhos de amigos on-line, conhecidos e estranhos', 'Tende a comprar mais on-line do que off-line', 'Quer fornecer feedback sobre o produto e serviço ao cliente', 'Deseja uma experiência melhor on-line do que off-line', 'Lê e cria avaliações, ranking de produtos e posts em blogs' e 'Quer suporte para encontrar pessoas que compartilham da mesma opinião'. Na parte inferior da imagem, há a fonte utilizada para a criação do diagrama."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O consumidor do século XXI, chamado de novo consumidor social, tende a se comportar de modo diferente do consumidor tradicional. Pela associação das características apresentadas no diagrama, infere-se que esse novo consumidor sofre influência da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cultura do comércio eletrônico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Busca constante pelo menor preço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Divulgação de informações pelas empresas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade recorrente de consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Postura comum aos consumidores tradicionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

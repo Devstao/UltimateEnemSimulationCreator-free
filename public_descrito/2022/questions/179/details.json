@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2022",
+    "index": 179,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a viver a partir de seu nascimento, considerando dados da população. No Brasil, esse número vem aumentando consideravelmente, como mostra o gráfico.\n\n![]([descrição: O gráfico mostra a tendência da esperança de vida ao nascer entre os anos de 2008 e 2013. O eixo vertical representa a esperança de vida em anos, variando de 72 a 75. O eixo horizontal representa os anos. Os pontos no gráfico indicam: 2008 (72,78), 2009 (73,09), 2010 (73,4), 2011 (73,67), 2012 (73,95) e 2013 (74,23). A linha que conecta os pontos demonstra um aumento gradual na esperança de vida ao nascer durante o período analisado.])\n\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\n\nPode-se observar que a esperança de vida ao nascer em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascer em 2013, em relação às esperanças de vida de 2012 e de 2014.",
+    "files": [
+        "O gráfico mostra a tendência da esperança de vida ao nascer entre os anos de 2008 e 2013. O eixo vertical representa a esperança de vida em anos, variando de 72 a 75. O eixo horizontal representa os anos. Os pontos no gráfico indicam: 2008 (72,78), 2009 (73,09), 2010 (73,4), 2011 (73,67), 2012 (73,95) e 2013 (74,23). A linha que conecta os pontos demonstra um aumento gradual na esperança de vida ao nascer durante o período analisado."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Caso a suposição feita tenha sido confirmada, a esperança de vida ao nascer no Brasil no ano de 2014 terá sido, em ano, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "74,23.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "74,51.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "75,07.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "75,23.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "78,49.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

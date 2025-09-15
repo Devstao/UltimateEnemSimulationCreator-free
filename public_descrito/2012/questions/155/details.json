@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2012",
+    "index": 155,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados sobre a rotina juvenil, comparando atividades durante a semana e nos fins de semana. As colunas da tabela são 'Rotina Juvenil', 'Durante a Semana' e 'No fim de semana'. As linhas listam as seguintes atividades: Assistir à televisão (3/3), Atividades domésticas (1/1), Atividades escolares (5/1), Atividades de lazer (2/4), Descanso, higiene e alimentação (10/12) e Outras atividades (3/3). Os números representam a frequência ou duração das atividades.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre a rotina juvenil, comparando atividades durante a semana e nos fins de semana. As colunas da tabela são 'Rotina Juvenil', 'Durante a Semana' e 'No fim de semana'. As linhas listam as seguintes atividades: Assistir à televisão (3/3), Atividades domésticas (1/1), Atividades escolares (5/1), Atividades de lazer (2/4), Descanso, higiene e alimentação (10/12) e Outras atividades (3/3). Os números representam a frequência ou duração das atividades."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com esta pesquisa, quantas horas de seu tempo gasta um jovem entre 12 e 18 anos, na semana inteira (de segunda-feira a domingo), nas atividades escolares?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "27",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

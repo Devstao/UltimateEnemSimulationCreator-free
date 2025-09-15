@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2019",
+    "index": 162,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Sistema Métrico Decimal é o mais utilizado atualmente para medir comprimentos e distâncias. Em algumas atividades, porém, é possível observar a utilização de diferentes unidades de medida.  \nUm exemplo disso pode ser observado no quadro.\n\n![]([descrição: A imagem mostra uma tabela com três linhas e duas colunas. A primeira coluna é rotulada como 'Unidade' e a segunda como 'Equivalência'. As entradas da tabela são: Polegada (equivalente a 2,54 centímetros), Jarda (equivalente a 3 pés) e Jarda (equivalente a 0,9144 metro).])",
+    "files": [
+        "A imagem mostra uma tabela com três linhas e duas colunas. A primeira coluna é rotulada como 'Unidade' e a segunda como 'Equivalência'. As entradas da tabela são: Polegada (equivalente a 2,54 centímetros), Jarda (equivalente a 3 pés) e Jarda (equivalente a 0,9144 metro)."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Assim, um pé, em polegada, equivale a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,1200.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,3048.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,0800.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12,0000.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "36,0000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2013",
+    "index": 147,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um retângulo branco com dimensões indicadas: 190 metros na parte superior e 81 metros nas laterais. Na base do retângulo, há uma representação de um rio sinuoso. As medidas estão em metros.])",
+    "files": [
+        "A imagem mostra um retângulo branco com dimensões indicadas: 190 metros na parte superior e 81 metros nas laterais. Na base do retângulo, há uma representação de um rio sinuoso. As medidas estão em metros."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A quantidade mínima de rolos que deve ser comprada para cercar esse terreno é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "11",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

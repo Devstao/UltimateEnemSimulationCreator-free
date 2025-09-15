@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - ENEM 2015",
+    "index": 65,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com duas colunas: 'Tipo de selo' e 'Variação de temperatura'. A coluna 'Tipo de selo' lista as opções A, B, C, D e E. A coluna 'Variação de temperatura' corresponde a cada tipo de selo, indicando que o tipo A tem variação menor que 10%, o tipo B entre 10% e 25%, o tipo C entre 25% e 40%, o tipo D entre 40% e 55% e o tipo E maior que 55%.])\n\nPara atribuir uma categoria a um modelo de garrafa térmica, são preparadas e misturadas, em uma garrafa, duas amostras de água, uma a 10°C e outra a 40°C, na proporção de um terço de água fria para dois terços de água quente. A garrafa é fechada. Seis horas depois, abre-se a garrafa e mede-se a temperatura da água, obtendo-se 16°C.",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Tipo de selo' e 'Variação de temperatura'. A coluna 'Tipo de selo' lista as opções A, B, C, D e E. A coluna 'Variação de temperatura' corresponde a cada tipo de selo, indicando que o tipo A tem variação menor que 10%, o tipo B entre 10% e 25%, o tipo C entre 25% e 40%, o tipo D entre 40% e 55% e o tipo E maior que 55%."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual selo deveria ser posto na garrafa térmica testada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

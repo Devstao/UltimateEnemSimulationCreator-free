@@ -1,0 +1,46 @@
+{
+    "title": "Questão 168 - ENEM 2010",
+    "index": 168,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um casamento, os donos da festa serviam champanhe aos seus convidados em taças com formato de um hemisfério (Figura 1), porém um acidente na cozinha culminou na quebra de grande parte desses recipientes. Para substituir as taças quebradas, utilizou-se um outro tipo com formato de cone (Figura 2). No entanto, os noivos solicitaram que o volume de champanhe nos dois tipos de taças fosse igual.\n\n![]([descrição: A imagem mostra duas figuras geométricas, Figura 1 e Figura 2, ambas com um raio (R) de 3 cm indicado. A Figura 1 representa uma tigela em forma de semi-esfera sobre um suporte, enquanto a Figura 2 representa um cone com o vértice na base. Dentro do cone da Figura 2, há uma linha horizontal que indica a altura (h) da água.])\n\nConsidere:\n\n![imagem (Foto: Reprodução/Enem)]([descrição: A imagem mostra três fórmulas matemáticas escritas em branco sobre um fundo preto. A primeira fórmula, à esquerda, é para o volume de uma esfera: V_esfera = (4/3)πR³. No centro da imagem, há a letra 'e'. A terceira fórmula, à direita, representa o volume de um cone: V_cone = (1/3)πR²h.] \"imagem (Foto: Reprodução/Enem)\")",
+    "files": [
+        "A imagem mostra duas figuras geométricas, Figura 1 e Figura 2, ambas com um raio (R) de 3 cm indicado. A Figura 1 representa uma tigela em forma de semi-esfera sobre um suporte, enquanto a Figura 2 representa um cone com o vértice na base. Dentro do cone da Figura 2, há uma linha horizontal que indica a altura (h) da água.",
+        "A imagem mostra três fórmulas matemáticas escritas em branco sobre um fundo preto. A primeira fórmula, à esquerda, é para o volume de uma esfera: V_esfera = (4/3)πR³. No centro da imagem, há a letra 'e'. A terceira fórmula, à direita, representa o volume de um cone: V_cone = (1/3)πR²h."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sabendo que a taça com o formato de hemisfério é servida completamente cheia, a altura do volume de champanhe que deve ser colocado na outra taça, em centímetros, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "12,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "56,52",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "113,04",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

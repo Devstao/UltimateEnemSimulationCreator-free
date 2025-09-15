@@ -1,0 +1,45 @@
+{
+    "title": "Questão 9 - ENEM 2014",
+    "index": 9,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra um mapa-múndi em tons de cinza, com uma área da Ásia (incluindo Índia, China e Sudeste Asiático) ampliada em um círculo. Uma legenda abaixo do mapa indica que 'Há mais gente vivendo dentro desse círculo do que fora dele'. Na parte inferior da imagem, há informações sobre a fonte do mapa: 'Disponível em: http://twisted sifter.com. Acesso em: 5 nov. 2013 (adaptado)'.])\n\n**TEXTO II**\n\nA Índia deu um passo alto no setor de teleatendimento para países mais desenvolvidos, como os Estados Unidos e as nações europeias. Atualmente mais de 245 mil indianos realizam ligações para todas as partes do mundo a fim de oferecer cartões de crédito ou telefones celulares ou cobrar contas em atraso.\n\nDisponível em: www.conectacallcenter.com.br. Acesso em: 12 nov. 2013 (adaptado).",
+    "files": [
+        "A imagem mostra um mapa-múndi em tons de cinza, com uma área da Ásia (incluindo Índia, China e Sudeste Asiático) ampliada em um círculo. Uma legenda abaixo do mapa indica que 'Há mais gente vivendo dentro desse círculo do que fora dele'. Na parte inferior da imagem, há informações sobre a fonte do mapa: 'Disponível em: http://twisted sifter.com. Acesso em: 5 nov. 2013 (adaptado)'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao relacionar os textos, a explicação para o processo de territorialização descrito está no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aceitação das diferenças culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Adequação da posição geográfica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incremento do ensino superior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Qualidade da rede logística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Custo da mão de obra local.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

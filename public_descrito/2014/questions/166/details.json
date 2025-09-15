@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2014",
+    "index": 166,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra cinco linhas retas representando o valor mensal (em reais) em função do tempo mensal (em minutos). O eixo vertical, 'Valor mensal (em reais)', varia de 0 a 75. O eixo horizontal, 'Tempo mensal (em minutos)', varia de 0 a 60. A linha A começa em aproximadamente 28 reais e aumenta para cerca de 42 reais em 60 minutos. A linha B começa em aproximadamente 32 reais e aumenta para cerca de 48 reais em 60 minutos. A linha C começa em aproximadamente 37 reais e aumenta para cerca de 53 reais em 60 minutos. A linha D começa em aproximadamente 42 reais e aumenta para cerca de 61 reais em 60 minutos. A linha E começa em aproximadamente 5 reais e aumenta para cerca de 72 reais em 60 minutos.])\n\nEssa pessoa pretende gastar exatamente R$ 30,00 por mês com telefone.",
+    "files": [
+        "O gráfico mostra cinco linhas retas representando o valor mensal (em reais) em função do tempo mensal (em minutos). O eixo vertical, 'Valor mensal (em reais)', varia de 0 a 75. O eixo horizontal, 'Tempo mensal (em minutos)', varia de 0 a 60. A linha A começa em aproximadamente 28 reais e aumenta para cerca de 42 reais em 60 minutos. A linha B começa em aproximadamente 32 reais e aumenta para cerca de 48 reais em 60 minutos. A linha C começa em aproximadamente 37 reais e aumenta para cerca de 53 reais em 60 minutos. A linha D começa em aproximadamente 42 reais e aumenta para cerca de 61 reais em 60 minutos. A linha E começa em aproximadamente 5 reais e aumenta para cerca de 72 reais em 60 minutos."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dos planos telefônicos apresentados, qual é o mais vantajoso, em tempo de chamada, para o gasto previsto para essa pessoa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

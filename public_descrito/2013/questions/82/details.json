@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2013",
+    "index": 82,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra dois gráficos lado a lado, ambos representando ondas sonoras. O gráfico da esquerda é rotulado como 'Dó central' e o da direita como 'Dó maior'. Cada gráfico exibe uma linha ondulada que oscila acima e abaixo de uma linha horizontal, indicando variações na amplitude do som ao longo do tempo. Uma marcação vertical ('T') está presente em ambos os gráficos, possivelmente representando um ponto de referência no tempo.])",
+    "files": [
+        "A imagem mostra dois gráficos lado a lado, ambos representando ondas sonoras. O gráfico da esquerda é rotulado como 'Dó central' e o da direita como 'Dó maior'. Cada gráfico exibe uma linha ondulada que oscila acima e abaixo de uma linha horizontal, indicando variações na amplitude do som ao longo do tempo. Uma marcação vertical ('T') está presente em ambos os gráficos, possivelmente representando um ponto de referência no tempo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A razão entre as frequências do Dó central e do Dó maior é de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1/4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

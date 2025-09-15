@@ -1,0 +1,45 @@
+{
+    "title": "Questão 89 - ENEM 2021",
+    "index": 89,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Diagrama ilustrando o movimento de translação da Terra ao redor do Sol, mostrando as posições nos equinócios (21 de março e 23 de setembro) e solstícios (21 de junho e 21 de dezembro). O diagrama é apresentado em um fundo preto com uma moldura branca. No centro, há o Sol representado como um círculo amarelo. A Terra é mostrada em quatro posições diferentes ao longo da órbita, cada uma correspondendo a uma data específica. Linhas tracejadas indicam a posição do plano orbital da Terra em relação ao Sol.])",
+    "files": [
+        "Diagrama ilustrando o movimento de translação da Terra ao redor do Sol, mostrando as posições nos equinócios (21 de março e 23 de setembro) e solstícios (21 de junho e 21 de dezembro). O diagrama é apresentado em um fundo preto com uma moldura branca. No centro, há o Sol representado como um círculo amarelo. A Terra é mostrada em quatro posições diferentes ao longo da órbita, cada uma correspondendo a uma data específica. Linhas tracejadas indicam a posição do plano orbital da Terra em relação ao Sol."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando as informações apresentadas, o prédio do Congresso Nacional, em Brasília, no dia 21 de junho, às 12 horas, projetará sua sombra para a direção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Norte",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sul",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Leste",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Oeste",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nordeste",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

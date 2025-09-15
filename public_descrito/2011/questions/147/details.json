@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2011",
+    "index": 147,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática de um cone. O cone possui uma base circular, que se afunila para um vértice central. Linhas retas conectam a base ao vértice, representando as arestas do cone. A imagem é em preto e branco, com o cone aparecendo como uma linha contínua sobre um fundo branco.])",
+    "files": [
+        "A imagem mostra uma representação esquemática de um cone. O cone possui uma base circular, que se afunila para um vértice central. Linhas retas conectam a base ao vértice, representando as arestas do cone. A imagem é em preto e branco, com o cone aparecendo como uma linha contínua sobre um fundo branco."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esta figura é uma representação de uma superfície de revolução chamada de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pirâmide.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Semiesfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cilindro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tronco de cone.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cone.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

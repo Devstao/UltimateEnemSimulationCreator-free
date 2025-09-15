@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2014",
+    "index": 94,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma captura de tela de um site chamado WeFeedback, com um design que lembra uma página da web antiga. No topo, há o logotipo do site e informações sobre o número de refeições fornecidas a crianças (354.774). Abaixo, há uma seção 'About' com texto explicando o conceito do site: compartilhar comida para ajudar crianças carentes. Uma área de formulário permite que os usuários insiram seu nome, o tipo de alimento que desejam compartilhar (sushi platter), o valor que estão dispostos a pagar (20 USD) e o número de porções. Ao lado do formulário, há um gráfico circular indicando que o compartilhamento alimentará 240 crianças, com um botão 'Feed them now'. Na parte inferior da imagem, há uma nota sobre a disponibilidade do site e a data de acesso.])\n\nDisponível em: http://wefeedback.org. Acesso em: 30 jul. 2012.",
+    "files": [
+        "A imagem mostra uma captura de tela de um site chamado WeFeedback, com um design que lembra uma página da web antiga. No topo, há o logotipo do site e informações sobre o número de refeições fornecidas a crianças (354.774). Abaixo, há uma seção 'About' com texto explicando o conceito do site: compartilhar comida para ajudar crianças carentes. Uma área de formulário permite que os usuários insiram seu nome, o tipo de alimento que desejam compartilhar (sushi platter), o valor que estão dispostos a pagar (20 USD) e o número de porções. Ao lado do formulário, há um gráfico circular indicando que o compartilhamento alimentará 240 crianças, com um botão 'Feed them now'. Na parte inferior da imagem, há uma nota sobre a disponibilidade do site e a data de acesso."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A internet tem servido a diferentes interesses, ampliando, muitas vezes, o contato entre pessoas e instituições. Um exemplo disso é o site WeFeedback, no qual a internauta Kate Watts",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Comprou comida em promoção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Inscreveu-se em concurso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fez doação para caridade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Participou de pesquisa de opinião.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Voluntariou-se para trabalho social.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

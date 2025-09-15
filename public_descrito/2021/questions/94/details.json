@@ -1,0 +1,49 @@
+{
+    "title": "Questão 94 - ENEM 2021",
+    "index": 94,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura foi extraída de um antigo jogo de computadores, chamado _Bang! Bang!_\n\n![]([descrição: A imagem mostra uma representação esquemática de um problema de física envolvendo movimento de projéteis. Uma canoa está localizada no ponto A, no topo de uma colina inclinada. No ponto B, na base da colina, outra canoa é lançada com velocidade inicial v₀ e ângulo θ em relação à horizontal. Há anotações que indicam a altura do ponto A (35 m), a distância horizontal entre os pontos A e B (120 m) e a altura vertical adicional de 10 m acima da colina no ponto P. Uma seta indica a aceleração devido à gravidade (g) apontando para baixo. O diagrama parece ilustrar um cenário onde a canoa lançada do ponto B deve atingir o ponto P.])\n\nNo jogo, dois competidores controlam os canhões  **A**  e  **B**  , disparando balas alternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem valores estimados para o módulo de velocidade inicial de disparo ![]([descrição: A imagem mostra uma notação matemática, especificamente um bra-ket com um vetor dentro. O bra-ket é representado por parênteses curvos e o vetor é denotado como |v₀⟩, onde 'v₀' tem uma seta acima, indicando que se trata de um vetor.])   e para o ângulo de disparo ![]([descrição: A imagem mostra o símbolo theta (θ) entre chaves.]).\n\nEm determinado momento de uma partida, o competidor  **B**  deve disparar; ele sabe que a bala disparada anteriormente, = 53 °, Passou tangenciando o Ponto  **P**  .\n\nNo jogo,  ![]([descrição: A imagem mostra o símbolo da aceleração gravitacional, 'g', com uma seta indicando sua direção para a direita. O símbolo está posicionado entre duas barras verticais.]) é igual a 10 m / s 2. Considere sen 53 ° = 0,8, cos 53 ° = 0,6 e desprezível a ação de dissipativas.\n\nDisponível em:  [http://mebdownloads.butzke.net.br](http://mebdownloads.butzke.net.br/) . Acesso em: 18 abr. 2015 (adaptado).\n\nCom base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de   ![]([descrição: A imagem mostra uma representação vetorial com um módulo indicado por barras verticais à esquerda e à direita, e o vetor apontando para a direita com a letra 'v' subscrita por zero.]) que permitiria ao disparo pelo canhão  **B**  atingir o canhão  **A?**",
+    "files": [
+        "A imagem mostra uma representação esquemática de um problema de física envolvendo movimento de projéteis. Uma canoa está localizada no ponto A, no topo de uma colina inclinada. No ponto B, na base da colina, outra canoa é lançada com velocidade inicial v₀ e ângulo θ em relação à horizontal. Há anotações que indicam a altura do ponto A (35 m), a distância horizontal entre os pontos A e B (120 m) e a altura vertical adicional de 10 m acima da colina no ponto P. Uma seta indica a aceleração devido à gravidade (g) apontando para baixo. O diagrama parece ilustrar um cenário onde a canoa lançada do ponto B deve atingir o ponto P.",
+        "A imagem mostra uma notação matemática, especificamente um bra-ket com um vetor dentro. O bra-ket é representado por parênteses curvos e o vetor é denotado como |v₀⟩, onde 'v₀' tem uma seta acima, indicando que se trata de um vetor.",
+        "A imagem mostra o símbolo theta (θ) entre chaves.",
+        "A imagem mostra o símbolo da aceleração gravitacional, 'g', com uma seta indicando sua direção para a direita. O símbolo está posicionado entre duas barras verticais.",
+        "A imagem mostra uma representação vetorial com um módulo indicado por barras verticais à esquerda e à direita, e o vetor apontando para a direita com a letra 'v' subscrita por zero."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de que permitiria ao disparo pelo canhão  B  atingir o canhão  A?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30 m/s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "35 m/s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "40 m/s",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "45 m/s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50 m/s",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Questão 136 - ENEM 2018",
+    "index": 136,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Transferência Eletrônica Disponível (TED) é uma transação financeira de valores entre diferentes bancos. Um economista decide analisar os valores enviados por meio de TEDs entre cinco bancos (1, 2, 3, 4 e 5) durante um mês. Para isso, ele dispõe esses  valores em uma matriz A = \\[aij\\], em que ![1 \\leq i \\leq 5]([descrição: A imagem mostra a expressão matemática '1 ≤ i < 5' escrita em branco sobre um fundo preto.]) e ![1 \\leq j \\leq 5]([descrição: A imagem mostra uma expressão matemática escrita em preto sobre um fundo branco. A expressão é '1 ≤ j ≤ 5', que representa uma desigualdade indicando que o valor de 'j' está entre 1 e 5, inclusive.]), e o elemento aij corresponde ao total proveniente das operações feitas via TED, em milhão de real, transferidos do banco _i_ para o banco _j_ durante o mês. Observe que os elementos a_ij_ \\= 0, uma vez que TED é uma transferência entre bancos distintos. Esta é a matriz obtida para essa análise:\n\n![]([descrição: A imagem mostra uma matriz 5x5, identificada como 'A'. Os elementos da matriz são números inteiros dispostos em linhas e colunas. A primeira linha contém os valores [0, 2, 0, 2, 2]. A segunda linha contém [0, 0, 2, 1, 0]. A terceira linha contém [1, 2, 0, 1, 1]. A quarta linha contém [0, 2, 2, 0, 0]. E a quinta linha contém [3, 0, 1, 1, 0]])",
+    "files": [
+        "A imagem mostra a expressão matemática '1 ≤ i < 5' escrita em branco sobre um fundo preto.",
+        "A imagem mostra uma expressão matemática escrita em preto sobre um fundo branco. A expressão é '1 ≤ j ≤ 5', que representa uma desigualdade indicando que o valor de 'j' está entre 1 e 5, inclusive.",
+        "A imagem mostra uma matriz 5x5, identificada como 'A'. Os elementos da matriz são números inteiros dispostos em linhas e colunas. A primeira linha contém os valores [0, 2, 0, 2, 2]. A segunda linha contém [0, 0, 2, 1, 0]. A terceira linha contém [1, 2, 0, 1, 1]. A quarta linha contém [0, 2, 2, 0, 0]. E a quinta linha contém [3, 0, 1, 1, 0]"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nessas informações, o banco que transferiu a maior quantia via TED é o banco",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

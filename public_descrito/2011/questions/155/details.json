@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2011",
+    "index": 155,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um triângulo ABC, onde A e B estão na base horizontal e P é o vértice superior. O ângulo entre a linha AB e AP é marcado como α (alfa). O ângulo entre a linha AB e BP é marcado como 2α (dois alfa). Uma linha tracejada representa a trajetória do barco, estendendo-se para a direita a partir do ponto B.])\n\nSuponha que o navegante tenha medido o ângulo α = 30°  e, ao chegar ao ponto B, verificou que o barco havia percorrido a distância AB = 2 000 m.",
+    "files": [
+        "A imagem mostra um triângulo ABC, onde A e B estão na base horizontal e P é o vértice superior. O ângulo entre a linha AB e AP é marcado como α (alfa). O ângulo entre a linha AB e BP é marcado como 2α (dois alfa). Uma linha tracejada representa a trajetória do barco, estendendo-se para a direita a partir do ponto B."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nesses dados e mantendo a mesma trajetória, a menor distância do barco até o ponto fixo P será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 000 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 000 √3 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2 000 √3/3 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 000 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 000 √3 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

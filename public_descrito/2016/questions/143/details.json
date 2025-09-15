@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2016",
+    "index": 143,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra duas figuras geométricas lado a lado. A Figura A é um retângulo com altura 'x' e largura 'x+7'. A Figura B é um triângulo retângulo com altura de 15 metros, base de 15 metros e hipotenusa de 21 metros. Há pequenos círculos nos cantos de ambas as figuras.])",
+    "files": [
+        "A imagem mostra duas figuras geométricas lado a lado. A Figura A é um retângulo com altura 'x' e largura 'x+7'. A Figura B é um triângulo retângulo com altura de 15 metros, base de 15 metros e hipotenusa de 21 metros. Há pequenos círculos nos cantos de ambas as figuras."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para satisfazer o filho mais novo, esse senhor precisa encontrar um terreno retangular cujas medidas, em metro, do comprimento e da largura sejam iguais, respectivamente, a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7,5 e 14,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9,0 e 16,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "9,3 e 16,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10,0 e 17,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "13,5 e 20,5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

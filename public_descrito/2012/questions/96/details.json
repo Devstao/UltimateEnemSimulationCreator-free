@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2012",
+    "index": 96,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: Diagrama ilustrando os efeitos do exercício físico no corpo humano, dividido em três seções: pulmões, coração e músculos. A seção dos pulmões mostra uma ilustração de brônquios e alvéolos, com texto explicando que eles fornecem oxigênio ao sangue e podem receber e difundir mais oxigênio. A seção do coração apresenta um desenho do órgão, indicando que ele bombeia sangue rico em oxigênio para os músculos e aumenta de tamanho durante o exercício. A seção dos músculos mostra uma pessoa correndo, com texto explicando que os músculos utilizam o oxigênio para queimar combustível e adquirir tônus. Há setas conectando as seções, representando o fluxo do processo. Na parte inferior, há um texto explicativo sobre a relação entre ventilação, circulação e metabolismo.])\n\nNIEMAN, D. Exercício e saúde. São Paulo: Manole, 1999 (adaptado).",
+    "files": [
+        "Diagrama ilustrando os efeitos do exercício físico no corpo humano, dividido em três seções: pulmões, coração e músculos. A seção dos pulmões mostra uma ilustração de brônquios e alvéolos, com texto explicando que eles fornecem oxigênio ao sangue e podem receber e difundir mais oxigênio. A seção do coração apresenta um desenho do órgão, indicando que ele bombeia sangue rico em oxigênio para os músculos e aumenta de tamanho durante o exercício. A seção dos músculos mostra uma pessoa correndo, com texto explicando que os músculos utilizam o oxigênio para queimar combustível e adquirir tônus. Há setas conectando as seções, representando o fluxo do processo. Na parte inferior, há um texto explicativo sobre a relação entre ventilação, circulação e metabolismo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A partir dos efeitos fisiológicos do exercício físico no organismo, apresentados na figura, são adaptações benéficas à saúde de um indivíduo:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diminuição da frequência cardíaca em repouso e aumento da oxigenação do sangue.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Diminuição da oxigenação do sangue e aumento da frequência cardíaca em repouso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da frequência cardíaca em repouso e aumento da gordura corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuição do tônus muscular e aumento do percentual de gordura corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição da gordura corporal e aumento da frequência cardíaca em repouso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

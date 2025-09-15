@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2022",
+    "index": 168,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados na figura, na qual as linhas verticais e horizontais simbolizam ruas\n\n![]([descrição: A imagem mostra uma figura geométrica desenhada sobre um grid quadriculado. A figura é composta por segmentos retos, formando um caminho que começa no ponto P na parte inferior esquerda e termina no ponto Q no canto superior direito. O caminho se move verticalmente para cima, horizontalmente para a direita, verticalmente para baixo e novamente horizontalmente para a direita.])\n\nPor causa do sentido de tráfego nessas ruas, o caminho poligonal destacado é a possibilidade mais curta de efetuar esse deslocamento. Para descrevê-lo, deve-se especificar qual o sentido a ser tomado em cada cruzamento de ruas, em relação à direção de deslocamento do automóvel, que se movimentará continuamente. Para isso, empregam-se as letras E, F e D para indicar  \n“vire à esquerda”, “siga em frente” e “vire à direita”, respectivamente.",
+    "files": [
+        "A imagem mostra uma figura geométrica desenhada sobre um grid quadriculado. A figura é composta por segmentos retos, formando um caminho que começa no ponto P na parte inferior esquerda e termina no ponto Q no canto superior direito. O caminho se move verticalmente para cima, horizontalmente para a direita, verticalmente para baixo e novamente horizontalmente para a direita."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A sequência de letras que descreve o caminho poligonal destacado é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "DDEFDDEEFFD.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "DFEFDDDEFFD.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "DFEFDDEEFFD.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "EFDFEEDDFFE.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "EFDFEEEDFFE.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

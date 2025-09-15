@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2017",
+    "index": 3,
+    "year": 2017,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma propaganda com texto sobreposto a uma fotografia em preto e branco. A fotografia mostra um carro levantado, com o óleo escorrendo sob ele. O texto diz: 'Leve seu carro para qualquer lugar para uma troca de óleo e você pode se arrepender disso mais tarde'.])\n\n**Reader’s Digest**, set. 1993.",
+    "files": [
+        "A imagem é uma propaganda com texto sobreposto a uma fotografia em preto e branco. A fotografia mostra um carro levantado, com o óleo escorrendo sob ele. O texto diz: 'Leve seu carro para qualquer lugar para uma troca de óleo e você pode se arrepender disso mais tarde'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse texto publicitário são utilizados recursos verbais e não verbais para transmitir a mensagem. Ao associar os termos anyplace e regret à imagem do texto, constata-se que o tema da propaganda é a importância da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Preservação do meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Manutenção do motor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Escolha da empresa certa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Consistência do produto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Conservação do carro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

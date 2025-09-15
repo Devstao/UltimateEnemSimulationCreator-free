@@ -1,0 +1,45 @@
+{
+    "title": "Questão 58 - ENEM 2011",
+    "index": 58,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra as estruturas químicas da glicerina e do polietilenoglicol. A glicerina é representada como uma molécula com três grupos hidroxila (OH) ligados a um átomo de carbono central, que está ligado a outros dois átomos de carbono. Abaixo, o polietilenoglicol é mostrado como uma cadeia repetitiva de unidades -CH2-CH2-, intercaladas por átomos de oxigênio (O). A legenda indica a fonte da imagem e a data de acesso.])",
+    "files": [
+        "A imagem mostra as estruturas químicas da glicerina e do polietilenoglicol. A glicerina é representada como uma molécula com três grupos hidroxila (OH) ligados a um átomo de carbono central, que está ligado a outros dois átomos de carbono. Abaixo, o polietilenoglicol é mostrado como uma cadeia repetitiva de unidades -CH2-CH2-, intercaladas por átomos de oxigênio (O). A legenda indica a fonte da imagem e a data de acesso."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A retenção de água na superfície da pele promovida pelos hidratantes é consequência da interação dos grupos hidroxila dos agentes umectantes com a umidade contida no ambiente por meio de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ligações iônicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Forças de London.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ligações covalentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Forças dipolo-dipolo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ligações de hidrogênio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

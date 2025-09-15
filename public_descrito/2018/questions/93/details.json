@@ -1,0 +1,48 @@
+{
+    "title": "Questão 93 - ENEM 2018",
+    "index": 93,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em 1938 o arqueólogo alemão WIlhelm Kõnlg, diretor do Museu Nacional do Iraque, encontrou um objeto estranho na coleção da Instituição, que poderia ter sido usado como uma pilha, similar às utilizadas em nossos dias. A suposta pilha, datada de cerca de 200 a.C., é constituída de um pequeno vaso de barro (argila) no qual foram instalados um tubo de cobre, uma barra de ferro (aparentemente corroída por ácido) e uma tampa de betume (asfalto), conforme ilustrado. Considere os potenciais-padrão de redução: ![]([descrição: A imagem mostra uma letra 'E' maiúscula, seguida por dois círculos sobrepostos com um traço horizontal conectando-os.]) (Fe^+|Fe) = -0,4: 4 V; ![]([descrição: A imagem mostra uma letra 'E' maiúscula, seguida por dois círculos sobrepostos com uma linha horizontal conectando-os.]) (H+|H.) = 0,00 V; e  ![]([descrição: A imagem mostra uma letra 'E' maiúscula, seguida por dois círculos sobrepostos com uma linha horizontal conectando-os.]) (Cu^+|Cu) = +0,34 V.\n\n![]([descrição: Diagrama esquemático de uma pilha de Bagdá, mostrando suas partes constituintes. A ilustração é um corte transversal da pilha, revelando camadas de materiais como vaso de barro, tubo de cobre, barra de ferro e tampa de betume. Setas indicam cada componente com seus respectivos nomes em português: 'Tampa de betume', 'Barra de ferro', 'Tubo de cobre' e 'Vaso de barro'. Uma seta também aponta para o 'Vestígio de ácido'. Na parte inferior da imagem, há uma legenda com a fonte da informação e data de acesso.])",
+    "files": [
+        "A imagem mostra uma letra 'E' maiúscula, seguida por dois círculos sobrepostos com um traço horizontal conectando-os.",
+        "A imagem mostra uma letra 'E' maiúscula, seguida por dois círculos sobrepostos com uma linha horizontal conectando-os.",
+        "A imagem mostra uma letra 'E' maiúscula, seguida por dois círculos sobrepostos com uma linha horizontal conectando-os.",
+        "Diagrama esquemático de uma pilha de Bagdá, mostrando suas partes constituintes. A ilustração é um corte transversal da pilha, revelando camadas de materiais como vaso de barro, tubo de cobre, barra de ferro e tampa de betume. Setas indicam cada componente com seus respectivos nomes em português: 'Tampa de betume', 'Barra de ferro', 'Tubo de cobre' e 'Vaso de barro'. Uma seta também aponta para o 'Vestígio de ácido'. Na parte inferior da imagem, há uma legenda com a fonte da informação e data de acesso."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa suposta pilha, qual dos componentes atuaria como cátodo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A tampa de betume.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O vestígio de ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A barra de ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O tubo de cobre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O vaso de barro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

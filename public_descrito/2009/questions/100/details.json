@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2009",
+    "index": 100,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: O desenho apresenta uma história em quadrinhos em preto e branco, dividida em quatro cenas. A primeira cena mostra um homem de uniforme (possivelmente um oficial) interrogando um escritor elegantemente vestido, que segura um livro intitulado 'O Fazedor'. O oficial pergunta: \"Por que o senhor publicou esse livro? Qual foi sua maior motivação?\". Na segunda cena, o escritor responde com frustração: \"Motivação? Meu filho, um escritor publica um livro para parar de escrevê-lo!\" A terceira cena é uma sequência repetitiva de ações relacionadas à escrita, como escrever, revisar, acrescentar, suprimir, reescrever e consultar. Na última cena, o homem de uniforme observa o escritor, que expressa exaustão ao dizer: \"Eu não aguentava mais escrever e reescrever...\" A legenda inferior atribui a autoria do desenho a C. Xavier, com informações sobre sua fonte online.])",
+    "files": [
+        "O desenho apresenta uma história em quadrinhos em preto e branco, dividida em quatro cenas. A primeira cena mostra um homem de uniforme (possivelmente um oficial) interrogando um escritor elegantemente vestido, que segura um livro intitulado 'O Fazedor'. O oficial pergunta: \"Por que o senhor publicou esse livro? Qual foi sua maior motivação?\". Na segunda cena, o escritor responde com frustração: \"Motivação? Meu filho, um escritor publica um livro para parar de escrevê-lo!\" A terceira cena é uma sequência repetitiva de ações relacionadas à escrita, como escrever, revisar, acrescentar, suprimir, reescrever e consultar. Na última cena, o homem de uniforme observa o escritor, que expressa exaustão ao dizer: \"Eu não aguentava mais escrever e reescrever...\" A legenda inferior atribui a autoria do desenho a C. Xavier, com informações sobre sua fonte online."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Tendo em vista a segunda fala do personagem entrevistado, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O entrevistado deseja convencer o jornalista a não publicar um livro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O principal objetivo do entrevistado é explicar o significado da palavra motivação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "São utilizados diversos recursos da linguagem literária, tais como a metáfora e a metonímia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O entrevistado deseja informar de modo objetivo o jornalista sobre as etapas de produção de um livro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O principal objetivo do entrevistado é evidenciar seu sentimento com relação ao processo de produção de um livro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

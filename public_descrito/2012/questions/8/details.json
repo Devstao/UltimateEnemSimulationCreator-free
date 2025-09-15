@@ -1,0 +1,45 @@
+{
+    "title": "Questão 8 - ENEM 2012",
+    "index": 8,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Desenho monocromático retratando uma cena com uma figura vestida formalmente, saindo de um prédio com grades e sendo acompanhada por outras duas figuras. Uma multidão de pessoas com expressões variadas observa a cena. O estilo do desenho é caricatural, com ênfase em exagerar as características faciais das figuras.])\n\nLord Willingdon’s Dilemma (Disponível em: www.gandhiserve.org. Acesso em: 21 nov.2011.)",
+    "files": [
+        "Desenho monocromático retratando uma cena com uma figura vestida formalmente, saindo de um prédio com grades e sendo acompanhada por outras duas figuras. Uma multidão de pessoas com expressões variadas observa a cena. O estilo do desenho é caricatural, com ênfase em exagerar as características faciais das figuras."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O cartum, publicado em 1932, ironiza as consequências sociais das constantes prisões de Mahatma Gandhi pelas autoridades britânicas, na Índia, demonstrando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A ineficiência do sistema judiciário inglês no território indiano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O apoio da população hindu à prisão de Gandhi.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O caráter violento das manifestações hindus frente à ação inglesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A impossibilidade de deter o movimento liderado por Gandhi.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A indiferença das autoridades britânicas frente ao apelo popular hindu.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

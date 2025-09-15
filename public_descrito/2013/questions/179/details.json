@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2013",
+    "index": 179,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma representação gráfica de uma seção transversal de um tronco de cone. A base maior do tronco é representada pela linha horizontal BD, com comprimento marcado como 6 unidades. A base menor é representada pela linha horizontal AC, com comprimento marcado como 4 unidades. As linhas AD e BC são as laterais inclinadas do tronco. Um ponto E está localizado na altura média entre as duas bases, e um ponto F está na mesma altura de E, mas no plano da base menor (AC). Linhas retas conectam os pontos A a D e B a C, formando o tronco.])",
+    "files": [
+        "A imagem mostra uma representação gráfica de uma seção transversal de um tronco de cone. A base maior do tronco é representada pela linha horizontal BD, com comprimento marcado como 6 unidades. A base menor é representada pela linha horizontal AC, com comprimento marcado como 4 unidades. As linhas AD e BC são as laterais inclinadas do tronco. Um ponto E está localizado na altura média entre as duas bases, e um ponto F está na mesma altura de E, mas no plano da base menor (AC). Linhas retas conectam os pontos A a D e B a C, formando o tronco."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual deve ser o valor do comprimento da haste EF?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,4 m",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3 m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2√6 m",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

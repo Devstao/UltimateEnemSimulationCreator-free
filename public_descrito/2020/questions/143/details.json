@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2020",
+    "index": 143,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No Brasil, o tempo necessário para um estudante realizar sua formação até a diplomação em um curso superior, considerando os 9 anos de ensino fundamental, os 3 anos do ensino médio e os 4 anos de graduação (tempo médio), é de 16 anos. No entanto, a realidade dos brasileiros mostra que o tempo médio de estudo de pessoas acima de 14 anos é ainda muito pequeno, conforme apresentado na tabela\n\n![]([descrição: A imagem mostra uma tabela com o título 'Tempo médio de estudo de pessoas acima de 14 anos'. A tabela apresenta dois campos: 'Ano da Pesquisa' e 'Tempo de estudo (em ano)'. Os anos da pesquisa são 1995, 1999, 2003 e 2007. Os respectivos tempos médios de estudo são 5,2, 5,8, 6,4 e 7,0 anos. Na parte inferior da tabela, há a fonte dos dados: 'Disponível em: www.ibge.gov.br. Acesso em: 19 dez. 2012 (adaptado)'.])\n\nConsidere que o incremento no tempo de estudo, a cada período, para essas pessoas, se mantenha constante até o ano 2050, e que se pretenda chegar ao patamar de 70% do tempo necessário à obtenção do curso superior dado anteriormente.",
+    "files": [
+        "A imagem mostra uma tabela com o título 'Tempo médio de estudo de pessoas acima de 14 anos'. A tabela apresenta dois campos: 'Ano da Pesquisa' e 'Tempo de estudo (em ano)'. Os anos da pesquisa são 1995, 1999, 2003 e 2007. Os respectivos tempos médios de estudo são 5,2, 5,8, 6,4 e 7,0 anos. Na parte inferior da tabela, há a fonte dos dados: 'Disponível em: www.ibge.gov.br. Acesso em: 19 dez. 2012 (adaptado)'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O ano em que o tempo médio de estudo de pessoas acima de 14 anos atingirá o percentual pretendido será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2018.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2023.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2031.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2035.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2043.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

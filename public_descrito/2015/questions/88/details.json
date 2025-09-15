@@ -1,0 +1,45 @@
+{
+    "title": "Questão 88 - ENEM 2015",
+    "index": 88,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para obter a posição de um telefone celular, a polícia baseia-se em informações do tempo de resposta do aparelho em relação às torres de celular da região de onde se originou a ligação. Em uma região, um aparelho está na área de cobertura de cinco torres, conforme o esquema\n\n![]([descrição: A imagem mostra um diagrama simplificado de uma rede celular. No centro, há um círculo contendo o ícone de um telefone celular com antenas. Ao redor do telefone, em cada um dos quatro cantos e nos pontos cardeais, estão representações de torres de telefonia celular, também com antenas. As torres e o telefone são desenhos lineares pretos sobre um fundo branco.])",
+    "files": [
+        "A imagem mostra um diagrama simplificado de uma rede celular. No centro, há um círculo contendo o ícone de um telefone celular com antenas. Ao redor do telefone, em cada um dos quatro cantos e nos pontos cardeais, estão representações de torres de telefonia celular, também com antenas. As torres e o telefone são desenhos lineares pretos sobre um fundo branco."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que as torres e o celular são puntiformes e que estão sobre um mesmo plano, qual o número mínimo de torres necessárias para se localizar a posição do do telefone celular que originou a ligação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Uma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Duas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Três.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Quatro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cinco.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

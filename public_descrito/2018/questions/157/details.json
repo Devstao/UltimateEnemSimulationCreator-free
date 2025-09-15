@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2018",
+    "index": 157,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um mapa é a representação reduzida e simplificada de uma localidade. Essa redução, que é feita com o uso de uma escala, mantém a proporção do espaço representado em relação ao espaço real.  \nCerto mapa tem escala 1 : 58 000 000.\n\n![]([descrição: A imagem mostra um mapa do tesouro desenhado à mão, com aparência envelhecida e enrolado nas extremidades. O mapa apresenta uma ilha com diversas formações rochosas e vegetação. Uma bússola estilizada está localizada no canto superior direito, indicando os pontos cardeais Norte, Sul, Leste e Oeste. Uma seta aponta para um local marcado como 'Tesouro', enquanto outra seta indica a 'Fonte do Lavra'. Há também outras marcações e símbolos desenhados pelo que parece ser uma caligrafia antiga.])\n\nConsidere que, nesse mapa, o segmento de reta que liga o navio à marca do tesouro meça 7,6 cm.",
+    "files": [
+        "A imagem mostra um mapa do tesouro desenhado à mão, com aparência envelhecida e enrolado nas extremidades. O mapa apresenta uma ilha com diversas formações rochosas e vegetação. Uma bússola estilizada está localizada no canto superior direito, indicando os pontos cardeais Norte, Sul, Leste e Oeste. Uma seta aponta para um local marcado como 'Tesouro', enquanto outra seta indica a 'Fonte do Lavra'. Há também outras marcações e símbolos desenhados pelo que parece ser uma caligrafia antiga."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A medida real, em quilômetro, desse segmento de reta é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 408.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "7 632.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "44 080.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "76 316.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "440 800.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

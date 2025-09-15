@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2019",
+    "index": 125,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua sobrevivência em diferentes ambientes. Na imagem, cinco dessas características estão indicadas por números.\n\n![]([descrição: A imagem mostra uma árvore filogenética representando a evolução das plantas, com o tempo (em milhões de anos) no eixo horizontal e os grupos de plantas no eixo vertical. A árvore se ramifica da 'Alga Verde Ancestral' em vários pontos, representando a diversificação das plantas ao longo do tempo. Os principais grupos representados incluem Hepáticas, Antóceros, Musgos, Licófitas, Psilotales, Cavalinhas, Paiobium, Gimnospermas e Angiospermas. Cada grupo de plantas é ilustrado com uma imagem simplificada da planta correspondente. Uma legenda à direita explica o significado de cinco pontos marcados na árvore filogenética (1 a 5), relacionados a eventos evolutivos como a proteção dos embriões, formação do tubo polínico, polinização pelo vento e produção de frutos. Na parte inferior da imagem, há uma referência à fonte: CAMPBELL, N. et al. Biologia. São Paulo: Artmed, 2010 (adaptado).])",
+    "files": [
+        "A imagem mostra uma árvore filogenética representando a evolução das plantas, com o tempo (em milhões de anos) no eixo horizontal e os grupos de plantas no eixo vertical. A árvore se ramifica da 'Alga Verde Ancestral' em vários pontos, representando a diversificação das plantas ao longo do tempo. Os principais grupos representados incluem Hepáticas, Antóceros, Musgos, Licófitas, Psilotales, Cavalinhas, Paiobium, Gimnospermas e Angiospermas. Cada grupo de plantas é ilustrado com uma imagem simplificada da planta correspondente. Uma legenda à direita explica o significado de cinco pontos marcados na árvore filogenética (1 a 5), relacionados a eventos evolutivos como a proteção dos embriões, formação do tubo polínico, polinização pelo vento e produção de frutos. Na parte inferior da imagem, há uma referência à fonte: CAMPBELL, N. et al. Biologia. São Paulo: Artmed, 2010 (adaptado)."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A aquisição evolutiva que permitiu a conquista definitiva do ambiente terrestre pelas plantas está indicada pelo número:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

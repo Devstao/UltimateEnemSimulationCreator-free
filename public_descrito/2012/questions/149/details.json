@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2012",
+    "index": 149,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra três representações geométricas planas, dispostas horizontalmente. A primeira é um retângulo com dois círculos conectados nas extremidades superior e inferior. A segunda representa uma forma complexa composta por um hexágono central conectado a retângulos em ambos os lados e a cubos menores nos cantos. A terceira figura consiste em três triângulos, dois maiores e um menor no centro, todos dispostos lado a lado.])",
+    "files": [
+        "A imagem mostra três representações geométricas planas, dispostas horizontalmente. A primeira é um retângulo com dois círculos conectados nas extremidades superior e inferior. A segunda representa uma forma complexa composta por um hexágono central conectado a retângulos em ambos os lados e a cubos menores nos cantos. A terceira figura consiste em três triângulos, dois maiores e um menor no centro, todos dispostos lado a lado."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quais serão os sólidos geométricos que Maria obterá a partir dessas planificações?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cilindro, prisma de base pentagonal e pirâmide.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Cone, prisma de base pentagonal e pirâmide.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cone, tronco de pirâmide e pirâmide.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cilindro, tronco de pirâmide e prisma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cilindro, prisma e tronco de cone.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

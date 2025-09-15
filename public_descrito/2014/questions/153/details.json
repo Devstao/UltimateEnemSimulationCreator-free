@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2014",
+    "index": 153,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem contém dois gráficos. O primeiro, denominado 'Gráfico 1', é um gráfico de pizza que representa a distribuição da folha salarial por nível de escolaridade. Ele mostra que 75% dos funcionários têm ensino fundamental completo, enquanto 12,5% têm ensino médio e 12,5% têm ensino superior. O segundo gráfico, denominado 'Gráfico 2', é um gráfico de barras comparando o número de funcionários por grau de instrução em 2013 e 2014. As categorias são Ensino Fundamental, Ensino Médio e Ensino Superior. Em 2013, o número de funcionários com ensino fundamental foi de aproximadamente 65, com ensino médio foi de aproximadamente 160 e com ensino superior foi de aproximadamente 15. Em 2014, o número de funcionários com ensino fundamental foi de aproximadamente 75, com ensino médio foi de aproximadamente 180 e com ensino superior foi de aproximadamente 20.])",
+    "files": [
+        "A imagem contém dois gráficos. O primeiro, denominado 'Gráfico 1', é um gráfico de pizza que representa a distribuição da folha salarial por nível de escolaridade. Ele mostra que 75% dos funcionários têm ensino fundamental completo, enquanto 12,5% têm ensino médio e 12,5% têm ensino superior. O segundo gráfico, denominado 'Gráfico 2', é um gráfico de barras comparando o número de funcionários por grau de instrução em 2013 e 2014. As categorias são Ensino Fundamental, Ensino Médio e Ensino Superior. Em 2013, o número de funcionários com ensino fundamental foi de aproximadamente 65, com ensino médio foi de aproximadamente 160 e com ensino superior foi de aproximadamente 15. Em 2014, o número de funcionários com ensino fundamental foi de aproximadamente 75, com ensino médio foi de aproximadamente 180 e com ensino superior foi de aproximadamente 20."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual deve ser o aumento na receita da empresa para que o lucro mensal em 2014 seja o mesmo de 2013?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 114 285,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 130 000,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 160 000,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 210 000,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 213 333,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

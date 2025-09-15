@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2020",
+    "index": 15,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O suor para estar em competições nacionais e internacionais de alto nível é o mesmo para homens e mulheres, mas não raramente as remunerações são menores para elas. Se no tênis, um dos esportes mais equânimes em termos de gênero, todos os principais torneiros oferecem prêmios idênticos nas disputas femininas e masculinas, no futebol a desigualdade atinge seu ápice. Neymar e Marta são dois expoentes dessa paixão nacional. Ela já foi eleita cinco vezes a melhor jogadora do mundo pela Fifa. Ele conquistou o terceiro lugar na última votação para melhor do mundo. Mas é na conta bancária que a diferença entre os dois se sobressai.\n\n![]([descrição: A imagem é uma comparação em preto e branco entre a jogadora Marta e o jogador Neymar, com foco nos valores financeiros associados aos seus gols. À esquerda, Marta está em pose de caminhada, vestindo um uniforme de futebol feminino. Ao lado dela, há informações sobre seu salário anual de US$ 400 mil, 103 gols pela seleção e um valor de US$ 3,9 mil por gol. À direita, Neymar está em pose de corrida, vestindo um uniforme de futebol masculino. Próximo a ele, são apresentados dados como salário anual de US$ 14,5 milhões, 50 gols pela seleção e um valor de US$ 290 mil por gol. No topo da imagem, há o título 'Quanto vale o gol?'.])\n\nDisponível em: http://apublica.org. Acesso em: 9 ago. 2017 (adaptado).",
+    "files": [
+        "A imagem é uma comparação em preto e branco entre a jogadora Marta e o jogador Neymar, com foco nos valores financeiros associados aos seus gols. À esquerda, Marta está em pose de caminhada, vestindo um uniforme de futebol feminino. Ao lado dela, há informações sobre seu salário anual de US$ 400 mil, 103 gols pela seleção e um valor de US$ 3,9 mil por gol. À direita, Neymar está em pose de corrida, vestindo um uniforme de futebol masculino. Próximo a ele, são apresentados dados como salário anual de US$ 14,5 milhões, 50 gols pela seleção e um valor de US$ 290 mil por gol. No topo da imagem, há o título 'Quanto vale o gol?'."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O esporte é uma manifestação cultural na qual se estabelecem relações sociais. Considerando o texto, o futebol é uma mobilidade que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apresenta proximidades com o tênis, no que tange às relações de gênero entre homens e mulheres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Se caracteriza por uma identidade masculina no Brasil, conferindo maior remuneração aos jogadores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Traz remunerações, aos jogadores e jogadoras, proporcionais aos seus esforços no treinamento esportivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Resulta em melhor eficiência para as mulheres e, consequentemente, em remuneração mais alta às jogadoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Possui jogadores e jogadoras com a mesma visibilidade, apesar de haver expoentes feministas de destaque, como Marta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

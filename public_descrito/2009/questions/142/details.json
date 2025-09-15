@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2009",
+    "index": 142,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A suspeita de que haveria uma relação causal entre tabagismo e câncer de pulmão foi levantada pela primeira vez a partir de observações clínicas. Para testar essa possível associação, foram conduzidos inúmeros estudos epidemiológicos. Dentre esses, houve o estudo do número de casos de câncer em relação ao número de cigarros consumidos por dia, cujos resultados são mostrados no gráfico a seguir.\n\n![]([descrição: O gráfico mostra a relação entre o número de cigarros consumidos diariamente e os casos de câncer pulmonar. O eixo vertical representa 'Casos de câncer pulmonar' (de 0 a 60), enquanto o eixo horizontal representa 'Número de cigarros consumidos diariamente' (de 0 a 25). A linha do gráfico começa em aproximadamente 10 casos para 0-3 cigarros, permanece constante até cerca de 14 cigarros, onde há um aumento acentuado para aproximadamente 55 casos. Em seguida, a linha se estabiliza novamente em torno de 55 casos até o final do gráfico em 25 cigarros.])",
+    "files": [
+        "O gráfico mostra a relação entre o número de cigarros consumidos diariamente e os casos de câncer pulmonar. O eixo vertical representa 'Casos de câncer pulmonar' (de 0 a 60), enquanto o eixo horizontal representa 'Número de cigarros consumidos diariamente' (de 0 a 25). A linha do gráfico começa em aproximadamente 10 casos para 0-3 cigarros, permanece constante até cerca de 14 cigarros, onde há um aumento acentuado para aproximadamente 55 casos. Em seguida, a linha se estabiliza novamente em torno de 55 casos até o final do gráfico em 25 cigarros."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com as informações do gráfico,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas inversamente proporcionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que não se relacionam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas diretamente proporcionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uma pessoa não fumante certamente nunca será diagnosticada com câncer de pulmão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que estão relacionadas, mas sem proporcionalidade.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

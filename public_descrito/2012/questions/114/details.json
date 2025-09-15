@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2012",
+    "index": 114,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: O cartaz em preto e branco apresenta uma adaptação da pintura 'A Persistência da Memória' de Salvador Dalí. No topo, o título 'Cumprir prazos é uma obra-prima' está escrito em letras grandes. Abaixo, um texto explica que atrasar a devolução de livros gera multas e transtornos para os usuários, incentivando o respeito aos prazos de devolução. A imagem central reproduz elementos da pintura original, como relógios derretidos sobre uma superfície plana e galhos secos. Na parte inferior, há logotipos da Sbi e da UFG, juntamente com informações sobre a obra original de Dalí e a intervenção gráfica da UFC.])\n\nCartaz afixado nas bibliotecas centrais e setoriais da Universidade Federal de Goiás (UFG), 2011.",
+    "files": [
+        "O cartaz em preto e branco apresenta uma adaptação da pintura 'A Persistência da Memória' de Salvador Dalí. No topo, o título 'Cumprir prazos é uma obra-prima' está escrito em letras grandes. Abaixo, um texto explica que atrasar a devolução de livros gera multas e transtornos para os usuários, incentivando o respeito aos prazos de devolução. A imagem central reproduz elementos da pintura original, como relógios derretidos sobre uma superfície plana e galhos secos. Na parte inferior, há logotipos da Sbi e da UFG, juntamente com informações sobre a obra original de Dalí e a intervenção gráfica da UFC."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando-se a finalidade comunicativa comum do gênero e o contexto específico do Sistema de Biblioteca da UFG, esse cartaz tem função predominantemente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Socializadora, contribuindo para a popularização da arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sedutora, considerando a leitura como uma obra de arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estética, propiciando uma apreciação despretensiosa da obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Educativa, orientando o comportamento de usuários de um serviço.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Contemplativa, evidenciando a importância de artistas internacionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

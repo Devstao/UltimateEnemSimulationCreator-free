@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2010",
+    "index": 91,
+    "year": 2010,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma coluna vertical com texto sobre o tema 'A Morte do PC'. O título é grande e centralizado, seguido por um parágrafo que discute a obsolescência dos PCs e a ascensão de novas tecnologias. Menciona empresas como IBM, Yahoo! e Amazon competindo para lucrar com essa mudança. Há uma chamada para ação no final, incentivando o leitor a acessar um relatório gratuito chamado 'As Duas Palavras Que Bill Gates Não Quer Que Você Ouça'. A coluna está emoldurada por uma caixa escura e há um link azul na parte inferior que diz 'Clique aqui para acesso instantâneo a este relatório GRATUITO!' com a legenda 'Trazido a você pela The Motley Fool'.])\n\nDisponível em: http://www.fool.com. Acesso em: 21 jul. 2010.",
+    "files": [
+        "A imagem mostra uma coluna vertical com texto sobre o tema 'A Morte do PC'. O título é grande e centralizado, seguido por um parágrafo que discute a obsolescência dos PCs e a ascensão de novas tecnologias. Menciona empresas como IBM, Yahoo! e Amazon competindo para lucrar com essa mudança. Há uma chamada para ação no final, incentivando o leitor a acessar um relatório gratuito chamado 'As Duas Palavras Que Bill Gates Não Quer Que Você Ouça'. A coluna está emoldurada por uma caixa escura e há um link azul na parte inferior que diz 'Clique aqui para acesso instantâneo a este relatório GRATUITO!' com a legenda 'Trazido a você pela The Motley Fool'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao optar por ler a reportagem completa sobre o assunto anunciado, tem-se acesso a duas palavras que Bill Gates não quer que o leitor conheça e que se referem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aos responsáveis pela divulgação desta informação na internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Às marcas mais importantes de microcomputadores do mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aos nomes dos americanos que inventaram a suposta tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aos sites da internet pelos quais o produto já pode ser conhecido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Às empresas que levam vantagem para serem suas concorrentes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

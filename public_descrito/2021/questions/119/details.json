@@ -1,0 +1,45 @@
+{
+    "title": "Questão 119 - ENEM 2021",
+    "index": 119,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com o objetivo de identificar a melhor espécie produtora de madeira para construção 9com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas de cinco espécies, conforme o quadro.\n\n![]([descrição: A imagem mostra uma tabela com dados sobre tecidos analisados em diferentes espécies. A tabela possui um cabeçalho que indica 'Tecido analisado' e colunas para 'Espécie', 'Periderma/Esclerênquima', 'Floema/Esclerênquima', 'Albúrio' e 'Cerne'. Cada linha da tabela representa uma espécie (1 a 5) com valores indicando a presença ou ausência de cada tecido, usando os símbolos '+', '-', e '++' para representar quantidades pequenas, médias e grandes, respectivamente. Uma legenda abaixo da tabela explica o significado desses símbolos: '-' significa ausente, '+' presente em pequena quantidade, '++' presente em média quantidade e '+++' presente em grande quantidade.])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre tecidos analisados em diferentes espécies. A tabela possui um cabeçalho que indica 'Tecido analisado' e colunas para 'Espécie', 'Periderma/Esclerênquima', 'Floema/Esclerênquima', 'Albúrio' e 'Cerne'. Cada linha da tabela representa uma espécie (1 a 5) com valores indicando a presença ou ausência de cada tecido, usando os símbolos '+', '-', e '++' para representar quantidades pequenas, médias e grandes, respectivamente. Uma legenda abaixo da tabela explica o significado desses símbolos: '-' significa ausente, '+' presente em pequena quantidade, '++' presente em média quantidade e '+++' presente em grande quantidade."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual espécie corresponde ao objetivo proposto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

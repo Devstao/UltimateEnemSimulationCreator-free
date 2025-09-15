@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2016",
+    "index": 81,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática da estrutura molecular de um esteroide, com variações na substituição do grupo 'X'. A molécula possui quatro anéis condensados e várias ramificações de metil (CH3) e hidroxila (H). Uma legenda à direita indica que X pode representar diferentes grupos funcionais: OH (testosterona), H (composto 1) ou CH3 (composto 2). Abaixo da estrutura, há uma citação bibliográfica em português.])",
+    "files": [
+        "A imagem mostra uma representação esquemática da estrutura molecular de um esteroide, com variações na substituição do grupo 'X'. A molécula possui quatro anéis condensados e várias ramificações de metil (CH3) e hidroxila (H). Uma legenda à direita indica que X pode representar diferentes grupos funcionais: OH (testosterona), H (composto 1) ou CH3 (composto 2). Abaixo da estrutura, há uma citação bibliográfica em português."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em relação ao coeficiente de partição da testosterona, as lipofilias dos compostos 1 e 2 são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor e menor que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Menor e maior que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior e menor que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior e maior que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Menor e igual que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

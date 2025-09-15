@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - ENEM 2011",
+    "index": 70,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra sete diagramas esquemáticos de diferentes configurações elétricas, provavelmente relacionados a interruptores e lâmpadas. Cada diagrama é numerado de 1 a 7. Os diagramas ilustram como os fios estão conectados para controlar uma lâmpada em cada caso. Na parte inferior da imagem, há uma legenda com informações sobre a fonte do material: GONÇALVES FILHO, A.; BAROLLI, E. Instalação Elétrica: investigando e aprendendo. São Paulo: Scipione, 1997 (adaptado).])",
+    "files": [
+        "A imagem mostra sete diagramas esquemáticos de diferentes configurações elétricas, provavelmente relacionados a interruptores e lâmpadas. Cada diagrama é numerado de 1 a 7. Os diagramas ilustram como os fios estão conectados para controlar uma lâmpada em cada caso. Na parte inferior da imagem, há uma legenda com informações sobre a fonte do material: GONÇALVES FILHO, A.; BAROLLI, E. Instalação Elétrica: investigando e aprendendo. São Paulo: Scipione, 1997 (adaptado)."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Tendo por base os esquemas mostrados, em quais casos a lâmpada acendeu?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "(1), (3), (6).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(3), (4), (5).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "(1), (3), (5).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(1), (3), (7).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "(1), (2), (5).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

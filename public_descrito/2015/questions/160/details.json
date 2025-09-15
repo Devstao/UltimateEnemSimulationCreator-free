@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2015",
+    "index": 160,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma close-up de uma estrutura biológica, possivelmente uma planta ou um organismo marinho, com aparência rochosa e irregular. A estrutura é predominantemente cinza e branca, com textura áspera. Uma caneta está posicionada verticalmente ao lado da estrutura para fins de escala. As dimensões da estrutura são indicadas por linhas e rótulos: 'c = 1,4 cm', 'L = 2,2 cm' e 'C = 3,4 cm'. O fundo é desfocado e em tons de cinza.])",
+    "files": [
+        "A imagem mostra uma close-up de uma estrutura biológica, possivelmente uma planta ou um organismo marinho, com aparência rochosa e irregular. A estrutura é predominantemente cinza e branca, com textura áspera. Uma caneta está posicionada verticalmente ao lado da estrutura para fins de escala. As dimensões da estrutura são indicadas por linhas e rótulos: 'c = 1,4 cm', 'L = 2,2 cm' e 'C = 3,4 cm'. O fundo é desfocado e em tons de cinza."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A largura e o comprimento reais da pegada, em centímetros, são, respectivamente, iguais a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,9 e 7,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8,6 e 9,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14,2 e 15,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "26,4 e 40,8.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "27,5 e 42,5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

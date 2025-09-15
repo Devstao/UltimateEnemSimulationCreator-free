@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2010",
+    "index": 148,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra o gasto militar dos Estados Unidos em bilhões de dólares, desde 1988 até 2006. O eixo horizontal representa os anos e o eixo vertical representa o valor do gasto militar. A linha do gráfico começa em 426,8 bilhões em 1988, diminui para cerca de 354,3 bilhões em 1991 (queda do Muro de Berlim), depois aumenta novamente até atingir um pico de aproximadamente 403,7 bilhões. O gráfico mostra flutuações ao longo dos anos, com uma queda significativa para cerca de 315,1 bilhões em 1996 e um aumento gradual a partir daí. Em 2001 (ataque de 11 de setembro), o gasto militar atinge aproximadamente 341,5 bilhões. Em 2003 (início da guerra no Iraque), o valor sobe para cerca de 417,4 bilhões e continua a aumentar até atingir 528,7 bilhões em 2006.])",
+    "files": [
+        "O gráfico mostra o gasto militar dos Estados Unidos em bilhões de dólares, desde 1988 até 2006. O eixo horizontal representa os anos e o eixo vertical representa o valor do gasto militar. A linha do gráfico começa em 426,8 bilhões em 1988, diminui para cerca de 354,3 bilhões em 1991 (queda do Muro de Berlim), depois aumenta novamente até atingir um pico de aproximadamente 403,7 bilhões. O gráfico mostra flutuações ao longo dos anos, com uma queda significativa para cerca de 315,1 bilhões em 1996 e um aumento gradual a partir daí. Em 2001 (ataque de 11 de setembro), o gasto militar atinge aproximadamente 341,5 bilhões. Em 2003 (início da guerra no Iraque), o valor sobe para cerca de 417,4 bilhões e continua a aumentar até atingir 528,7 bilhões em 2006."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no gráfico, o gasto militar no ínicio da guerra no Iraque foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "U$ 4.174.000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "U$ 41.740.000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "U$ 417.400.000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "U$ 41.740.000.000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "U$ 417.400.000.000,00.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

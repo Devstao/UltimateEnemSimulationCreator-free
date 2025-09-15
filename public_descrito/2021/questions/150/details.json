@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2021",
+    "index": 150,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A depressão caracteriza-se por um desequilíbrio na química cerebral. Os neurônios de um deprimido não respondem bem as estímulos dos neurotransmissores.  \nOs remédios que combatem a depressão têm o objetivo de restabelecer a química cerebral. Com o aumento gradativo de casos de depressão, a venda desses medicamentos está em crescente evolução, conforme ilustra o gráfico.\n\n![]([descrição: O gráfico de linha mostra o volume de vendas (em milhões) ao longo dos anos de 2005 a 2009. Em 2005, o volume de vendas foi de 236 milhões. Em 2006, aumentou para 294 milhões. Em 2007, atingiu 370 milhões. Em 2008, subiu para 465 milhões e, finalmente, em 2009, alcançou 519,2 milhões.])",
+    "files": [
+        "O gráfico de linha mostra o volume de vendas (em milhões) ao longo dos anos de 2005 a 2009. Em 2005, o volume de vendas foi de 236 milhões. Em 2006, aumentou para 294 milhões. Em 2007, atingiu 370 milhões. Em 2008, subiu para 465 milhões e, finalmente, em 2009, alcançou 519,2 milhões."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No período de 2005 a 2009, o aumento percentual no volume de vendas foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "45,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "54,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "120.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "220.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "283,2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

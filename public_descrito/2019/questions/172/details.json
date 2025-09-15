@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2019",
+    "index": 172,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.\n\n![]([descrição: O gráfico mostra as unidades vendidas ao longo dos meses de julho a novembro. Em julho, as vendas começam em aproximadamente 700 unidades e aumentam abruptamente para cerca de 2500 unidades em agosto. As vendas permanecem estáveis em 2500 unidades até setembro. Em outubro, há um aumento para aproximadamente 2800 unidades, que diminui ligeiramente para cerca de 2700 unidades em novembro.])\n\nSabe-se que o mês de julho foi o pior momento da empresa em 2011 e que o número de unidades vendidas desse produto em dezembro de 2011 foi igual à média aritmética do número de unidades vendidas nos meses de julho a novembro do mesmo ano.\n\nO gerente de vendas disse, em uma reunião da diretoria, que, se essa redução no número de unidades vendidas de novembro para dezembro de 2011 se mantivesse constante nos meses subsequentes, as vendas só voltariam a ficar piores que julho de 2011 apenas no final de 2012.",
+    "files": [
+        "O gráfico mostra as unidades vendidas ao longo dos meses de julho a novembro. Em julho, as vendas começam em aproximadamente 700 unidades e aumentam abruptamente para cerca de 2500 unidades em agosto. As vendas permanecem estáveis em 2500 unidades até setembro. Em outubro, há um aumento para aproximadamente 2800 unidades, que diminui ligeiramente para cerca de 2700 unidades em novembro."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O diretor financeiro rebateu imediatamente esse argumento mostrando que, mantida a tendência, isso aconteceria já em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fevereiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Março.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Abril.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Maio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

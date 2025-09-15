@@ -1,0 +1,45 @@
+{
+    "title": "Questão 121 - ENEM 2022",
+    "index": 121,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Antimicrobianos são substâncias naturais ou sintéticas que têm capacidade de matar ou inibir o crescimento de microrganismos. A tabela apresenta uma lista de antimicrobianos hipotéticos, bem como suas ações e efeitos sobre o metabolismo microbiano.\n\n![]([descrição: A imagem mostra uma tabela com três colunas: 'Antimicrobiano', 'Ação' e 'Efeito'. A coluna 'Antimicrobiano' lista números de 1 a 5. A coluna 'Ação' descreve como cada antimicrobiano age (une-se aos ribossomos, une-se aos microtúbulos, une-se aos fosfolipídeos da membrana plasmática, interfere na síntese de timina e interfere na síntese de uracila). A coluna 'Efeito' detalha o efeito resultante de cada ação (impede a síntese proteica, impede a segregação das cromátides, reduz a permeabilidade da membrana plasmática, inibe a síntese de DNA e impede a síntese de RNA).])",
+    "files": [
+        "A imagem mostra uma tabela com três colunas: 'Antimicrobiano', 'Ação' e 'Efeito'. A coluna 'Antimicrobiano' lista números de 1 a 5. A coluna 'Ação' descreve como cada antimicrobiano age (une-se aos ribossomos, une-se aos microtúbulos, une-se aos fosfolipídeos da membrana plasmática, interfere na síntese de timina e interfere na síntese de uracila). A coluna 'Efeito' detalha o efeito resultante de cada ação (impede a síntese proteica, impede a segregação das cromátides, reduz a permeabilidade da membrana plasmática, inibe a síntese de DNA e impede a síntese de RNA)."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

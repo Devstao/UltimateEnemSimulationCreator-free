@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2018",
+    "index": 28,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é um esquema ilustrativo sobre reciclagem, com foco na transformação de garrafas PET em tecido. No canto superior direito, há o texto 'PLÁSTICO VELHO PODE VIRAR TECIDO NOVO'. Uma garrafa PET vazia está posicionada sobre uma superfície, com ferramentas como tesoura, fita métrica e agulha com linha dispostas ao lado, sugerindo o processo de transformação. Abaixo da garrafa, há um recipiente para lixo seco (latas, papéis, plástico e vidro) e outro para lixo úmido (cascas, ossos, restos de comida, pó de café e chá, galhos e podas). Uma legenda descreve a reciclagem da garrafa PET em tecido, madeira sintética ou plástico novo. Na parte inferior, há um slogan incentivando a separação correta do lixo.])\n\nDisponível em: www.separeolixo.gov.br. Acesso em: 4 dez. 2017 (adaptado).",
+    "files": [
+        "A imagem é um esquema ilustrativo sobre reciclagem, com foco na transformação de garrafas PET em tecido. No canto superior direito, há o texto 'PLÁSTICO VELHO PODE VIRAR TECIDO NOVO'. Uma garrafa PET vazia está posicionada sobre uma superfície, com ferramentas como tesoura, fita métrica e agulha com linha dispostas ao lado, sugerindo o processo de transformação. Abaixo da garrafa, há um recipiente para lixo seco (latas, papéis, plástico e vidro) e outro para lixo úmido (cascas, ossos, restos de comida, pó de café e chá, galhos e podas). Uma legenda descreve a reciclagem da garrafa PET em tecido, madeira sintética ou plástico novo. Na parte inferior, há um slogan incentivando a separação correta do lixo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa campanha, a principal estratégia para convencer o leitor a fazer a reciclagem do lixo é a utilização da linguagem não verbal como argumento para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reaproveitamento de material.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Facilidade na separação do lixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Melhoria da condição do catador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Preservação de recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Geração de renda para o trabalhador.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

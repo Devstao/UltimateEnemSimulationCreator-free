@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2017",
+    "index": 150,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A imagem apresentada na figura é uma cópia em preto e branco da tela quadrada intitulada O peixe, de Marcos Pinto, que foi colocada em uma parede para exposição e fixada nos pontos A e B.\n\nPor um problema na fixação de um dos pontos, a tela se desprendeu, girando rente à parede. Após o giro, ela ficou posicionada como ilustrado na figura, formando um ângulo de 45° com a linha do horizonte.\n\n![]([descrição: A imagem mostra dois diagramas geométricos relacionados. Ambos os diagramas apresentam um peixe estilizado dentro de um quadrado pontilhado. O diagrama superior mostra o quadrado alinhado horizontalmente, com pontos pretos distribuídos aleatoriamente no fundo cinza-escuro. Dois pontos, A e B, estão marcados no canto superior esquerdo e na extremidade direita inferior do quadrado, respectivamente, conectados por uma linha reta. O diagrama inferior mostra o mesmo quadrado e peixe, mas rotacionado 45 graus em relação ao diagrama superior. Os pontos A e B também estão marcados, com B conectado a um ponto externo por uma linha que forma um ângulo de 45 graus.])\n\nPara recolocar a tela na sua posição original, deve-se girá-la, rente à parede, no menor ângulo possível inferior a 360°",
+    "files": [
+        "A imagem mostra dois diagramas geométricos relacionados. Ambos os diagramas apresentam um peixe estilizado dentro de um quadrado pontilhado. O diagrama superior mostra o quadrado alinhado horizontalmente, com pontos pretos distribuídos aleatoriamente no fundo cinza-escuro. Dois pontos, A e B, estão marcados no canto superior esquerdo e na extremidade direita inferior do quadrado, respectivamente, conectados por uma linha reta. O diagrama inferior mostra o mesmo quadrado e peixe, mas rotacionado 45 graus em relação ao diagrama superior. Os pontos A e B também estão marcados, com B conectado a um ponto externo por uma linha que forma um ângulo de 45 graus."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A forma de recolocar a tela na posição original, obedecendo ao que foi estabelecido, é girando-a em um ângulo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "90° no sentido horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "135° no sentido horário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "180° no sentido anti-horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "270° no sentido anti-horário",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "315° no sentido horário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

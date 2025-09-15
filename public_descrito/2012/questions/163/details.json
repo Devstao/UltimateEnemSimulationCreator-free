@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2012",
+    "index": 163,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra uma linha sólida e uma linha tracejada representando dados ao longo dos dias da semana: Qui, Sex, Sáb, Dom, Seg, Ter e Qua. O eixo vertical varia de 0 a 30, enquanto o eixo horizontal representa os dias da semana. A linha sólida começa em aproximadamente 16 no dia Qui, diminui para cerca de 9 no dia Sex, atinge um mínimo de 0 no Sáb, permanece em 0 no Dom, sobe para aproximadamente 2 no dia Seg e alcança seu pico em aproximadamente 25 no Ter antes de diminuir para cerca de 8 no Qua. A linha tracejada começa em aproximadamente 17 no dia Qui, diminui para cerca de 10 no dia Sex, cai para aproximadamente 3 no Sáb, sobe para aproximadamente 13 no Dom, atinge aproximadamente 6 no dia Seg e alcança um pico de aproximadamente 18 no Ter antes de diminuir para aproximadamente 8 no Qua.])\n\nO gerente de atendimento deseja identificar os dias da semana em que o nível de eficiência pode ser considerado muito bom, ou seja, os dias em que o número de reclamações resolvidas excede o número de reclamações recebidas.\n\n_Disponível em: http://blog.bibliotecaunix.org. Acesso em: 21 jan. 2012 (adaptado)._",
+    "files": [
+        "O gráfico mostra uma linha sólida e uma linha tracejada representando dados ao longo dos dias da semana: Qui, Sex, Sáb, Dom, Seg, Ter e Qua. O eixo vertical varia de 0 a 30, enquanto o eixo horizontal representa os dias da semana. A linha sólida começa em aproximadamente 16 no dia Qui, diminui para cerca de 9 no dia Sex, atinge um mínimo de 0 no Sáb, permanece em 0 no Dom, sobe para aproximadamente 2 no dia Seg e alcança seu pico em aproximadamente 25 no Ter antes de diminuir para cerca de 8 no Qua. A linha tracejada começa em aproximadamente 17 no dia Qui, diminui para cerca de 10 no dia Sex, cai para aproximadamente 3 no Sáb, sobe para aproximadamente 13 no Dom, atinge aproximadamente 6 no dia Seg e alcança um pico de aproximadamente 18 no Ter antes de diminuir para aproximadamente 8 no Qua."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O gerente de atendimento pôde concluir, baseado no conceito de eficiência utilizado na empresa e nas informações do gráfico, que o nível de eficiência foi muito bom na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Segunda e na terça-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Terça e na quarta-feira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Terça e na quinta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Quinta-feira, no sábado e no domingo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Segunda, na quinta e na sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

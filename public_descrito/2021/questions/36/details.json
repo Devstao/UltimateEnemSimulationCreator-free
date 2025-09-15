@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2021",
+    "index": 36,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\n![]([descrição: A imagem mostra uma fotografia em preto e branco de uma máscara humana coberta por fragmentos de plástico e tecido. A máscara parece estar suspensa ou flutuando, com os materiais cobrindo o topo da cabeça e caindo sobre os ombros. Na parte inferior da imagem, há informações sobre a obra: nome do artista (Hazoumé), título (“Plaítico e tecido”), local de exposição (Galerie Gagosian) e ano (2009). Abaixo, há uma referência a um site com data de acesso.])\n\n**TEXTO II**\n\nAs máscarqas não foram feitas para serem usadas; elas se concentram apenas nas possibilidades antropomórficas dos recepientes plásticos descartados e, ao mesmo tempo, chamam a atenção para a quantidade de lixo que se acumula em quase todas as cidades ou aldeias africanas.\n\nFARTHINGS, S. Tudo sobre arte",
+    "files": [
+        "A imagem mostra uma fotografia em preto e branco de uma máscara humana coberta por fragmentos de plástico e tecido. A máscara parece estar suspensa ou flutuando, com os materiais cobrindo o topo da cabeça e caindo sobre os ombros. Na parte inferior da imagem, há informações sobre a obra: nome do artista (Hazoumé), título (“Plaítico e tecido”), local de exposição (Galerie Gagosian) e ano (2009). Abaixo, há uma referência a um site com data de acesso."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Romuald Hazoumé costuma dizer que sua obra apenas manda de volta ao oeste o refugode uma sociedade de consumo cada vez mais invasiva. A obra desse artista africano que vive no Benin denota o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Empobrecimento do valor artístico pela combinação de diferentes matérias-primas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reposicionamento estético de objetos por meio da mudança de função.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Convite aos espectadores para interagir e completar obras inacabadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Militância com temas da ecologia que marcam o continente africano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Realidade precária de suas condições de produção artística.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

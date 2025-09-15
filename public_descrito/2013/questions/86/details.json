@@ -1,0 +1,45 @@
+{
+    "title": "Questão 86 - ENEM 2013",
+    "index": 86,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra duas representações químicas de polímeros, dispostas lado a lado. A primeira (1) representa um polímero com unidades repetidas contendo um grupo carbonila ligado a um íon sódio (O-CO-Na+). A segunda (2) representa um polímero com unidades repetidas contendo grupos hidroxila (-OH) ligados a átomos de oxigênio. Ambas as representações indicam que são polímeros, utilizando a notação 'n' para indicar repetição das unidades.])",
+    "files": [
+        "A imagem mostra duas representações químicas de polímeros, dispostas lado a lado. A primeira (1) representa um polímero com unidades repetidas contendo um grupo carbonila ligado a um íon sódio (O-CO-Na+). A segunda (2) representa um polímero com unidades repetidas contendo grupos hidroxila (-OH) ligados a átomos de oxigênio. Ambas as representações indicam que são polímeros, utilizando a notação 'n' para indicar repetição das unidades."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A maior eficiência dessas fraldas descartáveis, em relação às de pano, deve-se às",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Interações dipolo-dipolo mais fortes entre o poliacrilato e a água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Interações íon-íon mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ligações de hidrogênio mais fortes entre o poliacrilato e a água, em relação às interações íon-dipolo entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ligações de hidrogênio mais fortes entre o poliacrilato e as moléculas de água, em relação às interações dipolo induzido-dipolo induzido entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

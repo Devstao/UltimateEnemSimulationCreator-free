@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2010",
+    "index": 5,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática de uma bacia hidrográfica, vista em perspectiva tridimensional. A área é coberta por vegetação esparsa, com árvores distribuídas no topo e nas laterais da elevação.  Há sulcos ou ravinas que cortam a encosta, indicando o fluxo da água. Na base da bacia, observa-se uma zona temporariamente encharcada e um leito de rio com pedras (boçoroca). Setas e legendas identificam elementos como 'Nível d'água', 'Sulcos ou Ravinas' e 'Zona Temporariamente Encharcada'.])\n\nTEIXEIRA. W. et al. (Orgs). **Decifrando a Terra.** São Paulo: Companhia Editora Nacional, 2009.",
+    "files": [
+        "A imagem mostra uma representação esquemática de uma bacia hidrográfica, vista em perspectiva tridimensional. A área é coberta por vegetação esparsa, com árvores distribuídas no topo e nas laterais da elevação.  Há sulcos ou ravinas que cortam a encosta, indicando o fluxo da água. Na base da bacia, observa-se uma zona temporariamente encharcada e um leito de rio com pedras (boçoroca). Setas e legendas identificam elementos como 'Nível d'água', 'Sulcos ou Ravinas' e 'Zona Temporariamente Encharcada'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O esquema representa um processo de erosão em encosta. Que prática realizada por um agricultor pode resultar em aceleração desse processo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Plantio direto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Associação de culturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Implantação de curvas de nível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aração do solo, do topo ao vale.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Terraceamento na propriedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

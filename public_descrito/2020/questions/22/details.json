@@ -1,0 +1,45 @@
+{
+    "title": "Questão 22 - ENEM 2020",
+    "index": 22,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é um cartaz em preto e branco com o título 'Respeita as torcedoras!' na parte superior. Abaixo do título, há uma lista de perguntas sobre interações entre pessoas, como 'Conversar?', 'Torcer juntos?', 'Tocar sem permissão?' e 'Empurrar?'. As perguntas são acompanhadas de símbolos de check (✓) ou X para indicar se a ação é aceitável ou não. Na parte inferior do cartaz, há um texto que incentiva as mulheres a denunciarem casos de desrespeito através do número 'disque 180', seguido por hashtags '#respeitaasminas' e '#geralnapaz'. A imagem de fundo mostra um grupo de pessoas sorrindo.])\n\nDisponível em: www.facebook.com/ministeriodoesporte. Acesso em: 7 dez. 2017",
+    "files": [
+        "A imagem é um cartaz em preto e branco com o título 'Respeita as torcedoras!' na parte superior. Abaixo do título, há uma lista de perguntas sobre interações entre pessoas, como 'Conversar?', 'Torcer juntos?', 'Tocar sem permissão?' e 'Empurrar?'. As perguntas são acompanhadas de símbolos de check (✓) ou X para indicar se a ação é aceitável ou não. Na parte inferior do cartaz, há um texto que incentiva as mulheres a denunciarem casos de desrespeito através do número 'disque 180', seguido por hashtags '#respeitaasminas' e '#geralnapaz'. A imagem de fundo mostra um grupo de pessoas sorrindo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse anúncio publicitário propõe soluções para um problema social recorrente, ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Promover ações de conscientização para reduzir a violência de gênero em eventos esportivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Estimular o compartilhamento de políticas públicas sobre a igualdade de gênero no esporte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Divulgar para a população as novas regras complementares para as torcidas de futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Informar ao público masculino as consequências de condutas ofensivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Regulamentar normas de boa convivência nos estádios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

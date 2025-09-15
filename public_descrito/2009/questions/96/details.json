@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2009",
+    "index": 96,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra um panfleto informativo sobre a Influenza A (Gripe Suína). O título do panfleto é \"Influenza A (Gripe Suína)\". Ele lista os sintomas da doença, incluindo febre alta, tosse, dor de cabeça, dores musculares e dificuldade respiratória. Também fornece o número de telefone do Disk Epidemiologia: 0800-283-2255 para contato imediato. A seção \"Evite a contaminação\" oferece orientações sobre como prevenir a propagação da doença, como cobrir a boca ao tossir ou espirrar, lavar as mãos e usar máscaras.])",
+    "files": [
+        "A imagem mostra um panfleto informativo sobre a Influenza A (Gripe Suína). O título do panfleto é \"Influenza A (Gripe Suína)\". Ele lista os sintomas da doença, incluindo febre alta, tosse, dor de cabeça, dores musculares e dificuldade respiratória. Também fornece o número de telefone do Disk Epidemiologia: 0800-283-2255 para contato imediato. A seção \"Evite a contaminação\" oferece orientações sobre como prevenir a propagação da doença, como cobrir a boca ao tossir ou espirrar, lavar as mãos e usar máscaras."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os principais recursos utilizados para envolvimento e adesão do leitor à campanha institucional incluem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O emprego de enumeração de itens e apresentação de títulos expressivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O uso de orações subordinadas condicionais e temporais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O emprego de pronomes como “você” e “sua” e o uso do imperativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A construção de figuras metafóricas e o uso de repetição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O fornecimento de número de telefone gratuito para contato.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

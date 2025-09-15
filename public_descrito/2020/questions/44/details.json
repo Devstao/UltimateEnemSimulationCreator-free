@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - ENEM 2020",
+    "index": 44,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma campanha publicitária sobre adoção, em preto e branco. Apresenta um grupo de seis pessoas (três homens e três mulheres) em close-up, com um fundo que simula madeira rústica. Cada pessoa tem seu nome e a idade em que foi adotada ou adotou, listados ao lado da sua foto. Na parte inferior da imagem, há o slogan \"Adoção. Pra encontrar a sua verdadeira família, não existe idade.\"  No canto superior direito, um logo com o coração estilizado e a frase 'Adoção Lealdade Amor'. Abaixo da imagem, há informações sobre a fonte: 'Disponível em: www.acontecendoaqui.com.br. Acesso em: 15 jun. 2018.'])",
+    "files": [
+        "A imagem mostra uma campanha publicitária sobre adoção, em preto e branco. Apresenta um grupo de seis pessoas (três homens e três mulheres) em close-up, com um fundo que simula madeira rústica. Cada pessoa tem seu nome e a idade em que foi adotada ou adotou, listados ao lado da sua foto. Na parte inferior da imagem, há o slogan \"Adoção. Pra encontrar a sua verdadeira família, não existe idade.\"  No canto superior direito, um logo com o coração estilizado e a frase 'Adoção Lealdade Amor'. Abaixo da imagem, há informações sobre a fonte: 'Disponível em: www.acontecendoaqui.com.br. Acesso em: 15 jun. 2018.'"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa campanha publicitária, a imagem da família e o texto verbal unem-se para reforçar a ideia de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A família que adota é mais feliz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A adoção tardia é muito positiva.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "As famílias preferem adotar bebês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A adoção de adolescentes é mais simples.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os filhos adotivos são companheiros dos pais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

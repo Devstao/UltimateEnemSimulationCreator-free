@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2022",
+    "index": 5,
+    "year": 2022,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é um cartaz com o título 'Maternidades em Tempos de Pandemia'. No canto superior esquerdo, há uma ilustração em preto e branco de uma mulher segurando um bebê no braço e olhando para cima, enquanto gira um carrossel. O texto do cartaz está dividido em seções, abordando a dificuldade da maternidade, a romantização da maternidade, a falta de apoio estatal e social às mães e a necessidade de comunidade na criação dos filhos. Na parte inferior, há uma ilustração de várias figuras humanas estilizadas, representando crianças ou adultos. O logotipo 'MURIG - Mujeres en Red para la Igualdad de Género' aparece no canto inferior direito.])\n\nMURIG. Disponível em: https://murigcolectivafeminista.wordpress.com.\n\nAcesso em: 26 out. 2021(adaptado)",
+    "files": [
+        "A imagem é um cartaz com o título 'Maternidades em Tempos de Pandemia'. No canto superior esquerdo, há uma ilustração em preto e branco de uma mulher segurando um bebê no braço e olhando para cima, enquanto gira um carrossel. O texto do cartaz está dividido em seções, abordando a dificuldade da maternidade, a romantização da maternidade, a falta de apoio estatal e social às mães e a necessidade de comunidade na criação dos filhos. Na parte inferior, há uma ilustração de várias figuras humanas estilizadas, representando crianças ou adultos. O logotipo 'MURIG - Mujeres en Red para la Igualdad de Género' aparece no canto inferior direito."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto, as palavras “crianzas” e “tribu” são usadas para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evidenciar a importância de uma rede de apoio para as mães na criação dos seus filhos",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Denunciar a disparidade entre o trabalho das mães de diferentes classes",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ressaltar o fechamento de escolas e creches durante o período pandêmico",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ratificar a romantização da dedicação das mães na educação da crianças",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Enfatizar a proteção aos filhos em razão do isolamento social das famílias",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 32 - ENEM 2018",
+    "index": 32,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem em preto e branco mostra uma apresentação artística com dois artistas principais. Um homem, usando um chapéu de abas largas e bigode espesso, está sentado tocando um instrumento musical que parece ser um saxofone ou trompete. Ele veste roupas escuras e adornadas. Acima dele, uma mulher está suspensa em um círculo de acrobacia aérea, com o corpo em posição dinâmica e vestindo um traje brilhante. A iluminação é dramática, com feixes de luz direcionados para os artistas, criando sombras e realçando a atmosfera teatral da cena.])\n\nFotografia: LUCAS HALLEL. Disponível em: www.fiickr.com. Acesso em: 16 abr. 2018 (adaptado)",
+    "files": [
+        "A imagem em preto e branco mostra uma apresentação artística com dois artistas principais. Um homem, usando um chapéu de abas largas e bigode espesso, está sentado tocando um instrumento musical que parece ser um saxofone ou trompete. Ele veste roupas escuras e adornadas. Acima dele, uma mulher está suspensa em um círculo de acrobacia aérea, com o corpo em posição dinâmica e vestindo um traje brilhante. A iluminação é dramática, com feixes de luz direcionados para os artistas, criando sombras e realçando a atmosfera teatral da cena."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O grupo O Teatro Mágico apresenta composições autorais que têm referências estéticas do rock, do pop e da música folclórica brasileira. A originalidade dos seus shows tem relação com a ópera europeia do século XIX a partir da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Disposição cênica dos artistas no espaço teatral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Integração de diversas linguagens artísticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Sobreposição entre música e texto literário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Manutenção de um diálogo com o público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Adoção de um enredo como fio condutor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 75 - ENEM 2016",
+    "index": 75,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem ilustra o processo de transporte da água em uma planta, demonstrando a teoria da tensão-coesão-adesão. À esquerda, há uma representação esquemática de uma árvore com suas raízes absorvendo água do solo. Uma seta indica o fluxo ascendente da água através do tronco até as folhas. Ampliações detalhadas mostram a estrutura interna das folhas e das raízes. Na folha, um estômato é visível, liberando vapor d'água para a atmosfera. No caule, um vaso xilêmico transporta a água. Nas raízes, o xilema absorve a água do solo. Legendas identificam os componentes principais: estômato, vasos xilêmicos, xilema, água do solo e vapor de água.])",
+    "files": [
+        "A imagem ilustra o processo de transporte da água em uma planta, demonstrando a teoria da tensão-coesão-adesão. À esquerda, há uma representação esquemática de uma árvore com suas raízes absorvendo água do solo. Uma seta indica o fluxo ascendente da água através do tronco até as folhas. Ampliações detalhadas mostram a estrutura interna das folhas e das raízes. Na folha, um estômato é visível, liberando vapor d'água para a atmosfera. No caule, um vaso xilêmico transporta a água. Nas raízes, o xilema absorve a água do solo. Legendas identificam os componentes principais: estômato, vasos xilêmicos, xilema, água do solo e vapor de água."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Mesmo que essa  planta viesse sofrer ação contínua do vento e sua copa crescesse voltada para baixo, essa seiva continuaria naturalmente seu percurso.\nO que garante o transporte dessa seiva é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Gutação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Gravidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Respiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fotossíntese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Transpiração.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

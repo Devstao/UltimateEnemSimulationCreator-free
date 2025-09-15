@@ -1,0 +1,45 @@
+{
+    "title": "Questão 16 - ENEM 2016",
+    "index": 16,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O mapa mostra os países membros da Parceria Transpacífica, incluindo Canadá, Estados Unidos, México, Peru, Chile, Japão, Vietnã, Singapura, Malásia, Brunei Darussalam, Austrália e Nova Zelândia. Os países são destacados em tons de cinza sobre um fundo do globo terrestre.])",
+    "files": [
+        "O mapa mostra os países membros da Parceria Transpacífica, incluindo Canadá, Estados Unidos, México, Peru, Chile, Japão, Vietnã, Singapura, Malásia, Brunei Darussalam, Austrália e Nova Zelândia. Os países são destacados em tons de cinza sobre um fundo do globo terrestre."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Dentro das atuais redes produtivas, o referido bloco apresenta composição estratégica por se tratar de um conjunto de países com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elevado padrão social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sistema monetário integrado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Alto desenvolvimento tecnológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Identidades culturais semelhantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vantagens locacionais complementares.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

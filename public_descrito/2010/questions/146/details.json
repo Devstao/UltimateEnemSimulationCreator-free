@@ -1,0 +1,45 @@
+{
+    "title": "Questão 146 - ENEM 2010",
+    "index": 146,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática de um bloco retangular cinza com as dimensões indicadas. No topo do bloco, está escrito o texto 'Metal Nobre'. As medidas são: altura de 1,3 metros, largura de 2,5 metros e profundidade de 0,5 metro.])",
+    "files": [
+        "A imagem mostra uma representação esquemática de um bloco retangular cinza com as dimensões indicadas. No topo do bloco, está escrito o texto 'Metal Nobre'. As medidas são: altura de 1,3 metros, largura de 2,5 metros e profundidade de 0,5 metro."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O produto das três dimensões indicadas na peça resultaria na medida da grandeza",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Massa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Volume.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Superfície.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Capacidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Comprimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

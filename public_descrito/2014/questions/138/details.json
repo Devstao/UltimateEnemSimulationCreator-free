@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2014",
+    "index": 138,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados sobre a taxa de doação de sangue por região, em 2010. A tabela possui as colunas 'Região', 'Doadores', 'Número de habitantes' e 'Doadores/habitantes'. As regiões listadas são Nordeste, Norte, Sudeste, Centro-Oeste e Sul. Os dados incluem o número de doadores por região, o número total de habitantes em cada região e a taxa de doadores por habitante (em porcentagem). A linha 'Total' apresenta os valores agregados para todo o país.])\n\nOs resultados obtidos permitiram que estados, municípios e o governo federal estabelecessem as regiões prioritárias do país para a intensificação das campanhas de doação de sangue.\n\nA campanha deveria ser intensificada nas regiões em que o percentual de doadores por habitantes fosse menor ou igual ao do país.\n\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 2 ago. 2013 (adaptado).",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre a taxa de doação de sangue por região, em 2010. A tabela possui as colunas 'Região', 'Doadores', 'Número de habitantes' e 'Doadores/habitantes'. As regiões listadas são Nordeste, Norte, Sudeste, Centro-Oeste e Sul. Os dados incluem o número de doadores por região, o número total de habitantes em cada região e a taxa de doadores por habitante (em porcentagem). A linha 'Total' apresenta os valores agregados para todo o país."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As regiões brasileiras onde foram intensificadas campanhas na época são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Norte, Centro-Oeste e Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Norte, Nordeste e Sudeste.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Nordeste, Norte e Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Nordeste, Sudeste e Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Centro-Oeste, Sul e Sudeste.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

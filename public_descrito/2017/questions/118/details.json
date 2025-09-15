@@ -1,0 +1,45 @@
+{
+    "title": "Questão 118 - ENEM 2017",
+    "index": 118,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para se adequar às normas ambientais atuais, as construtoras precisam prever em suas obras a questão do uso de materiais de modo a minimizar os impactos causados no local. Entre esses materiais está o chamado concregrama ou pisograma, que é um tipo de revestimento composto por peças de concreto com áreas vazadas, preenchidas com solo gramado. As figuras apresentam essas duas formas de piso feitos de concreto.\n\n![]([descrição: A imagem mostra duas ilustrações lado a lado, ambas representando tipos de piso. À esquerda, há um diagrama que representa um 'Piso tradicional de concreto', exibindo uma textura irregular e densa de linhas pretas entrelaçadas. À direita, está um diagrama do 'Piso congrega', onde quadrados preenchidos com grama verde estão dispostos em um padrão quadrado dentro de uma área texturizada semelhante à do piso de concreto. Abaixo das imagens, há texto descrevendo a fonte e o acesso ao material original.])",
+    "files": [
+        "A imagem mostra duas ilustrações lado a lado, ambas representando tipos de piso. À esquerda, há um diagrama que representa um 'Piso tradicional de concreto', exibindo uma textura irregular e densa de linhas pretas entrelaçadas. À direita, está um diagrama do 'Piso congrega', onde quadrados preenchidos com grama verde estão dispostos em um padrão quadrado dentro de uma área texturizada semelhante à do piso de concreto. Abaixo das imagens, há texto descrevendo a fonte e o acesso ao material original."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A utilização desse tipo de piso em uma obra tem o objetivo de evitar, no solo, a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Impermeabilização.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Diminuição da temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Acumulação de matéria orgânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alteração do pH.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Salinização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

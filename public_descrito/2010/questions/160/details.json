@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2010",
+    "index": 160,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um balão atmosférico, lançado em Bauru (343 quilômetros a Noroeste de São Paulo), na noite do último domingo, caiu nesta segunda-feira em Cuiabá Paulista, na região de Presidente Prudente, assustando agricultores da região. O artefato faz parte do programa Projeto Hibiscus, desenvolvido por Brasil, França, Argentina, Inglaterra e Itália, para a medição do comportamento da camada de ozônio, e sua descida se deu após o cumprimento do tempo previsto de medição.\n\nDisponível em: http://www.correiodobrasil.com.br. Acesso em: 02 maio 2010.\n\n![]([descrição: A imagem mostra um diagrama geométrico representando a posição de um balão em relação a dois pontos no solo, A e B. O balão está acima do ponto mais alto do triângulo formado pelos pontos A, B e o ponto diretamente abaixo do balão no chão.  O segmento AB tem 3,7 km de comprimento, sendo que o segmento da base até o ponto A mede 1,8 km. Os ângulos formados entre a linha de visão do balão para os pontos A e B são de 60° e 30°, respectivamente.])\n\nNa data do acontecido, duas pessoas avistaram o balão. Uma estava a 1,8 km da posição vertical do balão e o avistou sob um ângulo de 60º; a outra estava a 5,5 km da posição vertical do balão, alinhada com a primeira, e no mesmo sentido, conforme se vê na figura, e o avistou sob um ângulo de 30º.",
+    "files": [
+        "A imagem mostra um diagrama geométrico representando a posição de um balão em relação a dois pontos no solo, A e B. O balão está acima do ponto mais alto do triângulo formado pelos pontos A, B e o ponto diretamente abaixo do balão no chão.  O segmento AB tem 3,7 km de comprimento, sendo que o segmento da base até o ponto A mede 1,8 km. Os ângulos formados entre a linha de visão do balão para os pontos A e B são de 60° e 30°, respectivamente."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual a altura aproximada em que se encontrava o balão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,8 km",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,9 km",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,1 km",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3,7 km",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,5 km",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

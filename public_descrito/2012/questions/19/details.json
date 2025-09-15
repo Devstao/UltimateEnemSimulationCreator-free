@@ -1,0 +1,45 @@
+{
+    "title": "Questão 19 - ENEM 2012",
+    "index": 19,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem em preto e branco mostra uma linha de montagem industrial com vários trabalhadores envolvidos na produção de relógios. Os trabalhadores estão sentados ao longo de uma longa mesa transportadora, cada um realizando tarefas específicas no processo de montagem dos relógios. A mesa está cheia de peças pequenas de relógio. O ambiente parece ser uma fábrica movimentada e barulhenta, com muitos trabalhadores trabalhando em conjunto para completar o processo de produção.])",
+    "files": [
+        "A imagem em preto e branco mostra uma linha de montagem industrial com vários trabalhadores envolvidos na produção de relógios. Os trabalhadores estão sentados ao longo de uma longa mesa transportadora, cada um realizando tarefas específicas no processo de montagem dos relógios. A mesa está cheia de peças pequenas de relógio. O ambiente parece ser uma fábrica movimentada e barulhenta, com muitos trabalhadores trabalhando em conjunto para completar o processo de produção."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na imagem do início do século XX, identifica-se um modelo produtivo cuja forma de organização fabril baseava-se na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Autonomia do produtor direto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Adoção da divisão sexual do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Exploração do trabalho repetitivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Utilização de empregados qualificados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Incentivo à criatividade dos funcionários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

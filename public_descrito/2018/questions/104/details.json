@@ -1,0 +1,45 @@
+{
+    "title": "Questão 104 - ENEM 2018",
+    "index": 104,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As pessoas que utilizam objetos cujo princípio de funcionamento é o mesmo do das alavancas aplicam uma força, chamada de força potente, em um dado ponto da barra, para superar ou equilibrar uma segunda força, chamada de resistente, em outro ponto da barra. Por causa das diferentes distâncias entre os pontos de aplicação das forças, potente e resistente, os seus efeitos também são diferentes. Afigura mostra alguns exemplos desses objetos.\n\n![]([descrição: A imagem mostra uma colagem de seis fotos em preto e branco de ferramentas. No canto superior esquerdo, há um alicate com o texto 'Alicate'. Ao lado dele, está uma pinça com a legenda 'Pinça'. Na parte superior direita, há um quebra-nozes rotulado como 'Quebra-nozes'. No centro da imagem, há uma foto de um carrinho de mão em um jardim, identificado como 'Carrinho de mão'. Finalmente, no canto inferior direito, há um abridor de garrafa com a legenda 'Abridor de garrafa'.])",
+    "files": [
+        "A imagem mostra uma colagem de seis fotos em preto e branco de ferramentas. No canto superior esquerdo, há um alicate com o texto 'Alicate'. Ao lado dele, está uma pinça com a legenda 'Pinça'. Na parte superior direita, há um quebra-nozes rotulado como 'Quebra-nozes'. No centro da imagem, há uma foto de um carrinho de mão em um jardim, identificado como 'Carrinho de mão'. Finalmente, no canto inferior direito, há um abridor de garrafa com a legenda 'Abridor de garrafa'."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em qual dos objetos a força potente é maior que a força resistente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pinça.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Alicate.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Quebra-nozes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Carrinho de mão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Abridor de garrafa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

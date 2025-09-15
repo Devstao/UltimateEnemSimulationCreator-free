@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2009",
+    "index": 168,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na tabela, são apresentados dados da cotação mensal do ovo extra branco vendido no atacado, em Brasília, em reais, por caixa de 30 dúzias de ovos, em alguns meses dos anos 2007 e 2008.\n\n![]([descrição: A imagem mostra uma tabela com três colunas: 'Mês', 'Cotação' e 'Ano'. A coluna 'Mês' lista os meses de Outubro, Novembro, Dezembro, Janeiro, Fevereiro, Março e Abril. A coluna 'Cotação' apresenta valores em Reais (R$) para cada mês correspondente, variando entre R$ 73,10 e R$ 85,30. A coluna 'Ano' indica o ano a que se referem os meses, sendo 2007 para Outubro, Novembro e Dezembro, e 2008 para Janeiro, Fevereiro, Março e Abril.])",
+    "files": [
+        "A imagem mostra uma tabela com três colunas: 'Mês', 'Cotação' e 'Ano'. A coluna 'Mês' lista os meses de Outubro, Novembro, Dezembro, Janeiro, Fevereiro, Março e Abril. A coluna 'Cotação' apresenta valores em Reais (R$) para cada mês correspondente, variando entre R$ 73,10 e R$ 85,30. A coluna 'Ano' indica o ano a que se referem os meses, sendo 2007 para Outubro, Novembro e Dezembro, e 2008 para Janeiro, Fevereiro, Março e Abril."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com esses dados, o valor da mediana das cotações mensais do ovo extra branco nesse período era igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 73,10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 81,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 82,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 83,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "R$ 85,30.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

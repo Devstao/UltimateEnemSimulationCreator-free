@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2023",
+    "index": 154,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.\n\n![]([descrição: A imagem mostra três casas com telhados pontudos dispostas lado a lado na parte inferior da tela. Uma grande lua circular cinza está posicionada acima das casas, ocupando a maior parte do espaço superior. A imagem é enquadrada por uma moldura branca grossa.])",
+    "files": [
+        "A imagem mostra três casas com telhados pontudos dispostas lado a lado na parte inferior da tela. Uma grande lua circular cinza está posicionada acima das casas, ocupando a maior parte do espaço superior. A imagem é enquadrada por uma moldura branca grossa."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse quadro, a parte da lua escondida atrás da torre mais alta do castelo pode ser representada por um",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cone.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Setor circular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Segmento circular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Triângulo isósceles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Arco de circunferência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

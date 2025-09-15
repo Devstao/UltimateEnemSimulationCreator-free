@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2011",
+    "index": 154,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados sobre a distribuição de matrículas em cursos de graduação por região do Brasil, nos anos de 2005 a 2009. As regiões são Norte, Nordeste, Centro-Oeste, Sudeste e Sul. A tabela apresenta os percentuais de matrículas para cada região em cada ano. Na primeira linha da tabela, o cabeçalho indica 'Região' na coluna esquerda e os anos de 2005 a 2009 nos cabeçalhos das colunas seguintes. Abaixo da tabela, há uma nota sobre a fonte dos dados: Disponível em http://www.obmep.org.br. Acesso em abr. 2010 (adaptado).])",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre a distribuição de matrículas em cursos de graduação por região do Brasil, nos anos de 2005 a 2009. As regiões são Norte, Nordeste, Centro-Oeste, Sudeste e Sul. A tabela apresenta os percentuais de matrículas para cada região em cada ano. Na primeira linha da tabela, o cabeçalho indica 'Região' na coluna esquerda e os anos de 2005 a 2009 nos cabeçalhos das colunas seguintes. Abaixo da tabela, há uma nota sobre a fonte dos dados: Disponível em http://www.obmep.org.br. Acesso em abr. 2010 (adaptado)."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em relação às edições de 2005 a 2009 da OBMEP, qual o percentual médio de medalhistas de ouro da região Nordeste?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14,6%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18,2%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "18,4%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "19,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "21,0%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

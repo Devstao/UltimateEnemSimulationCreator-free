@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2020",
+    "index": 7,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: Pôster do filme 'Que Horas Ela Volta?'. A imagem mostra uma mulher adulta, com óculos e cabelos curtos escuros, abraçando um bebê. Ambos estão em um ambiente que parece ser uma sala de estar ou quarto. O título do filme está escrito em letras grandes na parte inferior da imagem, seguido pelos nomes dos atores e a diretora.])\n\nDisponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).",
+    "files": [
+        "Pôster do filme 'Que Horas Ela Volta?'. A imagem mostra uma mulher adulta, com óculos e cabelos curtos escuros, abraçando um bebê. Ambos estão em um ambiente que parece ser uma sala de estar ou quarto. O título do filme está escrito em letras grandes na parte inferior da imagem, seguido pelos nomes dos atores e a diretora."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A frase, título do filme, reproduz uma variedade linguística recorrente na fala de muitos brasileiros. Essa estrutura caracteriza-se pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Uso de uma marcação temporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Imprecisão do referente de pessoa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Organização interrogativa da frase.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Utilização de um verbo de ação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apagamento de uma preposição.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

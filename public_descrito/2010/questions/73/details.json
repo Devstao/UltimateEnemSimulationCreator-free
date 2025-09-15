@@ -1,0 +1,45 @@
+{
+    "title": "Questão 73 - ENEM 2010",
+    "index": 73,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma equação química balanceada: PbSO₄ + Na₂CO₃ → PbCO₃ + Na₂SO₄. Abaixo da equação, há dados sobre as massas molares dos elementos: Pb = 207; S = 32; Na = 23; O = 16; C = 12. Na parte inferior da imagem, encontra-se uma referência bibliográfica em formato de citação.])",
+    "files": [
+        "A imagem mostra uma equação química balanceada: PbSO₄ + Na₂CO₃ → PbCO₃ + Na₂SO₄. Abaixo da equação, há dados sobre as massas molares dos elementos: Pb = 207; S = 32; Na = 23; O = 16; C = 12. Na parte inferior da imagem, encontra-se uma referência bibliográfica em formato de citação."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo as condições do processo apresentado para a obtenção de carbonato de chumbo (II) por meio da lixiviação por carbonato de sódio e considerando uma massa de pasta residual de uma bateria de 6 kg, qual quantidade aproximada, em quilogramas, de PbCO3 é obtida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,7 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,9 Kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,9 Kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3,3 Kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,6 Kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

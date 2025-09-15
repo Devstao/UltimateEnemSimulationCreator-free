@@ -1,0 +1,46 @@
+{
+    "title": "Questão 66 - ENEM 2016",
+    "index": 66,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com duas colunas: 'Engrenagem' e 'Dentes'. A coluna 'Engrenagem' lista as engrenagens A, B, C e D. As colunas 'Dentes' listam os seguintes valores: 24 para a engrenagem A, 72 para a engrenagem B, 36 para a engrenagem C e 108 para a engrenagem D.])\n\n![]([descrição: Diagrama esquemático de um sistema de engrenagens conectado a um eixo de motor, com quatro engrenagens identificadas como A, B, C e D. Uma seta indica o movimento do ponteiro, que está conectado à Engrenagem D. O diagrama é renderizado em tons de cinza sobre fundo branco.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Engrenagem' e 'Dentes'. A coluna 'Engrenagem' lista as engrenagens A, B, C e D. As colunas 'Dentes' listam os seguintes valores: 24 para a engrenagem A, 72 para a engrenagem B, 36 para a engrenagem C e 108 para a engrenagem D.",
+        "Diagrama esquemático de um sistema de engrenagens conectado a um eixo de motor, com quatro engrenagens identificadas como A, B, C e D. Uma seta indica o movimento do ponteiro, que está conectado à Engrenagem D. O diagrama é renderizado em tons de cinza sobre fundo branco."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A frequência de giro do ponteiro, em RPM, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "81.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "162.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

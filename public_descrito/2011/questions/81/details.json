@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2011",
+    "index": 81,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma equação química balanceada escrita em texto. A equação é: 5 H2O2(aq) + 2 KMnO4(aq) + 3 H2SO4(aq) -> 5 O2(g) + 2 MnSO4(aq) + K2SO4(aq) + 8 H2O(l). Abaixo da equação, há uma citação com os nomes de Rocha-Filho e Silva, o título do livro 'Introdução aos Cálculos da Química', a cidade de São Paulo, a editora McGraw-Hill e o ano 1992.])",
+    "files": [
+        "A imagem mostra uma equação química balanceada escrita em texto. A equação é: 5 H2O2(aq) + 2 KMnO4(aq) + 3 H2SO4(aq) -> 5 O2(g) + 2 MnSO4(aq) + K2SO4(aq) + 8 H2O(l). Abaixo da equação, há uma citação com os nomes de Rocha-Filho e Silva, o título do livro 'Introdução aos Cálculos da Química', a cidade de São Paulo, a editora McGraw-Hill e o ano 1992."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com a estequiometria da reação descrita, a quantidade de permanganato de potássio necessária para reagir completamente com 20,0 mL de uma solução 0,1 mol/L de peróxido de hidrogênio é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,0×100  mol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,0×10-3 mol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "8,0×10-1 mol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8,0×10-4 mol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,0×10-3 mol.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

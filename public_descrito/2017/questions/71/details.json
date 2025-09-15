@@ -1,0 +1,45 @@
+{
+    "title": "Questão 71 - ENEM 2017",
+    "index": 71,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem apresenta um gráfico comparativo da eficiência das dez maiores usinas hidrelétricas do Brasil. O gráfico compara a energia gerada e a área alagada por cada usina, utilizando representações visuais dos lagos formados pelas usinas e tabelas com dados numéricos. As usinas listadas são: Itaipu, Belo Monte, Tucuruí, Jirau, Ilha Solteira, Xingó, Santo Antônio, Marimbondo, Serra da Mesa e Sobradinho. Para cada usina, o gráfico exibe a área alagada em mil quilômetros quadrados (km²) e a potência em mil megawatts (MW), além de indicar sua localização nos estados do Paraná (PR), Pará (PA), Rondônia (RO), São Paulo/Minas Gerais (SP+MG), Alagoas/Sergipe (AL+SE) e Bahia (BA). A legenda indica que os lagos estão representados na mesma escala, com 50km de distância.])",
+    "files": [
+        "A imagem apresenta um gráfico comparativo da eficiência das dez maiores usinas hidrelétricas do Brasil. O gráfico compara a energia gerada e a área alagada por cada usina, utilizando representações visuais dos lagos formados pelas usinas e tabelas com dados numéricos. As usinas listadas são: Itaipu, Belo Monte, Tucuruí, Jirau, Ilha Solteira, Xingó, Santo Antônio, Marimbondo, Serra da Mesa e Sobradinho. Para cada usina, o gráfico exibe a área alagada em mil quilômetros quadrados (km²) e a potência em mil megawatts (MW), além de indicar sua localização nos estados do Paraná (PR), Pará (PA), Rondônia (RO), São Paulo/Minas Gerais (SP+MG), Alagoas/Sergipe (AL+SE) e Bahia (BA). A legenda indica que os lagos estão representados na mesma escala, com 50km de distância."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Comparando os dados das hidrelétricas, uma característica territorial positiva de Belo Monte é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reduzido espaço relativo inundado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Acentuado desnível do relevo local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Elevado índice de urbanização regional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Presença dos grandes parques industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Proximidade de fronteiras internacionais estratégicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

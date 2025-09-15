@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2019",
+    "index": 180,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.\n\nO quadro mostra os resultados obtidos com a pesquisa realizada.\n\n![]([descrição: A imagem mostra uma tabela com informações sobre taxas de câmbio e gastos diários em diferentes países. A tabela possui cinco linhas, cada uma representando um país de destino: França, EUA, Austrália, Canadá e Reino Unido. As colunas da tabela são 'País de Destino', 'Moeda Local', 'Taxa de Câmbio' (em Reais) e 'Gasto Diário'. Os valores específicos para cada país são: França (Euro - €): R$ 3,14, gasto diário de € 315,00; EUA (Dólar - US$): R$ 2,78, gasto diário de US$ 390,00; Austrália (Dólar Australiano - A$): R$ 2,14, gasto diário de A$ 400,00; Canadá (Dólar Canadense - C$): R$ 2,10, gasto diário de C$ 410,00; Reino Unido (Libra Esterlina - £): R$ 4,24, gasto diário de £ 290,00.])",
+    "files": [
+        "A imagem mostra uma tabela com informações sobre taxas de câmbio e gastos diários em diferentes países. A tabela possui cinco linhas, cada uma representando um país de destino: França, EUA, Austrália, Canadá e Reino Unido. As colunas da tabela são 'País de Destino', 'Moeda Local', 'Taxa de Câmbio' (em Reais) e 'Gasto Diário'. Os valores específicos para cada país são: França (Euro - €): R$ 3,14, gasto diário de € 315,00; EUA (Dólar - US$): R$ 2,78, gasto diário de US$ 390,00; Austrália (Dólar Australiano - A$): R$ 2,14, gasto diário de A$ 400,00; Canadá (Dólar Canadense - C$): R$ 2,10, gasto diário de C$ 410,00; Reino Unido (Libra Esterlina - £): R$ 4,24, gasto diário de £ 290,00."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessas condições, qual será o destino escolhido para a viagem?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Austrália.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Canadá.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "EUA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "França.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reino Unido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

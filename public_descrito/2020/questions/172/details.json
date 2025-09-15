@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2020",
+    "index": 172,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No período de fim de ano, o síndico de um condomínio resolveu colocar, em um poste, uma iluminação natalina em formato de cone, lembrando uma árvore de Natal, conforme as figuras 1 e 2.\n\n![]([descrição: A imagem mostra duas figuras lado a lado. A Figura 1 é uma fotografia em preto e branco de uma árvore decorada com luzes, com uma estrela brilhante no topo. A Figura 2 é um diagrama esquemático que representa a árvore da Figura 1 como um cone truncado, com um poste vertical representando o eixo do cone. Uma legenda indica que a altura (h) do poste é de 3 metros e marca o ponto central (c) da base do cone.])\n\nA árvore deverá ser feita colocando-se mangueiras de iluminação, consideradas segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de altura no poste até um ponto de uma circunferência de fixação, no chão, de tal forma que esta fique dividida em 20 arcos iguais. O poste está fixado no ponto C (centro da circunferência) perpendicularmente ao plano do chão.\n\nPara economizar, ele utilizará mangueiras de iluminação aproveitadas de anos anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais ele decide usar exatamente 100 m e deixar o restante como reserva.",
+    "files": [
+        "A imagem mostra duas figuras lado a lado. A Figura 1 é uma fotografia em preto e branco de uma árvore decorada com luzes, com uma estrela brilhante no topo. A Figura 2 é um diagrama esquemático que representa a árvore da Figura 1 como um cone truncado, com um poste vertical representando o eixo do cone. Uma legenda indica que a altura (h) do poste é de 3 metros e marca o ponto central (c) da base do cone."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para que ele atinja seu objetivo, o raio, em metro, da circunferência deverá ser de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4,87.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,83.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6,26.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

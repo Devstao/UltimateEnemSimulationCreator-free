@@ -1,0 +1,46 @@
+{
+    "title": "Questão 87 - ENEM 2017",
+    "index": 87,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra um mapa do Brasil com linhas indicando temperaturas mínimas em graus Celsius para quinta-feira, 28 de agosto de 2014. As temperaturas variam de 4°C no sudeste a 24°C no norte e nordeste. A legenda superior indica 'Figura 1', 'Mínimas - Quinta-feira' e os créditos 'CPTEC/INPE'.])\n\nDisponível em: http://img0.cptec.inpe.br. Acesso em: 25 ago. 2014 (adaptado).\n\n![]([descrição: A imagem mostra uma tabela com o título 'Figura 2: Umidade relativa do ar, por região do país, para o dia 28/08/2014'. A tabela possui duas colunas: 'Regiões' e 'Umidade relativa (intervalo médio)'. As regiões listadas são Norte (60-70%), Nordeste (90-100%), Centro-Oeste (55-65%), Sudeste (65-75%) e Sul (90-100%).])\n\nDisponível em: http://imagens.climatempo.com.br. Acesso em: 25 ago. 2014 (adaptado).",
+    "files": [
+        "A imagem mostra um mapa do Brasil com linhas indicando temperaturas mínimas em graus Celsius para quinta-feira, 28 de agosto de 2014. As temperaturas variam de 4°C no sudeste a 24°C no norte e nordeste. A legenda superior indica 'Figura 1', 'Mínimas - Quinta-feira' e os créditos 'CPTEC/INPE'.",
+        "A imagem mostra uma tabela com o título 'Figura 2: Umidade relativa do ar, por região do país, para o dia 28/08/2014'. A tabela possui duas colunas: 'Regiões' e 'Umidade relativa (intervalo médio)'. As regiões listadas são Norte (60-70%), Nordeste (90-100%), Centro-Oeste (55-65%), Sudeste (65-75%) e Sul (90-100%)."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No dia em que foram colhidos os dados meteorológicos apresentados, qual fator climático foi determinante para explicar os índices de umidade relativa do ar nas regiões Nordeste e Sul?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Altitude, que forma barreiras naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Vegetação, que afeta a incidência solar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Massas de ar, que provocam precipitações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Correntes marítimas, que atuam na troca de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Continentalidade, que influencia na amplitude da temperatura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

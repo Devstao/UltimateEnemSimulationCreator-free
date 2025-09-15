@@ -1,0 +1,45 @@
+{
+    "title": "Questão 78 - ENEM 2016",
+    "index": 78,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com informações sobre substâncias, equilíbrio em solução aquosa e valor da constante de equilíbrio. A tabela possui três colunas: 'Substância', 'Equilíbrio em solução aquosa' e 'Valor da constante de equilíbrio'. As substâncias listadas são Fenol, Piridina, Metilamina, Hidrogenofosfato de potássio e Hidrogenosulfato de potássio. Para cada substância, a tabela apresenta a equação química que representa o equilíbrio em água e o valor correspondente da constante de equilíbrio (Ka). A tabela está sobre um fundo preto.])",
+    "files": [
+        "A imagem mostra uma tabela com informações sobre substâncias, equilíbrio em solução aquosa e valor da constante de equilíbrio. A tabela possui três colunas: 'Substância', 'Equilíbrio em solução aquosa' e 'Valor da constante de equilíbrio'. As substâncias listadas são Fenol, Piridina, Metilamina, Hidrogenofosfato de potássio e Hidrogenosulfato de potássio. Para cada substância, a tabela apresenta a equação química que representa o equilíbrio em água e o valor correspondente da constante de equilíbrio (Ka). A tabela está sobre um fundo preto."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dentre as substâncias listadas no quadro, aquela capaz de remover com maior eficiência os gases poluentes é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fenol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Piridina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Metilamina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hidrogenofosfato de potássio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Hidrogenosulfato de potássio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

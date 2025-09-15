@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2015",
+    "index": 180,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma equação matemática escrita em preto sobre um fundo branco. A equação é P(x) = 8 + 5cos((πx - π)/6). Os símbolos π e cos são representações matemáticas padrão.])\n\nonde _x_ representa o mês do ano, sendo _x_ = 1 associado ao mês de janeiro, _x_ = 2 ao mês de fevereiro, e assim sucessivamente, até _x_ = 12 associado ao mês de dezembro.",
+    "files": [
+        "A imagem mostra uma equação matemática escrita em preto sobre um fundo branco. A equação é P(x) = 8 + 5cos((πx - π)/6). Os símbolos π e cos são representações matemáticas padrão."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na safra, o mês de produção máxima desse produto é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Abril.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Junho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Julho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Outubro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

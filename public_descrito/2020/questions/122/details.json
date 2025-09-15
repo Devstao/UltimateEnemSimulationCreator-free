@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2020",
+    "index": 122,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O exame parasitológico de fezes é utilizado para detectar  \novos de parasitos. Um dos métodos utilizados,  \ndenominado de centrífugo-flutuação, considera a  \ndensidade dos ovos em relação a uma solução de  \ndensidade 1,15 g mL–1. Assim, ovos que flutuam na  \nsuperfície dessa solução são detectados. Os dados de  \ndensidade dos ovos de alguns parasitos estão  \napresentados na tabela.\n\n![]([descrição: A imagem mostra uma tabela com duas colunas: 'Parasito' e 'Densidade (g mL⁻¹)' . A coluna 'Parasito' lista os seguintes parasitas: Ancylostoma, Ascaris lumbricoides, Ascaris suum, Schistosoma mansoni e Taenia saginata. As densidades correspondentes são 1,06, 1,11, 1,13, 1,18 e 1,30, respectivamente. Abaixo da tabela, há uma referência bibliográfica em português.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Parasito' e 'Densidade (g mL⁻¹)' . A coluna 'Parasito' lista os seguintes parasitas: Ancylostoma, Ascaris lumbricoides, Ascaris suum, Schistosoma mansoni e Taenia saginata. As densidades correspondentes são 1,06, 1,11, 1,13, 1,18 e 1,30, respectivamente. Abaixo da tabela, há uma referência bibliográfica em português."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se a densidade dos ovos e da solução, ovos\nde quais parasitos podem ser detectados por esse método?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A. lumbricoides, A. suum e S. mansoni.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "S. mansoni, T. saginata e Ancylostoma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ancylostoma, A. lumbricoides e A. suum.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "T. saginata, S. mansoni e A. lumbricoides.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A. lumbricoides, A. suum e T. saginata",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 176 - ENEM 2018",
+    "index": 176,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.  \nO atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, o recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares atê aquele momento.\n\n![]([descrição: A imagem mostra um quadro com o título 'Quadro 1'. O quadro é uma tabela com quatro linhas e quatro colunas. As colunas são: Classificação, Atleta, 6º Salto e Total. A primeira linha corresponde ao primeiro lugar, ocupado pelo atleta número 3, com um 6º salto de 135,0 e total de 829,0. A segunda linha corresponde ao segundo lugar, ocupado pelo atleta número 4, com um 6º salto de 140,0 e total de 825,2. A terceira linha corresponde ao terceiro lugar, ocupado pelo atleta número 8, com um 6º salto de 140,4 e total de 824,2. A quarta linha corresponde ao sexto lugar, ocupado pelo atleta número 10, com um total de 687,5.])\n\nEle precisa decidir com seu treinador qual salto deverá realizar. Os dados dos possíveis tipos de salto estão no Quadro 2.\n\n![]([descrição: A imagem mostra uma tabela com o título 'Quadro 2'. A tabela possui três colunas: 'Tipo de salto', 'Nota de partida' e 'Estimativa da soma das notas dos juízes' e 'Probabilidade de obter a nota'. As linhas da tabela apresentam dados para cinco tipos de saltos (T1, T2, T3, T4 e T5). Para cada tipo de salto, são fornecidas a nota de partida, a estimativa da soma das notas dos juízes e a probabilidade de obter essa nota. Os valores específicos para cada linha são: T1 - 2,2 / 57 / 89,76%; T2 - 2,4 / 58 / 93,74%; T3 - 2,6 / 55 / 91,88%; T4 - 2,8 / 50 / 95,38%; T5 - 3,0 / 53 / 87,34%.])\n\nO atleta optará pelo salto com a maior probabilidade de obter a nota estimada, de maneira que lhe permita alcançar o primeiro lugar.",
+    "files": [
+        "A imagem mostra um quadro com o título 'Quadro 1'. O quadro é uma tabela com quatro linhas e quatro colunas. As colunas são: Classificação, Atleta, 6º Salto e Total. A primeira linha corresponde ao primeiro lugar, ocupado pelo atleta número 3, com um 6º salto de 135,0 e total de 829,0. A segunda linha corresponde ao segundo lugar, ocupado pelo atleta número 4, com um 6º salto de 140,0 e total de 825,2. A terceira linha corresponde ao terceiro lugar, ocupado pelo atleta número 8, com um 6º salto de 140,4 e total de 824,2. A quarta linha corresponde ao sexto lugar, ocupado pelo atleta número 10, com um total de 687,5.",
+        "A imagem mostra uma tabela com o título 'Quadro 2'. A tabela possui três colunas: 'Tipo de salto', 'Nota de partida' e 'Estimativa da soma das notas dos juízes' e 'Probabilidade de obter a nota'. As linhas da tabela apresentam dados para cinco tipos de saltos (T1, T2, T3, T4 e T5). Para cada tipo de salto, são fornecidas a nota de partida, a estimativa da soma das notas dos juízes e a probabilidade de obter essa nota. Os valores específicos para cada linha são: T1 - 2,2 / 57 / 89,76%; T2 - 2,4 / 58 / 93,74%; T3 - 2,6 / 55 / 91,88%; T4 - 2,8 / 50 / 95,38%; T5 - 3,0 / 53 / 87,34%."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando essas condições, o salto que o atleta deverá escolher é o de tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "T1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "T2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "T3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "T4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "T5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

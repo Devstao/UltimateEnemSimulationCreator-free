@@ -1,0 +1,46 @@
+{
+    "title": "Questão 52 - ENEM 2016",
+    "index": 52,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática da estrutura química do bombicol. É um composto orgânico com uma cadeia hidrocarbonada linear, contendo dois grupos insaturados (duplas ligações) e um grupo hidroxila (-OH) na extremidade. A molécula é rotulada como 'Bombicol'.])\n\nO uso de feromônios em ações de controle de insetos-praga está de acordo com o modelo preconizado para a agricultura do futuro. São agentes altamente específicos e seus compostos químicos podem ser empregados em determinados cultivos, conforme ilustrado no quadro.\n\n![]([descrição: A imagem mostra uma tabela com três colunas: 'Substância', 'Inseto' e 'Cultivo'. A coluna 'Substância' apresenta fórmulas químicas de compostos orgânicos, cada um associado a um inseto específico na coluna 'Inseto' e ao cultivo que ele ataca ou interage na coluna 'Cultivo'. As substâncias incluem: Sitophilus spp. (milho), Migdolus fryanus (cana-de-açúcar), Anthonomus rubi (morango), Grapholita molesta (frutas) e Scrobipalpoides absoluta (tomate). Na parte inferior da imagem, há uma referência bibliográfica.])",
+    "files": [
+        "A imagem mostra uma representação esquemática da estrutura química do bombicol. É um composto orgânico com uma cadeia hidrocarbonada linear, contendo dois grupos insaturados (duplas ligações) e um grupo hidroxila (-OH) na extremidade. A molécula é rotulada como 'Bombicol'.",
+        "A imagem mostra uma tabela com três colunas: 'Substância', 'Inseto' e 'Cultivo'. A coluna 'Substância' apresenta fórmulas químicas de compostos orgânicos, cada um associado a um inseto específico na coluna 'Inseto' e ao cultivo que ele ataca ou interage na coluna 'Cultivo'. As substâncias incluem: Sitophilus spp. (milho), Migdolus fryanus (cana-de-açúcar), Anthonomus rubi (morango), Grapholita molesta (frutas) e Scrobipalpoides absoluta (tomate). Na parte inferior da imagem, há uma referência bibliográfica."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol é também apresentada pelo feromônio utilizado no controle do inseto",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Sitophilus spp.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Migdolus fryanus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Anthonomus rubi.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Grapholita molesta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Scrobipalpuloides absoluta.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

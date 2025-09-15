@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2018",
+    "index": 2,
+    "year": 2018,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma tirinha em preto e branco. Um garoto com cabelo espetado, óculos e camisa de botões está parado sobre um balcão ou plataforma, com as mãos apoiadas nele e o corpo inclinado para frente, expressando frustração. Há uma legenda abaixo da imagem que diz: 'Quando eu tinha 5 anos, todos me diziam para ser um menino grande. Quando eu tinha 10 anos, eles me disseram que deveria ser mais maduro. Agora eles dizem que é hora de começar a agir como um adulto. A este ritmo, serei elegível para a segurança social antes de me formar no ensino médio!'])\n\nGLASBERGEN, R. Disponível em: www.glasbergen.com. Acesso em: 3 jul. 2015 (adaptado).",
+    "files": [
+        "A imagem é uma tirinha em preto e branco. Um garoto com cabelo espetado, óculos e camisa de botões está parado sobre um balcão ou plataforma, com as mãos apoiadas nele e o corpo inclinado para frente, expressando frustração. Há uma legenda abaixo da imagem que diz: 'Quando eu tinha 5 anos, todos me diziam para ser um menino grande. Quando eu tinha 10 anos, eles me disseram que deveria ser mais maduro. Agora eles dizem que é hora de começar a agir como um adulto. A este ritmo, serei elegível para a segurança social antes de me formar no ensino médio!'"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No cartum, a crítica está no fato de a sociedade exigir do adolescente que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Se aposente prematuramente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Amadureça precocemente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Estude aplicadamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Se forme rapidamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ouça atentamente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

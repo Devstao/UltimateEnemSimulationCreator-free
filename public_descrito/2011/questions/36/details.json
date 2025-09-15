@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2011",
+    "index": 36,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Gráfico circular representando a distribuição de religiões no Brasil em 2007. O gráfico está dividido em fatias, cada uma representando uma religião ou grupo religioso com sua respectiva porcentagem: \n\n*   **Católica Apostólica Romana:** 73,8% (fatia maior e mais proeminente)\n*   **Assembleia de Deus e evangélicos pentecostais:** 10,7%\n*   **Sem religião:** 7,4%\n*   **Batista e evangélica de missão:** 4,3%\n*   **Espírita, umbanda e candomblé:** 1,7%\n*   **Testemunhas de Jeová:** 1,4%\n*   **Católica Apostólica Brasileira e outras religiões:** 0,7% \n\nA legenda do gráfico identifica cada fatia com o nome da religião correspondente.])\n\nSMITH, D. Atlas da Situação Mundial. São Paulo: Cia. Editora Nacional, 2007 (adaptado). (Foto: Reprodução/Enem)",
+    "files": [
+        "Gráfico circular representando a distribuição de religiões no Brasil em 2007. O gráfico está dividido em fatias, cada uma representando uma religião ou grupo religioso com sua respectiva porcentagem: \n\n*   **Católica Apostólica Romana:** 73,8% (fatia maior e mais proeminente)\n*   **Assembleia de Deus e evangélicos pentecostais:** 10,7%\n*   **Sem religião:** 7,4%\n*   **Batista e evangélica de missão:** 4,3%\n*   **Espírita, umbanda e candomblé:** 1,7%\n*   **Testemunhas de Jeová:** 1,4%\n*   **Católica Apostólica Brasileira e outras religiões:** 0,7% \n\nA legenda do gráfico identifica cada fatia com o nome da religião correspondente."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma explicação de caráter histórico para o percentual da religião com maior número de adeptos declarados no Brasil foi a existência, no passado colonial e monárquico, da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Incapacidade do cristianismo de incorporar aspectos de outras religiões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Incorporação da ideia de liberdade religiosa na esfera pública.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Permissão para o funcionamento de igrejas não cristãs.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Relação de integração entre Estado e Igreja.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Influência das religiões de origem africana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2023",
+    "index": 165,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\n![]([descrição: A imagem mostra uma representação esquemática de três espelhos paralelos dispostos lado a lado, encostados em uma parede lateral e apoiados no chão. Cada espelho tem dimensões de 0,20m de altura e 0,25m de largura. A distância entre cada espelho é de 0,25m. O comprimento total da configuração dos espelhos é de 1,0 metro. Uma seta indica a parede lateral e as medidas estão em metros.])\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.",
+    "files": [
+        "A imagem mostra uma representação esquemática de três espelhos paralelos dispostos lado a lado, encostados em uma parede lateral e apoiados no chão. Cada espelho tem dimensões de 0,20m de altura e 0,25m de largura. A distância entre cada espelho é de 0,25m. O comprimento total da configuração dos espelhos é de 1,0 metro. Uma seta indica a parede lateral e as medidas estão em metros."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A área a ser revestida em cerâmica, em metro quadrado, mede",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,35.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,65.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,95.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

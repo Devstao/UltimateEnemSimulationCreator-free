@@ -1,0 +1,49 @@
+{
+    "title": "Questão 156 - ENEM 2021",
+    "index": 156,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição _P_ (em cm) da massa m em função do tempo _t_ (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) = ![]([descrição: A imagem mostra uma expressão matemática escrita em branco sobre fundo preto: '+ A cos (ωt)'.]) ou P(t) = ![]([descrição: A image displays the mathematical expression '+ A sen (ωt)' written in black text on a white background.]), em que A>0 é a amplitude de deslocamento máximo e ![]([descrição: A imagem mostra o logotipo da Audi, estilizado como três anéis sobrepostos, dispostos verticalmente.]) é a frequência, que se relaciona com o período T pela fórmula ![]([descrição: A imagem mostra uma equação matemática escrita em preto sobre fundo branco. A equação é ω = 2π/T, onde 'ω' representa velocidade angular e 'T' representa período.]).\n\nConsidere a ausência de quaisquer forças dissipativas.\n\n![]([descrição: A imagem mostra uma configuração física com uma mola suspensa horizontalmente entre duas superfícies sólidas. Em cada extremidade da mola, há uma massa 'm'. Uma das massas está em uma posição mais baixa, indicando que a mola está esticada ('Mola distendida'). Ao lado, há um gráfico de linha com o tempo no eixo horizontal (t) e uma propriedade física (P) no eixo vertical. O gráfico exibe uma onda senoidal oscilante entre valores positivos e negativos, com marcações indicando múltiplos de π/2 e 2π.])",
+    "files": [
+        "A imagem mostra uma expressão matemática escrita em branco sobre fundo preto: '+ A cos (ωt)'.",
+        "A image displays the mathematical expression '+ A sen (ωt)' written in black text on a white background.",
+        "A imagem mostra o logotipo da Audi, estilizado como três anéis sobrepostos, dispostos verticalmente.",
+        "A imagem mostra uma equação matemática escrita em preto sobre fundo branco. A equação é ω = 2π/T, onde 'ω' representa velocidade angular e 'T' representa período.",
+        "A imagem mostra uma configuração física com uma mola suspensa horizontalmente entre duas superfícies sólidas. Em cada extremidade da mola, há uma massa 'm'. Uma das massas está em uma posição mais baixa, indicando que a mola está esticada ('Mola distendida'). Ao lado, há um gráfico de linha com o tempo no eixo horizontal (t) e uma propriedade física (P) no eixo vertical. O gráfico exibe uma onda senoidal oscilante entre valores positivos e negativos, com marcações indicando múltiplos de π/2 e 2π."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo, no gráfico, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "-3 cos (2t)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "-3 sen (2t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 cos (2t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "-6 cos (2t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 cos (2t)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

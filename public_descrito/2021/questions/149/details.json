@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2021",
+    "index": 149,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A receita R de uma empresa ao final de um mês é o volume de dinheiro captado com a venda de mercadorias ou com a prestação de serviços nesse mês, e a despesa D é todo a dinheiro utilizado para pagamento de salários, contas de água e luz, impostos, entre outros. O lucro mensal obtido ao final do mês é a diferença entre a receita e a despesa registradas no mês. O gráfico apresenta as receitas e despesas, em milhão de real, de uma empresa ao final dos cinco primeiros meses de um dado ano\n\n![]([descrição: O gráfico de linhas representa as receitas (linha sólida) e despesas (linha tracejada) ao longo dos meses de janeiro, fevereiro, março, abril e maio. Em janeiro, a receita é de 10 unidades e a despesa é de 5 unidades. Em fevereiro, a receita aumenta para 20 unidades e a despesa permanece em 10 unidades. Em março, a receita diminui para 15 unidades e a despesa continua em 10 unidades. Em abril, a receita volta a subir para 20 unidades e a despesa aumenta para 15 unidades. Finalmente, em maio, a receita atinge o valor mais alto de 28 unidades e a despesa também aumenta para 26 unidades.])",
+    "files": [
+        "O gráfico de linhas representa as receitas (linha sólida) e despesas (linha tracejada) ao longo dos meses de janeiro, fevereiro, março, abril e maio. Em janeiro, a receita é de 10 unidades e a despesa é de 5 unidades. Em fevereiro, a receita aumenta para 20 unidades e a despesa permanece em 10 unidades. Em março, a receita diminui para 15 unidades e a despesa continua em 10 unidades. Em abril, a receita volta a subir para 20 unidades e a despesa aumenta para 15 unidades. Finalmente, em maio, a receita atinge o valor mais alto de 28 unidades e a despesa também aumenta para 26 unidades."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A previsão para os próximos meses é que o lucro mensal não seja inferior ao maior lucro obtido até o mês de Maio.\nNessas condições, o lucro mensal para os próximos meses deve ser maior ou igual ao do mês de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fevereiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Março.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Abril.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

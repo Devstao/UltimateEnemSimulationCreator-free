@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2010",
+    "index": 77,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma representação química da molécula de monofluoroacetato de sódio (CH₂FCOO⁻Na⁺). A estrutura molecular é exibida com os átomos e ligações representados por símbolos químicos padrão. Abaixo da fórmula, há a legenda 'monofluoroacetato de sódio.' Na parte inferior da imagem, há uma nota sobre a fonte da imagem e data de acesso.])",
+    "files": [
+        "A imagem mostra uma representação química da molécula de monofluoroacetato de sódio (CH₂FCOO⁻Na⁺). A estrutura molecular é exibida com os átomos e ligações representados por símbolos químicos padrão. Abaixo da fórmula, há a legenda 'monofluoroacetato de sódio.' Na parte inferior da imagem, há uma nota sobre a fonte da imagem e data de acesso."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O monofluoracetato de sódio pode ser obtido pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Desidratação do ácido monofluoracético com liberação de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Hidrólise do ácido monofluoracético sem formação de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Perda de íons hidroxila do ácido monofluoracético, com liberação de hidróxido de sódio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Neutralização do ácido monofluoracético usando hidróxido de sódio, com liberação de água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Substituição dos íons hidrogênio por sódio na estrutura do ácido monofluoracético, sem formação de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2011",
+    "index": 43,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem é uma ilustração em preto e branco, possivelmente uma charge ou caricatura, retratando um tumulto ou confusão na rua. Várias pessoas estão envolvidas em ações caóticas: algumas jogam objetos (como pratos, copos, ferramentas) de janelas, enquanto outras se aglomeram na rua, empurrando e interagindo de forma agitada. Há uma bandeira visível com a inscrição 'Massacre'. A cena é exagerada e caricaturada, com expressões faciais e poses dramáticas dos personagens.])\n\nCharge capa da revista “O Malho”, de 1904. Disponível em: http://1.bp.blogspot.com. (Foto: Reprodução/Enem)",
+    "files": [
+        "A imagem é uma ilustração em preto e branco, possivelmente uma charge ou caricatura, retratando um tumulto ou confusão na rua. Várias pessoas estão envolvidas em ações caóticas: algumas jogam objetos (como pratos, copos, ferramentas) de janelas, enquanto outras se aglomeram na rua, empurrando e interagindo de forma agitada. Há uma bandeira visível com a inscrição 'Massacre'. A cena é exagerada e caricaturada, com expressões faciais e poses dramáticas dos personagens."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A imagem representa as manifestações nas ruas da cidade do Rio de Janeiro, na primeira década do século XX, que integraram a Revolta da Vacina. Considerando o contexto político-social da época, essa revolta revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A insatisfação da população com os benefícios de uma modernização urbana autoritária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A consciência da população pobre sobre a necessidade de vacinação para a erradicação das epidemias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A garantia do processo democrático instaurado com a República, através da defesa da liberdade de expressão da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O planejamento do governo republicano na área de saúde, que abrangia a população em geral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O apoio ao governo republicano pela atitude de vacinar toda a população em vez de privilegiar a elite.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

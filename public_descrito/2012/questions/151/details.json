@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2012",
+    "index": 151,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra a variação da extensão do gelo marinho ártico ao longo dos meses de junho, julho, agosto e setembro para os anos de 1995, 1998, 2000, 2005 e 2007. O eixo vertical representa a extensão do gelo marinho em milhões de quilômetros quadrados, variando de 3 a 15. O eixo horizontal representa os meses (junho, julho, agosto e setembro). A linha referente ao ano de 2007 apresenta a menor extensão de gelo marinho em todos os anos analisados, enquanto a linha de 1995 demonstra a maior extensão.])",
+    "files": [
+        "O gráfico mostra a variação da extensão do gelo marinho ártico ao longo dos meses de junho, julho, agosto e setembro para os anos de 1995, 1998, 2000, 2005 e 2007. O eixo vertical representa a extensão do gelo marinho em milhões de quilômetros quadrados, variando de 3 a 15. O eixo horizontal representa os meses (junho, julho, agosto e setembro). A linha referente ao ano de 2007 apresenta a menor extensão de gelo marinho em todos os anos analisados, enquanto a linha de 1995 demonstra a maior extensão."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no gráfico e nas informações do texto, é possível inferir que houve maior aquecimento global em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1995.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1998.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2005.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2007.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

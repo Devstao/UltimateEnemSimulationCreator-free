@@ -1,0 +1,45 @@
+{
+    "title": "Questão 64 - ENEM 2011",
+    "index": 64,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: O mapa mundial mostra as áreas com risco de malária, utilizando diferentes tons de cinza para indicar o nível de risco. As áreas onde ocorre transmissão de malária são representadas em um tom mais escuro de cinza, enquanto as áreas com risco limitado aparecem em um tom mais claro e as áreas sem malária são mostradas em branco. O mapa inclui a legenda correspondente aos tons de cinza e indica a fonte como OMS 2006, além de fornecer o link www.anvisa.gov.br.])",
+    "files": [
+        "O mapa mundial mostra as áreas com risco de malária, utilizando diferentes tons de cinza para indicar o nível de risco. As áreas onde ocorre transmissão de malária são representadas em um tom mais escuro de cinza, enquanto as áreas com risco limitado aparecem em um tom mais claro e as áreas sem malária são mostradas em branco. O mapa inclui a legenda correspondente aos tons de cinza e indica a fonte como OMS 2006, além de fornecer o link www.anvisa.gov.br."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O mapa mostra a área de ocorrência da malária no mundo. Considerando-se sua distribuição na América do Sul, a malária pode ser classificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Endemia, pois se concentra em uma área geográfica restrita desse continente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Peste, já que ocorre nas regiões mais quentes do continente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Epidemia, já que ocorre na maior parte do continente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Surto, pois apresenta ocorrência em áreas pequenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pandemia, pois ocorre em todo o continente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

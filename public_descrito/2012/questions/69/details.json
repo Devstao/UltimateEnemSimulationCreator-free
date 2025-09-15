@@ -1,0 +1,45 @@
+{
+    "title": "Questão 69 - ENEM 2012",
+    "index": 69,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com dois colunas. A primeira coluna lista materiais: suco de limão, leite, vinagre, álcool, sabão e carbonato de sódio/barrilha. A segunda coluna apresenta a concentração de íons hidrogênio (H₃O⁺) em mol/L para cada material listado na primeira coluna. Os valores são 10⁻², 10⁻⁶, 10⁻³, 10⁻⁸, 10⁻¹² e 10⁻¹² respectivamente.])",
+    "files": [
+        "A imagem mostra uma tabela com dois colunas. A primeira coluna lista materiais: suco de limão, leite, vinagre, álcool, sabão e carbonato de sódio/barrilha. A segunda coluna apresenta a concentração de íons hidrogênio (H₃O⁺) em mol/L para cada material listado na primeira coluna. Os valores são 10⁻², 10⁻⁶, 10⁻³, 10⁻⁸, 10⁻¹² e 10⁻¹² respectivamente."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dentre os materiais listados, quais são apropriados para amenizar esse odor?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Álcool ou sabão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Suco de limão ou álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Suco de limão ou vinagre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Suco de limão, leite ou sabão",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sabão ou carbonato de sódio/barrilha.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

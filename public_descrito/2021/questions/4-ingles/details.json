@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2021",
+    "index": 4,
+    "year": 2021,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: Desenho em preto e branco de dois adultos caminhando pela rua. O homem está usando um terno e gravata, enquanto a mulher usa um vestido vermelho e carrega uma bolsa. Acima deles, há rabiscos que parecem ser manchetes de notícias ou palavras aleatórias escritas em um quadro negro. A legenda abaixo da imagem diz: \"My desire to be well-informed is currently at odds with my desire to remain sane.\".])",
+    "files": [
+        "Desenho em preto e branco de dois adultos caminhando pela rua. O homem está usando um terno e gravata, enquanto a mulher usa um vestido vermelho e carrega uma bolsa. Acima deles, há rabiscos que parecem ser manchetes de notícias ou palavras aleatórias escritas em um quadro negro. A legenda abaixo da imagem diz: \"My desire to be well-informed is currently at odds with my desire to remain sane.\"."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A Presença de “at odds with” na fala do personagem do cartum revela o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Necessidade de acessar informações confiáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dificuldade de conciliar diferentes anseios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Desejo de dominar novas tecnologias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desafio de permanecer imparcial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vontade de ler notícias positivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

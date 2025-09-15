@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2020",
+    "index": 37,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um “conceito ampliado” de saúde, conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\nBATISTELLA, C. **Abordagens contemporâneas do conceito de saúde**.\n\nDisponível em: www.dihs.ensp.fiocruz.br. Acesso em: 23 set. 2020.\n\n![]([descrição: A imagem mostra um diagrama circular em tons de cinza, com texto em português. O título central do diagrama é 'Redes Sociais e Comunitárias: Estilo de Vida dos Indivíduos'. Ao redor do centro, o círculo está dividido em seções que representam fatores socioeconômicos, culturais e ambientais gerais. Essas seções incluem termos como 'Condições de vida e de trabalho', 'Desemprego', 'Água e esgoto', 'Serviços sociais de saúde', 'Habitação', 'Produção agrícola e de alimentos', 'Educação', 'Ambiente de trabalho' e 'Idade, sexo e fatores hereditários'. O diagrama parece ser uma representação visual de como esses diversos elementos interagem para influenciar o estilo de vida dos indivíduos.])",
+    "files": [
+        "A imagem mostra um diagrama circular em tons de cinza, com texto em português. O título central do diagrama é 'Redes Sociais e Comunitárias: Estilo de Vida dos Indivíduos'. Ao redor do centro, o círculo está dividido em seções que representam fatores socioeconômicos, culturais e ambientais gerais. Essas seções incluem termos como 'Condições de vida e de trabalho', 'Desemprego', 'Água e esgoto', 'Serviços sociais de saúde', 'Habitação', 'Produção agrícola e de alimentos', 'Educação', 'Ambiente de trabalho' e 'Idade, sexo e fatores hereditários'. O diagrama parece ser uma representação visual de como esses diversos elementos interagem para influenciar o estilo de vida dos indivíduos."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no conceito apresentado no texto, a saúde é consequência direta do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adoção de um estilo de vida ativo por parte dos indivíduos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Disponibilidade de emprego no mercado de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Condição habitacional presente nas cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Acesso ao sistema educacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Forma de organização social.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 19 - ENEM 2015",
+    "index": 19,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: Desenho de charge em preto e branco, retratando uma família à mesa durante uma refeição. O pai, com um semblante preocupado, cobre o rosto do filho com a mão enquanto a mãe gesticula expressivamente. Uma fala em balão acima da cabeça dos pais diz: 'Só este ano já entraram no país três bilhões de dólares. O pagamento começa a ser feito daqui a dez anos.' Ao lado, outra fala em balão, vinda aparentemente do filho, diz: 'Tadinho!' A charge possui assinatura e data no canto inferior direito.])\n\nZIRALDO. 20 anos de prontidão. In: LEMOS, R. (Org.). **Uma história do Brasil através da caricatura (1840-2001)**. Rio de Janeiro: Letras & Expressões, 2001.",
+    "files": [
+        "Desenho de charge em preto e branco, retratando uma família à mesa durante uma refeição. O pai, com um semblante preocupado, cobre o rosto do filho com a mão enquanto a mãe gesticula expressivamente. Uma fala em balão acima da cabeça dos pais diz: 'Só este ano já entraram no país três bilhões de dólares. O pagamento começa a ser feito daqui a dez anos.' Ao lado, outra fala em balão, vinda aparentemente do filho, diz: 'Tadinho!' A charge possui assinatura e data no canto inferior direito."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No período de 1964 a 1985, a estratégia do Regime Militar abordada na charge foi caracterizada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Priorização da segurança nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Captação de financiamentos estrangeiros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Execução de cortes nos gastos públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Nacionalização de empresas multinacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Promoção de políticas de distribuição de renda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "strict": false,
+    "jsx": "react-jsx",
+    "baseUrl": "."
+  },
+  "include": ["server/**/*", "web/src/**/*"]
+}

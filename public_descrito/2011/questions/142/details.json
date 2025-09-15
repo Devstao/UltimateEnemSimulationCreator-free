@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2011",
+    "index": 142,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com duas colunas: 'Dia do mês' e 'Temperatura (em °C)'. A coluna 'Dia do mês' lista os dias de 1 a 29, enquanto a coluna 'Temperatura (em °C)' apresenta as temperaturas correspondentes para cada dia. As temperaturas variam entre 13,5°C e 21,5°C.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Dia do mês' e 'Temperatura (em °C)'. A coluna 'Dia do mês' lista os dias de 1 a 29, enquanto a coluna 'Temperatura (em °C)' apresenta as temperaturas correspondentes para cada dia. As temperaturas variam entre 13,5°C e 21,5°C."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em relação à temperatura, os valores da média, mediana e moda são, respectivamente, iguais a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "17°C, 17°C e 13,5°C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "17°C, 18°C e 13,5°C.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "17°C, 13,5°C e 18°C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "17°C, 18°C e 21,5°C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "17°C, 13,5°C e 21,5°C.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2015",
+    "index": 11,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra um calendário medieval do século XV, representado em preto e branco com ilustrações em pequenos quadrados dispostos em uma grade de três linhas e quatro colunas. Cada quadrado retrata cenas que parecem representar diferentes atividades ou eventos ao longo do ano. As figuras são vestidas com roupas típicas da época, como chapéus pontudos, túnicas e calças justas. As cenas incluem pessoas trabalhando no campo, cavaleiros a cavalo, pastores cuidando de ovelhas e outras atividades cotidianas. No canto inferior direito, há uma pequena legenda com informações sobre a fonte da imagem.])\n\nOs calendários são fontes históricas importantes, na medida em que expressam a concepção de tempo das sociedades. Essas imagens compõem um calendário medieval (1460-1475) e cada uma delas representa um mês, de janeiro a dezembro.",
+    "files": [
+        "A imagem mostra um calendário medieval do século XV, representado em preto e branco com ilustrações em pequenos quadrados dispostos em uma grade de três linhas e quatro colunas. Cada quadrado retrata cenas que parecem representar diferentes atividades ou eventos ao longo do ano. As figuras são vestidas com roupas típicas da época, como chapéus pontudos, túnicas e calças justas. As cenas incluem pessoas trabalhando no campo, cavaleiros a cavalo, pastores cuidando de ovelhas e outras atividades cotidianas. No canto inferior direito, há uma pequena legenda com informações sobre a fonte da imagem."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base na análise do calendário, apreende-se uma concepção de tempo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cíclica, marcada pelo mito arcaico do eterno retorno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Humanista, identificada pelo controle das horas de atividade por parte do trabalhador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Escatológica, associada a uma visão religiosa sobre o trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Natural, expressa pelo trabalho realizado de acordo com as estações do ano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Romântica, definida por uma visão bucólica da sociedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

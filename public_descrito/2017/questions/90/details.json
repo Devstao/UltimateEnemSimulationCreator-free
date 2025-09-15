@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2017",
+    "index": 90,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem apresenta duas figuras lado a lado, identificadas como Figura 1 e Figura 2. A Figura 1 é um recorte fotográfico em preto e branco de uma mulher chamada Maria Bonita, datado da década de 1930. Ela está vestida com roupas típicas da época, incluindo um chapéu grande e um vestido longo com estampas. A Figura 2 mostra um traje da coleção de Zuzu Angel, em cores vibrantes. Uma modelo usa o traje, que consiste em uma camisa de mangas compridas, calças e um chapéu incomum. Abaixo das figuras, há informações sobre as fontes das imagens.])",
+    "files": [
+        "A imagem apresenta duas figuras lado a lado, identificadas como Figura 1 e Figura 2. A Figura 1 é um recorte fotográfico em preto e branco de uma mulher chamada Maria Bonita, datado da década de 1930. Ela está vestida com roupas típicas da época, incluindo um chapéu grande e um vestido longo com estampas. A Figura 2 mostra um traje da coleção de Zuzu Angel, em cores vibrantes. Uma modelo usa o traje, que consiste em uma camisa de mangas compridas, calças e um chapéu incomum. Abaixo das figuras, há informações sobre as fontes das imagens."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Elaborada em 1969, a releitura contida na Figura 2 revela aspectos de uma trajetória e obra dedicadas à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Valorização de uma representação tradicional da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Descaracterização de referências do folclore nordestino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fusão de elementos brasileiros à moda da Europa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Massificação do consumo de uma arte local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Criação de uma estética de resistência.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

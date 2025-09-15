@@ -1,0 +1,46 @@
+{
+    "title": "Questão 137 - ENEM 2018",
+    "index": 137,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação. Nesse caso, paga-se o valor presente, que é o valor, naquele momento, de uma quantia que deveria ser paga em uma data futura. Um valor presente _P_ submetido a juros compostos com taxa _i_, por um período de tempo _n_, produz um valor futuro _V_ determinado pela fórmula:\n\n![]([descrição: A imagem mostra uma fórmula matemática escrita em preto sobre um fundo branco. A fórmula é V = P * (1 + i)^n, onde V, P, i e n são variáveis ou constantes.])\n\nEm um contrato de empréstimo com sessenta parcelas fixas mensais, de R$820,00, a uma taxa de juros de 1,32% ao mês, junto com a trigésima parcela será paga antecipadamente uma outra parcela, desde que o desconto seja superior a 25% do valor da parcela.\n\nUtilize 0,2877 como aproximação para In ![]([descrição: A imagem mostra uma fração, com o número '4' no numerador e o número '3' no denominador, ambos dentro de parênteses.]) e 0,0131 como aproximação para In (1,0132).",
+    "files": [
+        "A imagem mostra uma fórmula matemática escrita em preto sobre um fundo branco. A fórmula é V = P * (1 + i)^n, onde V, P, i e n são variáveis ou constantes.",
+        "A imagem mostra uma fração, com o número '4' no numerador e o número '3' no denominador, ambos dentro de parênteses."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A primeira das parcelas que poderá ser antecipada junto com a 30ª é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "56ª",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "55ª",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "52ª",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "51ª",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "45ª",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

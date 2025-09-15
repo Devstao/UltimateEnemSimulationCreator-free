@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2015",
+    "index": 31,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma ilustração em preto e branco de uma seção de solo com várias cavidades ou buracos interconectados, representando um tipo de estrutura do solo chamada pedogenético de dissolução. A superfície do solo é irregular e escura, indicando a presença de matéria orgânica ou material alterado. Uma caixa destacada no canto superior direito apresenta um diagrama esquemático que ilustra o processo de formação dessas cavidades, mostrando uma rota circular com pontos representando a dissolução da rocha. Na parte inferior da imagem, há informações sobre a fonte da ilustração.])",
+    "files": [
+        "A imagem mostra uma ilustração em preto e branco de uma seção de solo com várias cavidades ou buracos interconectados, representando um tipo de estrutura do solo chamada pedogenético de dissolução. A superfície do solo é irregular e escura, indicando a presença de matéria orgânica ou material alterado. Uma caixa destacada no canto superior direito apresenta um diagrama esquemático que ilustra o processo de formação dessas cavidades, mostrando uma rota circular com pontos representando a dissolução da rocha. Na parte inferior da imagem, há informações sobre a fonte da ilustração."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A imagem representa o resultado da erosão que ocorre em rochas nos leitos dos rios, que decorre do processo natural de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fraturamento geológico, derivado da força dos agentes internos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Solapamento de camadas de argilas, transportadas pela correnteza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Movimento circular de seixos e areias, arrastados por águas turbilhonares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Decomposição das camadas sedimentares, resultante da alteração química.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Assoreamento no fundo do rio, proporcionado pela chegada de material sedimentar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

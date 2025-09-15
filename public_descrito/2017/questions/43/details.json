@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2017",
+    "index": 43,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma fotografia em preto e branco de um mural de graffiti. O mural apresenta figuras estilizadas em tons de preto e branco, com traços expressivos e formas geométricas. As figuras parecem representar pessoas e elementos simbólicos, como árvores, edifícios e objetos abstratos. A composição é densa e complexa, criando uma sensação de movimento e dinamismo. Na parte inferior da imagem, há informações sobre o artista (SPETO) e a obra, indicando que se trata de um graffiti do Museu Afro Brasil, datado de 2009.])\n\n**TEXTO II**  \n**Speto**  \nPaulo César Silva, mais conhecido como Speto, é um grafiteiro paulista envolvido com o _skate_ e a música. O fortalecimento de sua arte ocorreu, em 1999, pela oportunidade de ver de perto as referências que trazia há tempos, ao passar por diversas cidades do Norte do Brasil em uma turnê com a banda O Rappa\n\nRevista Zupi, n. 19, 2010",
+    "files": [
+        "A imagem mostra uma fotografia em preto e branco de um mural de graffiti. O mural apresenta figuras estilizadas em tons de preto e branco, com traços expressivos e formas geométricas. As figuras parecem representar pessoas e elementos simbólicos, como árvores, edifícios e objetos abstratos. A composição é densa e complexa, criando uma sensação de movimento e dinamismo. Na parte inferior da imagem, há informações sobre o artista (SPETO) e a obra, indicando que se trata de um graffiti do Museu Afro Brasil, datado de 2009."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O grafite do artista paulista Speto, exposto no Museu Afro Brasil, revela elementos da cultura brasileira reconhecidos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Na influência da expressão abstrata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Na representação de lendas nacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Na inspiração das composições musicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Nos traços marcados pela xilogravura nordestina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Nos usos característicos de grafismos dos skates.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

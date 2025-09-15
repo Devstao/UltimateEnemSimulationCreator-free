@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2016",
+    "index": 158,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: O gráfico mostra a variação do nível do reservatório ao longo de seis meses. O eixo vertical representa a porcentagem com relação à capacidade máxima, variando de 5% a 35%. O eixo horizontal representa os meses, de 1 a 6. A linha do gráfico começa em aproximadamente 30% no primeiro mês e diminui gradualmente até atingir cerca de 12% no sexto mês, indicando uma redução constante no nível do reservatório ao longo do tempo.])",
+    "files": [
+        "O gráfico mostra a variação do nível do reservatório ao longo de seis meses. O eixo vertical representa a porcentagem com relação à capacidade máxima, variando de 5% a 35%. O eixo horizontal representa os meses, de 1 a 6. A linha do gráfico começa em aproximadamente 30% no primeiro mês e diminui gradualmente até atingir cerca de 12% no sexto mês, indicando uma redução constante no nível do reservatório ao longo do tempo."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nas condições dadas, qual o tempo mínimo, após o sexto mês, para que o reservatório atinja o nível zero de sua capacidade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 meses e meio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "3 meses e meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 mês e meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 mês.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

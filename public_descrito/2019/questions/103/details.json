@@ -1,0 +1,46 @@
+{
+    "title": "Questão 103 - ENEM 2019",
+    "index": 103,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Estudos mostram o desenvolvimento de biochips utilizados para auxiliar o diagnóstico de diabetes melito, doença evidenciada pelo excesso de glicose no organismo. O teste é simples e consiste em duas reações sequenciais na superfície do biochip, entre a amostra de soro sanguíneo do paciente, enzimas específicas e reagente (iodeto de potássio, KI), conforme mostrado na imagem.\n\n![]([descrição: A imagem mostra dois diagramas esquemáticos de um biochip. O primeiro diagrama, rotulado como (i) 'Biochip antes da adição de soro', ilustra uma estrutura retangular com duas setas apontando para ela, indicando a entrada de enzimas e cloreto de potássio (KCl). O segundo diagrama, rotulado como (ii) 'Biochip após a adição de soro', mostra o mesmo biochip, mas agora com setas indicando a entrada de soro e um corante (Cor). Uma seta adicional indica o fluxo através do dispositivo. A extremidade direita do biochip no segundo diagrama está preenchida com uma área cinza.])\n\n  Após a adição de soro sanguíneo, o fluxo desloca-se espontaneamente da esquerda para a direita (ii) promovendo reações sequenciais, conforme as equações 1 e 2. Na primeira, há conversão de glicose do sangue em ácido glucônico, gerando peróxido de hidrogênio:\n\n![]([descrição: A imagem mostra duas equações químicas com suas respectivas descrições, seguidas por uma referência bibliográfica. A primeira equação (Equação 1) representa a reação de glicose, oxigênio e água na presença de enzimas, resultando em ácido glucônico e peróxido de hidrogênio. Uma breve explicação descreve que o peróxido de hidrogênio reage com íons iodeto para formar íon triiodeto, água e oxigênio. A segunda equação (Equação 2) detalha essa reação: 2 moléculas de peróxido de hidrogênio reagem com 3 íons iodeto, produzindo íon triiodeto, 2 moléculas de água e oxigênio. Abaixo das equações, encontra-se a referência bibliográfica completa, incluindo autores, título do artigo, periódico (RSC Advances), volume e data de publicação.])",
+    "files": [
+        "A imagem mostra dois diagramas esquemáticos de um biochip. O primeiro diagrama, rotulado como (i) 'Biochip antes da adição de soro', ilustra uma estrutura retangular com duas setas apontando para ela, indicando a entrada de enzimas e cloreto de potássio (KCl). O segundo diagrama, rotulado como (ii) 'Biochip após a adição de soro', mostra o mesmo biochip, mas agora com setas indicando a entrada de soro e um corante (Cor). Uma seta adicional indica o fluxo através do dispositivo. A extremidade direita do biochip no segundo diagrama está preenchida com uma área cinza.",
+        "A imagem mostra duas equações químicas com suas respectivas descrições, seguidas por uma referência bibliográfica. A primeira equação (Equação 1) representa a reação de glicose, oxigênio e água na presença de enzimas, resultando em ácido glucônico e peróxido de hidrogênio. Uma breve explicação descreve que o peróxido de hidrogênio reage com íons iodeto para formar íon triiodeto, água e oxigênio. A segunda equação (Equação 2) detalha essa reação: 2 moléculas de peróxido de hidrogênio reagem com 3 íons iodeto, produzindo íon triiodeto, 2 moléculas de água e oxigênio. Abaixo das equações, encontra-se a referência bibliográfica completa, incluindo autores, título do artigo, periódico (RSC Advances), volume e data de publicação."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O tipo de reação que ocorre na superfície do biochip, nas duas reações do processo, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Análise.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Síntese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Oxirredução.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Complexação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido-base.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

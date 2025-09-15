@@ -1,0 +1,45 @@
+{
+    "title": "Questão 97 - ENEM 2009",
+    "index": 97,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra um panfleto informativo sobre a Influenza A (Gripe Suína). O título do panfleto é \"Influenza A (Gripe Suína)\". Ele lista os sintomas da doença, incluindo febre alta, tosse, dor de cabeça, dores musculares e dificuldade respiratória. Também fornece um número de telefone para contato imediato: 0800-283-2255.  A parte inferior do panfleto oferece orientações sobre como evitar a contaminação, incluindo cobrir a boca ao tossir ou espirrar, lavar as mãos e usar máscaras.])",
+    "files": [
+        "A imagem mostra um panfleto informativo sobre a Influenza A (Gripe Suína). O título do panfleto é \"Influenza A (Gripe Suína)\". Ele lista os sintomas da doença, incluindo febre alta, tosse, dor de cabeça, dores musculares e dificuldade respiratória. Também fornece um número de telefone para contato imediato: 0800-283-2255.  A parte inferior do panfleto oferece orientações sobre como evitar a contaminação, incluindo cobrir a boca ao tossir ou espirrar, lavar as mãos e usar máscaras."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto tem o objetivo de solucionar um problema social,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Descrevendo a situação do país em relação à gripe suína.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alertando a população para o risco de morte pela Influenza A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Informando a população sobre a iminência de uma pandemia de Influenza A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Orientando a população sobre os sintomas da gripe suína e procedimentos para evitar a contaminação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Convocando toda a população para se submeter a exames de detecção da gripe suína.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

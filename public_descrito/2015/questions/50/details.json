@@ -1,0 +1,46 @@
+{
+    "title": "Questão 50 - ENEM 2015",
+    "index": 50,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama mostrando as faixas de frequência das radiações ultravioletas (UV). Uma seta indica o aumento da frequência, com valores numéricos marcados para UV-A (7,47 x 10^14 s^-1), UV-B (9,34 x 10^14 s^-1) e UV-C (2,99 x 10^15 s^-1). Cada faixa de UV está rotulada com sua respectiva designação: UV-A, UV-B e UV-C.])\n\nPara selecionar um filtro solar que apresente absorção máxima na faixa UV-B, uma pessoa analisou os espectros de absorção da radiação UV de cinco filtros solares:\n\n![]([descrição: O gráfico mostra a absorção de diferentes protetores solares (filtro solar I, II, III, IV e V) em função do comprimento de onda da luz (em nanômetros). O eixo vertical representa a absorção em unidades arbitrárias. O filtro solar I apresenta alta absorção em múltiplos comprimentos de onda, variando entre 240nm e 440nm. O filtro solar II demonstra uma absorção moderada em alguns comprimentos de onda específicos. Os filtros solares III, IV e V apresentam baixa absorção em todos os comprimentos de onda testados.])\n\nConsidere: velocidade da luz = 3,0×108 m/s e 1 nm = 1,0×10\\-9 m.",
+    "files": [
+        "Diagrama mostrando as faixas de frequência das radiações ultravioletas (UV). Uma seta indica o aumento da frequência, com valores numéricos marcados para UV-A (7,47 x 10^14 s^-1), UV-B (9,34 x 10^14 s^-1) e UV-C (2,99 x 10^15 s^-1). Cada faixa de UV está rotulada com sua respectiva designação: UV-A, UV-B e UV-C.",
+        "O gráfico mostra a absorção de diferentes protetores solares (filtro solar I, II, III, IV e V) em função do comprimento de onda da luz (em nanômetros). O eixo vertical representa a absorção em unidades arbitrárias. O filtro solar I apresenta alta absorção em múltiplos comprimentos de onda, variando entre 240nm e 440nm. O filtro solar II demonstra uma absorção moderada em alguns comprimentos de onda específicos. Os filtros solares III, IV e V apresentam baixa absorção em todos os comprimentos de onda testados."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O filtro solar que a pessoa deve selecionar é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

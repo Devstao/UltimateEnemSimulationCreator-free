@@ -1,0 +1,45 @@
+{
+    "title": "Questão 89 - ENEM 2012",
+    "index": 89,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Quando colocados em água, os fosfolipídeos tendem a formar lipossomos, estruturas formadas por uma bicamada lipídica, conforme mostrado na figura. Quando rompida, essa estrutura tende a se reorganizar em um novo lipossomo.\n\n![]([descrição: A imagem mostra uma representação esquemática de uma lipossoma. É uma estrutura esférica composta por duas camadas concêntricas de fosfolipídios, formando um compartimento interno preenchido com meio aquoso. O exterior da estrutura também está imerso em meio aquoso. Uma seta aponta para a camada externa e indica 'Fosfolipídios'. Na parte inferior da imagem, há uma legenda indicando a fonte da imagem e a data de acesso.])",
+    "files": [
+        "A imagem mostra uma representação esquemática de uma lipossoma. É uma estrutura esférica composta por duas camadas concêntricas de fosfolipídios, formando um compartimento interno preenchido com meio aquoso. O exterior da estrutura também está imerso em meio aquoso. Uma seta aponta para a camada externa e indica 'Fosfolipídios'. Na parte inferior da imagem, há uma legenda indicando a fonte da imagem e a data de acesso."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse arranjo característico se deve ao fato de os fosfolipídios apresentarem uma natureza",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Polar, ou seja, serem inteiramente solúveis em água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Apolar, ou seja, não serem solúveis em solução aquosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Anfotérica, ou seja, podem comportar-se como ácidos e bases.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Insaturada, ou seja, possuírem duplas ligações em sua estrutura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Anfifílica, ou seja, possuírem uma parte hidrofílica e outra hidrofóbica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

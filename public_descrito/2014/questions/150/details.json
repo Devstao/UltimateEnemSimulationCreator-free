@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2014",
+    "index": 150,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra um retângulo dividido em quatro partes iguais, dispostas lado a lado. A altura total do retângulo é indicada como 90 cm. O comprimento de uma das seções laterais é indicado como 24 cm. A variável 'x' representa o comprimento da seção central.])",
+    "files": [
+        "A imagem mostra um retângulo dividido em quatro partes iguais, dispostas lado a lado. A altura total do retângulo é indicada como 90 cm. O comprimento de uma das seções laterais é indicado como 24 cm. A variável 'x' representa o comprimento da seção central."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O maior valor possível para x, em centímetros, para que a caixa permaneça dentro dos padrões permitidos pela Anac é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "33.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "42.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "45.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "49.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

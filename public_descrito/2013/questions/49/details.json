@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2013",
+    "index": 49,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Glicose marcada com nuclídeos de carbono-11 é utilizada na medicina para se obter imagens tridimensionais do cérebro, por meio de tomografia de emissão de pósitrons. A desintegração do carbono-11 gera um pósitron, com tempo de meia-vida de 20,4 min, de acordo com a equação da reação nuclear\n\n![]([descrição: A imagem mostra uma equação nuclear simplificada. À esquerda, há o símbolo 'C' com os números de massa e número atômico indicados como 11 e 6, respectivamente. Uma seta aponta para a direita, indicando uma transformação. À direita da seta, há dois símbolos: 'B' com os números de massa e número atômico indicados como 11 e 5, respectivamente, e um símbolo 'e' com os números de massa e número atômico indicados como 0 e 1, respectivamente. Abaixo do símbolo 'e', está a legenda '(pósitron)'.])\n\nA partir da injeção de glicose marcada com esse nuclídeo, o tempo de aquisição de uma imagem de tomografia é de cinco meias-vidas.",
+    "files": [
+        "A imagem mostra uma equação nuclear simplificada. À esquerda, há o símbolo 'C' com os números de massa e número atômico indicados como 11 e 6, respectivamente. Uma seta aponta para a direita, indicando uma transformação. À direita da seta, há dois símbolos: 'B' com os números de massa e número atômico indicados como 11 e 5, respectivamente, e um símbolo 'e' com os números de massa e número atômico indicados como 0 e 1, respectivamente. Abaixo do símbolo 'e', está a legenda '(pósitron)'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando que o medicamento contém 1,00 g do carbono-11, a massa, em miligramas, do nuclídeo restante, após a aquisição da imagem, é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,200.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,969.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "31,3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "200.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

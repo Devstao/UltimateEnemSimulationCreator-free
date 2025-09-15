@@ -1,0 +1,45 @@
+{
+    "title": "Questão 32 - ENEM 2022",
+    "index": 32,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra um manual de orientação da Sociedade Brasileira de Pediatria sobre o uso de telas por crianças. O título do manual é 'MANUAL DE ORIENTAÇÃO' e há uma breve descrição abaixo: 'O primeiro guia prático da Sociedade Brasileira de Pediatria para ajudar pais e pediatras no desafio de educar nativos digitais'.\n\nA imagem está dividida em três seções, cada uma representando faixas etárias diferentes (Até 2 anos, De 2 a 5 anos, Até 10 anos). Cada seção inclui um ícone de rosto sorrindo e um texto com recomendações específicas:\n\n*   **Até 2 anos:** 'A criança não deve ser exposta passivamente às telas - TV, tablet, celular, etc. Principalmente durante as refeições e até 2 horas antes de dormir.'\n*   **De 2 a 5 anos:** 'O tempo de exposição às telas deve ser limitado a 1 hora por dia. Essa faixa etária deve ser mais protegida da violência virtual, pois não sabe separar fantasia de realidade.'\n*   **Até 10 anos:** 'Deverem ter o acesso controlado a computadores e dispositivos móveis. Crianças de até 10 anos não devem usar TV ou computador no próprio quarto.'])\n\n**Disponível em: https://tab.uol.com.br/. Acesso em: 25 ago. 2017 (adaptado).**",
+    "files": [
+        "A imagem mostra um manual de orientação da Sociedade Brasileira de Pediatria sobre o uso de telas por crianças. O título do manual é 'MANUAL DE ORIENTAÇÃO' e há uma breve descrição abaixo: 'O primeiro guia prático da Sociedade Brasileira de Pediatria para ajudar pais e pediatras no desafio de educar nativos digitais'.\n\nA imagem está dividida em três seções, cada uma representando faixas etárias diferentes (Até 2 anos, De 2 a 5 anos, Até 10 anos). Cada seção inclui um ícone de rosto sorrindo e um texto com recomendações específicas:\n\n*   **Até 2 anos:** 'A criança não deve ser exposta passivamente às telas - TV, tablet, celular, etc. Principalmente durante as refeições e até 2 horas antes de dormir.'\n*   **De 2 a 5 anos:** 'O tempo de exposição às telas deve ser limitado a 1 hora por dia. Essa faixa etária deve ser mais protegida da violência virtual, pois não sabe separar fantasia de realidade.'\n*   **Até 10 anos:** 'Deverem ter o acesso controlado a computadores e dispositivos móveis. Crianças de até 10 anos não devem usar TV ou computador no próprio quarto.'"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto sobre os chamados nativos digitais traz informações com a função de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Propor ações específicas para cada etapa da infância.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Estabelecer regras que devem ser seguidas à risca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Explicar os efeitos do acesso precoce à internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Determinar a incorporação de rituais à educação dos filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Educar com base em um conjunto de estratégias formativas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

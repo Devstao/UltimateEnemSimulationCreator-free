@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2010",
+    "index": 132,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: O gráfico mostra a distribuição percentual de matrículas por sexo em diferentes cursos universitários no Brasil. O título é 'Cada um na sua', com o subtítulo 'O que o sexo dos matriculados nas universidades brasileiras diz sobre a mente dos machos e das fêmeas'.\n\nÀ esquerda, há barras representando a porcentagem de mulheres em Psicologia (84%), Humanas (75%), Educação (72%) e Medicina (63%). Abaixo dessas barras, indica-se que essas áreas são relacionadas a 'pessoas', com as porcentagens correspondentes de homens nessas áreas: 16%, 25%, 28% e 37%.\n\nÀ direita, há barras representando a porcentagem de mulheres em Matemática (38%), Engenharia (27%), Mineração (21%) e Física (20%). Abaixo dessas barras, indica-se que essas áreas são relacionadas a 'coisas', com as porcentagens correspondentes de homens nessas áreas: 62%, 73%, 79% e 80%.\n\nNo canto superior direito, há um texto indicando que mulheres tendem a usar a lógica para lidar com pessoas e emoções, enquanto homens tendem a usar a lógica para lidar com coisas inanimadas e abstrações.\n\nA fonte do gráfico é 'Superinteressante', Ed. 256, set. 2008.])",
+    "files": [
+        "O gráfico mostra a distribuição percentual de matrículas por sexo em diferentes cursos universitários no Brasil. O título é 'Cada um na sua', com o subtítulo 'O que o sexo dos matriculados nas universidades brasileiras diz sobre a mente dos machos e das fêmeas'.\n\nÀ esquerda, há barras representando a porcentagem de mulheres em Psicologia (84%), Humanas (75%), Educação (72%) e Medicina (63%). Abaixo dessas barras, indica-se que essas áreas são relacionadas a 'pessoas', com as porcentagens correspondentes de homens nessas áreas: 16%, 25%, 28% e 37%.\n\nÀ direita, há barras representando a porcentagem de mulheres em Matemática (38%), Engenharia (27%), Mineração (21%) e Física (20%). Abaixo dessas barras, indica-se que essas áreas são relacionadas a 'coisas', com as porcentagens correspondentes de homens nessas áreas: 62%, 73%, 79% e 80%.\n\nNo canto superior direito, há um texto indicando que mulheres tendem a usar a lógica para lidar com pessoas e emoções, enquanto homens tendem a usar a lógica para lidar com coisas inanimadas e abstrações.\n\nA fonte do gráfico é 'Superinteressante', Ed. 256, set. 2008."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo pesquisas recentes, é irrelevante a diferença entre sexos para se avaliar a inteligência. Com relação às tendências para áreas do conhecimento, por sexo, levando em conta a matrícula em cursos universitários brasileiros,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os homens estão matriculados em menor proporção em cursos de Matemática que em Medicina por lidarem melhor com pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As mulheres estão matriculadas em maior percentual em cursos que exigem capacidade de compreensão dos seres humanos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "As mulheres estão matriculadas em percentual maior em Física que em Mineração por tenderem a trabalhar melhor com abstrações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As homens e as mulheres estão matriculados na mesma proporção em cursos que exigem habilidades semelhantes na mesma área.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As mulheres estão matriculadas em menor número em Psicologia por sua habilidade de lidarem melhor com coisas que com sujeitos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

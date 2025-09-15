@@ -1,0 +1,45 @@
+{
+    "title": "Questão 106 - ENEM 2022",
+    "index": 106,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados:\n\n![]([descrição: A imagem mostra a estrutura química da penicilamina, representada como uma fórmula esquelética. A molécula é composta por um anel de cinco membros com substituintes incluindo grupos carboxila (-COOH), amino (-NH2), e tiol (-SH).  Abaixo da estrutura, há texto descrevendo as propriedades ácidas desses grupos funcionais, especificando seus respectivos valores de pKa (1.8 para o grupo carboxila, 7.9 para o grupo amínio e 10.5 para o grupo tiol) e a relação entre pKa e Ka.])",
+    "files": [
+        "A imagem mostra a estrutura química da penicilamina, representada como uma fórmula esquelética. A molécula é composta por um anel de cinco membros com substituintes incluindo grupos carboxila (-COOH), amino (-NH2), e tiol (-SH).  Abaixo da estrutura, há texto descrevendo as propriedades ácidas desses grupos funcionais, especificando seus respectivos valores de pKa (1.8 para o grupo carboxila, 7.9 para o grupo amínio e 10.5 para o grupo tiol) e a relação entre pKa e Ka."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/106/c80fb324-03eb-4796-a763-07123406dddc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/106/c42c9c08-62b1-4fc3-b0f7-eb1a04bd69a0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/106/57b30c7d-c1d7-496e-883a-1a838b3b5db8.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/106/b1e5f5bf-e8a9-4400-8029-e3aa6e3ef619.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/106/b5c54736-315b-449d-8903-3122dba1753c.png",
+            "isCorrect": false
+        }
+    ]
+}

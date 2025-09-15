@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2011",
+    "index": 158,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela comparativa de tarifas de energia elétrica antes e depois de uma mudança, dividida em duas seções: 'Residencial' e 'Baixa renda'. Cada seção lista diferentes consumos mensais (em kWh) e os valores correspondentes das tarifas 'Antes', 'Depois' e a 'Economia' resultante. A tabela para o consumo residencial apresenta valores que variam de 140 kWh a 500 kWh, com economias entre R$6,29 e R$22,48. A tabela para baixa renda mostra valores de consumo de 30 kWh a 140 kWh, com economias entre R$0,45 e R$4,53. No canto inferior direito da imagem, há uma nota indicando a fonte dos dados como 'Celpe' e a data de publicação do artigo original ('Diário de Pernambuco, 28 abr. 2010 (adaptado)').])\n\nConsidere dois consumidores: um que é de baixa renda e gastou 100 kWh e outro do tipo residencial que gastou 185 kWh.",
+    "files": [
+        "A imagem mostra uma tabela comparativa de tarifas de energia elétrica antes e depois de uma mudança, dividida em duas seções: 'Residencial' e 'Baixa renda'. Cada seção lista diferentes consumos mensais (em kWh) e os valores correspondentes das tarifas 'Antes', 'Depois' e a 'Economia' resultante. A tabela para o consumo residencial apresenta valores que variam de 140 kWh a 500 kWh, com economias entre R$6,29 e R$22,48. A tabela para baixa renda mostra valores de consumo de 30 kWh a 140 kWh, com economias entre R$0,45 e R$4,53. No canto inferior direito da imagem, há uma nota indicando a fonte dos dados como 'Celpe' e a data de publicação do artigo original ('Diário de Pernambuco, 28 abr. 2010 (adaptado)')."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A diferença entre o gasto desses consumidores com 1kWh, depois da redução da tarifa de energia, mais aproximada, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 0,27.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 0,29.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 0,32.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 0,34.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 0,61.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

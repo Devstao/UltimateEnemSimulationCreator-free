@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2013",
+    "index": 133,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é uma ilustração em preto e branco que retrata a cabeça de uma pessoa sendo invadida por elementos tecnológicos. A cabeça está coberta por uma variedade de objetos como engrenagens, fios, placas de circuito, relógios, chips e outros componentes eletrônicos, simbolizando a sobrecarga de informações e a influência da tecnologia na mente humana. O rosto da pessoa é parcialmente visível, com um olhar fixo e uma expressão que sugere confusão ou desespero. Uma pequena placa com a palavra 'Help' (Ajuda) está presa ao queixo, reforçando a ideia de angústia e necessidade de auxílio diante do excesso tecnológico. No topo da imagem, à esquerda, a palavra 'TECNOLOGIA' está escrita em letras maiúsculas.])",
+    "files": [
+        "A imagem é uma ilustração em preto e branco que retrata a cabeça de uma pessoa sendo invadida por elementos tecnológicos. A cabeça está coberta por uma variedade de objetos como engrenagens, fios, placas de circuito, relógios, chips e outros componentes eletrônicos, simbolizando a sobrecarga de informações e a influência da tecnologia na mente humana. O rosto da pessoa é parcialmente visível, com um olhar fixo e uma expressão que sugere confusão ou desespero. Uma pequena placa com a palavra 'Help' (Ajuda) está presa ao queixo, reforçando a ideia de angústia e necessidade de auxílio diante do excesso tecnológico. No topo da imagem, à esquerda, a palavra 'TECNOLOGIA' está escrita em letras maiúsculas."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Analisando-se as informações verbais e a imagem associada a uma cabeça humana, compreende-se que a venda",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Representa a amplitude de informações que compõem a internet, às quais temos acesso em redes sociais e sites de busca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Faz uma denúncia quanto às informações que são omitidas dos usuários da rede, sendo empregada no sentido conotativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Diz respeito a um buraco negro digital, onde estão escondidas as informações buscadas pelo usuário nos sites que acessa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Está associada a um conjunto de restrições sociais presentes na vida daqueles que estão sempre conectados à internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Remete às bases de dados da web, protegidas por senhas ou assinaturas e às quais o navegador não tem acesso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2023",
+    "index": 140,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.\n\n![]([descrição: O gráfico de barras mostra a quantidade de viagens realizadas por motoristas. O eixo vertical (quantidade de viagens realizadas) varia de 0 a 7, e o eixo horizontal (quantidade de motoristas) varia de 0 a 55. As barras representam a distribuição dos motoristas em relação ao número de viagens: \n\n- 1 viagem: aproximadamente 12 motoristas.\n- 2 viagens: aproximadamente 11 motoristas.\n- 3 viagens: aproximadamente 24 motoristas.\n- 4 viagens: aproximadamente 26 motoristas.\n- 5 viagens: aproximadamente 52 motoristas.\n- 6 viagens: aproximadamente 50 motoristas.\n- 7 viagens: aproximadamente 12 motoristas.])",
+    "files": [
+        "O gráfico de barras mostra a quantidade de viagens realizadas por motoristas. O eixo vertical (quantidade de viagens realizadas) varia de 0 a 7, e o eixo horizontal (quantidade de motoristas) varia de 0 a 55. As barras representam a distribuição dos motoristas em relação ao número de viagens: \n\n- 1 viagem: aproximadamente 12 motoristas.\n- 2 viagens: aproximadamente 11 motoristas.\n- 3 viagens: aproximadamente 24 motoristas.\n- 4 viagens: aproximadamente 26 motoristas.\n- 5 viagens: aproximadamente 52 motoristas.\n- 6 viagens: aproximadamente 50 motoristas.\n- 7 viagens: aproximadamente 12 motoristas."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mediana = média < moda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mediana = moda < média.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mediana < média < moda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Moda < média < mediana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Moda < mediana < média.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 71 - ENEM 2015",
+    "index": 71,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra quatro equações químicas com suas respectivas constantes de equilíbrio. A primeira equação (I) representa a reação entre carbonato de cálcio, dióxido de carbono e água para formar íons cálcio e bicarbonato. A segunda equação (II) mostra o equilíbrio entre íon bicarbonato, íons hidrogênio e íons carbonato, com K1 = 3,0x10-11. A terceira equação (III) representa a dissolução do carbonato de cálcio em íons cálcio e íons carbonato, com K2 = 6,0x10-9. A quarta equação (IV) mostra o equilíbrio entre dióxido de carbono e água para formar íons hidrogênio e íon bicarbonato, com K3 = 2,5x10-7.])",
+    "files": [
+        "A imagem mostra quatro equações químicas com suas respectivas constantes de equilíbrio. A primeira equação (I) representa a reação entre carbonato de cálcio, dióxido de carbono e água para formar íons cálcio e bicarbonato. A segunda equação (II) mostra o equilíbrio entre íon bicarbonato, íons hidrogênio e íons carbonato, com K1 = 3,0x10-11. A terceira equação (III) representa a dissolução do carbonato de cálcio em íons cálcio e íons carbonato, com K2 = 6,0x10-9. A quarta equação (IV) mostra o equilíbrio entre dióxido de carbono e água para formar íons hidrogênio e íon bicarbonato, com K3 = 2,5x10-7."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos valores das constantes de equilíbrio das reações II, III e IV a 25 oC, qual é o valor numérico da constante de equilíbrio da reação I?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,5x10-26",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5x105",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,8x10-9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,2x105",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,2x1026",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

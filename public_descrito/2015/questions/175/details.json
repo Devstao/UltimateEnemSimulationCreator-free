@@ -1,0 +1,45 @@
+{
+    "title": "Questão 175 - ENEM 2015",
+    "index": 175,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma elipse cinza com linhas brancas horizontais marcando seções. Um sistema de coordenadas cartesianas é sobreposto à elipse, com o eixo x variando de -a a a e o eixo y variando de -b a b. O centro da elipse coincide com a origem (0, 0). Pequenos círculos pretos estão alinhados horizontalmente no centro da elipse.])\n\nConsidere que o volume aproximado dessa bola é dado por _V_ = 4_ab_².",
+    "files": [
+        "A imagem mostra uma elipse cinza com linhas brancas horizontais marcando seções. Um sistema de coordenadas cartesianas é sobreposto à elipse, com o eixo x variando de -a a a e o eixo y variando de -b a b. O centro da elipse coincide com a origem (0, 0). Pequenos círculos pretos estão alinhados horizontalmente no centro da elipse."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O volume dessa bola, em função apenas de b, é dado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8b³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6b³",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5b³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4b³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2b³",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

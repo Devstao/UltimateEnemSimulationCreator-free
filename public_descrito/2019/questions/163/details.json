@@ -1,0 +1,46 @@
+{
+    "title": "Questão 163 - ENEM 2019",
+    "index": 163,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento.  \nPara seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros.\n\nO menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo ![]([descrição: A imagem mostra o símbolo matemático de raiz quadrada aplicada à variável 'x', representado como √x.])​​​, o terceiro ​​​​![]([descrição: A imagem mostra uma expressão matemática: 'X' elevado à potência de '1/3'.]), o quarto X² e o último X³. Nenhum desses países zerou ou atingiu o índice máximo.",
+    "files": [
+        "A imagem mostra o símbolo matemático de raiz quadrada aplicada à variável 'x', representado como √x.",
+        "A imagem mostra uma expressão matemática: 'X' elevado à potência de '1/3'."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual desses países obteve o maior IDH?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O primeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O segundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O terceiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "O quarto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O quinto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

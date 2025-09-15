@@ -1,0 +1,46 @@
+{
+    "title": "Questão 137 - ENEM 2012",
+    "index": 137,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma figura geométrica composta por quatro círculos idênticos dispostos em um padrão quadrado, com seus centros conectados por linhas para formar dois diamantes sobrepostos. A legenda 'Figura 1' está localizada na parte inferior central da imagem.])\n\nDobrando-se o raio de duas das circunferências centradas em vértices opostos do losango e ainda mantendo-se a configuração das tangências, obtém-se uma situação conforme ilustrada pela Figura 2.\n\n![]([descrição: A imagem mostra três círculos grandes dispostos em uma configuração triangular, com seus centros formando os vértices do triângulo. No centro dos círculos, há dois quadrados e um círculo menor que se sobrepõem. A figura está rotulada como 'Figura 2' na parte inferior.])",
+    "files": [
+        "A imagem mostra uma figura geométrica composta por quatro círculos idênticos dispostos em um padrão quadrado, com seus centros conectados por linhas para formar dois diamantes sobrepostos. A legenda 'Figura 1' está localizada na parte inferior central da imagem.",
+        "A imagem mostra três círculos grandes dispostos em uma configuração triangular, com seus centros formando os vértices do triângulo. No centro dos círculos, há dois quadrados e um círculo menor que se sobrepõem. A figura está rotulada como 'Figura 2' na parte inferior."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O perímetro do losango da Figura 2, quando comparado ao perímetro do losango da Figura 1, teve um aumento de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "300%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "200%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "150%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "100%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

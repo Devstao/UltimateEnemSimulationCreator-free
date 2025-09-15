@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2017",
+    "index": 147,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Num dia de tempestade, a alteração na profundidade de um rio, num determinado local, foi registrada durante um período de 4 horas. Os resultados estão indicados no gráfico de linhas. Nele, a profundidade h, registrada às 13 horas, não foi anotada e, a partir de h, cada unidade sobre o eixo vertical representa um metro.\n\n![]([descrição: O gráfico mostra uma variação da profundidade ao longo do tempo, entre as 13h e as 17h. O eixo vertical representa a profundidade em metros (m), variando de 0 a 4 m. O eixo horizontal representa o tempo em horas. A linha do gráfico começa em aproximadamente 1 metro às 13h, diminui até cerca de 1,5 metros às 14h, aumenta para um pico de aproximadamente 3 metros às 15h, permanece em torno de 2,8 metros às 16h e finalmente diminui para cerca de 2 metros às 17h.])\n\nFoi informado que entre 15 horas e 16 horas, a profundidade do rio diminuiu em 10%.",
+    "files": [
+        "O gráfico mostra uma variação da profundidade ao longo do tempo, entre as 13h e as 17h. O eixo vertical representa a profundidade em metros (m), variando de 0 a 4 m. O eixo horizontal representa o tempo em horas. A linha do gráfico começa em aproximadamente 1 metro às 13h, diminui até cerca de 1,5 metros às 14h, aumenta para um pico de aproximadamente 3 metros às 15h, permanece em torno de 2,8 metros às 16h e finalmente diminui para cerca de 2 metros às 17h."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Às 16 horas, qual é a profundidade do rio, em metro, no local onde foram feitos os registros?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "18.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "24.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "36.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

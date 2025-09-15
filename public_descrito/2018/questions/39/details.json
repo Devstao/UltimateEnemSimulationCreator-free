@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2018",
+    "index": 39,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem apresenta um meme com o título 'Reações Celíacas ao Ler um Rótulo Sem Glúten'. São exibidas seis reações faciais diferentes, cada uma associada a uma legenda e expressão de texto: \n\n1. Polegar para cima com a legenda 'Não Contém Glúten : ) CURTII!'\n2. Coração com a legenda 'Sem Glúten e com Sabor AMEI!!'\n3. Rosto sorrindo com a legenda 'Sem Glúten e Barato HAHA!'.\n4. Rosto surpreso com a legenda 'Sem Glúten Barato e Gostoso UAU!'\n5. Rosto triste com a legenda 'Sem Glúten mas pode conter traços TRISTE!'\n6. Rosto irritado com a legenda 'Rótulo tá todo errado : ( GRRR!'])\n\nDisponível em: www.facebook.com/omeusegredinho.Acesso em: 9 dez. 2017 (adaptado)",
+    "files": [
+        "A imagem apresenta um meme com o título 'Reações Celíacas ao Ler um Rótulo Sem Glúten'. São exibidas seis reações faciais diferentes, cada uma associada a uma legenda e expressão de texto: \n\n1. Polegar para cima com a legenda 'Não Contém Glúten : ) CURTII!'\n2. Coração com a legenda 'Sem Glúten e com Sabor AMEI!!'\n3. Rosto sorrindo com a legenda 'Sem Glúten e Barato HAHA!'.\n4. Rosto surpreso com a legenda 'Sem Glúten Barato e Gostoso UAU!'\n5. Rosto triste com a legenda 'Sem Glúten mas pode conter traços TRISTE!'\n6. Rosto irritado com a legenda 'Rótulo tá todo errado : ( GRRR!'"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa imagem ilustra a reação dos celíacos (pessoas sensíveis ao glúten) ao ler rótulos de alimentos sem glúten. Essas reações indicam que, em geral, os rótulos desses produtos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Trazem informações explícitas sobre a presença do glúten.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Oferecem várias opções de sabor para esses consumidores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Classificam o produto como adequado para o consumidor celíaco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Influenciam o consumo de alimentos especiais para esses consumidores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Variam na forma de apresentação de informações relevantes para esse público.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

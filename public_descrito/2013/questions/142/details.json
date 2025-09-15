@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2013",
+    "index": 142,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados relativos à produção de vacas. A tabela possui um cabeçalho com os títulos 'Vaca', 'Tempo de lactação (em dias)', 'Produção média diária de leite (em kg)' e 'Intervalo entre partos (em meses)'. As linhas da tabela contêm informações sobre cinco vacas: Malhada, Mamona, Maravilha, Mateira e Mimosa. Os dados incluem o tempo de lactação em dias, a produção média diária de leite em kg e o intervalo entre os partos em meses para cada vaca.])",
+    "files": [
+        "A imagem mostra uma tabela com dados relativos à produção de vacas. A tabela possui um cabeçalho com os títulos 'Vaca', 'Tempo de lactação (em dias)', 'Produção média diária de leite (em kg)' e 'Intervalo entre partos (em meses)'. As linhas da tabela contêm informações sobre cinco vacas: Malhada, Mamona, Maravilha, Mateira e Mimosa. Os dados incluem o tempo de lactação em dias, a produção média diária de leite em kg e o intervalo entre os partos em meses para cada vaca."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Após a análise dos dados, o produtor avaliou que a vaca mais eficiente é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Malhada",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mamona",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maravilha",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mateira",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Mimosa",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

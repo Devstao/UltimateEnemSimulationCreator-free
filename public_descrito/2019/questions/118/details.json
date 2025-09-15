@@ -1,0 +1,45 @@
+{
+    "title": "Questão 118 - ENEM 2019",
+    "index": 118,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Grupos de pesquisa em todo o mundo vêm buscando soluções inovadoras, visando à produção de dispositivos para a geração de energia elétrica. Dentre eles, pode-se destacar as baterias de zinco-ar, que combinam o oxigênio atmosférico e o metal zinco em um eletrólito aquoso de caráter alcalino. O esquema de funcionamento da bateria zinco-ar está apresentado na figura.\n\n![]([descrição: Diagrama esquemático de uma bateria ar-zinco. À esquerda, um eletrodo poroso recebe moléculas de oxigênio (O2). No centro, íons hidróxido (OH-) se movem através da membrana separadora para o lado direito. À direita, um eletrodo de zinco reage com os íons Zn(OH)4²⁻. Uma lâmpada incandescente está conectada aos eletrodos, indicando a produção de energia. Na parte inferior do diagrama, há uma legenda com informações sobre a fonte da imagem.])",
+    "files": [
+        "Diagrama esquemático de uma bateria ar-zinco. À esquerda, um eletrodo poroso recebe moléculas de oxigênio (O2). No centro, íons hidróxido (OH-) se movem através da membrana separadora para o lado direito. À direita, um eletrodo de zinco reage com os íons Zn(OH)4²⁻. Uma lâmpada incandescente está conectada aos eletrodos, indicando a produção de energia. Na parte inferior do diagrama, há uma legenda com informações sobre a fonte da imagem."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No funcionamento da bateria, a espécie química formada no ânodo é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "H2 (g).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O2 (g).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "H2O (l).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "OH− (aq).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Zn(OH)4 2− (aq).",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

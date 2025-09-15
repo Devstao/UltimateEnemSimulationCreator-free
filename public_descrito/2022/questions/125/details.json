@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2022",
+    "index": 125,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na figura está representado o mosaicismo em função da inativação aleatória de um dos cromossomos X, que ocorre em todas as mulheres sem alterações  patológicas.\n\n![]([descrição: Diagrama ilustrando o processo de fertilização e a distribuição dos cromossomos sexuais em um organismo humano. O diagrama começa com um gameta masculino (22+X) se unindo a um gameta feminino (22+X), formando um zigoto (44+XX). O zigoto se desenvolve em uma blástula (44+XX). Uma figura de silhueta humana está presente, com setas apontando para amostras de células corporais. Algumas células são preenchidas com círculos pretos, indicando cromossomo X paterno inativado, enquanto outras são preenchidas com círculos brancos, indicando cromossomo X materno inativado.])",
+    "files": [
+        "Diagrama ilustrando o processo de fertilização e a distribuição dos cromossomos sexuais em um organismo humano. O diagrama começa com um gameta masculino (22+X) se unindo a um gameta feminino (22+X), formando um zigoto (44+XX). O zigoto se desenvolve em uma blástula (44+XX). Uma figura de silhueta humana está presente, com setas apontando para amostras de células corporais. Algumas células são preenchidas com círculos pretos, indicando cromossomo X paterno inativado, enquanto outras são preenchidas com círculos brancos, indicando cromossomo X materno inativado."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Entre mulheres heterozigotas para doenças determinadas por genes recessivos ligados ao sexo, essa inativação tem como consequência a ocorrência de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pleiotropia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mutação gênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Interação gênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Penetrância incompleta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expressividade variável.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

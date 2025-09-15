@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2022",
+    "index": 173,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro.\n\n![]([descrição: A imagem mostra uma tabela com informações sobre cursos, número de vagas oferecidas e número de candidatos por vaga. Os cursos listados são Administração (30 vagas, 6 candidatos), Ciências Contábeis (40 vagas, 6 candidatos), Engenharia Elétrica (50 vagas, 7 candidatos), História (30 vagas, 8 candidatos), Letras (25 vagas, 4 candidatos) e Pedagogia (25 vagas, 5 candidatos). A tabela possui um cabeçalho com os títulos 'Curso', 'Número de vagas oferecidas' e 'Número de candidatos por vaga'.])",
+    "files": [
+        "A imagem mostra uma tabela com informações sobre cursos, número de vagas oferecidas e número de candidatos por vaga. Os cursos listados são Administração (30 vagas, 6 candidatos), Ciências Contábeis (40 vagas, 6 candidatos), Engenharia Elétrica (50 vagas, 7 candidatos), História (30 vagas, 8 candidatos), Letras (25 vagas, 4 candidatos) e Pedagogia (25 vagas, 5 candidatos). A tabela possui um cabeçalho com os títulos 'Curso', 'Número de vagas oferecidas' e 'Número de candidatos por vaga'."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual foi o número total de candidatos inscritos nesse processo seletivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "400",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1235",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "7200",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2011",
+    "index": 77,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma tabela com duas colunas: 'Distância percorrida pela régua durante a queda (metro)' e 'Tempo de reação (segundo)'. A primeira coluna contém os valores 0,30, 0,15 e 0,10. A segunda coluna corresponde aos valores 0,24, 0,17 e 0,14, respectivamente. Abaixo da tabela, há uma nota indicando a fonte dos dados: 'Disponível em: http://br.geocities.com. Acesso em: 1 fev. 2009.'])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Distância percorrida pela régua durante a queda (metro)' e 'Tempo de reação (segundo)'. A primeira coluna contém os valores 0,30, 0,15 e 0,10. A segunda coluna corresponde aos valores 0,24, 0,17 e 0,14, respectivamente. Abaixo da tabela, há uma nota indicando a fonte dos dados: 'Disponível em: http://br.geocities.com. Acesso em: 1 fev. 2009.'"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A distância percorrida pela régua aumenta mais rapidamente que o tempo de reação porque a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Energia mecânica da régua aumenta, o que a faz cair mais rápido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Resistência do ar aumenta, o que faz a régua cair com menor velocidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aceleração de queda da régua varia, o que provoca um movimento acelerado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Força peso da régua tem valor constante, o que gera um movimento acelerado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Velocidade da régua é constante, o que provoca uma passagem linear de tempo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

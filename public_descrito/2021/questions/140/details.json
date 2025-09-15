@@ -1,0 +1,46 @@
+{
+    "title": "Questão 140 - ENEM 2021",
+    "index": 140,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma grande rede de supermercados adota um sistema de avaliação dos faturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A matriz da rede paga uma comissão para os representantes dos supermercados que atingirem uma média de faturamento mensal (_M_), conforme apresentado no quadro.\n\n![]([descrição: A imagem mostra uma tabela com duas colunas: 'Comissão' e 'Média de faturamento mensal (M)'. A coluna 'Comissão' lista os níveis I, II, III, IV e V. A coluna correspondente à média de faturamento mensal apresenta as seguintes faixas: 1 ≤ M < 2 para a Comissão I; 2 ≤ M < 4 para a Comissão II; 4 ≤ M < 5 para a Comissão III; 5 ≤ M < 6 para a Comissão IV; e M ≥ 6 para a Comissão V.])\n\nUm supermercado da rede obteve os faturamentos num dado ano, conforme apresentado no quadro.\n\n![]([descrição: A imagem mostra uma tabela com duas colunas. A primeira coluna, intitulada 'Faturamento mensal (em milhão de real)', lista os valores 3,5; 2,5; 5; 3 e 7,5. A segunda coluna, intitulada 'Quantidade de meses', apresenta os números correspondentes 3; 2; 2; 4 e 1.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Comissão' e 'Média de faturamento mensal (M)'. A coluna 'Comissão' lista os níveis I, II, III, IV e V. A coluna correspondente à média de faturamento mensal apresenta as seguintes faixas: 1 ≤ M < 2 para a Comissão I; 2 ≤ M < 4 para a Comissão II; 4 ≤ M < 5 para a Comissão III; 5 ≤ M < 6 para a Comissão IV; e M ≥ 6 para a Comissão V.",
+        "A imagem mostra uma tabela com duas colunas. A primeira coluna, intitulada 'Faturamento mensal (em milhão de real)', lista os valores 3,5; 2,5; 5; 3 e 7,5. A segunda coluna, intitulada 'Quantidade de meses', apresenta os números correspondentes 3; 2; 2; 4 e 1."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nas condições apresentadas, os representantes desse supermercado avaliam que receberão, no ano seguinte a comissão de tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

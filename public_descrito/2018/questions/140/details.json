@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2018",
+    "index": 140,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um artesão possui potes cilíndricos de tinta cujas medidas externas são 4 cm de diâmetro e 6 cm de altura. Ele pretende adquirir caixas organizadoras para armazenar seus potes de tinta, empilhados verticalmente com tampas voltadas para cima, de forma que as caixas possam ser fechadas. No mercado,  existem cinco opções de caixas organizadoras, com tampa, em formato de  paralelepípedo reto retângulo, vendidas pelo mesmo preço, possuindo as seguintes dimensões internas:\n\n![]([descrição: A imagem mostra uma tabela com cinco modelos, cada um listado em uma linha separada. A tabela possui três colunas: 'Modelo', 'Comprimento (cm)' e 'Largura (cm)'. Cada modelo tem suas dimensões especificadas nas colunas correspondentes. O Modelo I tem comprimento de 8 cm, largura de 8 cm e altura de 40 cm. O Modelo II tem comprimento de 8 cm, largura de 20 cm e altura de 14 cm. O Modelo III tem comprimento de 18 cm, largura de 5 cm e altura de 35 cm. O Modelo IV tem comprimento de 20 cm, largura de 12 cm e altura de 12 cm. O Modelo V tem comprimento de 24 cm, largura de 8 cm e altura de 14 cm.])",
+    "files": [
+        "A imagem mostra uma tabela com cinco modelos, cada um listado em uma linha separada. A tabela possui três colunas: 'Modelo', 'Comprimento (cm)' e 'Largura (cm)'. Cada modelo tem suas dimensões especificadas nas colunas correspondentes. O Modelo I tem comprimento de 8 cm, largura de 8 cm e altura de 40 cm. O Modelo II tem comprimento de 8 cm, largura de 20 cm e altura de 14 cm. O Modelo III tem comprimento de 18 cm, largura de 5 cm e altura de 35 cm. O Modelo IV tem comprimento de 20 cm, largura de 12 cm e altura de 12 cm. O Modelo V tem comprimento de 24 cm, largura de 8 cm e altura de 14 cm."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual desses modelos o artesão deve adquirir para conseguir armazenar o maior número de potes por caixa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

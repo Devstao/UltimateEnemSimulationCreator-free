@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2019",
+    "index": 177,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão esta representado na figura.\n\ndescreve como varia a altura h, medida em centímetro, da parte superior do pistão dentro da câmara de combustão, em função do tempo t, medido em segundo. Nas figuras estão indicadas as alturas do pistão em dois instantes distintos.\n\nO valor do parâmetro β, que é dado por um número inteiro positivo, está relacionado com a velocidade de deslocamento do pistão. Para que o motor tenha uma boa potência, é necessário e suficiente que, em menos de 4 segundos após o início do funcionamento (instante t = 0), a altura da base do pistão alcance por três vezes o valor de 6 cm.\n\nPara os cálculos, utilize 3 como aproximação para π.\n\n![]([descrição: A imagem mostra dois diagramas esquemáticos representando o movimento de um pistão dentro de uma câmara de combustão. No diagrama da esquerda, rotulado como 'Instante t = 0', o pistão está na posição inicial, com a altura indicada por h(0) = 0. Uma seta cinza indica o ponto de referência para medir a altura. O diagrama da direita, rotulado como 'Instante t ≠ 0', mostra o pistão em uma posição mais alta dentro da câmara, com a altura representada por h(t). Setas brancas indicam o movimento do pistão. Uma função matemática, h(t) = 4 + 4sen((βt/2 - π/2)), é fornecida abaixo dos diagramas para descrever a variação da altura em função do tempo (t ≥ 0).])",
+    "files": [
+        "A imagem mostra dois diagramas esquemáticos representando o movimento de um pistão dentro de uma câmara de combustão. No diagrama da esquerda, rotulado como 'Instante t = 0', o pistão está na posição inicial, com a altura indicada por h(0) = 0. Uma seta cinza indica o ponto de referência para medir a altura. O diagrama da direita, rotulado como 'Instante t ≠ 0', mostra o pistão em uma posição mais alta dentro da câmara, com a altura representada por h(t). Setas brancas indicam o movimento do pistão. Uma função matemática, h(t) = 4 + 4sen((βt/2 - π/2)), é fornecida abaixo dos diagramas para descrever a variação da altura em função do tempo (t ≥ 0)."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O menor valor inteiro a ser atribuído ao parâmetro β, de forma que o motor a ser construído tenha boa potência, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

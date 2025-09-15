@@ -1,0 +1,53 @@
+{
+    "title": "Questão 115 - ENEM 2021",
+    "index": 115,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na montagem de uma cozinha para um restaurante, a escolha do material correto para as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar os alimentos mais rapidamente e, com isso, há economia de gás. A taxa de condução do calor depende da condutividade k do material da sua área A, da diferença de temperatura ![]([descrição: A imagem mostra um triângulo equilátero preenchido com uma textura que se assemelha a correntes de metal.])T e da espessura d do material, sendo dada pela relação ![]([descrição: A imagem mostra uma equação escrita em fonte serifada, aparentemente relacionada à transferência de calor. A equação é: ΔQ/Δt = kA(ΔT/d), onde ΔQ representa a variação da quantidade de calor, Δt representa a variação do tempo, k é uma constante, A representa a área, ΔT representa a variação da temperatura e d representa a distância.]). Em panelas com dois materiais, a taxa de condução é dada por ![]([descrição: A imagem mostra uma equação escrita à mão. A equação é: ΔQ/Δt = A * (ΔT / (d1/k1) + d2/k2). Os símbolos e variáveis são escritos em letras minúsculas e maiúsculas.]), em que ![]([descrição: A imagem mostra o caractere 'd' minúsculo, com uma pequena linha diagonal acima da letra, indicando que se trata de um 'd' maiúsculo em letras minúsculas.]) e ![]([descrição: A imagem mostra o número 'd' seguido do número '2', ambos escritos em fonte manuscrita.]) são as espessuras dos dois materiais, e ![]([descrição: A imagem mostra duas letras manuscritas, 'k' e '1', em preto sobre um fundo branco. As letras parecem estar escritas com uma caneta ou lápis, e a qualidade da imagem é baixa, resultando em alguma falta de nitidez.]) e ![]([descrição: A imagem mostra duas letras manuscritas, 'k' seguido por '2'. As letras são pretas sobre um fundo branco.]) são as condutividades de cada material. Os materiais mais comuns no mercado para panelas são o alumínio (k = 20 W/m K), o ferro (k = 8 W/m K) e ao aço (k = 5 W/m K) combinado com o cobre (k = 40 W/m K).\n\nCompara-se uma panela de ferro, uma de alumínio e uma composta de ![]([descrição: A imagem mostra uma fração, onde o número '1' está acima do número '2', indicando a fração um meio (1/2).]) da espessura em cobre e ![]([descrição: A imagem mostra uma fração, onde o número 1 está acima do número 2, indicando a fração um meio (1/2).]) da espessura em aço, todas com a mesma espessura total e com a mesma área de fundo.",
+    "files": [
+        "A imagem mostra um triângulo equilátero preenchido com uma textura que se assemelha a correntes de metal.",
+        "A imagem mostra uma equação escrita em fonte serifada, aparentemente relacionada à transferência de calor. A equação é: ΔQ/Δt = kA(ΔT/d), onde ΔQ representa a variação da quantidade de calor, Δt representa a variação do tempo, k é uma constante, A representa a área, ΔT representa a variação da temperatura e d representa a distância.",
+        "A imagem mostra uma equação escrita à mão. A equação é: ΔQ/Δt = A * (ΔT / (d1/k1) + d2/k2). Os símbolos e variáveis são escritos em letras minúsculas e maiúsculas.",
+        "A imagem mostra o caractere 'd' minúsculo, com uma pequena linha diagonal acima da letra, indicando que se trata de um 'd' maiúsculo em letras minúsculas.",
+        "A imagem mostra o número 'd' seguido do número '2', ambos escritos em fonte manuscrita.",
+        "A imagem mostra duas letras manuscritas, 'k' e '1', em preto sobre um fundo branco. As letras parecem estar escritas com uma caneta ou lápis, e a qualidade da imagem é baixa, resultando em alguma falta de nitidez.",
+        "A imagem mostra duas letras manuscritas, 'k' seguido por '2'. As letras são pretas sobre um fundo branco.",
+        "A imagem mostra uma fração, onde o número '1' está acima do número '2', indicando a fração um meio (1/2).",
+        "A imagem mostra uma fração, onde o número 1 está acima do número 2, indicando a fração um meio (1/2)."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A ordem crescente da mais econômica para a menos econômica é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cobre-aço, alumínio e ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alumínio, cobre-aço e ferro",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Cobre-aço, ferro e alumínio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alumínio, ferro e cobre-aço",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ferro, alumínio e cobre-aço",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

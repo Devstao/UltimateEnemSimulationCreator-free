@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2015",
+    "index": 147,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela de avaliação de escolas de samba, com quatro escolas (I, II, III e IV) avaliadas por dois jurados (A e B) em quatro quesitos: Fantasia e Alegoria, Evolução e Conjunto, Enredo e Harmonia e Bateria. A tabela apresenta as notas dadas pelos jurados em cada quesito para cada escola, além de um total geral para cada escola.])",
+    "files": [
+        "A imagem mostra uma tabela de avaliação de escolas de samba, com quatro escolas (I, II, III e IV) avaliadas por dois jurados (A e B) em quatro quesitos: Fantasia e Alegoria, Evolução e Conjunto, Enredo e Harmonia e Bateria. A tabela apresenta as notas dadas pelos jurados em cada quesito para cada escola, além de um total geral para cada escola."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quantas configurações distintas das notas a serem atribuídas pelo jurado B no quesito Bateria tornariam campeã a Escola II?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "90",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "750",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1 250",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 125",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

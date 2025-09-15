@@ -1,0 +1,45 @@
+{
+    "title": "Questão 161 - ENEM 2022",
+    "index": 161,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de engenharia projetou uma casa com a forma de um retângulo para um de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L. A figura apresenta a planta baixa desenhada pela empresa, já com a varanda incluída, cujas medidas, indicadas em centímetro, representam os valores das dimensões da varanda na escala de 1 : 50.\n\n![]([descrição: A imagem mostra uma planta baixa de uma casa, desenhada em perspectiva superior. A casa é retangular com uma varanda na parte frontal e lateral direita. As dimensões da planta estão indicadas em centímetros: 16 cm (largura total), 18,4 cm (altura total), 5 cm (altura da varanda) e 4 cm (largura do lado esquerdo). A planta inclui os seguintes cômodos identificados por rótulos: Varanda, Cozinha, Banheiro Social, Banheiro Suíte, Suíte, Sala, Quarto e outro Quarto. Uma escala de 1:50 está indicada no canto inferior direito.])",
+    "files": [
+        "A imagem mostra uma planta baixa de uma casa, desenhada em perspectiva superior. A casa é retangular com uma varanda na parte frontal e lateral direita. As dimensões da planta estão indicadas em centímetros: 16 cm (largura total), 18,4 cm (altura total), 5 cm (altura da varanda) e 4 cm (largura do lado esquerdo). A planta inclui os seguintes cômodos identificados por rótulos: Varanda, Cozinha, Banheiro Social, Banheiro Suíte, Suíte, Sala, Quarto e outro Quarto. Uma escala de 1:50 está indicada no canto inferior direito."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A medida real da área da varanda, em metro quadrado, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "33,40",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "66,80",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "89,24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "133,60",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "534,40",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

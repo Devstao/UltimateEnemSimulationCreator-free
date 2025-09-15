@@ -1,0 +1,45 @@
+{
+    "title": "Questão 22 - ENEM 2018",
+    "index": 22,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra uma fachada de supermercado com a palavra 'Supermercado' escrita em várias línguas (espanhol, inglês e árabe) e caracteres chineses. Uma pessoa caminha na frente do prédio, ao lado de um veículo pick-up branco estacionado. Há uma barreira de proteção metálica separando a calçada da rua.])\n\nSILVA, I.; SANTOS, M. E. P.; JUNG, N. M. **Domínios de Lingu@gem**, n.4, out.-dez. 2016 (adaptado).",
+    "files": [
+        "A imagem mostra uma fachada de supermercado com a palavra 'Supermercado' escrita em várias línguas (espanhol, inglês e árabe) e caracteres chineses. Uma pessoa caminha na frente do prédio, ao lado de um veículo pick-up branco estacionado. Há uma barreira de proteção metálica separando a calçada da rua."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A fotografia exibe a fachada de um supermercado em Foz do Iguaçu, cuja localização transfronteiriça é marcada tanto pelo limite com Argentina e Paraguai quanto pela presença de outros povos. Essa fachada revela o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apagamento da identidade linguística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Planejamento linguístico no espaço urbano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Presença marcante da tradição oral na cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Disputa de comunidades linguísticas diferentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Poluição visual promovida pelo multilinguismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

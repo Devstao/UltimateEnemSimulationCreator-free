@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2014",
+    "index": 48,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: Diagrama esquemático representando uma reação fotoquímica. No canto superior esquerdo, um sol estilizado emite radiação (hv) que incide sobre uma molécula orgânica composta por átomos de carbono, flúor e oxigênio. A molécula absorve a energia da radiação, o que leva à sua decomposição em dois fragmentos moleculares diferentes. Os fragmentos são representados por estruturas com átomos de carbono, cloro e oxigênio, conectados por linhas indicando ligações químicas. Setas curvas conectam os fragmentos, sugerindo um ciclo reacional. Uma legenda no canto superior direito identifica os elementos: carbono (C), flúor (F), cloro (Cl) e oxigênio (O). O fundo é branco.])",
+    "files": [
+        "Diagrama esquemático representando uma reação fotoquímica. No canto superior esquerdo, um sol estilizado emite radiação (hv) que incide sobre uma molécula orgânica composta por átomos de carbono, flúor e oxigênio. A molécula absorve a energia da radiação, o que leva à sua decomposição em dois fragmentos moleculares diferentes. Os fragmentos são representados por estruturas com átomos de carbono, cloro e oxigênio, conectados por linhas indicando ligações químicas. Setas curvas conectam os fragmentos, sugerindo um ciclo reacional. Uma legenda no canto superior direito identifica os elementos: carbono (C), flúor (F), cloro (Cl) e oxigênio (O). O fundo é branco."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quimicamente, a destruição do ozônio na atmosfera por gases CFCs é decorrência da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

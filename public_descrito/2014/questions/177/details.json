@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2014",
+    "index": 177,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática de dois blocos cúbicos empilhados. O bloco inferior é maior e preenchido com um gradiente de cinza, indicando sombreamento. Um bloco menor está posicionado no topo do bloco inferior, deslocado para a direita. Linhas tracejadas conectam os cantos dos dois blocos, sugerindo uma perspectiva tridimensional.])",
+    "files": [
+        "A imagem mostra uma representação esquemática de dois blocos cúbicos empilhados. O bloco inferior é maior e preenchido com um gradiente de cinza, indicando sombreamento. Um bloco menor está posicionado no topo do bloco inferior, deslocado para a direita. Linhas tracejadas conectam os cantos dos dois blocos, sugerindo uma perspectiva tridimensional."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantos minutos essa torneira levará para encher completamente o restante do depósito?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

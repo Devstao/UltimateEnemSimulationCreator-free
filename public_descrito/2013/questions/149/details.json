@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2013",
+    "index": 149,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com duas colunas: 'Ano' e 'Projeção da produção (t)'. Os anos de 2012, 2013, 2014 e 2015 estão listados na primeira coluna, com as projeções de produção correspondentes na segunda coluna: 50,25 t, 51,50 t, 52,75 t e 54,00 t, respectivamente.])",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas: 'Ano' e 'Projeção da produção (t)'. Os anos de 2012, 2013, 2014 e 2015 estão listados na primeira coluna, com as projeções de produção correspondentes na segunda coluna: 50,25 t, 51,50 t, 52,75 t e 54,00 t, respectivamente."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A quantidade total de arroz, em toneladas, que deverá ser produzida no período de 2012 a 2021 será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "497,25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "500,85.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "502,87.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "558,75.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "563,25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

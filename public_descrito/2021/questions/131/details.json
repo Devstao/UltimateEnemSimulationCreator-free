@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2021",
+    "index": 131,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindo do coração.\n\n![]([descrição: A imagem mostra um gráfico representando um eletrocardiograma (ECG) típico de um paciente saudável. O eixo vertical representa a intensidade do sinal (VEC) em milivolts (mV), e o eixo horizontal representa o tempo em segundos (s). O gráfico exibe picos e vales regulares, indicando batimentos cardíacos normais. Uma linha segmentada marca um intervalo de 0,2 segundos no eixo do tempo.])",
+    "files": [
+        "A imagem mostra um gráfico representando um eletrocardiograma (ECG) típico de um paciente saudável. O eixo vertical representa a intensidade do sinal (VEC) em milivolts (mV), e o eixo horizontal representa o tempo em segundos (s). O gráfico exibe picos e vales regulares, indicando batimentos cardíacos normais. Uma linha segmentada marca um intervalo de 0,2 segundos no eixo do tempo."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o eletrocardiograma apresentado, qual foi o número de batimentos cardíacos por minuto desse paciente durante o exame?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "120",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "180",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2014",
+    "index": 62,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra um diagrama esquemático de um experimento de física, possivelmente relacionado à termodinâmica ou expansão térmica. À esquerda, há uma representação simplificada de um sistema composto por uma chapa de aquecimento, um objeto suspenso por uma haste e um manômetro. A altura do objeto acima da chapa é indicada como Δh. À direita, há um gráfico que representa a relação entre o calor fornecido (eixo horizontal) e duas variáveis: M (linha ascendente mais íngreme) e V (linha com inclinação menor). O gráfico sugere uma correlação direta entre o calor fornecido e as variáveis M e V.])",
+    "files": [
+        "A imagem mostra um diagrama esquemático de um experimento de física, possivelmente relacionado à termodinâmica ou expansão térmica. À esquerda, há uma representação simplificada de um sistema composto por uma chapa de aquecimento, um objeto suspenso por uma haste e um manômetro. A altura do objeto acima da chapa é indicada como Δh. À direita, há um gráfico que representa a relação entre o calor fornecido (eixo horizontal) e duas variáveis: M (linha ascendente mais íngreme) e V (linha com inclinação menor). O gráfico sugere uma correlação direta entre o calor fornecido e as variáveis M e V."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Maior pressão de vapor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Menor massa molecular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior compressibilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Menor energia de ativação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Menor capacidade calorífica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

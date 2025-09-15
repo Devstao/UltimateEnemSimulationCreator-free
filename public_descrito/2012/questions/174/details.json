@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2012",
+    "index": 174,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com dados sobre o desempenho financeiro de diferentes produtos manufaturados nos anos de 2009, 2010 e 2011. A tabela possui quatro colunas: 'ME' (identificação do produto), '2009 (em milhares de reais)', '2010 (em milhares de reais)' e '2011 (em milhares de reais)'. As linhas da tabela listam os produtos: Alfinetes V, Balas W, Chocolates X, Pizzaria Y e Tecelagem Z. Os valores nas colunas representam o desempenho financeiro em milhares de reais para cada produto em cada ano.])\n\nUm investidor deseja comprar duas das empresas listadas na tabela. Para tal, ele calcula a média da receita bruta anual dos últimos três anos (de 2009 até 2011) e escolhe as duas empresas de maior média anual.",
+    "files": [
+        "A imagem mostra uma tabela com dados sobre o desempenho financeiro de diferentes produtos manufaturados nos anos de 2009, 2010 e 2011. A tabela possui quatro colunas: 'ME' (identificação do produto), '2009 (em milhares de reais)', '2010 (em milhares de reais)' e '2011 (em milhares de reais)'. As linhas da tabela listam os produtos: Alfinetes V, Balas W, Chocolates X, Pizzaria Y e Tecelagem Z. Os valores nas colunas representam o desempenho financeiro em milhares de reais para cada produto em cada ano."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As empresas que este investidor escolhe comprar são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Balas W e Pizzaria Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Chocolates X e Tecelagem Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pizzaria Y e Alfinetes V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pizzaria Y e Chocolates X.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Tecelagem Z e Alfinetes V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

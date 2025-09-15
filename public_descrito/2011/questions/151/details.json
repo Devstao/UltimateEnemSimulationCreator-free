@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2011",
+    "index": 151,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma superfície pavimentada com blocos de concreto intertravados, formando um padrão hexagonal. Os blocos são cinzas e dispostos de forma organizada, criando uma textura uniforme. Há uma legenda na parte inferior da imagem indicando a fonte e data de acesso.])",
+    "files": [
+        "A imagem mostra uma superfície pavimentada com blocos de concreto intertravados, formando um padrão hexagonal. Os blocos são cinzas e dispostos de forma organizada, criando uma textura uniforme. Há uma legenda na parte inferior da imagem indicando a fonte e data de acesso."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O polígono que dá forma a essa calçada é invariante por rotações, em torno de seu centro, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "45°.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60°.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "90°.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "120°.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "180°.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

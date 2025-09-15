@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2014",
+    "index": 36,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![]([descrição: A imagem mostra uma sequência de cinco diagramas representando a deriva continental ao longo do tempo geológico. Cada diagrama representa um período: Permiano (225 milhões de anos), Triássico (200 milhões de anos), Jurássico (135 milhões de anos), Cretáceo (85 milhões de anos) e Quaternário (presente). O primeiro diagrama mostra o supercontinente Pangeia. Os diagramas subsequentes ilustram a fragmentação da Pangeia em Laurásia e Gondwana, e posteriormente em continentes menores que formam a configuração atual. Setas indicam a direção do movimento continental. Uma legenda identifica as 'fraturas' como linhas pretas nos mapas.])",
+    "files": [
+        "A imagem mostra uma sequência de cinco diagramas representando a deriva continental ao longo do tempo geológico. Cada diagrama representa um período: Permiano (225 milhões de anos), Triássico (200 milhões de anos), Jurássico (135 milhões de anos), Cretáceo (85 milhões de anos) e Quaternário (presente). O primeiro diagrama mostra o supercontinente Pangeia. Os diagramas subsequentes ilustram a fragmentação da Pangeia em Laurásia e Gondwana, e posteriormente em continentes menores que formam a configuração atual. Setas indicam a direção do movimento continental. Uma legenda identifica as 'fraturas' como linhas pretas nos mapas."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir da análise da imagem, o aparecimento da Dorsal Mesoatlântica está associada ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Separação da Pangeia a partir do período Permiano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Deslocamento de fraturas no período Triássico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Afastamento da Europa no período Jurássico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Formação do Atlântico Sul no período Cretáceo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Constituição de orogêneses no período Quaternário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 51 - ENEM 2020",
+    "index": 51,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**Zona de pastoreio e cultura do algodão e cereais do agreste (1963)**\n\n![]([descrição: A imagem mostra um diagrama circular representando o calendário agrícola brasileiro. O círculo está dividido em meses do ano (Dezembro, Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro e Novembro), com diferentes seções indicando as fases de plantio, crescimento e colheita de feijão, milho e algodão. Abaixo do diagrama circular, há uma legenda que explica as convenções utilizadas nos símbolos representados no círculo, como pastoreio, plantio e limpeza, crescimento, colheita de feijão, colheita de milho verde, colheita de milho seco e colheita de algodão.])\n\nANDRADE, M. C. **A terra e o homem no Nordeste**. São Paulo: Brasiliense, 1963.",
+    "files": [
+        "A imagem mostra um diagrama circular representando o calendário agrícola brasileiro. O círculo está dividido em meses do ano (Dezembro, Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro e Novembro), com diferentes seções indicando as fases de plantio, crescimento e colheita de feijão, milho e algodão. Abaixo do diagrama circular, há uma legenda que explica as convenções utilizadas nos símbolos representados no círculo, como pastoreio, plantio e limpeza, crescimento, colheita de feijão, colheita de milho verde, colheita de milho seco e colheita de algodão."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A dinâmica produtiva apresentada na imagem tem como estratégia central a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Separação pelo tipo de solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Exportação da colheita sazonal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Priorização da tecnologia moderna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Adequação pelo tempo da natureza.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Intensificação da atividade pecuária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

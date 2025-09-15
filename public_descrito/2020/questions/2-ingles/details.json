@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2020",
+    "index": 2,
+    "year": 2020,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem é um cartaz em tons de azul com o título 'WE'RE A CULTURE, NOT A COSTUME'. O cartaz apresenta quatro fotos de pessoas segurando imagens que representam estereótipos culturais ofensivos. Abaixo das fotos, há a frase 'This is NOT Who We Are, and this is NOT OK'. No canto inferior direito do cartaz, há o logotipo da CSU Chico Diversity & Inclusion.])",
+    "files": [
+        "A imagem é um cartaz em tons de azul com o título 'WE'RE A CULTURE, NOT A COSTUME'. O cartaz apresenta quatro fotos de pessoas segurando imagens que representam estereótipos culturais ofensivos. Abaixo das fotos, há a frase 'This is NOT Who We Are, and this is NOT OK'. No canto inferior direito do cartaz, há o logotipo da CSU Chico Diversity & Inclusion."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse pôster de divulgação de uma campanha que aborda a diversidade e a inclusão, a interação dos elementos verbais e não verbais faz referência ao ato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Esteriotipar povos de certas culturas",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Discriminar hábitos de grupos minoritários",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Banir imigrantes de determinadas origens",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Julgar padrões de beleza de diversas etnias",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desvalorizar costumes de algumas sociedades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

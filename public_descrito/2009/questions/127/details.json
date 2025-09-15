@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2009",
+    "index": 127,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra um documento informativo com o título 'Sr. Prefeito, junte-se a nós na luta contra o dengue. A sua participação é fundamental.'. O texto explica que o combate à dengue requer a colaboração entre governos estaduais, municipais e o governo federal, enfatizando a importância da atuação do prefeito na organização de mutirões e envolvimento de líderes comunitários. Inclui um link para um site com informações e materiais sobre o tema (www.combatadengue.com.br) e destaca a mobilização social como chave para o sucesso no combate à doença. Na parte inferior, há logotipos do SUS, Ministério da Saúde e Governo Federal, além de informações sobre a fonte do documento: Brasil, Ministério da Saúde, Revista Nordeste, João Pessoa, ano 3, n. 35, maio/jun. 2009.])",
+    "files": [
+        "A imagem mostra um documento informativo com o título 'Sr. Prefeito, junte-se a nós na luta contra o dengue. A sua participação é fundamental.'. O texto explica que o combate à dengue requer a colaboração entre governos estaduais, municipais e o governo federal, enfatizando a importância da atuação do prefeito na organização de mutirões e envolvimento de líderes comunitários. Inclui um link para um site com informações e materiais sobre o tema (www.combatadengue.com.br) e destaca a mobilização social como chave para o sucesso no combate à doença. Na parte inferior, há logotipos do SUS, Ministério da Saúde e Governo Federal, além de informações sobre a fonte do documento: Brasil, Ministério da Saúde, Revista Nordeste, João Pessoa, ano 3, n. 35, maio/jun. 2009."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Diante dos recursos argumentativos utilizados, depreende-se que o texto apresentado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Se dirige aos líderes comunitários para tomarem a iniciativa de combater a dengue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Conclama toda a população a participar das estratégias de combate ao mosquito da dengue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Se dirige aos prefeitos, conclamando-os a organizarem iniciativas de combate à dengue.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Tem como objetivo ensinar os procedimentos técnicos necessários para o combate ao mosquito da dengue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apela ao governo federal, para que dê apoio aos governos estaduais e municipais no combate ao mosquito da dengue.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

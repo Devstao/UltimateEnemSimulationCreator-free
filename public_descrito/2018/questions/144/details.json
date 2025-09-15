@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2018",
+    "index": 144,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um aeroporto, os passageiros devem submeter suas bagagens a uma das cinco máquinas de raio-X disponíveis ao adentrarem a sala de embarque. Num dado instante, o tempo gasto por essas máquinas para escanear a bagagem de cada passageiro e o número de pessoas presentes em cada fila estão apresentados em um painel, como mostrado na figura.\n\n![]([descrição: A imagem mostra uma tabela com cinco colunas, cada uma representando uma máquina numerada de 1 a 5. Cada coluna contém duas informações: o tempo de ciclo da máquina em segundos e o número de pessoas que ela processa. A Máquina 1 tem um tempo de ciclo de 35 segundos e processa 5 pessoas. A Máquina 2 leva 25 segundos e processa 6 pessoas. A Máquina 3 leva 22 segundos e processa 7 pessoas. A Máquina 4 leva 40 segundos e processa 4 pessoas. E a Máquina 5 leva 20 segundos e processa 8 pessoas.])",
+    "files": [
+        "A imagem mostra uma tabela com cinco colunas, cada uma representando uma máquina numerada de 1 a 5. Cada coluna contém duas informações: o tempo de ciclo da máquina em segundos e o número de pessoas que ela processa. A Máquina 1 tem um tempo de ciclo de 35 segundos e processa 5 pessoas. A Máquina 2 leva 25 segundos e processa 6 pessoas. A Máquina 3 leva 22 segundos e processa 7 pessoas. A Máquina 4 leva 40 segundos e processa 4 pessoas. E a Máquina 5 leva 20 segundos e processa 8 pessoas."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um passageiro, ao chegar à sala de embarque desse aeroporto no instante indicado, visando esperar o menor tempo possível, deverá se dirigir à máquina",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 159 - ENEM 2010",
+    "index": 159,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra duas fórmulas matemáticas lado a lado, dispostas em caixas retangulares brancas com bordas pretas. A primeira fórmula é para o Índice de Massa Corporal (IMC), expressa como massa (kg) dividida pelo quadrado da altura (m). A segunda fórmula é para o Relação Peso/Altura (RIP), expressa como a altura (cm) dividida pela raiz cúbica da massa (kg). Abaixo das fórmulas, há uma citação com os nomes de ARAUJO, C. G. S. e RICARDO, D. R., seguida do título 'Índice de Massa Corporal: Um Questionamento Científico Baseado em Evidências' e a fonte 'Arq. Bras. Cardiologia, volume 79, nº 1, 2002 (adaptado)'.])",
+    "files": [
+        "A imagem mostra duas fórmulas matemáticas lado a lado, dispostas em caixas retangulares brancas com bordas pretas. A primeira fórmula é para o Índice de Massa Corporal (IMC), expressa como massa (kg) dividida pelo quadrado da altura (m). A segunda fórmula é para o Relação Peso/Altura (RIP), expressa como a altura (cm) dividida pela raiz cúbica da massa (kg). Abaixo das fórmulas, há uma citação com os nomes de ARAUJO, C. G. S. e RICARDO, D. R., seguida do título 'Índice de Massa Corporal: Um Questionamento Científico Baseado em Evidências' e a fonte 'Arq. Bras. Cardiologia, volume 79, nº 1, 2002 (adaptado)'."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se uma menina, com 64 kg de massa, apresenta IMC igual a 25 kg/m2, então ela possui RIP igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,4 cm/kg1/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,5 cm/kg1/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8 cm/kg1/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20 cm/kg1/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40 cm/kg1/3.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

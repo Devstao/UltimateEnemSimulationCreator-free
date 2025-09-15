@@ -1,0 +1,45 @@
+{
+    "title": "Questão 23 - ENEM 2019",
+    "index": 23,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: A imagem mostra dois tênis brancos desgastados, lado a lado, sobre um chão de terra ou concreto. Os cadarços dos tênis estão soltos e amarrados de forma desajeitada. No canto superior direito da imagem, há texto em português com o título 'Vamos calçar os sapatos dos refugiados e dar o primeiro passo para entender sua situação'. Abaixo do texto, há um endereço web: www.ensuzsapato.org. Na parte inferior da imagem, há logotipos de organizações como UNHCR, Prefeitura de São Paulo, Metrô e Jesuitas. Uma legenda na parte inferior da imagem indica a fonte da imagem: www.acnur.org, acesso em 11 dez. 2018.])",
+    "files": [
+        "A imagem mostra dois tênis brancos desgastados, lado a lado, sobre um chão de terra ou concreto. Os cadarços dos tênis estão soltos e amarrados de forma desajeitada. No canto superior direito da imagem, há texto em português com o título 'Vamos calçar os sapatos dos refugiados e dar o primeiro passo para entender sua situação'. Abaixo do texto, há um endereço web: www.ensuzsapato.org. Na parte inferior da imagem, há logotipos de organizações como UNHCR, Prefeitura de São Paulo, Metrô e Jesuitas. Uma legenda na parte inferior da imagem indica a fonte da imagem: www.acnur.org, acesso em 11 dez. 2018."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse cartaz, o uso da imagem do calçado aliada ao texto verbal tem o objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criticar as difíceis condições de vida dos refugiados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Revelar a longa trajetória percorrida pelos refugiados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incentivar a campanha de doações para os refugiados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Denunciar a situação de carência vivida pelos refugiados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Simbolizar a necessidade de adesão à causa dos refugiados.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

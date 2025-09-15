@@ -1,0 +1,45 @@
+{
+    "title": "Questão 146 - ENEM 2012",
+    "index": 146,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma tabela com duas colunas, 'Urna 1' e 'Urna 2', e uma linha de cabeçalho 'Cor'. As linhas subsequentes listam as cores Amarela, Azul, Branca, Verde e Vermelha. A célula correspondente a 'Amarela' em 'Urna 1' contém o valor 4, enquanto em 'Urna 2' é 0. Para 'Azul', os valores são 3 e 1, respectivamente. Para 'Branca', os valores são 2 e 2. Para 'Verde', os valores são 1 e 3. Finalmente, para 'Vermelha', os valores são 0 e 4.])\n\nUma jogada consiste em:\n\n1º) o jogador apresenta um palpite sobre a cor da bola que será retirada por ele da urna 2;\n\n2º) ele retira, aleatoriamente, uma bola da urna 1 e a coloca na urna 2, misturando-a com as que lá estão;\n\n3º) em seguida ele retira, também aleatoriamente, uma bola da urna 2;\n\n4º) se a cor da última bola retirada for a mesma do palpite inicial, ele ganha o jogo.",
+    "files": [
+        "A imagem mostra uma tabela com duas colunas, 'Urna 1' e 'Urna 2', e uma linha de cabeçalho 'Cor'. As linhas subsequentes listam as cores Amarela, Azul, Branca, Verde e Vermelha. A célula correspondente a 'Amarela' em 'Urna 1' contém o valor 4, enquanto em 'Urna 2' é 0. Para 'Azul', os valores são 3 e 1, respectivamente. Para 'Branca', os valores são 2 e 2. Para 'Verde', os valores são 1 e 3. Finalmente, para 'Vermelha', os valores são 0 e 4."
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual cor deve ser escolhida pelo jogador para que ele tenha a maior probabilidade de ganhar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Branca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Verde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vermelha.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

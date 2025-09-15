@@ -1,0 +1,45 @@
+{
+    "title": "Questão 103 - ENEM 2012",
+    "index": 103,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![]([descrição: O desenho apresenta uma ilustração em preto e branco, estilo cartoon, representando pessoas amontoadas em uma rede. Uma placa ao lado da rede indica 'Rede Social'. Um dos personagens na rede fala: 'Rede social aqui em casa é outra coisa!'. A imagem sugere uma crítica ou ironia sobre a diferença entre o conceito de rede social online e as relações sociais no ambiente familiar.])\n\nDisponível em: www.ivancabral.com. Acesso em: 27 fev. 2012.",
+    "files": [
+        "O desenho apresenta uma ilustração em preto e branco, estilo cartoon, representando pessoas amontoadas em uma rede. Uma placa ao lado da rede indica 'Rede Social'. Um dos personagens na rede fala: 'Rede social aqui em casa é outra coisa!'. A imagem sugere uma crítica ou ironia sobre a diferença entre o conceito de rede social online e as relações sociais no ambiente familiar."
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O efeito de sentido da charge é provocado pela combinação de informações visuais e recursos linguísticos. No contexto da ilustração, a frase proferida recorre à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Polissemia, ou seja, aos múltiplos sentidos da expressão “rede social” para transmitir a ideia que pretende veicular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Ironia para conferir um novo significado ao termo “outra coisa”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Homonímia para opor, a partir do advérbio de lugar, o espaço da população pobre e o espaço da população rica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Personificação para opor o mundo real pobre ao mundo virtual rico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Antonímia para comparar a rede mundial de computadores com a rede caseira de descanso da família.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

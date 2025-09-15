@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2013",
+    "index": 178,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![]([descrição: A imagem mostra uma taça de vinho parcialmente cheia com líquido, vista de frente. A taça possui um corpo largo e arredondado na parte superior, que se estreita em direção ao topo do caule fino. O líquido preenche a parte inferior da taça, criando uma superfície curva. Dois pontos são marcados: 'A' na superfície do líquido e 'B' na base da taça. Linhas tracejadas conectam esses pontos à borda superior ('C') e à borda inferior ('D') da taça, indicando possíveis medidas ou referências.])",
+    "files": [
+        "A imagem mostra uma taça de vinho parcialmente cheia com líquido, vista de frente. A taça possui um corpo largo e arredondado na parte superior, que se estreita em direção ao topo do caule fino. O líquido preenche a parte inferior da taça, criando uma superfície curva. Dois pontos são marcados: 'A' na superfície do líquido e 'B' na base da taça. Linhas tracejadas conectam esses pontos à borda superior ('C') e à borda inferior ('D') da taça, indicando possíveis medidas ou referências."
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considere que AC = 7/5 BD e que l é a medida de um dos lados da base da bandeja.\nQual deve ser o menor valor da razão lBD para que uma bandeja tenha capacidade de portar exatamente quatro copos de uma só vez?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24/5",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "28/5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

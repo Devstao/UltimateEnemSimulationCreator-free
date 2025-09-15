@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2016",
+    "index": 85,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![]([descrição: A imagem mostra uma representação esquemática da estrutura de um tensioativo. No topo, há a fórmula estrutural do tensioativo, composta por uma longa cadeia hidrocarbonada (CH3 grupos) ligada a um grupo carboxílico (COO). Abaixo da fórmula, há uma representação gráfica simplificada que ilustra as moléculas do tensioativo se organizando em uma estrutura ordenada sobre a água. Uma seta aponta da fórmula estrutural para a representação esquemática. Há legendas indicando 'Fórmula estrutural do tensioativo' e 'Representação esquemática'. Na parte inferior, há um texto explicando que ao adicionar o tensioativo à água, suas moléculas formam um arranjo ordenado.])",
+    "files": [
+        "A imagem mostra uma representação esquemática da estrutura de um tensioativo. No topo, há a fórmula estrutural do tensioativo, composta por uma longa cadeia hidrocarbonada (CH3 grupos) ligada a um grupo carboxílico (COO). Abaixo da fórmula, há uma representação gráfica simplificada que ilustra as moléculas do tensioativo se organizando em uma estrutura ordenada sobre a água. Uma seta aponta da fórmula estrutural para a representação esquemática. Há legendas indicando 'Fórmula estrutural do tensioativo' e 'Representação esquemática'. Na parte inferior, há um texto explicando que ao adicionar o tensioativo à água, suas moléculas formam um arranjo ordenado."
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse arranjo é representado esquematicamente por:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/85/833fc836-0f12-40c2-9c58-7e388e19f961.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/85/36cd457b-9a51-46ad-b1d2-9d001cfea3fb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/85/b9f7a6b9-8121-4c65-b09e-4edd8cd7686e.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/85/734af3d9-bff8-4170-87d8-173ed2430611.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/85/1e609441-aae0-4ddc-b65f-a436905f8033.png",
+            "isCorrect": false
+        }
+    ]
+}

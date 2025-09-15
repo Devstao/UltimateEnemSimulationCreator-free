@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2019",
+    "index": 143,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os exercícios físicos são recomendados para o bom funcionamento do organismo, pois aceleram o metabolismo e, em consequência, elevam o consumo de calorias. No gráfico, estão registrados os valores calóricos, em kcal, gastos em cinco diferentes atividades físicas, em função do tempo dedicado às atividades, contado em minuto.\n\n![]([descrição: O gráfico mostra uma relação entre tempo (em minutos) e calorias (kcal). O eixo x representa o tempo, variando de 5 a 30 minutos, com incrementos de 5 minutos. O eixo y representa as calorias, variando de 0 a 140 kcal, com incrementos de 20 kcal. Cinco pontos estão plotados no gráfico e identificados como I, II, III, IV e V. O ponto I está localizado em aproximadamente (10, 20), o ponto II em aproximadamente (15, 110), o ponto III em aproximadamente (20, 130), o ponto IV em aproximadamente (25, 100) e o ponto V em aproximadamente (30, 80). O gráfico é delimitado por linhas de grade horizontais e verticais.])",
+    "files": [
+        "O gráfico mostra uma relação entre tempo (em minutos) e calorias (kcal). O eixo x representa o tempo, variando de 5 a 30 minutos, com incrementos de 5 minutos. O eixo y representa as calorias, variando de 0 a 140 kcal, com incrementos de 20 kcal. Cinco pontos estão plotados no gráfico e identificados como I, II, III, IV e V. O ponto I está localizado em aproximadamente (10, 20), o ponto II em aproximadamente (15, 110), o ponto III em aproximadamente (20, 130), o ponto IV em aproximadamente (25, 100) e o ponto V em aproximadamente (30, 80). O gráfico é delimitado por linhas de grade horizontais e verticais."
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual dessas atividades físicas proporciona o maior consumo de quilocalorias por minuto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
