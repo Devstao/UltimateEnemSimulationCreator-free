@@ -16,7 +16,7 @@ const OUTPUT_DIR = path.join(process.cwd(), "output");
 
 // Função para apagar arquivos com mais de 30 minutos
 function cleanOldFiles() {
-  const files = fs.readdirSync(OUTPUT_DIR);
+  const files = fs.existsSync(OUTPUT_DIR) ? fs.readdirSync(OUTPUT_DIR) : [];
 
   files.forEach((file) => {
     const filePath = path.join(OUTPUT_DIR, file);

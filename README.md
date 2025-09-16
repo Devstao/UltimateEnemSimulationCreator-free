@@ -1,13 +1,13 @@
 # ENEM Simulado – Backend Express + UI (OpenRouter + Embeddings leves)
 
-Plataforma completa para gerar simulados no estilo **ENEM**, com opção de **baixar PDF** ou realizar o **simulado interativo online**. Utiliza **OpenRouter** para geração de questões e **embeddings locais leves** com `@xenova/transformers` para contextualização (RAG simples).
+Plataforma completa para gerar simulados no estilo **ENEM**, com opção de **baixar PDF** ou realizar o **simulado interativo online**. Utiliza **OpenRouter** para geração de questões e **embeddings locais leves** com `@xenova/transformers` ou `text-embedding-qwen3-embedding-8b` para contextualização (RAG simples).
 
 ---
 
 ## 🚀 Funcionalidades
 
-* Integração com **OpenRouter** (chave e modelo configuráveis pela UI).
-* **Embeddings locais e leves** com `all-MiniLM-L6-v2` (roda em CPU comum, sem GPU).
+* Integração com **LM STUDIO**.
+* **Embeddings locais** com `all-MiniLM-L6-v2` (roda em GPU).
 * Geração de **PDF em duas colunas** com gabarito final.
 * Modo **Simulado online** com respostas interativas e resultado.
 * **Progresso em tempo real** via SSE (mostra geração das questões passo a passo).
